@@ -1,0 +1,363 @@
+This is the official list of people who can contribute
+(and typically have contributed) code to the TiDB/TiKV/TiSpark/PD/Docs/Docs-cn repository.
+
+## TiDB Contributors 
+
+-	Ewan Chou 	coocood@gmail.com
+-	siddontang 	siddontang@gmail.com
+-	shenli 	shenli3514@gmail.com
+-	disksing 	i@disksing.com
+-	tiancaiamao 	tiancaiamao@gmail.com
+-	dongxu 	i@huangdx.net
+-	HuaiyuXu 	391585975@qq.com
+-	cuiqiu 	cuiqiu.bupt@gmail.com
+-	赵星宇	zhaoxingyu19920404@gmail.com
+-	zimuxia 	zimu_xia@126.com
+-	Huachao Huang 	huachao.huang@gmail.com
+-	Yiding Cui 	winoros@gmail.com
+-	Yanzhe Chen 	yanzhe.cn@gmail.com
+-	zyguan 	zhongyangguan@gmail.com
+-	Shirly 	AndreMouche@126.com
+-	Haibin Xie 	lambdax.tyler@gmail.com
+-	iamxy 	kenneth.liu.xy@gmail.com
+-	Jan Mercl 	0xjnml@gmail.com
+-	Du Chuan 	duchuangucas@live.com
+-	morefreeze 	morefreeze@gmail.com
+-	ZhiFeng Hu 	hufeng1987@gmail.com
+-	Dylan Wen 	hhkbp2@gmail.com
+-	sllt 	shenlongml@gmail.com
+-	Wenbin Xiao 	xwb1989@gmail.com
+-	Unknwon 	u@gogs.io
+-	ShuYu Wang 	andelf@gmail.com
+-	louishust 	hdchild@163.com
+-	insion 	insion@live.com
+-	Ray	idlesummerbreeze@gmail.com
+-	zhangjinpeng1987 	zhangjinpeng@pingcap.com
+-	qupeng 	onlyqupeng@gmail.com
+-	nolouch 	nolouch@gmail.com
+-	astaxie 	asta_xie@apple.com
+-	Soup 	maxiaoyu@pingcap.com
+-	Rick Yu 	cosmtrek@gmail.com
+-	Jason W 	silentred@163.com
+-	Ce Gao 	ce.gao@outlook.com
+-	qhsong 	qhsong@users.noreply.github.com
+-	fud 	fud@yunduo.com
+-	coldwater 	zhangcoldwater@163.com
+-	Zhe-xuan Yang 	zhexuany@users.noreply.github.com
+-	ZHAO Yijun	recursion@null.net
+-	Steffen 	steffen.butzer@outlook.com
+-	Michael Belenchenko 	mvbelench@gmail.com
+-	David Chen 	chendahui007@gmail.com
+-	王维真 	hawking.rei@gmail.com
+-	woodpenker 	woodpenker@163.com
+-	silenceper 	silenceper@gmail.com
+-	shady 	ArGregoryIan@gmail.com
+-	ngaut 	goroutine@126.com
+-	netroby 	netroby@users.noreply.github.com
+-	lkk2003rty 	superzhaob@gmail.com
+-	knarfeh 	hejun1874@163.com
+-	fudali 	fudali113@gmail.com
+-	cuiyuan 	cuiyuan@users.noreply.github.com
+-	alston111111 	alston111111@gmail.com
+-	Zejun Li 	me@zejun.li
+-	Yim 	yiyan.lu@me.com
+-	TianGuangyu 	tgy.china@outlook.com
+-	Qiannan 	lvqiannan@gmail.com
+-	Nicole Nie 	nieyuanyuan@huawei.com
+-	Hu Ziming 	hzmangel@users.noreply.github.com
+-	Hiroaki Nakamura 	hnakamur@users.noreply.github.com
+-	Bin Liu 	liubin@users.noreply.github.com
+-	Arthur Yang 	arthuryangcs@users.noreply.github.com
+-	仇柯人 	qiuker521@163.com
+-	zs634134578 	zhousu_95@163.com
+-	weekface 	weekface@gmail.com
+-	v01dstar 	me@yangzhang.me
+-	ueizhou 	ueizhou@gmail.com
+-	tennix 	tennix@users.noreply.github.com
+-	queenypingcap 	jinkun@pingcap.com
+-	overvenus 	overvenus@gmail.com
+-	maxwell 	710028463@qq.com
+-	maiyang 	yangwen.yw@gmail.com
+-	luckcolors 	luckcolorsgoo@gmail.com
+-	lijian 	jianli.li@huawei.com
+-	li 	li@localhost.localdomain
+-	jinhelin 	linjinhe33@gmail.com
+-	jacky liu 	liugang8440265@163.com
+-	hiwjd 	hiwjd0@gmail.com
+-	hanfei1991 	hanfei19910905@gmail.com
+-	Huxley Hu	framlog@users.noreply.github.com
+-	dawxy 	97687341@qq.com
+-	Zhoubirdblue 	820486124@qq.com
+-	Zhang Yuning 	codeworm96@outlook.com
+-	Yuwen Shen 	xxssww3013@gmail.com
+-	Xuanwo 	xuanwo.cn@gmail.com
+-	Xuanjia Yang 	yangxuanjia@jd.com
+-	WangXiangUSTC 	xiang13225080@163.com
+-	Van 	bom.d.van@gmail.com
+-	Tristan Su 	sooqing@gmail.com
+-	Tao Meng 	mtunique@users.noreply.github.com
+-	Simon Xia 	simonxiaOMG@gmail.com
+-	Sheng Tang 	ts25504@163.com
+-	MQ 	603730347@qq.com
+-	Liu Shaohui 	liushaohui@xiaomi.com
+-	Liqueur Librazy 	im@librazy.org
+-	Light 	aliasliyu4@gmail.com
+-	Kuiba 	xiandaowushuang@126.com
+-	Karl Ostendorf 	karl@ostendorf.com
+-	Jie Zhou 	zhoujie338@126.com
+-	Jay 	busyjaylee@gmail.com
+-	Ivan.Yang 	mrmiywj@users.noreply.github.com
+-	Gogs 	gogs@fake.local
+-	Eric Romano 	gelstudios@gmail.com
+-	Di Tang 	tangdi.bupt@gmail.com
+-	Deshi Xiao 	xiaods@users.noreply.github.com
+-	Cole R Lawrence 	msgzht@gmail.com
+-	Chu Chao 	chuchao333@gmail.com
+-	Blame cosmos 	kiroinn@yandex.ru
+-	Bai, Yang 	hamo.by@gmail.com
+-	Akihiro Suda 	suda.akihiro@lab.ntt.co.jp
+-	8cbx 	8cbx@users.noreply.github.com
+-	Guilherme Hübner Franco	guilherme_hubner@msn.com
+-	liyanan	liyananfamily@gmail.com
+-	dreamquster	dreamquster@163.com
+-	Fred Wang	iamsempr@gmail.com
+-	Changjian Zhang	mljzcj@gmail.com
+-	zz-jason	zjsariel@gmail.com
+-	Jack Yu	yusp@pingcap.com
+-	Dragon	jack.xsuperman@gmail.com
+-	mo2zie	stdupp@gmail.com
+-	dcadevil	dcadevil@126.com
+-	Sphinx	wu.sphinx@gmail.com
+-	Cholerae Hu	huyingqian@pingcap.com
+-	youyouhu	hym_henu@163.com
+-	mengshangqi	sa517255@mail.ustc.edu.cn
+-	winkyao	golangwink@gmail.com
+-	Wei Fu	fhfuwei@163.com
+-	Liao Qiang	liao102191@163.com
+-	Jiaxing Liang	liangjiaxing57@gmail.com
+-	Hu Ming	humings@gmail.com
+-	Rain Li	blacktear23@gmail.com
+-	mxlxm	minzilu@me.com
+-	bailaohe	bailaohe@gmail.com
+-	David Ding	chengjie.ding@gmail.com
+-	xiaojian cai	mc02cxj@gmail.com
+-	Fiisio	liangcszzu@163.com
+-	zhouningnan	zhouningnan@gmail.com
+-	FuXiaoHei	fuxiaohei@vip.qq.com
+-	wangyisong1996	wangyisong1996@126.com
+-	Ziyi Yan	cxfyzy@gmail.com
+-	Davor Kapsa	davor.kapsa@gmail.com
+-	Jun-Seok Heo	jun.seok.heo@samsung.com
+-	Darren Hoo	darren.hoo@gmail.com
+-	YugandhaD	yugandha@us.ibm.com
+-	wudi	wudi429@gmail.com
+-	liubo	iubo0127@qq.com
+-	ZhengQian	jeff.zhengdaqian@gmail.com
+-	万波zhengwanbo	zhengwanbo@sina.com
+-	Gin	tshqin@gmail.com
+-	Zheng Dayu	davidzheng23@gmail.com
+-	Johnny Bergström	github@joonix.se
+
+## TiKV Contributors
+
+-	siddontang 	siddontang@gmail.com
+-	disksing 	i@disksing.com
+-	Jay Lee 	busyjaylee@gmail.com
+-	ngaut 	ngaut@126.com
+-	zhangjinpeng1987 	zhangjinpeng@pingcap.com
+-	morefreeze 	morefreeze@gmail.com
+-	Huachao Huang 	huachao.huang@gmail.com
+-	Shirly 	AndreMouche@126.com
+-	queenypingcap 	jinkun@pingcap.com
+-	dongxu 	i@huangdx.net
+-	Li Shihai 	oceanboshillee@gmail.com
+-	overvenus 	overvenus@gmail.com
+-	iamxy 	kenneth.liu.xy@gmail.com
+-	Ivan.Yang 	mrmiywj@users.noreply.github.com
+-	wuxuelian 	wuxuelian@trthi.com
+-	ShuYu Wang 	andelf@gmail.com
+-	cuiqiu 	cuiqiu.bupt@gmail.com
+-	tiancaiamao 	tiancaiamao@gmail.com
+-	Shuai Li	lishuaihenu@gmail.com
+-	Dylan Wen 	hhkbp2@gmail.com
+-	tennix 	tennix@users.noreply.github.com
+-	Xiang Li 	xiangli.cs@gmail.com
+-	ShuNing 	nolouch@gmail.com
+-	Ewan Chou 	coocood@gmail.com
+-	wegel 	simon@wegel.ca
+-	shenli 	shenli3514@gmail.com
+-	Yann Autissier 	aya@users.noreply.github.com
+-	PaladinTyrion 	paladintyrion@gmail.com
+-	Liqueur Librazy 	im@librazy.org
+-	Jonathan Boulle 	jonathanboulle@gmail.com
+-	Guanqun Lu 	guanqun.lu@gmail.com
+-	Dagang 	weidagang@gmail.com
+-	Andy Librian 	andylibrian@gmail.com
+-	follitude	follitude2017@gmail.com
+-	qupeng	onlyqupeng@gmail.com
+-	Han Fei	hanfei19910905@gmail.com
+-	Akihiro Suda 	suda.akihiro@lab.ntt.co.jp
+-	bailaohe	bailaohe@gmail.com
+-	ZHAO Yijun	recursion@null.net
+-	Cwen	wenyin0@gmail.com
+-	Rick Yu 	cosmtrek@gmail.com
+-	Cholerae Hu	huyingqian@pingcap.com
+-	UncP	uncp.xu@gmail.com
+-	Priya Seth	sethp@us.ibm.com
+-	odeits	odeits@gmail.com
+-	xiaojian cai	mc02cxj@gmail.com
+-	zhouningnan	zhouningnan@gmail.com
+-	Dragon	jack.xsuperman@gmail.com
+-	Haibin Xie	lambdax.tyler@gmail.com
+-	SSHz	rzsh2003@gmail.com
+
+## TiSpark Contributors
+
+-	soup	ilovesoup@gmail.com
+-	yang zhexuan	zhexuany@gmail.com
+-	Cheng Lian	rhythm.mail@gmail.com
+-	paulg	cove9988@gmail.com
+-	ranxiaolong	rxl5555555@qq.com
+-	Novemser	novemser@gmail.com
+-	birdstorm	samuelwyf@hotmail.com
+-	Ray	rayeren613@gmail.com
+
+## PD Contributors
+
+-	v01dstar	me@yangzhang.me
+-	Cholerae Hu	huyingqian@pingcap.com
+-	David Ding	chengjie.ding@gmail.com
+-	Ewan Chou	coocood@gmail.com
+-	Huachao Huang	huachao.huang@gmail.com
+-	Neil Shen	overvenus@gmail.com
+-	Shen Li	shenli3514@gmail.com
+-	ShuNing	nolouch@gmail.com
+-	ShuYu Wang	andelf@gmail.com
+-	disksing	i@disksing.com
+-	dongxu	huang@pingcap.com
+-	goroutine	ngaut@users.noreply.github.com
+-	iamxy	kenneth.liu.xy@gmail.com
+-	qiuyesuifeng	cuiqiu.bupt@gmail.com
+-	shady	ArGregoryIan@gmail.com
+-	siddontang	siddontang@gmail.com
+-	tennix	ztennix@gmail.com
+-	tiancaiamao	tiancaiamao@gmail.com
+-	zhangjinpeng1987	zhangjinpeng@pingcap.com
+-	zimulala	zimu_xia@126.com
+-	Akihiro Suda	suda.kyoto@gmail.com
+-	Liqueur Librazy	im@librazy.org
+-	Zhou Tao	joseph.zhoutao@huawei.com
+-	aliyx	13371170@qq.com
+-	ngaut	ngaut@126.com
+-	Rain Li	blacktear23@gmail.com
+-	万波zhengwanbo	zhengwanbo@sina.com
+-	wudi	wudi429@gmail.com
+-	Connor	zbk602423539@gmail.com
+-	OuYang Jin	oyjmical@mail.ustc.edu.cn
+-	Fiisio	liangcszzu@163.com
+-	Davor Kapsa	davor.kapsa@gmail.com
+-	Hu Ming	humings@gmail.com
+
+## Docs Contributors
+
+-	Wenxuan Shi	hi@breeswish.org
+-	ZhengQian	buggithubs@users.noreply.github.com
+-	Jay	BusyJay@users.noreply.github.com
+-	dongxu	i@huangdx.net
+-	Cholerae Hu	huyingqian@pingcap.com
+-	disksing	i@disksing.com
+-	gaoyangxiaozhu	1456543560@qq.com
+-	Ian	ArGregoryIan@gmail.com
+-	Han Fei	hanfei19910905@gmail.com
+-	David Chen	chendahui007@gmail.com
+-	Huachao Huang	huachao.huang@gmail.com
+-	iamxy	kenneth.liu.xy@gmail.com
+-	Shuai Li	lishuaihenu@gmail.com
+-	leixuechun	xuechunlei922@gmail.com
+-	Lilian Lee	lilin@pingcap.com
+-	Louis	gofaceme@gmail.com
+-	goroutine	ngaut@users.noreply.github.com
+-	ShuNing	nolouch@gmail.com
+-	Neil Shen	overvenus@gmail.com
+-	cuiqiu	cuiqiu.bupt@gmail.com
+-	Queeny	jinkun@pingcap.com
+-	Shen Li	shenli3514@gmail.com
+-	siddontang	siddontang@gmail.com
+-	tennix	tennix@users.noreply.github.com
+-	tiancaiamao	tiancaiamao@gmail.com
+-	Wenting Li	liwenting@pingcap.com
+-	ranxiaolong	rxl5555555@qq.com
+-	HuaiyuXu	391585975@qq.com
+-	Lynn	zimu_xia@126.com
+-	Jian Zhang	zjsariel@gmail.com
+-	Rain Li	blacktear23@gmail.com
+-	Carlos Ferreira	c.ferreira@acsiiweb.com
+-	louishust	hdchild@163.com
+-	Hongyuan Wang	henrywangwhy@gmail.com
+-	Simon J Mudd	sjmudd@users.noreply.github.com
+-	Shuai Li	lishuaihenu@gmail.com
+-	aliyx	13371170@qq.com
+-	birdstorm	samuelwyf@hotmail.com
+-	ouyangjin	oyjmical@mail.ustc.edu.cn
+
+## Docs-cn Contributors
+
+-	gaoyangxiaozhu	1456543560@qq.com
+-	Wenting Li	liwenting@pingcap.com
+-	andelf	andelf@gmail.com
+-	Cholerae Hu	huyingqian@pingcap.com
+-	cuiqiu	cuiqiu.bupt@gmail.com
+-	David Chen	chendahui007@gmail.com
+-	disksing	i@disksing.com
+-	dongxu	i@huangdx.net
+-	Ewan Chou	coocood@gmail.com
+-	goroutine	ngaut@users.noreply.github.com
+-	Haibin Xie	xiehaibin@pingcap.com
+-	Han Fei	hanfei19910905@gmail.com
+-	Huachao Huang	huachao.huang@gmail.com
+-	HuaiyuXu	391585975@qq.com
+-	iamxy	kenneth.liu.xy@gmail.com
+-	Ian	ArGregoryIan@gmail.com
+-	Jack Yu	yusp@pingcap.com
+-	Jian Zhang	zjsariel@gmail.com
+-	leixuechun	xuechunlei922@gmail.com
+-	Lilian Lee	lilin@pingcap.com
+-	Liu Cong	innerr@gmail.com
+-	liubo0127	liubo0127@qq.com
+-	Louis	gofaceme@gmail.com
+-	Neil Shen	overvenus@gmail.com
+-	queenypingcap	jinkun@pingcap.com
+-	qupeng	onlyqupeng@gmail.com
+-	Shen Li	shenli3514@gmail.com
+-	Shuai Li	lishuaihenu@gmail.com
+-	ShuNing	nolouch@gmail.com
+-	siddontang	siddontang@gmail.com
+-	sunhao2017	sunhao@pingcap.com
+-	tiancaiamao	tiancaiamao@gmail.com
+-	weekface	weekface@gmail.com
+-	Wenxuan Shi	hi@breeswish.org
+-	winkyao	golangwink@gmail.com
+-	XuHuaiyu	391585975@qq.com
+-	Yang Zhexuan	zhexuany@users.noreply.github.com
+-	Yiding Cui	winoros@gmail.com
+-	zhangjinpeng1987	zhangjinpeng@pingcap.com
+-	ZhengQianFang	buggithubs@users.noreply.github.com
+-	zhengwanbo	zhengwanbo@sina.com
+-	zimulala	zimu_xia@126.com
+-	Bin Liu	liubin@users.noreply.github.com
+-	Breezewish	me@breeswish.org
+-	eBoyy	eBoyy@users.noreply.github.com
+-	Shuai Li	lishuaihenu@gmail.com
+-	Gregory Ian	ArGregoryIan@gmail.com
+-	Hongyuan Wang	710136012@qq.com
+-	iroi44	mengjie_yu@hotmail.com
+-	Jianfei Wang	me@thinxer.com
+-	qgxiaozhan	qgweizhan@gmail.com
+-	skimmilk6877	452652018@qq.com
+-	sumBug	sxian.wang@gmail.com
+-	Tao Zhou	joseph.zhoutao@huawei.com
+-	Yu Jun	30997633+hashbone@users.noreply.github.com
+-	Zejun Li	me@zejun.li
+-	Zhiyuan Zheng	zhzy0077@hotmail.com
+-	王妍军	wangyanjunping@126.com
+-	birdstorm	samuelwyf@hotmail.com
