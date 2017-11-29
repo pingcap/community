@@ -259,6 +259,7 @@ This is the official list of people who can contribute
 -	Fiisio	liangcszzu@163.com
 -	Davor Kapsa	davor.kapsa@gmail.com
 -	Hu Ming	humings@gmail.com
+-	Liang SHANG	LiangShang@users.noreply.github.com
 
 ## Docs Contributors
 
