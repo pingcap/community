@@ -1,3 +1,5 @@
+![logo-contributors](https://user-images.githubusercontent.com/6755791/33357425-ff286f3a-d4fc-11e7-9ae8-b266e73f4aca.jpg)
+
 This is the official list of people who can contribute
 (and typically have contributed) code to the TiDB/TiKV/TiSpark/PD/Docs/Docs-cn repository.
 
