@@ -159,6 +159,11 @@ This is the official list of people who can contribute
 -	Gin	tshqin@gmail.com
 -	Zheng Dayu	davidzheng23@gmail.com
 -	Johnny Bergström	github@joonix.se
+- Eileen Teng	lykosteng@gmail.com
+- silentsai	cenqichao@gmail.com
+- denofiend	denofiend@gmail.com
+- Evgeniy Kulikov	im-kulikov@users.noreply.github.com
+- Connor	zbk602423539@gmail.com
 
 ## TiKV Contributors
 
@@ -212,6 +217,7 @@ This is the official list of people who can contribute
 -	Dragon	jack.xsuperman@gmail.com
 -	Haibin Xie	lambdax.tyler@gmail.com
 -	SSHz	rzsh2003@gmail.com
+- Wenxuan Shi	me@breeswish.org
 
 ## TiSpark Contributors
 
@@ -302,6 +308,7 @@ This is the official list of people who can contribute
 -	aliyx	13371170@qq.com
 -	birdstorm	samuelwyf@hotmail.com
 -	ouyangjin	oyjmical@mail.ustc.edu.cn
+- Du Chuan 	duchuangucas@live.com
 
 ## Docs-cn Contributors
 
@@ -364,3 +371,4 @@ This is the official list of people who can contribute
 -	Zhiyuan Zheng	zhzy0077@hotmail.com
 -	王妍军	wangyanjunping@126.com
 -	birdstorm	samuelwyf@hotmail.com
+- Guangkuo Bian	limitless083@users.noreply.github.com
