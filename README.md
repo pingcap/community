@@ -19,8 +19,8 @@ You can reach out to the community members via any one of the following ways:
 # How Can I Help?
 
 - Try [TiDB](https://github.com/pingcap/tidb)! If you like it, star, share, and recommend it. 
-- To dig deeper, read a design doc, e.g. [architecture](https://www.pingcap.com/blog/2017-05-23-perconalive17), [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb)
-- Documentation can always use improvement!
+- To dig deeper, read our design doc, e.g. [architecture](https://www.pingcap.com/blog/2017-05-23-perconalive17), [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb)
+- Documentation is always welcomed!
 - There's always code that can be clarified and variables or functions that can be renamed or commented.
 - There's always a need for more test coverage.
 - Give a speech in your company/meetup/conference etc. 
