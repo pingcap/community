@@ -10,16 +10,16 @@ Love you all.
 
 You can reach out to the community members via any one of the following ways: 
 
-+ Google Groups：[https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
++ Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
 
-+ Stackoverflow：[https://stackoverflow.com/questions/tagged/tidb](https://stackoverflow.com/questions/tagged/tidb)
++ Stack Overflow: [https://stackoverflow.com/questions/tagged/tidb](https://stackoverflow.com/questions/tagged/tidb)
 
 + Twitter: [https://twitter.com/PingCAP](https://twitter.com/PingCAP)
 
 + Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
 
 
-+ Reddit：[https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
++ Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
 
 ## How Can I Help?
 
@@ -27,7 +27,7 @@ You can reach out to the community members via any one of the following ways:
 
 + To dig deeper, read a design doc, e.g. [architecture](https://www.pingcap.com/blog/2017-05-23-perconalive17/), [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
 
-+ Documentation can always use improvement!
++ Start with improving the documentation.
 
 + There's always code that can be clarified and variables or functions that can be renamed or commented.
 
@@ -55,7 +55,7 @@ Links in [https://pingcap.com/docs](https://pingcap.com/docs) lead to many relev
 
 You can start by finding an existing issue with the [help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) label. These issues are well suited for new contributors. 
 
-If a PR (Pull Request) is submitted to the [TiDB/TiKV/TiSpark/PD/Docs/Docs-cn](https://github.com/pingcap) projects by you is approved and merged, then you become a TiDB Contributor. 
+If a PR (Pull Request) submitted to the [TiDB/TiKV/TiSpark/PD/Docs/Docs-cn](https://github.com/pingcap) projects by you is approved and merged, then you become a TiDB Contributor. 
 
 Before submitting a pull request, sign the [CLA](https://cla-assistant.io/pingcap/tidb?pullRequest=5567).
 
@@ -74,11 +74,11 @@ Once you become a TiDB contributor, check your name here: [https://github.com/pi
 
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) for details on submitting patches and the contribution workflow.
 
-## How do I Become a Committer?
+## How Do I Become a Committer?
 
 First of all you need to get involved and be a Contributor.
 
-Once you're contributing and your work is good, one of our Maintainer or PMC member may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
+Once you're contributing and your work is good, one of our Maintainers or PMC members may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
 
 Note that becoming a committer is not just about submitting some patches; it‘s also about helping out on the development and user [Discussion Forums](https://groups.google.com/forum/#!forum/tidb-user), helping with documentation and the issues.
 
@@ -88,7 +88,7 @@ See [Become a Committer.md](https://github.com/pingcap/community/blob/master/bec
 
 ### TiDB Blog
 
-The TiDB Blog is a great resource to find content! We post the latest TiDB news including new releases and technical articles there. Check out this page: [https://pingcap.com/blog](https://pingcap.com/blog)
+The TiDB Blog is a great resource pool to find content! We post the latest TiDB news including new releases and technical articles there. Check out this page: [https://pingcap.com/blog](https://pingcap.com/blog)
 
 ### TiDB Weekly
 
@@ -98,7 +98,7 @@ Read the TiDB Weekly archives to catch up on all of the latest TiDB updates and 
 
 ### Slideshare
 
-Another great resource for finding content! TiDB’s Slideshare account has slide decks from TiDB presentations - you’re welcome to use and/or modify these slides when presenting to your own meetup group.
+Another great resource for finding content! TiDB’s Slideshare account has slide decks from TiDB presentations -- you’re welcome to use and/or modify these slides when presenting to your own meetup group.
 
 ### Tutorial Content
 
@@ -109,7 +109,7 @@ TiDB Community is under the Apache 2.0 license. See the [LICENSE.md](https://git
 
 ## Acknowledge
 
-The [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages give us lots of good ideas about how to buide a community. Thank you!
+The [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages give us lots of good ideas about how to buid a community. Thank you!
 
 
 
