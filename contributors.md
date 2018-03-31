@@ -159,6 +159,15 @@ This is the official list of people who can contribute
 -	Gin	tshqin@gmail.com
 -	Zheng Dayu	davidzheng23@gmail.com
 -	Johnny Bergström	github@joonix.se
+-	Eileen Teng	lykosteng@gmail.com
+-	silentsai	cenqichao@gmail.com
+-	denofiend	denofiend@gmail.com
+-	Evgeniy Kulikov	im-kulikov@users.noreply.github.com
+-	Connor	zbk602423539@gmail.com
+-	flipped	823188494@qq.com
+-	datahoecn	datahoe@163.com
+-	Cruth kvinc	oiooj@qq.com
+-	Boik	boik@tdohacker.org
 
 ## TiKV Contributors
 
@@ -212,6 +221,12 @@ This is the official list of people who can contribute
 -	Dragon	jack.xsuperman@gmail.com
 -	Haibin Xie	lambdax.tyler@gmail.com
 -	SSHz	rzsh2003@gmail.com
+-	Wenxuan Shi	me@breeswish.org
+-	wentaoxu	wtao.xu@gmail.com
+-	Jiahao Huang	july2993@gmail.com
+-	Andrew Hobden	andrew@hoverbear.org
+-	Rain Li	blacktear23@gmail.com
+-	Du Chuan 	duchuangucas@live.com
 
 ## TiSpark Contributors
 
@@ -260,6 +275,11 @@ This is the official list of people who can contribute
 -	Davor Kapsa	davor.kapsa@gmail.com
 -	Hu Ming	humings@gmail.com
 -	Liang SHANG	LiangShang@users.noreply.github.com
+-	David Chen	chendahui007@gmail.com
+-	weekface 	weekface@gmail.com
+-	zhexuany	zhexuany@users.noreply.github.com
+-	maiyang 	yangwen.yw@gmail.com
+-	jomenxiao	jomenxiao@gmail.com
 
 ## Docs Contributors
 
@@ -302,6 +322,7 @@ This is the official list of people who can contribute
 -	aliyx	13371170@qq.com
 -	birdstorm	samuelwyf@hotmail.com
 -	ouyangjin	oyjmical@mail.ustc.edu.cn
+-	Du Chuan 	duchuangucas@live.com
 
 ## Docs-cn Contributors
 
@@ -364,3 +385,12 @@ This is the official list of people who can contribute
 -	Zhiyuan Zheng	zhzy0077@hotmail.com
 -	王妍军	wangyanjunping@126.com
 -	birdstorm	samuelwyf@hotmail.com
+-	Guangkuo Bian	limitless083@users.noreply.github.com
+-	yyf965	yyf965@users.noreply.github.com
+-	Connor	zbk602423539@gmail.com
+-	tennix 	tennix@users.noreply.github.com
+-	WangXiangUSTC	xiang13225080@163.com
+-	dbaoutdo	dbaoutdo@users.noreply.github.com
+-	yanyanqing	yanyanqing@users.noreply.github.com
+-	lhyPingcap	lhyPingcap@users.noreply.github.com
+-	Caitin	CaitinChen@users.noreply.github.com
