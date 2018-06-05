@@ -48,7 +48,7 @@ Please follow the following style for **all your commits**:
 - For other lines, use no more than 80 characters.
 - If the change affects two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
 - If the changes affects three or more subsystems, you can use `*` instead, like `*:`.
-- If there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
+- For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
 
 ### Habits for a good commit message
 
