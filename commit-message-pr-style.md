@@ -123,4 +123,6 @@ If there is document change, please file a PR in ([docs](https://github.com/ping
 ## Add a few positive/negative examples (optional)
 ```
 
+For short and obvious Pull Requests, you can omit some of the above information.
+
 Thanks for your contribution！
