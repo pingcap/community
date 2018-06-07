@@ -19,7 +19,7 @@ Elements of a good commit message:
 
     It can be fixing a specific bug, adding a feature, improving performance, reliability and stability, or just be a change for the sake of correctness.
 
-2. **Why this change was made? (optional)**
+2. **Why this change was made? (mandatory)**
 
     For short and obvious patches, this part can be omitted, but it should be a clear description of what the approach was.
 
