@@ -271,8 +271,8 @@ Please follow this style to make TiDB easy to review, maintain and develop.
 - For the first subject line, use no more than 70 characters.
 - For the second line, always leave it blank.
 - For other lines, use no more than 80 characters.
-- If the change affects two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
-- If the changes affects three or more subsystems, you can use `*` instead, like `*:`.
+- If the changes affect two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
+- If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
 - For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
 
 For more information about how to write a good commit message and a good Pull Request title and description, see [Commit Message and Pull Request Style](commit-message-pr-style.md).

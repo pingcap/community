@@ -46,8 +46,8 @@ Please follow the following style for **all your commits**:
 - For the first subject line, use no more than 70 characters.
 - For the second line, always leave it blank.
 - For other lines, use no more than 80 characters.
-- If the change affects two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
-- If the changes affects three or more subsystems, you can use `*` instead, like `*:`.
+- If the changes affect two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
+- If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
 - For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
 
 ### Habits for a good commit message
@@ -55,19 +55,19 @@ Please follow the following style for **all your commits**:
 - Summarize your change
 - Describe clearly one logical change and avoid lazy messages as `misc fixes`
 - Describe any limitations of the current code
-- Do not end the subject with a period “.”
+- Do not end the subject with a period "."
 - Do not assume the code is self-evident
 - Do not assume reviewers understand the original issue
 
 ### Language for a good commit message
 
 - Use the imperative mood for the first subject line
-- Use simple verb tenses (eg. use “add” not “added”)
+- Use simple verb tenses (eg. use "add" not "added")
 - Use correct and standard grammar
 - Use words and expressions consistently
 - Use relatively short sentences
 - Do not use lengthy compound words
-- Do not abbreviate unless it’s absolutely necessary
+- Do not abbreviate unless it's absolutely necessary
 
 ## Pull Request title style
 
