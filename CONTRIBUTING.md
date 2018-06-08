@@ -268,21 +268,17 @@ Please follow this style to make TiDB easy to review, maintain and develop.
 <footer>(optional)
 ```
 
-The first line is the subject and should be no longer than 70 characters, the
-second line is always blank, and other lines should be wrapped at 80 characters.
-This allows the message to be easier to read on GitHub as well as in various
-git tools.
+- For the first subject line, use no more than 70 characters.
+- For the second line, always leave it blank.
+- For other lines, use no more than 80 characters.
+- If the changes affect two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
+- If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
+- For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
 
-If the change affects more than one subsystem, you can use comma to separate them like `util/codec,util/types:`.
+For more information about how to write a good commit message and a good Pull Request title and description, see [Commit Message and Pull Request Style](commit-message-pr-style.md).
 
-If the change affects many subsystems, you can use ```*``` instead, like ```*:```.
-
-For the why part, if no specific reason for the change,
-you can use one of some generic reasons like "Improve documentation.",
-"Improve performance.", "Improve robustness.", "Improve test coverage."
-
-[Os X GNU tools]: https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x
-[go-1.8]: https://blog.golang.org/go1.8
-[go-workspace]: https://golang.org/doc/code.html#Workspaces
-[issue]: https://github.com/pingcap/tidb/issues
-[mercurial]: http://mercurial.selenic.com/wiki/Download
+- [GNU tools for macOS](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x)
+- [go-1.8](https://blog.golang.org/go1.8)
+- [go-workspace](https://golang.org/doc/code.html#Workspaces)
+- [issue](https://github.com/pingcap/tidb/issues)
+- [mercurial](http://mercurial.selenic.com/wiki/Download)
