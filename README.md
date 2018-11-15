@@ -1,3 +1,5 @@
+![](https://upload-images.jianshu.io/upload_images/542677-3db99ca7bd293ef1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## TiDB Community
 
 Welcome to the TiDB Community! The main objective is to help members of the TiDB community who share similar interests to learn from and collaborate with each other.
