@@ -1,0 +1,18 @@
+# Proposals
+This directory contains the schedule of communication seminar and design proposals.
+
+## Communicaiton Seminar
+A communication seminar will be organized to discuss the details after a proposal is reviewed. Community members are welcomed to attend.
+
+### Seminar Schedule
+The schedule contains all ongoing proposals, please find the information below and join the seminar if you are interested. 
+
+| Time | Proposal | Author | Issue | Seminar Link |
+|------|--------|--------|---------|----------|
+| Unsettled |[Implement View Feature](https://docs.google.com/document/d/1fzWxn9eqi4qwhS5KmIgQd-AhNt1J1HZfc4jf7HTSAzo/edit?ts=5bed45cc#)| Andrew Di |[Support for view feature #7974](https://github.com/pingcap/tidb/issues/7974) | Unsettled |
+
+## Archived proposals
+Please find all [completed proposals](https://github.com/pingcap/tidb/tree/master/docs/design#completed) here.
+
+## Submit a proposal
+Please follow the [proposal process](https://github.com/pingcap/tidb/tree/master/docs/design#proprosal-process) if you want to submit a proposal.
