@@ -9,7 +9,7 @@ The schedule contains all ongoing proposals, and please find the information bel
 
 | Time | Proposal | Author | Issue | Seminar Link |
 |------|--------|--------|---------|----------|
-| Unsettled |[Implement View Feature](https://docs.google.com/document/d/1fzWxn9eqi4qwhS5KmIgQd-AhNt1J1HZfc4jf7HTSAzo/edit?ts=5bed45cc#)| Andrew Di |[Support for view feature #7974](https://github.com/pingcap/tidb/issues/7974) | Unsettled |
+| Wed Nov 21, 2018 6:30pm – 7:30pm, GMT+8 |[Implement View Feature](https://docs.google.com/document/d/1fzWxn9eqi4qwhS5KmIgQd-AhNt1J1HZfc4jf7HTSAzo/edit?ts=5bed45cc#)| [AndrewDi](https://github.com/AndrewDi) |[Support for view feature #7974](https://github.com/pingcap/tidb/issues/7974) | https://meet.google.com/ran-gabw-kbe |
 
 ## Archived proposals
 Please find all [completed proposals](https://github.com/pingcap/tidb/tree/master/docs/design#completed) here.
