@@ -5,7 +5,7 @@ This directory contains the schedule of communication seminar and design proposa
 A communication seminar will be organized to discuss the details after a proposal is reviewed. Community members are welcomed to attend.
 
 ### Seminar Schedule
-The schedule contains all ongoing proposals, please find the information below and join the seminar if you are interested. 
+The schedule contains all ongoing proposals, and please find the information below and join the seminar if you are interested. 
 
 | Time | Proposal | Author | Issue | Seminar Link |
 |------|--------|--------|---------|----------|
