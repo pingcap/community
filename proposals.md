@@ -1,7 +1,7 @@
 # Proposals
 This directory contains the schedule of communication seminar and design proposals.
 
-## Communicaiton Seminar
+## Communication Seminar
 A communication seminar will be organized to discuss the details after a proposal is reviewed. Community members are welcomed to attend.
 
 ### Seminar Schedule
