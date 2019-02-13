@@ -124,7 +124,7 @@ Now what information does DM have to show to users?
   * `query-status`: queries basic information of the task, including some complex and unclear error messages
   * `show-ddl-lock` ....
   * `query-error` ...
-* Grafana: many no sense monitor graph
+* Grafana: many nonsense monitor graphs
 
 What are the disadvantages of the above methods? **Lack of contextual information leads to incomprehensible or inferential problems.**
 
