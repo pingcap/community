@@ -256,6 +256,49 @@ review.
 
 The coding style suggested by the Golang community is used in TiDB. See the [style doc](https://github.com/golang/go/wiki/CodeReviewComments) for details.
 
+### Code comment style
+
+Follow this style to write TiDB code comment.
+
+Format:
+
+- Use **//** for a single-line comment and trailing comment.
+- Use **/* ... */** for a block comment (used only when needed).
+- Use **gofmt** to format your code.
+- Place the single-line and block comment above the code it’s annotating.
+- Fold long lines of comments.
+- Each line of text in your code and comment should be at most 100 characters long.
+- Do not use relative URLs; use **absolute URLs** instead.
+
+Language:
+
+- Word
+    
+    - Use **American English** rather than British English.
+    - Use correct spelling.
+    - Use **standard or official capitalization**.
+    - Use words and expressions consistently.
+    - Do not use lengthy compound words.
+    - Do not abbreviate unless it is absolutely necessary.
+    - "we" can be used only when it means the code writer.
+
+- Sentence
+
+    - Use standard grammar and correct punctuation.
+    - Use relatively short sentences.
+
+- For each comment, capitalize the first letter and end this sentence with a period.
+    
+    - If a lower-case identifier comes at the beginning of a sentence, don't capitalize it.
+
+- When used for description, comments should be **descriptive** rather than **imperative**.       
+
+- Use "this" instead of "the" to refer to the current thing.
+
+- The Markdown format is allowed.
+
+For more details, see [Code Comment Style](code-comment-style.md).
+
 ## Commit message style
 
 Please follow this style to make TiDB easy to review, maintain and develop.
