@@ -104,7 +104,7 @@ For example,
 
 - To add a DM-worker instance for a new MySQL instance, we have to [edit `Ansible inventory` and run an `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not so lucky, we may need to stop the task, edit the task configuration file, and then start some tasks to let the new DM-worker instance join.
 
-- DM-master and DM-worker don't store tasks,  it's sick！Thus we have to start whole task after some DM-workers restart
+- DM-master and DM-worker don't store tasks, thus we have to start the whole task after some DM-workers restart.
 
 We can think of a vision - the user only operates the task configuration, maybe by web or command line tool , everything else is automated
 
