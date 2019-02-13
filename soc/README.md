@@ -128,7 +128,7 @@ Now what information does dm have to show to users?
 
 What are the disadvantages of the above methods? **Lack of contextual information leads to incomprehensible or inferential problems**
 
-we need a way to show system or task running status details in natural way, like a straightforward way to show the speed of data flow, key events and where to happen
+We need a way to show the system or task running status details in a natural way, like a straightforward way to show the speed of data flow, key events and where to happen.
 
 -	Recommended Skills: Golang, OpenTracing
 -	Issue: https://github.com/pingcap/dm/issues/44
