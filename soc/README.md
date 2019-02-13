@@ -99,7 +99,7 @@ TiDB(localhost:4000) > desc select max(b), sum(c) from t group by a;
 
 -	Description
 
-Now we deploy and operate DM using Ansible, we have to do a lot of things manually
+Now we deploy and operate DM using Ansible, we have to do a lot of things manually.
 e.g.
 
 - if adding a DM-worker for a new mysql instance, we have to [edit `Ansible iniventroy` and run a `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not too lucky, we may need to stop task,  eidt task config file, and then start some tasks to let the new DM-worker join
