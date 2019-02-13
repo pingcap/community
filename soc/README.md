@@ -113,7 +113,7 @@ Project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
 -	Recommended Skill: Golang
 -	Issue: https://github.com/pingcap/dm/issues/43
 
-### **visual display of DM**
+### **Visual display of DM**
 
 -	Description
 
