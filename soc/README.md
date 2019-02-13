@@ -95,7 +95,7 @@ TiDB(localhost:4000) > desc select max(b), sum(c) from t group by a;
 -	Recommended Skills: golang, sql optimizer
 -	Issue: https://github.com/pingcap/tidb/issues/7700
 
-### **DM operator on K8S**
+### **DM operator on Kubernetes**
 
 -	Description
 
