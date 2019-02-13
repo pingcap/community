@@ -102,7 +102,7 @@ TiDB(localhost:4000) > desc select max(b), sum(c) from t group by a;
 Now we deploy and operate DM using Ansible, we have to do a lot of things manually.
 For example,
 
-- if adding a DM-worker for a new mysql instance, we have to [edit `Ansible iniventroy` and run a `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not too lucky, we may need to stop task,  eidt task config file, and then start some tasks to let the new DM-worker join
+- To add a DM-worker instance for a new MySQL instance, we have to [edit `Ansible inventory` and run an `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not so lucky, we may need to stop the task, edit the task configuration file, and then start some tasks to let the new DM-worker instance join.
 
 - DM-master and DM-worker don't store tasks,  it's sick！Thus we have to start whole task after some DM-workers restart
 
