@@ -94,3 +94,41 @@ TiDB(localhost:4000) > desc select max(b), sum(c) from t group by a;
 
 -	Recommended Skills: golang, sql optimizer
 -	Issue: https://github.com/pingcap/tidb/issues/7700
+
+### **DM operator on K8S**
+
+-	Description
+
+Now we deploy and operate DM using Ansible, we have to do a lot of things manually
+e.g.
+
+- if adding a DM-worker for a new mysql instance, we have to [edit `Ansible iniventroy` and run a `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not too lucky, we may need to stop task,  eidt task config file, and then start some tasks to let the new DM-worker join
+
+- DM-master and DM-worker don't store tasks,  it's sick！Thus we have to start whole task after some DM-workers restart
+
+We can think of a vision - the user only operates the task configuration, maybe by web or command line tool , everything else is automated
+
+project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
+
+-	Recommended Skills: golang
+-	Issue: https://github.com/pingcap/dm/issues/43
+
+### **visual display of DM**
+
+-	Description
+
+Now what information does dm have to show to users?
+
+* dmctl
+
+  * `query-status`: query basic information of task, contain some complex and not clear error message
+  * `show-ddl-lock` ....
+  * `query-error` ...
+* grafana - many no sense monitor graph
+
+What are the disadvantages of the above methods? **Lack of contextual information leads to incomprehensible or inferential problems**
+
+we need a way to show system or task running status details in natural way, like a straightforward way to show the speed of data flow, key events and where to happen
+
+-	Recommended Skills: golang, opentracing
+-	Issue: https://github.com/pingcap/dm/issues/44
