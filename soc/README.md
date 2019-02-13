@@ -110,7 +110,7 @@ We can think of a vision - the user only operates the task configuration, maybe 
 
 Project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
 
--	Recommended Skills: golang
+-	Recommended Skill: Golang
 -	Issue: https://github.com/pingcap/dm/issues/43
 
 ### **visual display of DM**
