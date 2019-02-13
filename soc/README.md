@@ -108,7 +108,7 @@ For example,
 
 We can think of a vision - the user only operates the task configuration, maybe by web or a command line tool, and everything else is automated.
 
-project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
+Project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
 
 -	Recommended Skills: golang
 -	Issue: https://github.com/pingcap/dm/issues/43
