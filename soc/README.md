@@ -106,7 +106,7 @@ For example,
 
 - DM-master and DM-worker don't store tasks, thus we have to start the whole task after some DM-workers restart.
 
-We can think of a vision - the user only operates the task configuration, maybe by web or command line tool , everything else is automated
+We can think of a vision - the user only operates the task configuration, maybe by web or a command line tool, and everything else is automated.
 
 project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
 
