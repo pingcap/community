@@ -117,7 +117,7 @@ Project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
 
 -	Description
 
-Now what information does dm have to show to users?
+Now what information does DM have to show to users?
 
 * dmctl
 
