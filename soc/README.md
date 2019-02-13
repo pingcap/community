@@ -121,7 +121,7 @@ Now what information does dm have to show to users?
 
 * dmctl
 
-  * `query-status`: query basic information of task, contain some complex and not clear error message
+  * `query-status`: queries basic information of the task, including some complex and unclear error messages
   * `show-ddl-lock` ....
   * `query-error` ...
 * grafana - many no sense monitor graph
