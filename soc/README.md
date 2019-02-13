@@ -77,6 +77,7 @@ Project Ideas
     ```
 
     Can be transformed into something like this:
+    
     ```sql
     TiDB(localhost:4000) > desc select max(b), sum(c) from t group by a;
     +-----------------------+----------+------+------------------------------------------------------------+
@@ -92,3 +93,41 @@ Project Ideas
 
 -	Recommended Skills: Golang, SQL optimizer
 -	Issue: https://github.com/pingcap/tidb/issues/7700
+
+### **DM operator on Kubernetes**
+
+-	Description
+
+    Now we deploy and operate DM using Ansible, we have to do a lot of things manually. For example,
+
+    - To add a DM-worker instance for a new MySQL instance, we have to [edit `Ansible inventory` and run an `ansible-playbook`](https://github.com/pingcap/docs/blob/master/tools/dm/cluster-operations.md#add-a-dm-worker-instance). If not so lucky, we may need to stop the task, edit the task configuration file, and then start some tasks to let the new DM-worker instance join.
+
+    - DM-master and DM-worker don't store tasks, thus we have to start the whole task after some DM-workers restart.
+
+    We can think of a vision - the user only operates the task configuration, maybe by web or a command line tool, and everything else is automated.
+
+    Project example: [TiDB-operator](https://github.com/pingcap/tidb-operator)
+
+-	Recommended Skill: Golang
+-	Issue: https://github.com/pingcap/dm/issues/43
+
+### **Visual display of DM**
+
+-	Description
+
+    Now what information does DM have to show to users?
+
+    * dmctl
+
+      * `query-status`: queries basic information of the task, including some complex and unclear error messages
+      * `show-ddl-lock` ....
+      * `query-error` ...
+      
+    * Grafana: many nonsense monitor graphs
+
+    What are the disadvantages of the above methods? **Lack of contextual information leads to incomprehensible or inferential problems.**
+
+    We need a way to show the system or task running status details in a natural way, like a straightforward way to show the speed of data flow, key events and where to happen.
+
+-	Recommended Skills: Golang, OpenTracing
+-	Issue: https://github.com/pingcap/dm/issues/44
