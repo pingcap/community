@@ -260,17 +260,20 @@ The coding style suggested by the Golang community is used in TiDB. See the [sty
 
 Follow this style to write TiDB code comment.
 
-Format:
+**Format:**
 
-- Use **//** for a single-line comment and trailing comment.
-- Use **/* ... */** for a block comment (used only when needed).
+- Use // for a single-line comment and trailing comment.
+- Use /* ... */ for a block comment (used only when needed).
 - Use **gofmt** to format your code.
 - Place the single-line and block comment above the code it’s annotating.
 - Fold long lines of comments.
-- Each line of text in your code and comment should be at most 100 characters long.
-- Do not use relative URLs; use **absolute URLs** instead.
+- The maximum width for a line is 100 characters.
+- For a comment containing a URL
 
-Language:
+    - Use a **relative URL** if the text is linked to a file within the same GitHub repository.
+    - Use an **absolute URL** in **docs and docs-cn repositories** if the code with this comment is copied from another repository.
+
+**Language:**
 
 - Word
     
@@ -280,7 +283,7 @@ Language:
     - Use words and expressions consistently.
     - Do not use lengthy compound words.
     - Do not abbreviate unless it is absolutely necessary.
-    - "we" can be used only when it means the code writer.
+    - "we" should be used only when it means the code writer and the reader.
 
 - Sentence
 
