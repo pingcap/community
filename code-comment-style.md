@@ -2,7 +2,7 @@
 
 This document describes the code comment style applied to all PingCAP repositories. When you are to commit, be sure to follow the style to write good code comments.
 
-## Why a good comment matters?
+## Why does a good comment matter?
 
 - To speed up the reviewing process
 - To help maintain the code
@@ -18,7 +18,7 @@ Write a comment where/when:
 - For tricky or interesting code
 - For a complex code block
 - If a bug exists in the code but you cannot fix it or you just want to ignore it for the moment
-- If the code is not optimal but you don’t have a smarter way now
+- If the code is not optimal but you don't have a smarter way now
 - To remind yourself or others of missing functionality or upcoming requirements not present in the code
 
 A comment is generally required for:
@@ -42,39 +42,17 @@ A comment is generally required for:
 
 - Go
     
-    - Use **//** for a single-line comment and trailing comment
-    - Use **/* ... */** for a block comment (used only when needed)
+    - Use // for a single-line comment and trailing comment
+    - Use /* ... */ for a block comment (used only when needed)
     - Use **gofmt** to format your code
 
-- Rust
-    
-    - Non-doc comment
-        
-        - Use **//** for a line comment
-        - Use **/* … */** for a block comment (used only when needed)
-    
-    - Doc comment
-        
-        - Use **///** for a line comment
-        - Use **//!** for a block comment
-        - Use **rustfmt** to format your code
-
-- Place the single-line and block comment above the code it’s annotating
+- Place the single-line and block comment above the code it's annotating
 - Fold long lines of comments
 - Each line of text in your code and comment should be at most 100 characters long
-- Do not use relative URLs; use **absolute URLs** instead
+- For a comment containing a URL
 
-    Right:
-    
-    ```
-    // For more configuration details, see https://example.com/project/tools/config-items.  
-    ```
-    
-    Wrong:
-    
-    ```
-    // For more details, see [Configuration Items](../tools/config-items.md).
-    ```
+    - Use a **relative URL** if the text is linked to a file within the same GitHub repository
+    - Use an **absolute URL** in docs and docs-cn repositories if the code with this comment is copied from another repository
 
 ### Language for a good comment
 
@@ -100,7 +78,7 @@ A comment is generally required for:
 
     - Do not abbreviate unless it is absolutely necessary
 
-    - "we" can be used only when it means the code writer
+    - "we" should be used only when it means the code writer and the reader
 
 - Sentence
 
