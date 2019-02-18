@@ -94,6 +94,7 @@ Project Ideas
 -	Recommended Skills: Golang, SQL optimizer
 -	Issue: https://github.com/pingcap/tidb/issues/7700
 
+---
 ### **DM operator on Kubernetes**
 
 -	Description
@@ -111,6 +112,7 @@ Project Ideas
 -	Recommended Skill: Golang
 -	Issue: https://github.com/pingcap/dm/issues/43
 
+---
 ### **Visual display of DM**
 
 -	Description
