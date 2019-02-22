@@ -262,8 +262,8 @@ Follow this style to write TiDB code comment.
 
 **Format:**
 
-- Use // for a single-line comment and trailing comment.
-- Use /* ... */ for a block comment (used only when needed).
+- Use `//` for a single-line comment and trailing comment.
+- Use `/* ... */` for a block comment (used only when needed).
 - Use **gofmt** to format your code.
 - Place the single-line and block comment above the code it’s annotating.
 - Fold long lines of comments.
@@ -290,7 +290,7 @@ Follow this style to write TiDB code comment.
     - Use standard grammar and correct punctuation.
     - Use relatively short sentences.
 
-- For each comment, capitalize the first letter and end this sentence with a period.
+- Capitalize the first letter of sentences and end them with periods.
     
     - If a lower-case identifier comes at the beginning of a sentence, don't capitalize it.
 
