@@ -2,7 +2,7 @@
 
 This document describes the code comment style applied to all PingCAP repositories. When you are to commit, be sure to follow the style to write good code comments.
 
-For the comment style of Rust, the main programming language of TiKV (an important component of the TiDB project), see [the code comment style for the TiKV project](https://github.com/tikv/tikv/blob/master/CODE_COMMENT_STYLE.md).
+For the comment style of Rust, the main programming language of TiKV (an important component of the TiDB cluster), see [the code comment style for the TiKV project](https://github.com/tikv/tikv/blob/master/CODE_COMMENT_STYLE.md).
 
 ## Why does a good comment matter?
 
