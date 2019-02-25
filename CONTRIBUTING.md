@@ -267,7 +267,7 @@ For the code comment style of the TiKV project, see [Code Comment Style](https:/
 - Use `//` for a single-line comment and trailing comment.
 - Use `/* ... */` for a block comment (used only when needed).
 - Use **gofmt** to format your code.
-- Place the single-line and block comment above the code it’s annotating.
+- Place the single-line or block comment above the code it's annotating.
 - Fold long lines of comments.
 - The maximum width for a line is 100 characters.
 - For a comment containing a URL
