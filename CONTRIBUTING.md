@@ -17,7 +17,7 @@ A Contributor refers to the person who contributes to the following projects:
 
 ## How to become a TiDB Contributor?
 
-If a PR (Pull Request) submitted to the TiDB / TiKV / TiSpark / PD / Docs／Docs-cn projects by you is approved and merged, then you become a TiDB Contributor. 
+If a PR (Pull Request) submitted to the TiDB/TiKV/TiSpark/PD/Docs／Docs-cn projects by you is approved and merged, then you become a TiDB Contributor. 
 
 You are also encouraged to participate in the projects in the following ways:
 - Actively answer technical questions asked by community users.
@@ -255,6 +255,54 @@ review.
 ## Code style
 
 The coding style suggested by the Golang community is used in TiDB. See the [style doc](https://github.com/golang/go/wiki/CodeReviewComments) for details.
+
+### Code comment style
+
+Follow this style to write TiDB code comment.
+
+For the code comment style of the TiKV project, see [Code Comment Style](https://github.com/tikv/tikv/blob/master/CODE_COMMENT_STYLE.md).
+
+**Format:**
+
+- Use `//` for a single-line comment and trailing comment.
+- Use `/* ... */` for a block comment (used only when needed).
+- Use **gofmt** to format your code.
+- Place the single-line or block comment above the code it's annotating.
+- Fold long lines of comments.
+- The maximum width for a line is 100 characters.
+- For a comment containing a URL
+
+    - Use a **relative URL** if the text is linked to a file within the same GitHub repository.
+    - Use an **absolute URL** in **docs and docs-cn repositories** if the code with this comment is copied from another repository.
+
+**Language:**
+
+- Word
+    
+    - Use **American English** rather than British English.
+    - Use correct spelling.
+    - Use **standard or official capitalization**.
+    - Use words and expressions consistently.
+    - Do not use lengthy compound words.
+    - Do not abbreviate unless it is absolutely necessary.
+    - "we" should be used only when it means the code writer *and* the reader.
+
+- Sentence
+
+    - Use standard grammar and correct punctuation.
+    - Use relatively short sentences.
+
+- Capitalize the first letter of sentences and end them with periods.
+    
+    - If a lower-case identifier comes at the beginning of a sentence, don't capitalize it.
+
+- When used for description, comments should be **descriptive** rather than **imperative**.       
+
+- Use "this" instead of "the" to refer to the current thing.
+
+- The Markdown format is allowed.
+
+For more details, see [Code Comment Style](code-comment-style.md).
 
 ## Commit message style
 
