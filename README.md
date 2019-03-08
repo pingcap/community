@@ -4,8 +4,6 @@ Welcome to the TiDB Community! The main objective is to help members of the TiDB
 
 Your journey of becoming a contributor and committer starts from here: improving docs, improving code, giving talks, organizing meetups, etc.
 
-Love you all.
-
 ## Communicating
 
 You can reach out to the community members via any one of the following ways: 
@@ -27,13 +25,13 @@ You can reach out to the community members via any one of the following ways:
 
 + To dig deeper, read a design doc, e.g. [architecture](https://www.pingcap.com/blog/2017-05-23-perconalive17/), [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
 
-+ Start with improving the documentation.
++ Start with improving the documentation. You can search [open issues](https://github.com/pingcap/docs/issues) to find inspiration for what to work on.
 
 + There's always code that can be clarified and variables or functions that can be renamed or commented.
 
-+ There's always a need for more test coverage.
++ There's always a need for more test coverage. You can start with an area that has [low coverage](https://codecov.io/gh/pingcap/tidb).
 
-+ Give a speech in your company/meetup/conference etc.
++ Give a talk at a local meetup or conference.
 
 ## Learn to Use TiDB
 
@@ -78,7 +76,7 @@ Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](https:
 
 First of all you need to get involved and be a Contributor.
 
-Once you're contributing and your work is good, one of our Maintainers or PMC members may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
+Based on your track-record as a contributor, one of our Maintainers or PMC members may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
 
 Note that becoming a committer is not just about submitting some patches; it‘s also about helping out on the development and user [Discussion Forums](https://groups.google.com/forum/#!forum/tidb-user), helping with documentation and the issues.
 
@@ -105,11 +103,12 @@ Another great resource for finding content! TiDB’s Slideshare account has slid
 If you're interested in writing a tutorial for TiDB, please contact us: [community@pingcap.com](mailto:community@pingcap.com)
 
 ## License
+
 TiDB Community is under the Apache 2.0 license. See the [LICENSE.md](https://github.com/pingcap/community/blob/master/LICENSE) file for details.
 
-## Acknowledge
+## Acknowledgements
 
-The [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages give us lots of good ideas about how to buid a community. Thank you!
+Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
 
 
 
