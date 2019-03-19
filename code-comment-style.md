@@ -91,14 +91,14 @@ A comment is generally required for:
     
     - If a lower-case identifier comes at the beginning of a sentence, don't capitalize it
 
-    ```
-    // enterGame causes Players to enter the 
-    // video game, which is about a romantic
-    // story in ancient China.
-    func enterGame() os.Error {
-        ...
-    }
-    ```
+        ```
+        // enterGame causes Players to enter the 
+        // video game, which is about a romantic
+        // story in ancient China.
+        func enterGame() os.Error {
+            ...
+        }
+        ```
 
 - When used for description, comments should be **descriptive** rather than **imperative**
 
