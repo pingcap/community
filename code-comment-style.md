@@ -69,8 +69,8 @@ A comment is generally required for:
 
     - Use **standard or official capitalization**
         
-        - TiKV, TiDB-Binlog, Region, gRPC, RocksDB, GC, k8s, [mydumper](https://github.com/maxbube/mydumper), [Prometheus Pushgateway](https://github.com/prometheus/pushgateway)   (Right)
-        - Tikv, TiDB Binlog, region, grpc, rocksdb, gc, K8S, MyDumper, Prometheus PushGateway   (Wrong)
+        - TiKV, TiDB-Binlog, Region, gRPC, RocksDB, GC, [mydumper](https://github.com/maxbube/mydumper), [Prometheus Pushgateway](https://github.com/prometheus/pushgateway)   (Right)
+        - Tikv, TiDB Binlog, region, grpc, rocksdb, gc, MyDumper, Prometheus PushGateway   (Wrong)
 
     - Use words and expressions consistently
         
