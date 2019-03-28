@@ -43,12 +43,14 @@ Please follow the following style for **all your commits**:
 <footer>(optional)
 ```
 
-- For the first subject line, use no more than 70 characters.
++ For the first subject line:
+    - Use no more than 70 characters.
+    - If the changes affect two subsystems, use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
+    - If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
+    - Use a lowercase letter on the text that immediately follows the colon. For example: "media: **update** the DM architecture image".
 - For the second line, always leave it blank.
-- For other lines, use no more than 80 characters.
-- If the changes affect two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
-- If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
 - For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
+- For other lines, use no more than 80 characters.
 
 ### Habits for a good commit message
 
@@ -75,7 +77,7 @@ When you are to submit a Pull Request, please include enough details about all c
 
 **Pull Request title format:** `<subsystem>: <what changed>`
 
-The format of a good Pull Request title is the same as [the subject line of a good commit message](#format-of-a-good-commit-message).
+The format of a good Pull Request title is the same as [the subject line of a good commit message](#format-of-a-good-commit-message). For example: "sql: add constraints".
 
 - If all major changes are involved in the first commit message, you can use the first commit message as the PR title.
 - If several commits are included in one PR and the first commit message cannot cover all changes, then write a new PR title that can cover all major changes involved in this PR.
