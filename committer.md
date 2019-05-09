@@ -1,5 +1,7 @@
 # Committers
 
+Committers are developers of the projects and are elected from contributors. Currently, the TiDB community has the following committers:
+
 ## Committer List
 |GitHub ID| Name | Email|Company|
 |:---:| :----:| :---:|:--: |
