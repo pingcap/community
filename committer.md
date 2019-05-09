@@ -12,4 +12,7 @@ Committers are developers of the projects and are elected from contributors. Cur
 |[sunxiaoguang](https://github.com/sunxiaoguang)|孙晓光||知乎|
 |[dbjoa](https://github.com/dbjoa)|Jun-Seok Heo|jun.seok.heo@samsung.com|Samsung Electronics|
 
-Committer is generated from Contributor. Currently, there are 6 Committers in the TiDB project. Thanking them for their contributions to TiDB performance improvement.
+
+Thank you for your contribution!
+
+See [Become a Committer](./committer.md) for how to become a TiDB Committer.
