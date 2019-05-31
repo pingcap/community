@@ -8,6 +8,8 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 You can reach out to the community members via any one of the following ways: 
 
++ Slack: [https://pingcap.com/tidbslack/](https://pingcap.com/tidbslack/)
+
 + Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
 
 + Stack Overflow: [https://stackoverflow.com/questions/tagged/tidb](https://stackoverflow.com/questions/tagged/tidb)
