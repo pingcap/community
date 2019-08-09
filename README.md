@@ -84,6 +84,17 @@ Note that becoming a committer is not just about submitting some patches; it‘s
 
 See [Become a Committer.md](https://github.com/pingcap/community/blob/master/become-a-committer.md) for becoming a committer steps and more details.
 
+## Communication
+
+Communication within the TiDB community abides by [TiDB Code of Conduct](./CODE_OF_CONDUCT.md). Here is an excerpt:
+
+> In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
+
 ## Resources
 
 ### TiDB Blog
