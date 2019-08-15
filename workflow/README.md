@@ -169,7 +169,7 @@ When ready to review (or just to establish an offsite backup or your work),
 push your branch to your fork on `github.com`:
 
 ```sh
-git push ${your_remote_name} myfeature
+git push --set-upstream ${your_remote_name} myfeature
 ```
 
 ## Step 8: Create a pull request
