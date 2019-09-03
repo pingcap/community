@@ -208,7 +208,7 @@ git fetch upstream
 git rebase upstream/master
 ```
 
-If the commit you wish to revert is a merge commit:
+If the commit you wish to revert is already merged:
 
 ```sh
 # SHA is the hash of the merge commit you wish to revert
