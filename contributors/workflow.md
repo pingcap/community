@@ -91,7 +91,7 @@ git checkout -b myfeature
 
 You can now edit the code on the `myfeature` branch.
 
-### Run stand-alone mode
+### Run TiDB in a stand-alone mode
 
 If you want to reproduce and investigate an issue, you may need
 to run TiDB in stand-alone mode.
