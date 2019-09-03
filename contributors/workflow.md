@@ -18,7 +18,7 @@ Define a local working directory:
 export working_dir=$GOPATH/src/github.com/pingcap
 ```
 
-> If you already worked with Go development on github before, the `pingcap`
+> If you have already worked with a Go development environment on GitHub before, the `pingcap`
 > directory will be a sibling to your existing `github.com` directory.
 
 Set `user` to match your github profile name:
