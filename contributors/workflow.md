@@ -41,7 +41,7 @@ cd $working_dir/tidb
 git remote add upstream https://github.com/pingcap/tidb.git
 # or: git remote add upstream git@github.com:pingcap/tidb.git
 
-# Never push to upstream master.
+# Never push to the upstream master.
 git remote set-url --push upstream no_push
 
 # Confirm that your remotes make sense:
