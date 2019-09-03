@@ -222,7 +222,7 @@ If the commit you wish to revert is a single commit:
 git revert SHA
 ```
 
-This will create a new commit reverting the changes. Push this new commit to
+This creates a new commit reverting the change. Push this new commit to
 your remote:
 
 ```sh
