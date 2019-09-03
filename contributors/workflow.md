@@ -3,7 +3,8 @@
 ## Step 1: Fork in the cloud
 
 1. Visit https://github.com/pingcap/tidb
-2. On the top right of the page, click the `Fork` button (top right) to create a cloud-based fork of the repository.
+2. On the top right of the page, click the `Fork` button (top right) to create
+   a cloud-based fork of the repository.
 
 ## Step 2: Clone fork to local storage
 
@@ -13,13 +14,14 @@ place TiDB's code on your `GOPATH` using the following cloning procedure.
 Define a local working directory:
 
 ```sh
-# If your GOPATH has multiple paths, pick
-# just one and use it instead of $GOPATH here.
+# If your GOPATH has multiple paths, pick # just one and use it instead of
+# $GOPATH here.
 export working_dir=$GOPATH/src/github.com/pingcap
 ```
 
-> If you have already worked with a Go development environment on GitHub before, the `pingcap`
-> directory will be a sibling to your existing `github.com` directory.
+> If you have already worked with a Go development environment on GitHub
+> before, the `pingcap` directory will be a sibling to your existing
+> `github.com` directory.
 
 Set `user` to match your github profile name:
 
@@ -111,8 +113,8 @@ mysql -h127.0.0.1 -P4000 -uroot test
 ```
 
 If you are using MySQL client 8, you may get the `ERROR 1105 (HY000): Unknown
-charset id 255` error. To solve it, add `--default-character-set utf8`
-in MySQL client 8's arguments:
+charset id 255` error. To solve it, add `--default-character-set utf8` in MySQL
+client 8's arguments:
 
 ```sh
 mysql -h127.0.0.1 -P4000 -uroot test --default-character-set utf8
@@ -123,7 +125,7 @@ mysql -h127.0.0.1 -P4000 -uroot test --default-character-set utf8
 Build and run all tests:
 
 ```sh
-# build and run unit test to make sure all test passed.
+# build and run the unit test to make sure all tests are passed.
 make dev
 
 # Check the checklist before you move on.
@@ -165,8 +167,8 @@ few cycles.
 
 ## Step 7: Push
 
-When the changes are ready to review (or you just to create an offsite backup or your work),
-push your branch to your fork on `github.com`:
+When the changes are ready to review (or you just to create an offsite backup
+or your work), push your branch to your fork on `github.com`:
 
 ```sh
 git push --set-upstream ${your_remote_name} myfeature
@@ -185,19 +187,16 @@ reviewers. Those reviewers will do a thorough code review, looking at
 correctness, bugs, opportunities for improvement, documentation and comments,
 and style.
 
-Commit changes made in response to review comments to the same branch on your
-fork.
-
-Very small PRs are easy to review. Very large PRs are very difficult to review.
-
+To address review comments, you should commit the changes to the same branch of
+the PR on your fork
 
 ### Revert a commit
 
 In case you wish to revert a commit, follow the instructions below:
 
-If you have upstream write access, please refrain from using the Revert button
-in the GitHub UI for creating the PR, because GitHub will create the PR branch
-inside the main repository rather than inside your fork.
+> NOTE: If you have upstream write access, please refrain from using the Revert
+> button in the GitHub UI for creating the PR, because GitHub will create the
+> PR branch inside the main repository rather than inside your fork.
 
 Create a branch and synchronize it with the upstream:
 
@@ -208,19 +207,8 @@ git checkout -b myrevert
 # sync the branch with upstream
 git fetch upstream
 git rebase upstream/master
-```
 
-If the commit you wish to revert is already merged:
-
-```sh
-# SHA is the hash of the merge commit you wish to revert
-git revert -m 1 SHA
-```
-
-If the commit you wish to revert is a single commit:
-
-```
-# SHA is the hash of the single commit you wish to revert
+# SHA is the hash of the commit you wish to revert
 git revert SHA
 ```
 
