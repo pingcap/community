@@ -111,7 +111,7 @@ mysql -h127.0.0.1 -P4000 -uroot test
 ```
 
 If you are using MySQL client 8, you may get the `ERROR 1105 (HY000): Unknown
-charset id 255` error. To solve it, you can add `--default-character-set utf8`
+charset id 255` error. To solve it, add `--default-character-set utf8`
 in MySQL client 8's arguments:
 
 ```sh
