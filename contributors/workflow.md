@@ -190,7 +190,7 @@ fork.
 Very small PRs are easy to review. Very large PRs are very difficult to review.
 
 
-### Reverting a commit
+### Revert a commit
 In case you wish to revert a commit, use the following instructions.
 
 If you have upstream write access, please refrain from using the Revert button
