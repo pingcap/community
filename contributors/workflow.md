@@ -197,7 +197,7 @@ If you have upstream write access, please refrain from using the Revert button
 in the GitHub UI for creating the PR, because GitHub will create the PR branch
 inside the main repository rather than inside your fork.
 
-Create a branch and sync it with upstream:
+Create a branch and synchronize it with the upstream:
 
 ```sh
 # create a branch
