@@ -229,4 +229,4 @@ your remote:
 git push ${your_remote_name} myrevert
 ```
 
-Create a Pull Request using this branch.
+Create a PR based on this branch.
