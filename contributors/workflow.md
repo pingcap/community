@@ -104,7 +104,7 @@ make server
 bin/tidb-server
 ```
 
-Then you can connect to TiDB with mysql client.
+Then you can connect to TiDB with a MySQL client.
 
 ```sh
 mysql -h127.0.0.1 -P4000 -uroot test
