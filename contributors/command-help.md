@@ -69,3 +69,18 @@ The same as `/run-all-tests`
 ```
 /run-unit-test
 ```
+
+## Pull Request Commands
+
+### `/run-auto-merge`/`/merge`
+
+Add a PR to a internal job queue.
+
+> **NOTE**: The PR must have `can merge` label.
+
+### `/run-cherry-picker`
+
+Triggers a cherry pick for a PR.
+
+> **NOTE**: The PR must have the `needs-cherry-pick-{{release-num}}` labels to
+> indicate which release branch this should be cherry picked to.
