@@ -9,7 +9,6 @@ Supported Repositories:
 * [pd](https://github.com/pingcap/pd)
 * [tispark](https://github.com/pingcap/tispark)
 * [tidb-binlog](https://github.com/pingcap/tidb-binlog)
-* [tidb-test](https://github.com/pingcap/tidb-test)
 * [tidb-operator](https://github.com/pingcap/tidb-operator)
 
 ### `/rebuild`
@@ -59,6 +58,10 @@ Run a single CI test. All the supported tests are:
 /run-sqllogic-test-2
 /run-unit-test
 ```
+
+> **NOTE**: Some repo may not have some of the above tests. For example:
+> `sqllogic-test-1`/`sqllogic-test-2` don't have any meaning on the
+> `tidb-binlog` repo.
 
 #### Parameters
 
