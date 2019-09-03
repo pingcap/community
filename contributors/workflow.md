@@ -160,12 +160,12 @@ Commit your changes.
 git commit
 ```
 
-Likely you'll go back and edit/build/test some more then `commit --amend` in a
+Likely you'll go back and edit/build/test further, and then `commit --amend` in a
 few cycles.
 
 ## Step 7: Push
 
-When ready to review (or just to establish an offsite backup or your work),
+When the changes are ready to review (or you just to create an offsite backup or your work),
 push your branch to your fork on `github.com`:
 
 ```sh
@@ -176,11 +176,12 @@ git push --set-upstream ${your_remote_name} myfeature
 
 1. Visit your fork at `https://github.com/$user/tidb`.
 2. Click the `Compare & Pull Request` button next to your `myfeature` branch.
+3. Fill in the required information in the PR template.
 
 ### Get a code review
 
-Once your pull request has been opened, it will be assigned to one or more
-reviewers. Those reviewers will do a thorough code review, looking for
+If your pull request (PR) is opened, it will be assigned to one or more
+reviewers. Those reviewers will do a thorough code review, looking at
 correctness, bugs, opportunities for improvement, documentation and comments,
 and style.
 
