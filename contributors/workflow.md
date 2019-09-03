@@ -3,7 +3,7 @@
 ## Step 1: Fork in the cloud
 
 1. Visit https://github.com/pingcap/tidb
-2. Click `Fork` button (top right) to establish a cloud-based fork.
+2. On the top right of the page, click the `Fork` button (top right) to create a cloud-based fork of the repository.
 
 ## Step 2: Clone fork to local storage
 
