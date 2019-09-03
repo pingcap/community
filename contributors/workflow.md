@@ -126,7 +126,7 @@ Build and run all tests:
 # build and run unit test to make sure all test passed.
 make dev
 
-# Check checklist before you move on.
+# Check the checklist before you move on.
 make checklist
 ```
 
