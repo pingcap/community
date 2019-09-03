@@ -118,7 +118,7 @@ in MySQL client 8's arguments:
 mysql -h127.0.0.1 -P4000 -uroot test --default-character-set utf8
 ```
 
-### Run Test
+### Test
 
 Build and run all tests:
 
