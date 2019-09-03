@@ -191,7 +191,8 @@ Very small PRs are easy to review. Very large PRs are very difficult to review.
 
 
 ### Revert a commit
-In case you wish to revert a commit, use the following instructions.
+
+In case you wish to revert a commit, follow the instructions below:
 
 If you have upstream write access, please refrain from using the Revert button
 in the GitHub UI for creating the PR, because GitHub will create the PR branch
