@@ -94,7 +94,7 @@ You can now edit the code on the `myfeature` branch.
 ### Run TiDB in a stand-alone mode
 
 If you want to reproduce and investigate an issue, you may need
-to run TiDB in stand-alone mode.
+to run TiDB in a stand-alone mode.
 
 ```sh
 # Build the binary.
