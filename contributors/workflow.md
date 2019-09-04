@@ -220,3 +220,27 @@ git push ${your_remote_name} myrevert
 ```
 
 Create a PR based on this branch.
+
+### Cherry pick a commit to a release branch
+
+In case you wish to cherry pick a commit to a release branch, follow the
+instructions below:
+
+Create a branch and synchronize it with the upstream:
+
+```sh
+# sync the branch with upstream.
+git fetch upstream
+
+# checkout the release branch.
+# ${release_branch_name} is the release branch you wish to cherry pick to.
+git checkout upstream/${release_branch_name}
+git checkout -b my-cherry-pick
+
+# cherry pick the commit to my-cherry-pick branch.
+# ${SHA} is the hash of the commit you wish to revert.
+git cherry-pick ${SHA}
+
+# push this branch to your repo, file an PR based on this branch.
+git push --set-upstream ${your_remote_name} my-cherry-pick
+```
