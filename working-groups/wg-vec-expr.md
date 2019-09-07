@@ -10,7 +10,8 @@ issue/12058](https://github.com/pingcap/tidb/issues/12058).
 * Regular Working Group Meeting: Wednesdays at 19:30 PT (Pacific Time)
   (biweekly).  [Convert to your
   timezone](http://www.thetimezoneconverter.com/?t=19:30&tz=PT%20%28Pacific%20Time%29).
-* Meeting Notes: TODO
+* Meeting Zoom: (TODO: add a zoom link)
+* Meeting Notes: (TODO: add a google doc link)
 
 ## Organizers
 
