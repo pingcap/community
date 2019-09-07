@@ -18,4 +18,5 @@ issue/12058](https://github.com/pingcap/tidb/issues/12058).
 
 ## Contact
 
-* Slack: #wg-vec-expr
+* Slack: channel **#wg-vec-expr** in the
+  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
