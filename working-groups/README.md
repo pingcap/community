@@ -1,12 +1,12 @@
 # Working Groups
 
 Working Groups provide a formal avenue for disparate groups to collaborate
-around a common problem, craft a balanced position, and disband. A working group
-represents the interest of the group and serves as a vehicle for a consensus
-building. If the code is developed as part of the collaboration within the Working
-Group, that code will be housed in an appropriate repository as described in
-the repository document. Merging of this code into the repository will be
-governed by the related standard policies.
+around a common problem. A working group represents the interest of the group
+and serves as a vehicle for a consensus building. If the code is developed as
+part of the collaboration within the Working Group, that code will be housed in
+an appropriate repository as described in the repository document. Merging of
+this code into the repository will be governed by the related standard
+policies.
 
 ## Active Working Groups
 * [wg-vec-expr](./wg-vec-expr.md)
