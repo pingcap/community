@@ -7,11 +7,9 @@ issue/12058](https://github.com/pingcap/tidb/issues/12058).
 
 ## Meetings
 
-* Regular Working Group Meeting: Wednesdays at 19:30 PT (Pacific Time)
-  (biweekly).  [Convert to your
-  timezone](http://www.thetimezoneconverter.com/?t=19:30&tz=PT%20%28Pacific%20Time%29).
-* Meeting Zoom: (TODO: add a zoom link)
-* Meeting Notes: (TODO: add a google doc link)
+* Regular Working Group Meeting: Wednesdays at 19:30 PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=19:30&tz=PT%20%28Pacific%20Time%29).
+* Meeting Zoom: [https://pingcap.zoom.us/j/3190482744](https://pingcap.zoom.us/j/3190482744)
+* Meeting Notes: [TiDB Vectorized Expressions Working Group](https://docs.google.com/document/d/1bHZs-qj91jH0crUFgROQ0P076rosDQNm2CsUTvDr0zo/edit)
 
 ## Organizers
 
