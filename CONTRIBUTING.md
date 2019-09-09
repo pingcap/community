@@ -110,6 +110,26 @@ export PATH=$PATH:$GOPATH/bin
 
 TiDB uses [`Go Modules`](https://github.com/golang/go/wiki/Modules) to manage dependencies.
 
+## Reviewer
+
+Reviewers are able to review code for quality and correctness on some part of a subproject. They are knowledgeable about both the codebase and software engineering principles.
+
+### How to become a reviewer?
+
+* Knowledgeable about the codebase
+* Sponsored by 2 Committers
+* merged at least 20 PRs 
+
+### Responsibilities and privileges
+
+* Responsible for project quality control
+    * Focus on code quality and correctness, including testing and factoring 
+    * May also review for more holistic issues
+* Expected to be responsive to review PR on time
+* Assigned test and fix bugs in subproject 
+* Have the rights to approve PR
+* Participate in the future seminar
+
 ## Workflow
 
 See the [Github Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md)
