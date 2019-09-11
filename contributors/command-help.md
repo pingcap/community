@@ -15,22 +15,50 @@ Supported Repositories:
 
 #### Description
 
-Build the binary based on the PR for testing.
+Build the binary based on the PR for testing. It also reruns the following
+continuous integration(CI) test cases:
+
+* `idc-jenkins-ci-tidb/unit-test`
+* `idc-jenkins-ci-tidb/build`
+* `idc-jenkins-ci-tidb/build_check_race`
+* `idc-jenkins-ci-tidb/check_dev`
+* `idc-jenkins-ci-tidb/check_dev_2`
 
 ### `/run-all-tests`
 
 #### Description
 
-Triggers all the CI test cases.
+Triggers all the CI test cases. Here is the list of all the CI test cases:
+
+* `idc-jenkins-ci-tidb/unit-test`
+* `idc-jenkins-ci-tidb/build`
+* `idc-jenkins-ci-tidb/build_check_race`
+* `idc-jenkins-ci-tidb/check_dev`
+* `idc-jenkins-ci-tidb/check_dev_2`
+* `idc-jenkins-ci-tidb/common-test`
+* `idc-jenkins-ci-tidb/integration-common-test`
+* `idc-jenkins-ci-tidb/integration-compatibility-test`
+* `idc-jenkins-ci-tidb/integration-ddl-test`
+* `idc-jenkins-ci-tidb/mybatis-test`
+* `idc-jenkins-ci-tidb/sqllogic-test-1`
+* `idc-jenkins-ci-tidb/sqllogic-test-2`
 
 #### Parameters
 
 ```
 # specify which tidb to use
 tidb=<branch>|<pr/$num>
+
+# specify which tikv to use
 tikv=<branch>|<pr/$num>
+
+# specify which pd to use
 pd=<branch>|<pr/$num>
+
+# specify which tidb-test to use
 tidb-test=<branch>|<pr/$num>
+
+# specify which tidb-private-test to use
 tidb-private-test=<branch>|<pr/$num>
 ```
 
