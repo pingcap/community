@@ -15,22 +15,50 @@ Supported Repositories:
 
 #### Description
 
-Build the binary based on the PR for testing.
+Build the binary based on the PR for testing. It also reruns the following
+continuous integration(CI) test cases:
+
+* `unit-test`
+* `build`
+* `build_check_race`
+* `check_dev`
+* `check_dev_2`
 
 ### `/run-all-tests`
 
 #### Description
 
-Triggers all the CI test cases.
+Triggers all the CI test cases. Here is the list of all the CI test cases:
+
+* `integration-common-test`
+* `integration-compatibility-test`
+* `integration-ddl-test`
+
+For the [tidb](https://github.com/pingcap/tidb) repository, there are five more
+test cases in the CI:
+
+* `unit-test`
+* `common-test`
+* `mybatis-test`
+* `sqllogic-test-1`
+* `sqllogic-test-2`
 
 #### Parameters
 
 ```
 # specify which tidb to use
 tidb=<branch>|<pr/$num>
+
+# specify which tikv to use
 tikv=<branch>|<pr/$num>
+
+# specify which pd to use
 pd=<branch>|<pr/$num>
+
+# specify which tidb-test to use
 tidb-test=<branch>|<pr/$num>
+
+# specify which tidb-private-test to use
 tidb-private-test=<branch>|<pr/$num>
 ```
 
