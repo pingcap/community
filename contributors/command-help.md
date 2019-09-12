@@ -18,11 +18,11 @@ Supported Repositories:
 Build the binary based on the PR for testing. It also reruns the following
 continuous integration(CI) test cases:
 
-* `idc-jenkins-ci-tidb/unit-test`
-* `idc-jenkins-ci-tidb/build`
-* `idc-jenkins-ci-tidb/build_check_race`
-* `idc-jenkins-ci-tidb/check_dev`
-* `idc-jenkins-ci-tidb/check_dev_2`
+* `unit-test`
+* `build`
+* `build_check_race`
+* `check_dev`
+* `check_dev_2`
 
 ### `/run-all-tests`
 
@@ -30,17 +30,18 @@ continuous integration(CI) test cases:
 
 Triggers all the CI test cases. Here is the list of all the CI test cases:
 
-* `idc-jenkins-ci-tidb/unit-test`
-* `idc-jenkins-ci-tidb/common-test`
-* `idc-jenkins-ci-tidb/integration-common-test`
-* `idc-jenkins-ci-tidb/integration-compatibility-test`
-* `idc-jenkins-ci-tidb/integration-ddl-test`
+* `integration-common-test`
+* `integration-compatibility-test`
+* `integration-ddl-test`
 
-For the [tidb](https://github.com/pingcap/tidb) repository, there are three
-more test cases in the CI:
-* `idc-jenkins-ci-tidb/mybatis-test`
-* `idc-jenkins-ci-tidb/sqllogic-test-1`
-* `idc-jenkins-ci-tidb/sqllogic-test-2`
+For the [tidb](https://github.com/pingcap/tidb) repository, there are five more
+test cases in the CI:
+
+* `unit-test`
+* `common-test`
+* `mybatis-test`
+* `sqllogic-test-1`
+* `sqllogic-test-2`
 
 #### Parameters
 
