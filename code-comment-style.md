@@ -80,7 +80,7 @@ A comment is generally required for:
 
     - Do not abbreviate unless it is absolutely necessary
 
-    - "we" should be used only when it means the code writer *and* the reader
+    - *We* should be used only when it means the code writer *and* the reader
 
 - Sentence
 
