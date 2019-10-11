@@ -2,22 +2,28 @@
 
 # Contribution Guide
 
-TiDB is a community driven open source project and we welcome any contributor. The process of contributing to the TiDB project
-may be different than many other projects you have been involved in. This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. This document is the canonical source of truth for things like supported toolchain versions for building and testing TiDB.
+TiDB is a community driven open source project and we welcome any contributor.
+The process of contributing to the TiDB project may be different than many
+other projects you have been involved in. This document outlines some
+conventions about development workflow, commit message formatting, contact
+points and other resources to make it easier to get your contribution accepted.
+This document is the canonical source of truth for things like supported
+toolchain versions for building and testing TiDB.
 
 ## What is a Contributor?
 
 A Contributor refers to the person who contributes to the following projects:
-- TiDB: https://github.com/pingcap/tidb 
-- TiKV: https://github.com/pingcap/tikv 
-- TiSpark: https://github.com/pingcap/tispark 
-- PD: https://github.com/pingcap/pd 
-- Docs: https://github.com/pingcap/docs 
-- Docs-cn: https://github.com/pingcap/docs-cn 
+- TiDB: https://github.com/pingcap/tidb
+- TiKV: https://github.com/pingcap/tikv
+- TiSpark: https://github.com/pingcap/tispark
+- PD: https://github.com/pingcap/pd
+- Docs: https://github.com/pingcap/docs
+- Docs-cn: https://github.com/pingcap/docs-cn
 
 ## How to become a TiDB Contributor?
 
-If a PR (Pull Request) submitted to the TiDB/TiKV/TiSpark/PD/Docs／Docs-cn projects by you is approved and merged, then you become a TiDB Contributor. 
+If a PR (Pull Request) submitted to the TiDB/TiKV/TiSpark/PD/Docs/Docs-cn
+projects by you is approved and merged, then you become a TiDB Contributor.
 
 You are also encouraged to participate in the projects in the following ways:
 - Actively answer technical questions asked by community users.
@@ -31,13 +37,18 @@ You are also encouraged to participate in the projects in the following ways:
 
 ## Pre submit pull request/issue flight checks
 
-Before you move on, please make sure what your issue and/or pull request is, a simple bug fix or an architecture change.
+Before you move on, please make sure what your issue and/or pull request is, a
+simple bug fix or an architecture change.
 
-In order to save reviewers' time, each issue should be filed with template and should be sanity-checkable in under 5 minutes.
+In order to save reviewers' time, each issue should be filed with template and
+should be sanity-checkable in under 5 minutes.
 
 ### Is this a simple bug fix?
 
-Bug fixes usually come with tests. With the help of continuous integration test, patches can be easy to review. Please update the unit tests so that they catch the bug! Please check example [here](https://github.com/pingcap/tidb/pull/2808).
+Bug fixes usually come with tests. With the help of continuous integration
+test, patches can be easy to review. Please update the unit tests so that they
+catch the bug! Please check example
+[here](https://github.com/pingcap/tidb/pull/2808).
 
 ### Is this an architecture improvement?
 
@@ -48,14 +59,17 @@ Some examples of "Architecture" improvements:
 - Decoupling logic or creation of new utilities.
 - Making code more resilient (sleeps, backoffs, reducing flakiness, etc).
 
-If you are improving the quality of code, then justify/state exactly what you are 'cleaning up' in your Pull Request so as to save reviewers' time. An example will be this [pull request](https://github.com/pingcap/tidb/pull/3113).
+If you are improving the quality of code, then justify/state exactly what you
+are 'cleaning up' in your Pull Request so as to save reviewers' time. An
+example will be this [pull request](https://github.com/pingcap/tidb/pull/3113).
 
-If you're making code more resilient, test it locally to demonstrate how exactly your patch changes
-things.
+If you're making code more resilient, test it locally to demonstrate how
+exactly your patch changes things.
 
 ## Building TiDB on a local OS/shell environment
 
-TiDB development only requires `go` set-up. If you already have, simply type `make` from terminal.
+TiDB development only requires `go` set-up. If you already have, simply type
+`make` from terminal.
 
 ### Go
 
@@ -63,10 +77,27 @@ TiDB is written in [Go](http://golang.org).
 If you don't have a Go development environment,
 please [set one up](http://golang.org/doc/code.html).
 
-The version of GO should be **1.9** or above.
+The version of GO should be **1.12** or above.
 
-After installation, you'll need `GOPATH` defined,
-and `PATH` modified to access your Go binaries.
+After installation, there are two ways to build TiDB binary.
+
+#### For a quick taste
+
+The `GOPATH` is not necessary.
+
+```
+mkdir tmp
+cd tmp
+echo 'module tidb' > go.mod
+GO111MODULE=on go get github.com/pingcap/tidb@c385cbdcca83eeed283139814a7ea149e3116e66
+GO111MODULE=on go build -o tidb-server github.com/pingcap/tidb/tidb-server
+```
+
+The `c385cbdcca83eeed283139814a7ea149e3116e66` can be changed to any other commit hash. Try the latest commit hash [here](https://github.com/pingcap/tidb/commits/master).
+
+#### For development
+
+You'll need `GOPATH` defined, and `PATH` modified to access your Go binaries.
 
 A common setup is the following but you could always google a setup for your own flavor.
 
@@ -77,256 +108,37 @@ export PATH=$PATH:$GOPATH/bin
 
 #### Dependency management
 
-TiDB build/test scripts use [`glide`](https://github.com/Masterminds/glide) to
-manage dependencies.
+TiDB uses [`Go Modules`](https://github.com/golang/go/wiki/Modules) to manage dependencies.
 
-```sh
-go get -u  github.com/Masterminds/glide
-```
+## Reviewer
+
+Reviewers are able to review code for quality and correctness on some part of a subproject. They are knowledgeable about both the codebase and software engineering principles.
+
+### How to become a reviewer?
+
+* Knowledgeable about the codebase
+* Sponsored by 2 Committers
+* merged at least 20 PRs 
+
+### Responsibilities and privileges
+
+* Responsible for project quality control
+    * Focus on code quality and correctness, including testing and factoring 
+    * May also review for more holistic issues
+* Expected to be responsive to review PR on time
+* Assigned test and fix bugs in subproject 
+* Have the rights to approve PR
+* Participate in the future seminar
 
 ## Workflow
 
-### Step 1: Fork in the cloud
-
-1. Visit https://github.com/pingcap/tidb
-2. Click `Fork` button (top right) to establish a cloud-based fork.
-
-### Step 2: Clone fork to local storage
-
-Per Go's [workspace instructions][go-workspace], place TiDB's code on your
-`GOPATH` using the following cloning procedure.
-
-Define a local working directory:
-
-```sh
-# If your GOPATH has multiple paths, pick
-# just one and use it instead of $GOPATH here.
-working_dir=$GOPATH/src/github.com/pingcap
-```
-
-> If you already worked with Go development on github before, the `pingcap` directory
-> will be a sibling to your existing `github.com` directory.
-
-Set `user` to match your github profile name:
-
-```sh
-user={your github profile name}
-```
-
-Create your clone:
-
-```sh
-mkdir -p $working_dir
-cd $working_dir
-git clone https://github.com/$user/tidb.git
-# the following is recommended
-# or: git clone git@github.com:$user/tidb.git
-
-cd $working_dir/tidb
-git remote add upstream https://github.com/pingcap/tidb.git
-# or: git remote add upstream git@github.com:pingcap/tidb.git
-
-# Never push to upstream master since you do not have write access.
-git remote set-url --push upstream no_push
-
-# Confirm that your remotes make sense:
-# It should look like:
-# origin    git@github.com:$(user)/tidb.git (fetch)
-# origin    git@github.com:$(user)/tidb.git (push)
-# upstream  https://github.com/pingcap/tidb (fetch)
-# upstream  no_push (push)
-git remote -v
-```
-
-#### Define a pre-commit hook
-
-Please link the TiDB pre-commit hook into your `.git` directory.
-
-This hook checks your commits for formatting, building, doc generation, etc.
-
-```sh
-cd $working_dir/tidb/.git/hooks
-ln -s ../../hooks/pre-commit .
-```
-Sometime, pre-commit hook can not be executable. In such case, you have to make it executable manually.
-
-```sh
-chmod +x hooks/pre-commit
-```
-
-### Step 3: Branch
-
-Get your local master up to date:
-
-```sh
-cd $working_dir/tidb
-git fetch upstream
-git checkout master
-git rebase upstream/master
-```
-
-Branch from master:
-
-```sh
-git checkout -b myfeature
-```
-
-### Step 4: Develop
-
-#### Edit the code
-
-You can now edit the code on the `myfeature` branch.
-
-#### Run stand-alone mode
-
-If you want to reproduce and investigate an issue, you may need
-to run TiDB in stand-alone mode.
-
-```sh
-# Build the binary.
-make server
-
-# Run in stand-alone mode. The data is stored in `/tmp/tidb`.
-bin/tidb-server
-```
-
-Then you can connect to TiDB with mysql client.
-
-```sh
-mysql -h127.0.0.1 -P4000 -uroot test
-```
-
-#### Run Test
-
-```sh
-# Run unit test to make sure all test passed.
-make dev
-
-# Check checklist before you move on.
-make checklist
-```
-
-### Step 5: Keep your branch in sync
-
-```sh
-# While on your myfeature branch.
-git fetch upstream
-git rebase upstream/master
-```
-
-### Step 6: Commit
-
-Commit your changes.
-
-```sh
-git commit
-```
-
-Likely you'll go back and edit/build/test some more than `commit --amend`
-in a few cycles.
-
-### Step 7: Push
-
-When ready to review (or just to establish an offsite backup or your work),
-push your branch to your fork on `github.com`:
-
-```sh
-git push -f origin myfeature
-```
-
-### Step 8: Create a pull request
-
-1. Visit your fork at https://github.com/$user/tidb (replace `$user` obviously).
-2. Click the `Compare & pull request` button next to your `myfeature` branch.
-
-### Step 9: Get a code review
-
-Once your pull request has been opened, it will be assigned to at least two
-reviewers. Those reviewers will do a thorough code review, looking for
-correctness, bugs, opportunities for improvement, documentation and comments,
-and style.
-
-Commit changes made in response to review comments to the same branch on your
-fork.
-
-Very small PRs are easy to review. Very large PRs are very difficult to
-review.
+See the [Github Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md)
 
 ## Code style
 
-The coding style suggested by the Golang community is used in TiDB. See the [style doc](https://github.com/golang/go/wiki/CodeReviewComments) for details.
+The coding style suggested by the Golang community is used in TiDB. See the
+[style doc](https://github.com/golang/go/wiki/CodeReviewComments) for details.
 
-### Code comment style
+## Commit message and Pull Request style
 
-Follow this style to write TiDB code comment.
-
-For the code comment style of the TiKV project, see [Code Comment Style](https://github.com/tikv/tikv/blob/master/CODE_COMMENT_STYLE.md).
-
-**Format:**
-
-- Use `//` for a single-line comment and trailing comment.
-- Use `/* ... */` for a block comment (used only when needed).
-- Use **gofmt** to format your code.
-- Place the single-line or block comment above the code it's annotating.
-- Fold long lines of comments.
-- The maximum width for a line is 100 characters.
-- For a comment containing a URL
-
-    - Use a **relative URL** if the text is linked to a file within the same GitHub repository.
-    - Use an **absolute URL** in **docs and docs-cn repositories** if the code with this comment is copied from another repository.
-
-**Language:**
-
-- Word
-    
-    - Use **American English** rather than British English.
-    - Use correct spelling.
-    - Use **standard or official capitalization**.
-    - Use words and expressions consistently.
-    - Do not use lengthy compound words.
-    - Do not abbreviate unless it is absolutely necessary.
-    - "we" should be used only when it means the code writer *and* the reader.
-
-- Sentence
-
-    - Use standard grammar and correct punctuation.
-    - Use relatively short sentences.
-
-- Capitalize the first letter of sentences and end them with periods.
-    
-    - If a lower-case identifier comes at the beginning of a sentence, don't capitalize it.
-
-- When used for description, comments should be **descriptive** rather than **imperative**.       
-
-- Use "this" instead of "the" to refer to the current thing.
-
-- The Markdown format is allowed.
-
-For more details, see [Code Comment Style](code-comment-style.md).
-
-## Commit message style
-
-Please follow this style to make TiDB easy to review, maintain and develop.
-
-```
-<subsystem>: <what changed>
-<BLANK LINE>
-<why this change was made>
-<BLANK LINE>
-<footer>(optional)
-```
-
-- For the first subject line, use no more than 70 characters.
-- For the second line, always leave it blank.
-- For other lines, use no more than 80 characters.
-- If the changes affect two subsystems, you can use a comma (and a whitespace) to separate them like `util/codec, util/types:`.
-- If the changes affect three or more subsystems, you can use `*` instead, like `*:`.
-- For the why part, if there is no specific reason for the change, you can use one of the generic reasons like "Improve performance", "Improve test coverage."
-
-For more information about how to write a good commit message and a good Pull Request title and description, see [Commit Message and Pull Request Style](commit-message-pr-style.md).
-
-- [GNU tools for macOS](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x)
-- [go-1.8](https://blog.golang.org/go1.8)
-- [go-workspace](https://golang.org/doc/code.html#Workspaces)
-- [issue](https://github.com/pingcap/tidb/issues)
-- [mercurial](http://mercurial.selenic.com/wiki/Download)
+See the [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/commit-message-pr-style.md)
