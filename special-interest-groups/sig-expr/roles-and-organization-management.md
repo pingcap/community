@@ -1,19 +1,5 @@
 # SIG Expr Roles and Organization Management
 
-## Roles
-
-1. Development Role:
-
-* Active Contributor
-* Reviewer
-* Committer
-* Maintainer
-
-2. Management Role:
-
-* SIG Member
-* SIG Technical Lead
-
 ## Join && Promotion
 
 ## Join
@@ -70,9 +56,5 @@ How to retain:
 
 ## Voluntary Quit or Demotion
 
-Please write an email to XX(TBD) and cc it to XX(TBD) if you are going to
-voluntary quit or demotion
-
-## Technical Leads
-
-TBD
+Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
+going to voluntaryly quit or demotion

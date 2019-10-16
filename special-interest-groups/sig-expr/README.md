@@ -5,9 +5,9 @@ the development and maintenance of the TiDB [Function and
 Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/reference/)
 behavior and their dependencies, including but not limited to:
 
-* Support new functions.
-* Improve the performance of some expression.
-* Fix the bugs of expressions.
+* Support new features.
+* Improve the performance.
+* Fix the bugs.
 
 ## Roles and Organization Management
 
@@ -19,12 +19,15 @@ See [SIG Expr Member List](./member-list.md)
 
 ## Meetings
 
-TBD
+* Regular Working Group Meeting: 5:00, Wednesdays at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
+* Meeting Zoom: [pingcap.zoom.us/j/3190482744](https://pingcap.zoom.us/j/3190482744)
+* Meeting Notes: [Meeting Notes and Agenda](https://docs.google.com/document/d/1bHZs-qj91jH0crUFgROQ0P076rosDQNm2CsUTvDr0zo/edit)
 
 ## Contact
 
-TBD
+* Slack: channel #sig-expr in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Code Locations
 
-TBD
+* The [expression package](https://github.com/pingcap/tidb/tree/master/expression) in the tidb repo.
+* Other codes that affect the correctness, performance of the TiDB [Function and Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/reference/)

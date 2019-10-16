@@ -1,30 +1,55 @@
 # SIG Expr Member List
 
+This member list is updated bi-weekly.
+
 ## Active Contributors
 
-TBD:
-* Member List
-* Contribution Chart
+### Member List
+
+* [b41sh](https://github.com/b41sh)
+* [tangwz](https://github.com/tangwz)
+* [jacklightChen](https://github.com/jacklightChen)
+* [hey-kong](https://github.com/hey-kong)
+
+### Contribution Chart
+
+|---------------|----------------|-------------------------|-----------------------|
+| user          | num merged PRs | earliest PR merged time | latest PR merged time |
+|:--------------|---------------:|-------------------------|-----------------------|
+| b41sh         |             21 |   2019-03-21 15:00:30   |  2019-10-15 11:57:33  |
+| tangwz        |             19 |   2019-09-22 19:39:45   |  2019-10-15 12:06:33  |
+| jacklightChen |             13 |   2019-09-16 10:28:36   |  2019-09-22 16:02:31  |
+| hey-kong      |              9 |   2019-09-11 10:27:45   |  2019-10-15 12:24:42  |
 
 ## Reviewers
 
-TBD:
-* Member List
-* Contribution Chart
+### Member List
+
+* [tsthght](https://github.com/tsthght)
+
+### Contribution Chart
+
+|---------------|----------------|-------------------------|-----------------------|
+| user          | num merged PRs | earliest PR merged time | latest PR merged time |
+|:--------------|---------------:|-------------------------|-----------------------|
+| tsthght       |             30 |   2019-09-18 21:59:46   |  2019-10-15 11:10:05  |
 
 ## Committers
 
-TBD:
-* Member List
-* Contribution Chart
+N/A
 
 ## Maintainers
 
-TBD:
-* Member List
-* Contribution Chart
+* [qw4990](https://github.com/qw4990), [PingCAP](https://pingcap.com/en/)
+* [XuHuaiyu](https://github.com/XuHuaiyu), [PingCAP](https://pingcap.com/en/)
+* [SunRunAway](https://github.com/SunRunAway), [PingCAP](https://pingcap.com/en/)
+* [zz-jason](https://github.com/zz-jason), [PingCAP](https://pingcap.com/en/)
 
 ## Technical Leads
 
-TBD:
-* Member List
+* Lead: [qw4990](https://github.com/qw4990), [PingCAP](https://pingcap.com/en/)
+
+Co-Leads:
+
+* [XuHuaiyu](https://github.com/XuHuaiyu), [PingCAP](https://pingcap.com/en/)
+* [SunRunAway](https://github.com/SunRunAway), [PingCAP](https://pingcap.com/en/)
