@@ -11,22 +11,22 @@ least the **Active Contributor** community role in the expression package.
 
 Requirement:
 
-* Have at least 8 PRs get merged in the expression package within one yeay.
+* Have at least 8 PRs get merged in the expression package within one year.
 * Nominated by at least 2 Expr SIG Reviewers, Committer or Maintainer.
 
 ### From Active Contributor to Reviewer
 
 Requirement:
 
-* Have at least 30 PRs get merged in the expression package within one yeay.
+* Have at least 30 PRs get merged in the expression package within one year.
 * Nominated by at least 2 Committer or Maintainer.
 
 ### From Reviewer to Committer
 
 Requirement:
 
-* Have at least 60 PRs get merged in the expression package within one yeay.
-* Have reviewed at least 20 PRs in the expression package within one yeay.
+* Have at least 60 PRs get merged in the expression package within one year.
+* Have reviewed at least 20 PRs in the expression package within one year.
 * Nominated by at least 2 Committer or Maintainer.
 
 ## Quit && Demotion
