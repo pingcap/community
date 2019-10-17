@@ -1,13 +1,13 @@
 # Expression Special Interest Group(Expr SIG)
 
-Expression SIG covers the tidb expression implementations. We are focused on
+Expression SIG covers TiDB expression implementations. We are focused on
 the development and maintenance of the TiDB [Function and
 Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/reference/)
-behavior and their dependencies, including but not limited to:
+, including but not limited to:
 
-* Support new features.
-* Improve the performance.
-* Fix the bugs.
+* Supporting new features.
+* Improving the performance.
+* Fixing bugs.
 
 ## Roles and Organization Management
 
