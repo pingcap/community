@@ -1,6 +1,6 @@
 # SIG Expr Member List
 
-This member list is updated bi-weekly.
+This member list is updated on a  bi-weekly basis.
 
 ## Active Contributors
 

@@ -4,22 +4,23 @@
 
 ## Join
 
-The minimal requirement for contributors to join the Expr SIG is to have at
-least the **Active Contributor** community role in the expression package.
+The minimal requirement for contributors to join the Expr SIG is to have
+the **Active Contributor** community role in the expression package.
+## Promotion
 
 ### From Contributor to Active Contributor
 
-Requirement:
+Requirements:
 
 * Have at least 8 PRs get merged in the expression package within one year.
 * Nominated by at least 2 Expr SIG Reviewers, Committer or Maintainer.
 
 ### From Active Contributor to Reviewer
 
-Requirement:
+Requirements:
 
 * Have at least 30 PRs get merged in the expression package within one year.
-* Nominated by at least 2 Committer or Maintainer.
+* Nominated by at least 2 Committers or 2 Maintainers.
 
 ### From Reviewer to Committer
 
@@ -39,22 +40,22 @@ Requirement:
 
 **How to rejoin**:
 
-* Should meet the requirement of Active Contributor again.
+* Should meet the requirements for Active Contributor again.
 
 ### Reviewer
 
-Demoted to Active Contributor, satisifies at least 1 of the following
+For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at least 1 of the following conditions:
 scenarios:
 
 * Haven't reviewed or merged any PR in the expression package within 3 monthes.
-* Not appeared in the SIG meeting without any reason continuously 3 times.
-* At least 2 Committers or Maintainers thinks that Reviewer is not qualified.
+* Haven't appeared in the SIG meeting without any reason for 3 times continuously.
+* At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
-How to retain:
+How to retain the Reviewer role:
 
-* Reviewd or merged 5 PRs within 1 month
+* Have reviewed or merged 5 PRs within 1 month
 
-## Voluntary Quit or Demotion
+## Voluntarily Quit or Demote
 
 Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
-going to voluntaryly quit or demotion
+going to quit or demote voluntarily.
