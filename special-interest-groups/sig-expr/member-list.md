@@ -27,7 +27,9 @@ Members and their contributions:
 
 ## Technical Leads
 
-* Lead: [qw4990](https://github.com/qw4990), [PingCAP](https://pingcap.com/en/)
+Lead:
+
+* [qw4990](https://github.com/qw4990), [PingCAP](https://pingcap.com/en/)
 
 Co-Leads:
 
