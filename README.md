@@ -89,7 +89,7 @@ If you're interested in writing a tutorial for TiDB, please contact us:
 ## License
 
 TiDB Community is under the Apache 2.0 license. See the
-[LICENSE.md](./LICENSE.md) file for details.
+[LICENSE](./LICENSE.md) file for details.
 
 ## Acknowledgements
 
