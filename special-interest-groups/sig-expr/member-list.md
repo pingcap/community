@@ -10,7 +10,7 @@
 Members and their contributions:
 
 | user                                              | num merged PRs | earliest PR merged time | latest PR merged time |
-|:--------------------------------------------------|---------------:|-------------------------|-----------------------|
+|:-------------------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
 | [b41sh](https://github.com/b41sh)                 |             27 |     2019-03-21          |   2019-10-15          |
 | [tangwz](https://github.com/tangwz)               |             23 |     2019-08-17          |   2019-10-15          |
 | [jacklightChen](https://github.com/jacklightChen) |             15 |     2019-09-04          |   2019-10-17          |
@@ -22,7 +22,7 @@ Members and their contributions:
 Members and their contributions:
 
 | user                                        | num merged PRs | earliest PR merged time | latest PR merged time |
-|:--------------------------------------------|---------------:|-------------------------|-----------------------|
+|:-------------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
 | [tsthght](https://github.com/tsthght)       |             33 |     2019-09-18          |   2019-10-18          |
 
 ## Technical Leads
