@@ -23,13 +23,12 @@ TODO(zz-jason):
 ## Communicating
 
 Communication within the TiDB community abides by the [Contributor Covenant
-Code of Conduct](./CODE_OF_CONDUCT.md).
-
-You can reach out to the community members via any one of the following ways:
+Code of Conduct](./CODE_OF_CONDUCT.md). You can reach out to the community
+members via any one of the following ways:
 
 * Slack: [https://pingcap.com/tidbslack](https://pingcap.com/tidbslack)
 * Social Media
-    * The TiDB Blog is a great resource pool to find content! We post the
+    * Blog: The TiDB Blog is a great resource pool to find content! We post the
       latest TiDB news including new releases and technical articles there.
       Check out this page: [blog](https://pingcap.com/blog) or
       [blog-cn](https://pingcap.com/blog-cn)
@@ -38,31 +37,28 @@ You can reach out to the community members via any one of the following ways:
     * Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
     * Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
     * Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
-    * [TiDB Weekly](https://pingcap.com/weekly). This weekly newsletter
+    * [TiDB Weekly](https://pingcap.com/weekly): This weekly newsletter
       highlights content from the community along with the latest TiDB weekly
       update & news. Read the TiDB Weekly archives to catch up on all of the
       latest TiDB updates and hacks.
-* Meetupes and Conferences
+
+<!-- TODO(zz-jason) add Meetupes and Conferences -->
 
 ## How to contribute
 
 Contributions are welcomed and greatly appreciated. See
-[CONTRIBUTING.md](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING.md](./CONTRIBUTING.md)
 for details on submitting patches and the contribution workflow.
 
 You can start by finding an existing issue with the
 [help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-label. These issues are well suited for new contributors.
-
-There's always a need for more test coverage. You can start with an area that
-has [low coverage](https://codecov.io/gh/pingcap/tidb).
-
-If a PR (Pull Request) submitted to the
-[TiDB/TiKV/TiSpark/PD/Docs/Docs-cn](https://github.com/pingcap) projects by you
-is approved and merged, then you become a TiDB Contributor.
+label in the tidb repo. These issues are well suited for new contributors. BTW,
+there's always a need for more test coverage. You can also start with an area
+that has [low coverage](https://codecov.io/gh/pingcap/tidb).
 
 You can also join one of the [active working groups](./working-groups) to
-participate in a community activity.
+participate in a community activity. Start attending working group meetings and
+join the slack channel.
 
 <!-- TODO(zz-jason): Add Active SIGs -->
 
@@ -93,8 +89,7 @@ If you're interested in writing a tutorial for TiDB, please contact us:
 ## License
 
 TiDB Community is under the Apache 2.0 license. See the
-[LICENSE.md](https://github.com/pingcap/community/blob/master/LICENSE) file for
-details.
+[LICENSE.md](./LICENSE.md) file for details.
 
 ## Acknowledgements
 
