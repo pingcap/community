@@ -13,23 +13,23 @@ the **Active Contributor** community role in the expression package.
 
 Requirements:
 
-* Have at least 8 PRs get merged in the expression package within one year.
+* Have at least 8 PRs merged in the expression package within one year.
 * Nominated by at least 2 Expr SIG Reviewers, Committer or Maintainer.
 
 ### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 30 PRs get merged in the expression package within one year.
+* Have at least 30 PRs merged in the expression package within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
 ### From `Reviewer` to `Committer`
 
 Requirement:
 
-* Have at least 60 PRs get merged in the expression package within one year.
+* Have at least 60 PRs merged in the expression package within one year.
 * Have reviewed at least 20 PRs in the expression package within one year.
-* Nominated by at least 2 Committer or Maintainer.
+* Nominated by at least 2 Committers or Maintainers.
 
 ## Quit and Demotion
 
@@ -50,7 +50,7 @@ Requirement:
 For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the expression package within 3 monthes.
+* Haven't reviewed or merged any PR in the expression package within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
