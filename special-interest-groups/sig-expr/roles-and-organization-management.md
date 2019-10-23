@@ -2,28 +2,28 @@
 
 ## Join and Promotion
 
-## Join
+### Join
 
 The minimal requirement for contributors to join the Expr SIG is to have
 the **Active Contributor** community role in the expression package.
 
-## Promotion
+### Promotion
 
-### From `Contributor` to `Active Contributor`
+#### From `Contributor` to `Active Contributor`
 
 Requirements:
 
 * Have at least 8 PRs merged in the expression package within one year.
 * Nominated by at least 2 Expr SIG Reviewers, Committer or Maintainer.
 
-### From `Active Contributor` to `Reviewer`
+#### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
 * Have at least 30 PRs merged in the expression package within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
-### From `Reviewer` to `Committer`
+#### From `Reviewer` to `Committer`
 
 Requirement:
 
@@ -58,7 +58,7 @@ least 1 of the following conditions:
 
 * Have reviewed or merged 5 PRs within 1 month.
 
-## Voluntarily Quit or Demote
+### Voluntarily Quit or Demote
 
 Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
 going to quit or demote voluntarily.
