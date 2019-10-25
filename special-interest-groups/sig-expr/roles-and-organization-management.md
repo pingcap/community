@@ -25,7 +25,7 @@ Requirements:
 
 #### From `Reviewer` to `Committer`
 
-Requirement:
+Requirements:
 
 * Have at least 60 PRs merged in the expression package within one year.
 * Have reviewed at least 20 PRs in the expression package within one year.
