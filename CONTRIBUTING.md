@@ -106,6 +106,8 @@ export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 ```
 
+Then you can use `make` command to build TiDB.
+
 #### Dependency management
 
 TiDB uses [`Go Modules`](https://github.com/golang/go/wiki/Modules) to manage dependencies.
