@@ -106,3 +106,4 @@ PCP #12345
 这里有 [TiDB 精选技术讲解文章](https://github.com/pingcap/presentations/blob/master/hackathon-2019/reference-document-of-hackathon-2019.md)，帮助大家轻松掌握 TiDB 各核心组件的原理及功能；还有 [PingCAP University](https://university.pingcap.com/?diliater=6YvzZjyL97Z5c4G09GRzLQ==) 在线视频课程，帮助大家快速熟悉 TiDB 原理、架构及最佳实践，点击以上链接即可轻松获取。
 
 这将是一次集体智慧的碰撞，我们期待着与社区小伙伴一起创造无限可能！
+
