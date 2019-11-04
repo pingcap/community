@@ -6,7 +6,7 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 
 TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一赛季，将聚焦 Performance Improvement，于 2019 年 11 月 4 日正式开启，2020 年 2 月 4 日结束，持续 3 个月。
 
-欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program channel** 与我们取得联系。
+欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 和 [tikv-wg Slack Workspace](http://tikv.org/chat)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program channel** 与我们取得联系。
 
 ## 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
