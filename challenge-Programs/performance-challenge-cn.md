@@ -1,4 +1,4 @@
-### TiDB Performance Challenge Program
+## TiDB Performance Challenge Program
 
 TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助，我们很欣喜地看到：越来越多的小伙伴参与到 TiDB 开源社区的建设当中，越来越多的小伙伴在 TiDB 开源社区用自己的方式表达着对于开源的热情和对于技术的追求，TiDB 也在社区小伙伴的推动下，不断地刷新着过去的成绩。
 
@@ -20,11 +20,11 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
    - 标题：PCP/Sign Up
    - 内容：
       - 个人参赛：请对你自己进行简要介绍，并留下可以与你取得联系的邮箱地址。
-      - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md)
+      - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md)。
 
 **注意事项：**
    
-   - 以团队形式参赛，每队成员不可超过 3 人（含 3 人）
+   - 以团队形式参赛，每队成员最多三人。
 
 ### 参赛流程
 
@@ -32,46 +32,45 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 #### 第一步：查看 / 提出 Issue
 
-
 当前开放的 Issue 列表可分别在 [TiDB-Performance Challenge Program Project](https://github.com/pingcap/tidb/projects/26)、[TiKV-Performance Challenge Program Project](https://github.com/tikv/tikv/projects/20)、[PD-Performance Challenge Program Project](https://github.com/pingcap/pd/projects/2) 中的 TODO Columns 查看。
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Performance Challenge 相关标签所代表含义做如下说明：
 
-- “difficulty/easy”、“difficulty/medium”、“difficulty/hard”：Issue 难度级别
-- “Component/XX”：Issue 所涉及的模块
+- “difficulty/easy”、“difficulty/medium”、“difficulty/hard”：Issue 难度级别。
+- “Component/XX”：Issue 所涉及的模块。
 
 除了当前开放的 Issue，如果你有其他关于 **Performance Improvement** 的想法想要实现，可通过发起 Issue 的方式提出 Proposal。发起 Issue 之前请确保你已经了解了 [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) 和 [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)。
 
 - TiDB 相关 Proposal 可通过 [TiDB Issue 发起通道](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 TiDB Repo；
 - TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
-- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo.
+- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo。
 
 
-格式要求：Issue 标题前需添加“**REQ-PCP**”标记，例如：REQ-PCP: Further extract tidb_query into different workspaces
+格式要求：Issue 标题前需添加“**REQ-PCP**”标记，例如：REQ-PCP: Further extract tidb_query into different workspaces。
 
 
 #### 第二步：领取任务
 
-如果你决定认领某一个 issue，请先在这个 Issue 中 回复 **“/pick-up-challenge”**， 后台将自动判断你所拥有的积分是否具备挑战此 Issue 的资格，积分满足要求即可开始挑战，积分不满足要求，需按照系统提示获得满足挑战要求的积分。
+如果你决定认领某一个 Issue，请先在这个 Issue 中回复 **“/pick-up-challenge”**， 后台将自动判断你所拥有的积分是否具备挑战此 Issue 的资格，积分满足要求即可开始挑战，积分不满足要求，需按照系统提示获得满足挑战要求的积分。
 
 **需要特别提醒的是：**
 
-- 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目
-- 每个参赛主体一次只能领取一个任务
+- 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目。
+- 每个参赛主体一次只能领取一个任务。
 
 #### 第三步：实现代码
 
-在实现代码的过程中如果遇到问题，可以通过 **#performance-challenge-program channel** 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦~
+在实现代码的过程中如果遇到问题，可以通过 **#performance-challenge-program channel** 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦～
 
 #### 第四步：提交代码
 
 如果你觉得你的方案已经达到了题目的要求，可在相关 Repo（例如 tidb）的 master 分支上实现你的方案，并将代码以 GitHub Pull Request（简称 PR）的形式提交到相应的 GitHub Repo 上。当 PR 提交后，可在 PR 的评论中 at 该题目的 Mentor 进行代码评审，Mentor 会尽可能在方案提交后的 48h 内完成评估。
 
-注：提交的 PR 需要满足 [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/commit-message-pr-style.md) 中定义的规范
+注：提交的 PR 需要满足 [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/commit-message-pr-style.md) 中定义的规范。
 
 提交方式：代码完成后，参赛者需提交 GitHub Pull Request(PR) 到相应 Repo，如何提交 PR 可参考 [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md)，这里也有一些 [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) 供大家参考。
 
-格式要求：PR 的第一行需要指定任务 issue 的编号，再写每个 repo 要求的格式，示例：
+格式要求：PR 的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
  
 ```
 PCP #12345
@@ -90,12 +89,11 @@ PCP #12345
 
 #### 第六步：积分兑换
 
-积分获得情况将会在 TiDB 性能挑战赛官方网站呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+积分获得情况将会在 [TiDB 性能挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
 兑换时间：**每个赛季结束后至下一赛季结束前**可进行积分兑换，下一个赛季结束时，前一赛季的可兑换积分将直接清零，不可再进行社区礼品兑换。
 
-兑换方式：本赛季结束后填写礼品兑换表（届时将开放填写权限）
-
+兑换方式：本赛季结束后填写礼品兑换表（届时将开放填写权限）。
 
 ### 学习资料
 
