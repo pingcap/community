@@ -11,7 +11,7 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
 ## 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
 - 参考 [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 在本地环境中安装 Git。
-- 通过 [Set up Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 配置 Git 访问 GitHub。
+- 通过 [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) 配置 Git 访问 GitHub。
 
 ## 报名
 
