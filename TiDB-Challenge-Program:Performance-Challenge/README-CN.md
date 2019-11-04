@@ -33,22 +33,18 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 #### 第一步：查看 / 提出 Issue
 
 
-当前开放的 Issue 列表可分别在 TiKV、TiDB、PD Repo 下的 Performance Challenge Program Project 中的 TODO Columns 查看。
-
-- TiKV Issues：[https://github.com/tikv/tikv/projects/20](https://github.com/tikv/tikv/projects/20)
-- TiDB Issues：[https://github.com/pingcap/tidb/projects/26](https://github.com/pingcap/tidb/projects/26)
-- PD Issues：[https://github.com/pingcap/pd/projects/2](https://github.com/pingcap/pd/projects/2)
+当前开放的 Issue 列表可分别在 [TiDB-Performance Challenge Program Project](https://github.com/pingcap/tidb/projects/26)、[TiKV-Performance Challenge Program Project](https://github.com/tikv/tikv/projects/20)、[PD-Performance Challenge Program Project](https://github.com/pingcap/pd/projects/2) 中的 TODO Columns 查看。
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Performance Challenge 相关标签所代表含义做如下说明：
 
 - “difficulty/easy”、“difficulty/medium”、“difficulty/hard”：Issue 难度级别
 - “Component/XX”：Issue 所涉及的模块
 
-如果除了当前开放的 Issue，你有其他关于 **Performance Improvement** 的想法想要实现，可以发起 Issue 到相应 Repo，发起 Issue 之前请确保你已经了解了 [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) 和 [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)。
+除了当前开放的 Issue，如果你有其他关于 **Performance Improvement** 的想法想要实现，可通过发起 Issue 的方式提出 Proposal。发起 Issue 之前请确保你已经了解了 [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) 和 [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)。
 
-- TiKV Issue 提交通道：[https://github.com/tikv/tikv/issues/new?template=feature-request.md](https://github.com/tikv/tikv/issues/new?template=feature-request.md)
-- TiDB Issue 提交通道：[https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md)
-- PD Issue 提交通道：[https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md)
+- TiDB 相关 Proposal 可通过 [TiDB Issue 发起通道](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 TiDB Repo；
+- TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
+- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo.
 
 
 格式要求：Issue 标题前需添加“**REQ-PCP**”标记，例如：REQ-PCP: Further extract tidb_query into different workspaces
