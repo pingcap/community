@@ -6,4 +6,4 @@ Click the link below to learn more about the challenge:
 
 - [Performance Challenge Program](performance-challenge.md)
 
-**Note:** You can also see [Performance Challenge Program in **Chinese**](README-CN.md).
+**Note:** You can also see [Performance Challenge Program in **Chinese**](README-CN).
