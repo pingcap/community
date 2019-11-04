@@ -6,7 +6,7 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 
 TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一赛季，将聚焦 Performance Improvement，于 2019 年 11 月 4 日正式开启，2020 年 2 月 4 日结束，持续 3 个月。
 
-欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program channel** 与我们取得联系。
+欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 和 [tikv-wg Slack Workspace](http://tikv.org/chat)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program** channel 与我们取得联系。
 
 ### 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
@@ -61,7 +61,7 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 #### 第三步：实现代码
 
-在实现代码的过程中如果遇到问题，可以通过 **#performance-challenge-program channel** 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦~
+在实现代码的过程中如果遇到问题，可以通过 **#performance-challenge-program** channel 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦~
 
 #### 第四步：提交代码
 
@@ -90,7 +90,7 @@ PCP #12345
 
 #### 第六步：积分兑换
 
-积分获得情况将会在 TiDB 性能挑战赛官方网站呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+积分获得情况将会在 [TiDB 性能挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
 兑换时间：**每个赛季结束后至下一赛季结束前**可进行积分兑换，下一个赛季结束时，前一赛季的可兑换积分将直接清零，不可再进行社区礼品兑换。
 
