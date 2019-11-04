@@ -25,6 +25,7 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
 **注意事项：**
    
    - 以团队形式参赛，每队成员最多三人。
+   - 有 PingCAP 内部员工参与的队伍，将作为打星队伍，不参与积分总排名，所获积分仍具有兑换权益
 
 ## 参赛流程
 
