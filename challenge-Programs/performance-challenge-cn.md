@@ -1,4 +1,4 @@
-### TiDB Performance Challenge Program
+# TiDB Performance Challenge Program
 
 TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助，我们很欣喜地看到：越来越多的小伙伴参与到 TiDB 开源社区的建设当中，越来越多的小伙伴在 TiDB 开源社区用自己的方式表达着对于开源的热情和对于技术的追求，TiDB 也在社区小伙伴的推动下，不断地刷新着过去的成绩。
 
@@ -8,12 +8,12 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
 
 欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 和 [tikv-wg Slack Workspace](http://tikv.org/chat)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program** channel 与我们取得联系。
 
-### 赛前准备
+## 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
 - 参考 [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 在本地环境中安装 Git。
 - 通过 [Set up Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 配置 Git 访问 GitHub。
 
-### 报名
+## 报名
 
 - 报名方式： [发起 Issue](https://github.com/tidb-perf-challenge/pcp/issues/new?template=performance-challenge-program.md&title=PCP%3A+Sign+Up) 至 [tidb-perf-challege/pcp](https://github.com/tidb-perf-challenge/pcp) repo
 - 格式要求：
@@ -22,15 +22,13 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
       - 个人参赛：请对你自己进行简要介绍，并留下可以与你取得联系的邮箱地址。
       - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md)
 
-**注意事项：**
-   
-   - 以团队形式参赛，每队成员不可超过 3 人（含 3 人）
+**注意事项**：以团队形式参赛，每队成员不可超过 3 人（含 3 人）
 
-### 参赛流程
+## 参赛流程
 
 TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务->实现任务->提交任务->评估任务->获得积分->积分兑换，其中“获得积分”之前的步骤都将在 GitHub 上实现。
 
-#### 第一步：查看 / 提出 Issue
+### 第一步：查看 / 提出 Issue
 
 
 当前开放的 Issue 列表可分别在 [TiDB-Performance Challenge Program Project](https://github.com/pingcap/tidb/projects/26)、[TiKV-Performance Challenge Program Project](https://github.com/tikv/tikv/projects/20)、[PD-Performance Challenge Program Project](https://github.com/pingcap/pd/projects/2) 中的 TODO Columns 查看。
@@ -50,7 +48,7 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 格式要求：Issue 标题前需添加“**REQ-PCP**”标记，例如：REQ-PCP: Further extract tidb_query into different workspaces
 
 
-#### 第二步：领取任务
+### 第二步：领取任务
 
 如果你决定认领某一个 issue，请先在这个 Issue 中 回复 **“/pick-up-challenge”**， 后台将自动判断你所拥有的积分是否具备挑战此 Issue 的资格，积分满足要求即可开始挑战，积分不满足要求，需按照系统提示获得满足挑战要求的积分。
 
@@ -59,11 +57,11 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 - 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目
 - 每个参赛主体一次只能领取一个任务
 
-#### 第三步：实现代码
+### 第三步：实现代码
 
 在实现代码的过程中如果遇到问题，可以通过 **#performance-challenge-program** channel 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦~
 
-#### 第四步：提交代码
+### 第四步：提交代码
 
 如果你觉得你的方案已经达到了题目的要求，可在相关 Repo（例如 tidb）的 master 分支上实现你的方案，并将代码以 GitHub Pull Request（简称 PR）的形式提交到相应的 GitHub Repo 上。当 PR 提交后，可在 PR 的评论中 at 该题目的 Mentor 进行代码评审，Mentor 会尽可能在方案提交后的 48h 内完成评估。
 
@@ -79,7 +77,7 @@ PCP #12345
 <!-- The following description -->
 ```
 
-#### 第五步：代码评估及积分授予
+### 第五步：代码评估及积分授予
 
 评估规则：PR Reviewer 会对 PR 进行代码格式、代码功能和性能的 Review，获得 2 个以上 Reviewer 认可（即在 PR 中评论 “LGTM”）的 PR 将会被 merge 到对应 repo 的主干。
 
@@ -88,7 +86,7 @@ PCP #12345
 否则，你需要继续和 PR 的 Reviewer 探讨实现方案和细节，合理的接受或者拒绝 Reviewer 对 PR 的评审建议。
 
 
-#### 第六步：积分兑换
+### 第六步：积分兑换
 
 积分获得情况将会在 [TiDB 性能挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
@@ -97,7 +95,7 @@ PCP #12345
 兑换方式：本赛季结束后填写礼品兑换表（届时将开放填写权限）
 
 
-### 学习资料
+## 学习资料
 
 这里有 [TiDB 精选技术讲解文章](https://github.com/pingcap/presentations/blob/master/hackathon-2019/reference-document-of-hackathon-2019.md)，帮助大家轻松掌握 TiDB 各核心组件的原理及功能；还有 [PingCAP University](https://university.pingcap.com/?diliater=6YvzZjyL97Z5c4G09GRzLQ==) 在线视频课程，帮助大家快速熟悉 TiDB 原理、架构及最佳实践，点击以上链接即可轻松获取。
 
