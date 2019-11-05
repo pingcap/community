@@ -25,7 +25,8 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
 **注意事项：**
    
    - 以团队形式参赛，每队成员最多三人。
-   - 有 PingCAP 内部员工参与的队伍，将作为打星队伍，不参与积分总排名，所获积分仍具有兑换权益
+   - 有 PingCAP 内部员工参与的队伍，将作为打星队伍，不参与积分总排名，所获积分仍具有兑换权益。
+   - **如需更改报名信息，需关闭错误报名 Issue，重新开启一个新的 Issue 进行报名，暂不支持在原始 Issue 上进行编辑**。
 
 ## 参赛流程
 
@@ -56,6 +57,7 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 **需要特别提醒的是：**
 
+- **向量化函数 Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105)、[TiKV #5751](http://github.com/tikv/tikv/issues/5751)）无需领取，每完成 Issue 中的一个函数任务，即可提交一个 PR，每一个成功被 Merge 的 PR 对应 50 积分，完成 Issue 中所有函数任务视为该 Issue 挑战成功。**
 - 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目。
 - 每个参赛主体一次只能领取一个任务。
 
