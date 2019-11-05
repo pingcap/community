@@ -57,7 +57,7 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 **需要特别提醒的是：**
 
-- **向量化函数 Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105)、[TiKV #5751](http://github.com/tikv/tikv/issues/5751)）无需领取，每完成 Issue 中的一个函数任务，即可提交一个 PR，每一个成功被 Merge 的 PR 对应 50 积分，Issue 中所有函数任务被完成后，该 Issue 将会被 close。**
+- **向量化函数 Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105)、[TiKV #5751](http://github.com/tikv/tikv/issues/5751)）无需领取，每完成 Issue 中的一个函数任务，即可提交一个 PR，PR 格式与常规的 PCP PR 相同，首行需要为`PCP #12105`或`PCP #5751`，每一个成功被 Merge 的 PR 对应 50 积分，Issue 中所有函数任务被完成后，该 Issue 将会被 close。**
 - 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目。
 - 每个参赛主体一次只能领取一个任务。
 
