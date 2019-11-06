@@ -24,7 +24,8 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
       - For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contact. (See the [example](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md))
 - Note: 
    - Up to three members in a team.
-   - The team that includes a PingCAPer will be marked with a star. While this team will not be ranked in the leaderboard, the Contribution Credit it got can still redeem the prizes.
+   - The team that includes a PingCAPer will be marked with a star. While this team is not eligible to to advance toward the final rank, the Contribution Credit theyit got can still redeem the prizes.
+   - If you want to change the signup information, you need to close the wrong signup Issue and open a new one for signing up. Editing on the original Issue is not supported for the moment.
 
 ## How To Challenge
 This step-by-step guide will walk you through the things you need to know to participate in TiDB Performance Challenge and is a great reference for any other time you need it. Feel free to follow the written instructions below. 
@@ -51,6 +52,7 @@ If you decide to pick up an Issue, please comment **“/pick-up-challenge”** o
 
 **Heads-up:**
 
+- If you want to challenge vectorization function Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105), [TiKV #5751](http://github.com/tikv/tikv/issues/5751)), you can directly challenge the function tasks in the Issue without commenting on "/pick-up-challenge". Each time you successfully perform a function, you can submit a PR in the same format as the regular PCP PR (see Step 4 for more details). You have to note that the first line of the PR should be `PCP #12105` or `PCP #5751`. Each merged PR in the vectorization function Issue values 50 Contribution Credit. After all the vectorization function tasks are performed, the Issue will be closed.
 - The initial Contribution Credit of each individual participant or team is “0”. The participants need to gain “400” points in “Easy” issues so that they’ll be qualified to work on Issues in “TODO/Medium” and “TODO/Hard”. TiKV is a big codebase and takes some time to get familiar with, Easy issues are a great way to do that to plan larger future contributions. If you have significant upstream experience (Eg you wrote a gRPC library) talk to use and we can bypass this requirement.
 - Each individual participant or team can only pick up one Issue at a time. Folks working on larger issue might stumble into fixes for smaller, Easy, issues. That’s OK, submit those! But don’t overburden yourself, please!
 
