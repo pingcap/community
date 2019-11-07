@@ -7,20 +7,24 @@ each other.
 Your journey of becoming a contributor and committer starts from here:
 improving docs, improving code, giving talks, organizing meetups, etc.
 
-## Governance
+## Architecture
+
+![TiDB Community Architecture](./architecture.svg)
+<img src="./architecture.svg">
+
+## TiDB User Group
+
+* Governance
+* Communicating
+
+## TiDB Developer Group
+
+### Governance
 
 * [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md)
 * [Become a Committer](./become-a-committer.md)
 
-<!--
-TODO(zz-jason):
-* Community Architecture
-* SIG Governance
-* WG Governance
-* Member Governance
--->
-
-## Communicating
+### Communicating
 
 Communication within the TiDB community abides by the [Contributor Covenant
 Code of Conduct](./CODE_OF_CONDUCT.md). You can reach out to the community
@@ -42,9 +46,7 @@ members via any one of the following ways:
       update & news. Read the TiDB Weekly archives to catch up on all of the
       latest TiDB updates and hacks.
 
-<!-- TODO(zz-jason) add Meetupes and Conferences -->
-
-## How to contribute
+### How to contribute
 
 Contributions are welcomed and greatly appreciated. See
 [CONTRIBUTING.md](./CONTRIBUTING.md)
@@ -60,14 +62,12 @@ You can also join one of the [active working groups](./working-groups) to
 participate in a community activity. Start attending working group meetings and
 join the slack channel.
 
-<!-- TODO(zz-jason): Add Active SIGs -->
-
-### Developer Document
+Some useful documents:
 
 * [Github Workflow](./contributors/workflow.md)
 * [SRE-BOT Command Help](./contributors/command-help.md)
 
-### Learning Resources
+## Learning Resources
 
 * [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
 * [A Brief Introduction of TiDB](https://www.pingcap.com/blog/2017-05-23-perconalive17/)
@@ -75,11 +75,9 @@ join the slack channel.
 * [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in chinese
 * [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in chinese
 
-### TiDB Roadmap
+## TiDB Roadmap
 
 See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
-
-<!-- TODO(zz-jason): add Community Members -->
 
 ## Tutorial Content
 
