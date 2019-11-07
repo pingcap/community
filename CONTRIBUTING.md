@@ -77,7 +77,7 @@ TiDB is written in [Go](http://golang.org).
 If you don't have a Go development environment,
 please [set one up](http://golang.org/doc/code.html).
 
-The version of GO should be **1.12** or above.
+The version of GO should be **1.13** or above.
 
 After installation, there are two ways to build TiDB binary.
 
@@ -105,6 +105,8 @@ A common setup is the following but you could always google a setup for your own
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 ```
+
+Then you can use `make` command to build TiDB.
 
 #### Dependency management
 
