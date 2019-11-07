@@ -10,7 +10,6 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 ## Architecture
 
 ![TiDB Community Architecture](./architecture.svg)
-<img src="./architecture.svg">
 
 ## TiDB User Group
 
