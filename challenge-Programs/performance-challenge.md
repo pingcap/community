@@ -83,7 +83,7 @@ If your PR is not merged, you need to discuss the solution and details with the 
 
 ### Step 6: Redeem your Contribution Credit
 
-The leaderboard of TiDB Performance Challenge Program is displayed on the [TiDB Performance Challenge](https://pingcap.com/community/tidb-performance-challenge/) website. You can redeem your Contribution Credit for prizes including but not limited to TiDB hoodie, The North Face customized computer backpack, etc. (See the [website](https://pingcap.com/community/tidb-performance-challenge/) to know more gift information)
+The leaderboard of TiDB Performance Challenge Program is displayed on the [TiDB Performance Challenge](https://pingcap.com/community-cn/tidb-performance-challenge/) website. You can redeem your Contribution Credit for PingCAP Open Source Contribution Bonus including but not limited to TiDB hoodie, The North Face customized computer backpack, etc. (See the [website](https://pingcap.com/community-cn/tidb-performance-challenge/) to know more gift information)
 
 Time to remember: You can redeem your Contribution Credit after the current season ends and before the end of the next season. At the end of the next season, all your redeemable Contribution Credit will be cleared, and you can no longer exchange the gifts, but the winning Contribution Credit can be accumulated over all seasons.
 
