@@ -46,8 +46,6 @@ TiDB has the following types of groups that are officially supported:
   long term artifacts. Working groups can report back and act through involved
   SIGs.
 
-* [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md)
-
 ### How to contribute
 
 Contributions are welcomed and greatly appreciated. See
