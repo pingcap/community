@@ -13,37 +13,40 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ## TiDB User Group
 
-* Governance
-* Communicating
+The TiDB User Groups are groups for facilitating communication and discovery of
+information related to topics that have long term relevance to large groups of
+TiDB users.
+
+See [docs](https://pingcap.com/docs/) or
+[docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
+help in [AskTUG](https://asktug.com/) if you met any problem.
 
 ## TiDB Developer Group
 
-### Governance
-
-* [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md)
-* [Become a Committer](./become-a-committer.md)
-
 ### Communicating
 
-Communication within the TiDB community abides by the [Contributor Covenant
-Code of Conduct](./CODE_OF_CONDUCT.md). You can reach out to the community
-members via any one of the following ways:
+The [communication](./communicating.md) page lists communication channels like
+chat, social medias, etc.
 
-* Slack: [https://pingcap.com/tidbslack](https://pingcap.com/tidbslack)
-* Social Media
-    * Blog: The TiDB Blog is a great resource pool to find content! We post the
-      latest TiDB news including new releases and technical articles there.
-      Check out this page: [blog](https://pingcap.com/blog) or
-      [blog-cn](https://pingcap.com/blog-cn)
-    * Stack Overflow: [https://stackoverflow.com/questions/tagged/tidb](https://stackoverflow.com/questions/tagged/tidb)
-    * Twitter: [https://twitter.com/PingCAP](https://twitter.com/PingCAP)
-    * Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
-    * Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
-    * Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
-    * [TiDB Weekly](https://pingcap.com/weekly): This weekly newsletter
-      highlights content from the community along with the latest TiDB weekly
-      update & news. Read the TiDB Weekly archives to catch up on all of the
-      latest TiDB updates and hacks.
+For more specific topics, try to join
+[https://pingcap.com/tidbslack](https://pingcap.com/tidbslack) and discuss with others.
+
+### Governance
+
+TiDB has the following types of groups that are officially supported:
+
+* **Special Interest Groups (SIGs)** are persistent open groups that focus on a
+  part of the TiDB. SIGs must have open and transparent proceedings. Anyone is
+  welcome to participate and contribute provided they follow the TiDB [Code of
+  Conduct](./CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a
+  part of TiDB.
+
+* **Working Groups (WGs)** are temporary groups that are formed to address
+  issues that cross SIG boundaries. Working groups do not own any code or other
+  long term artifacts. Working groups can report back and act through involved
+  SIGs.
+
+* [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ### How to contribute
 
@@ -65,6 +68,7 @@ Some useful documents:
 
 * [Github Workflow](./contributors/workflow.md)
 * [SRE-BOT Command Help](./contributors/command-help.md)
+* [Become a Committer](./become-a-committer.md)
 
 ## Learning Resources
 
