@@ -73,17 +73,15 @@ Some useful documents:
 * [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
 * [A Brief Introduction of TiDB](https://www.pingcap.com/blog/2017-05-23-perconalive17/)
 * [https://pingcap.com/docs](https://pingcap.com/docs)
-* [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in chinese
-* [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in chinese
+* [TiDB Internal (I) - Data Storage](https://pingcap.com/blog/2017-07-11-tidbinternal1/) or [三篇文章了解 TiDB 技术内幕 - 说存储](https://pingcap.com/blog-cn/tidb-internal-1/) in Chinese
+* [TiDB Internal (II) - Computing](https://pingcap.com/blog/2017-07-11-tidbinternal2/) or [三篇文章了解 TiDB 技术内幕 - 说计算](https://pingcap.com/blog-cn/tidb-internal-2/) in Chinese
+* [TiDB Internal (III) - Scheduling](https://pingcap.com/blog/2017-07-20-tidbinternal3/) or [三篇文章了解 TiDB 技术内幕 - 谈调度](https://pingcap.com/blog-cn/tidb-internal-3/) in Chinese
+* [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in Chinese
+* [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in Chinese
 
 ## TiDB Roadmap
 
 See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
-
-## Tutorial Content
-
-If you're interested in writing a tutorial for TiDB, please contact us:
-[community@pingcap.com](mailto:community@pingcap.com)
 
 ## License
 
