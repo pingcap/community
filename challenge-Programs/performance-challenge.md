@@ -24,7 +24,8 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
       - For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contact. (See the [example](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md))
 - Note: 
    - Up to three members in a team.
-   - The team that includes a PingCAPer will be marked with a star. While this team will not be ranked in the leaderboard, the Contribution Credit it got can still redeem the prizes.
+   - The team that includes a PingCAPer will be marked with a star (*). Their Contribution Credit will not be included into the final rank, but still can be used to redeem gifts.
+   - If you want to change the signup information, you need to close the wrong signup Issue and open a new one for signing up. Editing on the original Issue is not supported for the moment.
 
 ## How To Challenge
 This step-by-step guide will walk you through the things you need to know to participate in TiDB Performance Challenge and is a great reference for any other time you need it. Feel free to follow the written instructions below. 
@@ -51,7 +52,8 @@ If you decide to pick up an Issue, please comment **“/pick-up-challenge”** o
 
 **Heads-up:**
 
-- The initial Contribution Credit of each individual participant or team is “0”. The participants need to gain “400” points in “Easy” issues so that they’ll be qualified to work on Issues in “TODO/Medium” and “TODO/Hard”. TiKV is a big codebase and takes some time to get familiar with, Easy issues are a great way to do that to plan larger future contributions. If you have significant upstream experience (Eg you wrote a gRPC library) talk to use and we can bypass this requirement.
+- If you want to challenge vectorization function Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105), [TiKV #5751](http://github.com/tikv/tikv/issues/5751)), you can directly challenge the function tasks in the Issue without commenting on "/pick-up-challenge". Each time you successfully perform a function, you can submit a PR in the same format as the regular PCP PR (see Step 4 for more details). You have to note that the first line of the PR should be `PCP #12105` or `PCP #5751`. Each merged PR in the vectorization function Issue values 50 Contribution Credit. After all the vectorization function tasks are performed, the Issue will be closed.
+- **The initial Contribution Credit of each individual participant or team is “0”**. The participants need to gain “400” Contribution Credit in “Easy” issues so that they’ll be qualified to work on Issues in “TODO/Medium” and “TODO/Hard”. **When the Contribution Credit owned by the participants is over "600" (including "600"), the Contribution Credit gained through successfully challenging the "Easy" issues will be unavailiable.** TiKV is a big codebase and takes some time to get familiar with, Easy issues are a great way to do that to plan larger future contributions. If you have significant upstream experience (Eg you wrote a gRPC library) talk to use and we can bypass this requirement.
 - Each individual participant or team can only pick up one Issue at a time. Folks working on larger issue might stumble into fixes for smaller, Easy, issues. That’s OK, submit those! But don’t overburden yourself, please!
 
 ### Step 3: Fix the Issue
@@ -60,7 +62,7 @@ If you have any questions during the coding process, you can discuss with us thr
 ### Step 4: Commit your code
 When your solution is ready, you can open a PR and commit the code to the corresponding GitHub Repo (i.e.,tidb) as a GitHub Pull Request (aka PR). Remember to @ the mentor responsible of this Issue to review your PR in the comment after the PR is submitted. The Mentor will check your PR as soon as possible. 
 
-How to submit: When you finish the coding, you can submit the GitHub Pull Request (PR) to the corresponding Repo. About how to submit PR, see [	GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). There is also [SRE-BOT Command](https://github.com/pingcap/community/blob/master/contributors/command-help.md) Help for your reference.
+How to submit: When you finish the coding, you can submit the GitHub Pull Request (PR) to the corresponding Repo. About how to submit PR, see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). There is also [SRE-BOT Command](https://github.com/pingcap/community/blob/master/contributors/command-help.md) Help for your reference.
 
 Format requirement: 
 The first line of PR needs to specify the number of the Issue you pick, and then the format required by each repo.
@@ -89,3 +91,22 @@ How to exchange: Fill out the redeemed prizes form after the end of this season 
 
 **Good luck and look forward to your brilliant idea!!**
 
+## FAQ (Updating)
+
+### Q1: How to change the registration information? How about the change of the Contribution Credit after the registration information changes?
+If you want to change the signup information, you need to close the wrong signup Issue and open a new one for signing up. Editing on the original Issue is unavailable for the moment. There are three kinds of changes related to the Contribution Credit after the change of registration information:
+
+- The total Contribution Credit owned by a team will not be affected by the change of team members;
+- If you join a team, your individual Contribution Credit will remain at the state before joining the team, and all the Contribution Credit you gained after joining the team will be owned by the team;
+- If you quit a team, your original Contribution Credit is "0" because you can't inherit the team Contribution Credit.
+
+### Q2: How to give up/change the picked Issue?
+
+- Give up a Issue: commenting "give-up-challenge" on the picked Issue
+- Change a Issue: giving up the Issue first, then picking up a new Issue
+
+### Q3: How does the previous contributions in the community combine with the Performance Challenge Program?
+Performance Challenge Program is a brand new community activity embracing TiDB & TiKV open source community. While the previous contributions in the community can't be converted into the Contribution Credit, the participants who are Active Contributors and the superior role in the commnity can directly pick up the "Medium" and "Hard" Issues. (See [here](https://pingcap.com/community-cn/organization/) for more details about the roles in the commnity )
+
+### Q4: Can PingCAPers be invited to team up?
+Of course! PingCAPers can work with their community partners to challenge the Issue in **Non-Working Time**. For the sake of fairness, **when PingCAPers in a team as a proportion of the total number of more than two-thirds, the team can only pick up the Issue above "Hard" level. Then the team will be marked with a star (*), and their Contribution Credit will not be included into the final rank, but still can be used to redeem the gifts.**
