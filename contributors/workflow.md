@@ -63,6 +63,12 @@ cd $working_dir/tidb/
 ln -s `pwd`/hooks/pre-commit .git/hooks/
 ```
 
+Install soft for checking your changes:
+
+```sh
+$ make check-setup
+```
+
 Make the `pre-commit` hook executable manually if necessary:
 
 ```sh
