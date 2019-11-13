@@ -114,12 +114,12 @@ PCP #12345
 - 从团队中脱离出来以个人身份参赛的选手不继承团队积分，初始积分为 0。
 
 ### Q2：如何放弃/变更已领取的 Issue？
-放弃 Issue：在已领取的 Issue 下回复 “give-up-challenge”
 
-变更 Issue：先对已领取的 Issue 执行“放弃 Issue”操作，再选择新的 Issue
+- 放弃 Issue：在已领取的 Issue 下回复 “give-up-challenge”
+- 变更 Issue：先对已领取的 Issue 执行 “放弃 Issue” 操作，再选择新的 Issue
 
 ### Q3：之前在社区的贡献如何与 Performance Challenge Program 相结合？
-Performance Challenge Program 是面向 TiDB&TiKV 开源社区的全新社区活动，之前在社区的贡献暂时不能以积分的方式呈现，不过 Active Contributor 及以上个人参赛选手可以直接选择 Medium 及以上的 Issue 进行挑战。
+Performance Challenge Program 是面向 TiDB & TiKV 开源社区的全新社区活动，之前在社区的贡献暂时不能以积分的方式呈现，不过 Active Contributor 及以上个人参赛选手可以直接选择 Medium 及以上的 Issue 进行挑战。
 
 ### Q4：能否邀请 PingCAP 内部员工组队参赛？
 当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于 ⅔ 时，该团队只能选择 Hard 级别以上的 Issue 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**
