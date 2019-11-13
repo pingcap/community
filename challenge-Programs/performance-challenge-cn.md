@@ -51,14 +51,14 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 格式要求：Issue 标题前需添加“**REQ-PCP**”标记，例如：REQ-PCP: Further extract tidb_query into different workspaces。
 
 
-### 第二步：领取任务
+### 第二步：领取 Issue
 
 如果你决定认领某一个 Issue，请先在这个 Issue 中回复 **“/pick-up-challenge”**， 后台将自动判断你所拥有的积分是否具备挑战此 Issue 的资格，积分满足要求即可开始挑战，积分不满足要求，需按照系统提示获得满足挑战要求的积分。
 
 **需要特别提醒的是：**
 
 - **向量化函数 Issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105)、[TiKV #5751](http://github.com/tikv/tikv/issues/5751)）无需回复 **“/pick-up-challenge”**，可直接挑战 Issue 中的函数任务。每完成 Issue 中的一个函数任务，即可提交一个 PR，PR 格式与常规的 PCP PR 相同（详见[第四步：提交代码](#第四步提交代码)），首行需要为`PCP #12105`或`PCP #5751`，每一个成功被 Merge 的 PR 对应 50 积分，Issue 中所有函数任务被完成后，该 Issue 将会被 close。**
-- 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为“Medium”和“Hard”的题目。
+- 每个参赛主体（含个人及团队）参与 TiDB 性能挑战赛的**初始积分为 0**，需要先完成 “Easy” 的 Issue 将积分积累至 400 分以上（含 400 分），才有资格挑战难度为 “Medium” 和 “Hard” 的题目。**积分积累至 600 分以上（含 600 分）后，继续挑战 “Easy” 的 Issue 所获积分将不会累计到总积分上。**
 - 每个参赛主体一次只能领取一个任务。
 
 ### 第三步：实现代码
@@ -92,7 +92,7 @@ PCP #12345
 
 ### 第六步：积分兑换
 
-积分获得情况将会在 [TiDB 性能挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换礼品或奖金，礼品包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+积分获得情况将会在 [TiDB 性能挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
 兑换时间：**每个赛季结束后至下一赛季结束前**可进行积分兑换，下一个赛季结束时，前一赛季的可兑换积分将直接清零，不可再进行社区礼品兑换。
 
@@ -104,3 +104,22 @@ PCP #12345
 
 这将是一次集体智慧的碰撞，我们期待着与社区小伙伴一起创造无限可能！
 
+## FAQ（持续更新中）
+
+### Q1：如何进行报名信息变更？报名信息变更后积分将如何变化？
+变更报名信息需关闭错误报名 Issue，重新开启一个新的 Issue 进行报名，暂不支持在原始 Issue 上进行编辑。报名信息变更后积分方面的变化有以下三种情况：
+
+- 团队成员增加或减少不会影响团队总积分；
+- 加入团队的新成员个人积分将冻结至加入团队前的状态，加入团队后所获积分为团队所有；
+- 从团队中脱离出来以个人身份参赛的选手不继承团队积分，初始积分为 0。
+
+### Q2：如何放弃/变更已领取的 Issue？
+
+- 放弃 Issue：在已领取的 Issue 下回复 “give-up-challenge”
+- 变更 Issue：先对已领取的 Issue 执行 “放弃 Issue” 操作，再选择新的 Issue
+
+### Q3：之前在社区的贡献如何与 Performance Challenge Program 相结合？
+Performance Challenge Program 是面向 TiDB & TiKV 开源社区的全新社区活动，之前在社区的贡献暂时不能以积分的方式呈现，不过 Active Contributor 及以上个人参赛选手可以直接选择 Medium 及以上的 Issue 进行挑战。
+
+### Q4：能否邀请 PingCAP 内部员工组队参赛？
+当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于 ⅔ 时，该团队只能选择 Hard 级别以上的 Issue 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**

@@ -1,127 +1,96 @@
-## TiDB Community
+# TiDB Community
 
-Welcome to the TiDB Community! The main objective is to help members of the TiDB community who share similar interests to learn from and collaborate with each other.
+Welcome to the TiDB Community! The main objective is to help members of the
+TiDB community who share similar interests to learn from and collaborate with
+each other.
 
-Your journey of becoming a contributor and committer starts from here: improving docs, improving code, giving talks, organizing meetups, etc.
+Your journey of becoming a contributor and committer starts from here:
+improving docs, improving code, giving talks, organizing meetups, etc.
 
-## Communicating
+## Architecture
 
-You can reach out to the community members via any one of the following ways: 
+![TiDB Community Architecture](./architecture.svg)
 
-+ Slack: [https://pingcap.com/tidbslack/](https://pingcap.com/tidbslack/)
+## TiDB User Group
 
-+ Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
+The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of
+information related to topics that have long term relevance to large groups of
+TiDB users.
 
-+ Stack Overflow: [https://stackoverflow.com/questions/tagged/tidb](https://stackoverflow.com/questions/tagged/tidb)
+See [docs](https://pingcap.com/docs/) or
+[docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
+help in [AskTUG](https://asktug.com/) if you met any problem.
 
-+ Twitter: [https://twitter.com/PingCAP](https://twitter.com/PingCAP)
+## TiDB Developer Group
 
-+ Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
+### Communication
 
+The [communication](./communicating.md) page lists communication channels like
+chat, social medias, etc.
 
-+ Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
+For more specific topics, join
+[https://pingcap.com/tidbslack](https://pingcap.com/tidbslack) and discuss with others.
 
-## How Can I Help?
+### Governance
 
-+ Try [TiDB](https://github.com/pingcap/tidb)! If you like it, star, share, and recommend it. 
+TiDB has the following types of groups that are officially supported:
 
-+ To dig deeper, read a design doc, e.g. [architecture](https://www.pingcap.com/blog/2017-05-23-perconalive17/), [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
+* **Special Interest Groups (SIGs)** are persistent open groups that focus on a
+  module of TiDB. SIGs must have open and transparent proceedings. Anyone is
+  welcome to participate and contribute provided they follow the TiDB [Code of
+  Conduct](./CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a
+module of TiDB.
 
-+ Start with improving the documentation. You can search [open issues](https://github.com/pingcap/docs/issues) to find inspiration for what to work on.
+* **Working Groups (WGs)** are temporary groups that are formed to address
+  issues that cross SIG boundaries. Working groups do not own any code or other
+  long term artifacts. Working groups can report back and act through involved
+  SIGs.
 
-+ There's always code that can be clarified and variables or functions that can be renamed or commented.
+### How to contribute
 
-+ There's always a need for more test coverage. You can start with an area that has [low coverage](https://codecov.io/gh/pingcap/tidb).
+Contributions are welcomed and greatly appreciated. See
+[CONTRIBUTING.md](./CONTRIBUTING.md)
+for details on submitting patches and the contribution workflow.
 
-+ Give a talk at a local meetup or conference.
+You can start by finding an existing issue with the
+[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+label in the tidb repository. These issues are well suited for new contributors. BTW,
+there's always a need for more test coverage. You can also start with an area
+that has [low coverage](https://codecov.io/gh/pingcap/tidb).
 
-## Learn to Use TiDB
+You can also join one of the [active working groups](./working-groups) to
+participate in a community activity. Start with attending working group meetings or
+joining the slack channel.
 
-Links in [https://pingcap.com/docs](https://pingcap.com/docs) lead to many relevant topics, including:
+Some useful documents:
 
-+ TiDB Introduction
+* [Github Workflow](./contributors/workflow.md)
+* [SRE-BOT Command Help](./contributors/command-help.md)
+* [Become a Committer](./become-a-committer.md)
 
-+ TiDB Quick Start Guide
+## Learning Resources
 
-+ TiDB Operations Guide
+* [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
+* [A Brief Introduction of TiDB](https://www.pingcap.com/blog/2017-05-23-perconalive17/)
+* [https://pingcap.com/docs](https://pingcap.com/docs)
+* [TiDB Internal (I) - Data Storage](https://pingcap.com/blog/2017-07-11-tidbinternal1/) or [三篇文章了解 TiDB 技术内幕 - 说存储](https://pingcap.com/blog-cn/tidb-internal-1/) in Chinese
+* [TiDB Internal (II) - Computing](https://pingcap.com/blog/2017-07-11-tidbinternal2/) or [三篇文章了解 TiDB 技术内幕 - 说计算](https://pingcap.com/blog-cn/tidb-internal-2/) in Chinese
+* [TiDB Internal (III) - Scheduling](https://pingcap.com/blog/2017-07-20-tidbinternal3/) or [三篇文章了解 TiDB 技术内幕 - 谈调度](https://pingcap.com/blog-cn/tidb-internal-3/) in Chinese
+* [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in Chinese
+* [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in Chinese
 
-+ TiDB User Guide
+## TiDB Roadmap
 
-+ Frequently Asked Questions（FAQ）
-
-+ TiDB Roadmap
-
-## Your First Contribution
-
-You can start by finding an existing issue with the [help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) label. These issues are well suited for new contributors. 
-
-If a PR (Pull Request) submitted to the [TiDB/TiKV/TiSpark/PD/Docs/Docs-cn](https://github.com/pingcap) projects by you is approved and merged, then you become a TiDB Contributor. 
-
-Before submitting a pull request, sign the [CLA](https://cla-assistant.io/pingcap/tidb?pullRequest=5567).
-
-If you want to work on a new idea of relatively small scope:
-
-1. Submit an issue describing your proposed change to the repo in question.
-
-2. The repo owners will respond to your issue promptly.
-
-3. If your proposed change is accepted, sign the [CLA](https://cla-assistant.io/pingcap/tidb?pullRequest=5567), and start work in your fork.
-
-4. Submit a [pull request](https://github.com/pingcap/tidb/pull/3113) containing a tested change. 
-
-
-Once you become a TiDB contributor, check your name here: [https://github.com/pingcap/tidb/blob/master/CONTRIBUTORS](https://github.com/pingcap/tidb/blob/master/CONTRIBUTORS)
-
-Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) for details on submitting patches and the contribution workflow.
-
-## How Do I Become a Committer?
-
-First of all you need to get involved and be a Contributor.
-
-Based on your track-record as a contributor, one of our Maintainers or PMC members may invite you to be a committer (after we've called a vote). When that happens, if you accept, the following process kicks into place...
-
-Note that becoming a committer is not just about submitting some patches; it‘s also about helping out on the development and user [Discussion Forums](https://groups.google.com/forum/#!forum/tidb-user), helping with documentation and the issues.
-
-See [Become a Committer.md](https://github.com/pingcap/community/blob/master/become-a-committer.md) for becoming a committer steps and more details.
-
-## Communication
-
-Communication within the TiDB community abides by [TiDB Code of Conduct](./CODE_OF_CONDUCT.md). Here is an excerpt:
-
-> In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
-
-## Resources
-
-### TiDB Blog
-
-The TiDB Blog is a great resource pool to find content! We post the latest TiDB news including new releases and technical articles there. Check out this page: [https://pingcap.com/blog](https://pingcap.com/blog)
-
-### TiDB Weekly
-
-This weekly newsletter highlights content from the community along with the latest TiDB weekly update & news.
-
-Read the TiDB Weekly archives to catch up on all of the latest TiDB updates and hacks: [https://pingcap.com/weekly](https://pingcap.com/weekly)
-
-### Slideshare
-
-Another great resource for finding content! TiDB’s Slideshare account has slide decks from TiDB presentations -- you’re welcome to use and/or modify these slides when presenting to your own meetup group.
-
-### Tutorial Content
-
-If you're interested in writing a tutorial for TiDB, please contact us: [community@pingcap.com](mailto:community@pingcap.com)
+See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
 
 ## License
 
-TiDB Community is under the Apache 2.0 license. See the [LICENSE.md](https://github.com/pingcap/community/blob/master/LICENSE) file for details.
+TiDB Community is under the Apache 2.0 license. See the
+[LICENSE](./LICENSE.md) file for details.
 
 ## Acknowledgements
 
-Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspiration.
-
-
-
+Thank you to the [Kubernetes](https://github.com/kubernetes/community),
+[Apache](http://activemq.apache.org/becoming-a-committer.html) and
+[Docker](https://github.com/docker/community) community pages for providing us
+with inspirations.
