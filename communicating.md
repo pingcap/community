@@ -8,9 +8,7 @@ members via any one of the following ways:
 
 [https://pingcap.com/tidbslack](https://pingcap.com/tidbslack)
 
-## Social Media
-
-### Blog
+## Blog
 
 The TiDB Blog is a great resource pool to find content! We post the latest TiDB
 news including new releases and technical articles there. Check out this page:
