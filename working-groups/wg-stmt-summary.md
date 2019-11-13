@@ -10,6 +10,8 @@ Now we have a statement summary table [events\_statements\_summary\_by\_digest](
 
 Currently, we don't have an open meeting because there's only one developer in this working group.
 
+* Weekly progress summary: [progress summary](https://docs.google.com/document/d/1sUHYrHjsf7fmW23xWlv2FuMysOjm5lbSoK8Iq9ppHOo/edit#)
+
 ## Organizer
 
 * [djshow832](https://github.com/djshow832), PingCAP
