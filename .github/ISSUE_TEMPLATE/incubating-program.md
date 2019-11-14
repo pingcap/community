@@ -6,8 +6,9 @@ label: ""
 
 ## Incubating Program
 
+### Describe the feature or project you want to incubate:
+<!-- A description of what you want to happen. -->
+
 ### Where is your RFC/Proposal address?
 <!-- A link to the RFC/Proposal. -->
 
-### Describe the feature or project you want to incubate:
-<!-- A description of what you want to happen. -->
