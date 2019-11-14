@@ -1,5 +1,5 @@
 # TiDB Community
-
+![TiDB Community Logo](./TiDB_Community_Logo.svg)
 Welcome to the TiDB Community! The main objective is to help members of the
 TiDB community who share similar interests to learn from and collaborate with
 each other.
