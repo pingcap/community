@@ -60,7 +60,7 @@ building, doc generation, etc:
 
 ```sh
 cd $working_dir/tidb/
-ln -s hooks/pre-commit .git/hooks/
+ln -s ../../hooks/pre-commit .git/hooks/
 ```
 
 Make the `pre-commit` hook executable manually if necessary:
