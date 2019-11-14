@@ -62,6 +62,9 @@ You can also join one of the [active working groups](./working-groups) to
 participate in a community activity. Start with attending working group meetings or
 joining the slack channel.
 
+For more details on how to contribute to the TiDB repos, see [How to
+contribute](./contributors/README.md).
+
 Some useful documents:
 
 * [Github Workflow](./contributors/workflow.md)
