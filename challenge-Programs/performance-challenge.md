@@ -24,7 +24,7 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
       - For team signup, please introduce your team briefly, provide your team name, list your team members, and leave an email address for future contact. (See an [example](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md))
 - Note:
    - Up to three members in a team.
-   - The team that includes a PingCAPer will be marked with a star (*). Their Contribution Credit will not be included into the final rank, but still can be used to redeem gifts.
+   - The team that includes a PingCAPer will be marked with a star (*). Their Contribution Credits will not be counted into the final rank, but can still be used to redeem gifts.
    - If you want to change the signup information, you need to close the wrong signup Issue and open a new one for signing up. Editing on the original Issue is not supported for the moment.
 
 ## How To Challenge
