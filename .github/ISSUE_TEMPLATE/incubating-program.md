@@ -1,6 +1,6 @@
 ---
 name: "Incubating Program"
-about: Incubating programs are activities that the TiDB community uses to incubate specific features or projects. Participants can submit proposals as Request for Change (RFC) documents to this repo first. If the RFC is approved by the majority of PMC members, an incubation project group that involves community contributors will be established. A corresponding working group will be established to promote the project.
+about: Incubating programs are projects that the TiDB community uses to incubate specific features or projects. Participants can submit proposals as Request for Change (RFC) documents to this repo first. If the RFC is approved by the majority of PMC members, an incubation project group that involves community contributors will be established. A corresponding working group will be established to steer the project.
 label: ""
 ---
 
