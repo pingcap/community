@@ -58,7 +58,7 @@ If you decide to pick up an Issue, please comment **“/pick-up-challenge”** o
 - When the Contribution Credits owned by the participant is over "600" (including "600"),  "Easy" issues will be not valid for redeeming credits. 
 - TiKV is a big codebase that may require some time to get familiar with. Easy issues are a great way to start if you plan larger contributions in the future. If you have significant upstream experience (e.g. you wrote a gRPC library), talk to us and we can bypass this requirement.
 
-- Each individual participant or team can only pick up one Issue at a time. Folks working on larger issue might stumble into fixes for smaller, Easy, issues. That’s OK, submit those! But don’t overburden yourself, please!
+- Each individual participant or team can only pick up one issue at a time. Folks working on larger issues might stumble into fixes for smaller, Easy issues. That’s OK, submit these! And, don’t overburden yourself!
 
 ### Step 3: Fix the Issue
 If you have any questions during the coding process, you can discuss with us through **#performance-challenge-program** channel, and the mentor assigned for the Issues will reply to you within 24h.
