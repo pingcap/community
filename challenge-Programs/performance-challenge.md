@@ -107,7 +107,7 @@ If you want to change the signup information, you need to close the wrong signup
 ### Q2: How to give up/change the picked Issue?
 
 - Give up a Issue: commenting "give-up-challenge" on the picked Issue
-- Change a Issue: giving up the Issue first, then picking up a new Issue
+- Change an Issue: give up the Issue first, then pick up a new Issue
 
 ### Q3: How does the previous contributions in the community combine with the Performance Challenge Program?
 Performance Challenge Program is a brand new community activity embracing TiDB & TiKV open source community. While the previous contributions in the community can't be converted into the Contribution Credit, the participants who are Active Contributors and the superior role in the commnity can directly pick up the "Medium" and "Hard" Issues. (See [here](https://pingcap.com/community-cn/organization/) for more details about the roles in the commnity )
