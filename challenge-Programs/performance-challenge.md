@@ -64,7 +64,7 @@ If you decide to pick up an Issue, please comment **“/pick-up-challenge”** o
 If you have any questions during the coding process, you can discuss with us through **#performance-challenge-program** channel, and the mentor assigned for the Issues will reply to you within 24h.
 
 ### Step 4: Commit your code
-When your solution is ready, you can open a PR and commit the code to the corresponding GitHub Repo (i.e.,tidb) as a GitHub Pull Request (aka PR). Remember to @ the mentor responsible of this Issue to review your PR in the comment after the PR is submitted. The Mentor will check your PR as soon as possible.
+When your solution is ready, commit the code and submit a PR and to the corresponding GitHub Repo (i.e., tidb). Remember to request the review from the mentor responsible for this Issue. The mentor will check your PR as soon as possible.
 
 How to submit: When you finish the coding, you can submit the GitHub Pull Request (PR) to the corresponding Repo. About how to submit PR, see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). There is also [SRE-BOT Command](https://github.com/pingcap/community/blob/master/contributors/command-help.md) Help for your reference.
 
