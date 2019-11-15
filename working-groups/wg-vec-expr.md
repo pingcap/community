@@ -17,5 +17,5 @@ issue/12058](https://github.com/pingcap/tidb/issues/12058).
 
 ## Contact
 
-* Slack: channel **#sig-expr** in the
+* Slack: channel **#sig-expr**(formerly #wg-vec-expr, it was renamed to #sig-expr after the expression special interest group founded) in the
   [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
