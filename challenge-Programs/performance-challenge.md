@@ -102,7 +102,7 @@ If you want to change the signup information, you need to close the original sig
 
 - The total Contribution Credits owned by a team will not be affected by the change of team members;
 - If you join a team, your previous individual Contribution Credits will persist,  and any credits you earn after joining the team will be owned by the team.
-- If you quit a team, your original Contribution Credit is "0" because you can't inherit the team Contribution Credits.
+- If you quit a team, you can't inherit the team Contribution Credits.
 
 ### Q2: How to give up/change the picked issue?
 
