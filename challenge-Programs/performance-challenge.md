@@ -100,7 +100,7 @@ How to exchange: Fill out the Redeem Gifts form after the end of this season (Th
 ### Q1: How to change the registration information? How about the change of the Contribution Credit after the registration information changes?
 If you want to change the signup information, you need to close the original signup issue and open a new one. Editing on the original issue is unavailable for the moment. Depending on the specific type of change, the Contribution Credit may change accordingly as described below:
 
-- The total Contribution Credit owned by a team will not be affected by the change of team members;
+- The total Contribution Credits owned by a team will not be affected by the change of team members;
 - If you join a team, your individual Contribution Credit will remain at the state before joining the team, and all the Contribution Credit you gained after joining the team will be owned by the team;
 - If you quit a team, your original Contribution Credit is "0" because you can't inherit the team Contribution Credit.
 
