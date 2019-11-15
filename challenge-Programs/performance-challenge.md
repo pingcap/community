@@ -21,7 +21,7 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
    - Title: PCP/Sign Up
    - Text content:
       - For personal sign up, please introduce yourself briefly and leave your email address for future contact.
-      - For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contact. (See the [example](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md))
+      - For team signup, please introduce your team briefly, provide your team name, list your team members, and leave an email address for future contact. (See an [example](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md))
 - Note:
    - Up to three members in a team.
    - The team that includes a PingCAPer will be marked with a star (*). Their Contribution Credit will not be included into the final rank, but still can be used to redeem gifts.
