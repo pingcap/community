@@ -66,7 +66,7 @@ If you have any questions during the coding process, you can discuss with us thr
 ### Step 4: Commit your code
 When your solution is ready, commit the code and submit a PR and to the corresponding GitHub Repo (i.e., tidb). Remember to request the review from the mentor responsible for this issue. The mentor will check your PR as soon as possible.
 
-How to submit:  see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). There is also [SRE-BOT Command](https://github.com/pingcap/community/blob/master/contributors/command-help.md) Help for your reference.
+How to submit: see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). There is also [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for your reference.
 
 Format requirement:
 The first line of PR needs to specify the number of the issue you pick, and then the format required by each repo.
