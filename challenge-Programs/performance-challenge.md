@@ -110,7 +110,7 @@ If you want to change the signup information, you need to close the original sig
 - Change an Issue: give up the Issue first, then pick up a new Issue
 
 ### Q3: How does the previous contributions in the community combine with the Performance Challenge Program?
-Performance Challenge Program is a brand new community activity embracing TiDB & TiKV open source community. While the previous contributions in the community can't be converted into the Contribution Credit, the participants who are Active Contributors and the superior role in the commnity can directly pick up the "Medium" and "Hard" Issues. (See [here](https://pingcap.com/community-cn/organization/) for more details about the roles in the commnity )
+Performance Challenge Program is a brand new community activity that embraces TiDB & TiKV open source community. While the previous contributions in the community can't be converted into the Contribution Credit, the participants who are Active Contributors or above in the commnity can directly pick up the "Medium" or "Hard" Issues. (See [here](https://pingcap.com/community-cn/organization/) for more details about the roles in the commnity).
 
 ### Q4: Can PingCAPers be invited to team up?
 Of course! PingCAPers can work with their community partners to challenge the Issue in **Non-Working Time**. For the sake of fairness, **when PingCAPers in a team as a proportion of the total number of more than two-thirds, the team can only pick up the Issue above "Hard" level. Then the team will be marked with a star (*), and their Contribution Credit will not be included into the final rank, but still can be used to redeem the gifts.**
