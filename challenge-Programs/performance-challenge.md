@@ -25,7 +25,7 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
 - Note:
    - Up to three members in a team.
    - The team that includes a PingCAPer will be marked with a star (*). Their Contribution Credits will not be counted into the final rank, but can still be used to redeem gifts.
-   - If you want to change the signup information, you need to close the wrong signup Issue and open a new one for signing up. Editing on the original Issue is not supported for the moment.
+   - If you want to change the signup information, you need to close the original signup issue and open a new one. Editing on the original Issue is not supported for the moment.
 
 ## How To Challenge
 This step-by-step guide will walk you through the things you need to know to participate in TiDB Performance Challenge and is a great reference for any other time you need it. Feel free to follow the written instructions below.
