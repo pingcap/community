@@ -55,7 +55,7 @@ If you decide to pick up an issue, please comment **“/pick-up-challenge”** o
 - If you want to challenge vectorization function issue（[TiDB #12105](http://github.com/pingcap/tidb/issues/12105), [TiKV #5751](http://github.com/tikv/tikv/issues/5751)), you can directly challenge the function tasks in the issue without commenting on "/pick-up-challenge". Each time you successfully perform a function, you can submit a PR in the same format as the regular PCP PR (see Step 4 for more details). You have to note that the first line of the PR should be `PCP #12105` or `PCP #5751`. Each merged PR in the vectorization function issue values 50 Contribution Credits. After all the vectorization function tasks are performed, the issue will be closed.
 
 - The initial Contribution Credit of each individual participant or team is “0”**. The participants need to gain 400 Contribution Credits with “Easy” issues to be qualified to work on **Medium** or **Hard** issues.  
-- When the Contribution Credits owned by the participant is over "600" (including "600"),  "Easy" issues will be not valid for redeeming credits. 
+- When the Contribution Credit owned by the participant is over "600" (including "600"),  "Easy" issues will be not valid for redeeming credits. 
 - TiKV is a big codebase that may require some time to get familiar with. Easy issues are a great way to start if you plan larger contributions in the future. If you have significant upstream experience (e.g. you wrote a gRPC library), talk to us and we can bypass this requirement.
 
 - Each individual participant or team can only pick up one issue at a time. Folks working on larger issues might stumble into fixes for smaller, Easy issues. That’s OK, submit these! And, don’t overburden yourself!
