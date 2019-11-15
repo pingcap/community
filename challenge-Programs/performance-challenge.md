@@ -106,7 +106,7 @@ If you want to change the signup information, you need to close the original sig
 
 ### Q2: How to give up/change the picked Issue?
 
-- Give up a Issue: commenting "give-up-challenge" on the picked Issue
+- Give up an Issue: comment "give-up-challenge" on the picked Issue
 - Change an Issue: give up the Issue first, then pick up a new Issue
 
 ### Q3: How does the previous contributions in the community combine with the Performance Challenge Program?
