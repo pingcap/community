@@ -48,28 +48,9 @@ module of TiDB.
 
 ### How to contribute
 
-Contributions are welcomed and greatly appreciated. See
-[CONTRIBUTING.md](./CONTRIBUTING.md)
-for details on submitting patches and the contribution workflow.
-
-You can start by finding an existing issue with the
-[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-label in the tidb repository. These issues are well suited for new contributors. BTW,
-there's always a need for more test coverage. You can also start with an area
-that has [low coverage](https://codecov.io/gh/pingcap/tidb).
-
-You can also join one of the [active working groups](./working-groups) to
-participate in a community activity. Start with attending working group meetings or
-joining the slack channel.
-
-For more details on how to contribute to the TiDB repos, see [How to
-contribute](./contributors/README.md).
-
-Some useful documents:
-
-* [Github Workflow](./contributors/workflow.md)
-* [SRE-BOT Command Help](./contributors/command-help.md)
-* [Become a Committer](./become-a-committer.md)
+Contributions are welcomed and greatly appreciated. See [How to
+contribute](./contributors/README.md) for details on setting up development
+environment, contribution workflow and submitting patches, etc.
 
 ## Learning Resources
 
