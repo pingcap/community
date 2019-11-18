@@ -143,4 +143,4 @@ The coding style suggested by the Golang community is used in TiDB. See the
 
 ## Commit message and Pull Request style
 
-See the [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/commit-message-pr-style.md)
+See the [Commit Message and Pull Request Style](./contributors/commit-message-pr-style.md)

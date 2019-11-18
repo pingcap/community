@@ -23,7 +23,7 @@ TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一
       - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-perf-challenge/pcp/blob/master/.github/ISSUE_TEMPLATE/performance-challenge-program.md)。
 
 **注意事项：**
-   
+
    - 以团队形式参赛，每队成员最多三人。
    - 有 PingCAP 内部员工参与的队伍，将作为打星队伍，不参与积分总排名，所获积分仍具有兑换权益。
    - **如需更改报名信息，需关闭错误报名 Issue，重新开启一个新的 Issue 进行报名，暂不支持在原始 Issue 上进行编辑**。
@@ -69,15 +69,15 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 如果你觉得你的方案已经达到了题目的要求，可在相关 Repo（例如 tidb）的 master 分支上实现你的方案，并将代码以 GitHub Pull Request（简称 PR）的形式提交到相应的 GitHub Repo 上。当 PR 提交后，可在 PR 的评论中 at 该题目的 Mentor 进行代码评审，Mentor 会尽可能在方案提交后的 48h 内完成评估。
 
-注：提交的 PR 需要满足 [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/commit-message-pr-style.md) 中定义的规范。
+注：提交的 PR 需要满足 [Commit Message and Pull Request Style](../contributors/commit-message-pr-style.md) 中定义的规范。
 
 提交方式：代码完成后，参赛者需提交 GitHub Pull Request(PR) 到相应 Repo，如何提交 PR 可参考 [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md)，这里也有一些 [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) 供大家参考。
 
 格式要求：PR 的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
- 
+
 ```
 PCP #12345
- 
+
 <!-- The following description -->
 ```
 
