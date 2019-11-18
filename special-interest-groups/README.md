@@ -1,4 +1,4 @@
-# Special Interest Groups
+Special Interest Groups
 
 The TiDB project is organized primarily into Special Interest Groups
 (SIG). Each SIG is comprised of members from multiple companies and
@@ -13,3 +13,9 @@ SIG.
 ## Active Special Interest Groups
 
 * [sig-expr](./sig-expr)
+
+* [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
+
+* [sig-engine (TiKV)](https://github.com/tikv/community/tree/master/sig/engine)
+
+  
