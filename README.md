@@ -79,6 +79,8 @@ Some useful documents:
 * [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in Chinese
 * [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in Chinese
 
+See more on the [learning resources](./learning-resources/README.md) page.
+
 ## TiDB Roadmap
 
 See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
