@@ -1,0 +1,33 @@
+# Planner Special Interest Group(Planner SIG)
+
+Planner SIG covers TiDB planner/statistics implementations. We are focused on
+the development and maintenance of the TiDB [planner](https://pingcap.com/docs/stable/reference/performance/sql-optimizer-overview/)
+and [statistics](https://pingcap.com/docs/stable/reference/performance/statistics/) component, including but not limited to:
+
+* Supporting new features.
+* Improving the performance.
+* Fixing bugs.
+
+## Roles and Organization Management
+
+See [Planner SIG Roles and Organization Management](./roles-and-organization-management.md)
+
+## Members
+
+To be updated.
+
+## Meetings
+
+* Regular Working Group Meeting: 5:00, Wednesdays at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
+* Meeting Zoom: [pingcap.zoom.us/j/3190482744](https://pingcap.zoom.us/j/3190482744)
+* Meeting Notes: to be updated
+
+## Contact
+
+* Slack: channel #sig-planner in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+
+## Code Locations
+
+* The [planner package](https://github.com/pingcap/tidb/tree/master/planner) in the tidb repo.
+* The [statistics package](https://github.com/pingcap/tidb/tree/master/statistics) in the tidb repo.
+* Other codes that affect the correctness, performance of the planner, like say the [expresion package](https://github.com/pingcap/tidb/tree/master/expression).
