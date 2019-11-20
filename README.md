@@ -59,10 +59,10 @@ resources](./learning-resources/README.md) page. Here you can find all the
 resources which helps you learn and contribute TiDB. For example, you can learn
 TiDB architecture though the following blogs:
 
-* How we build TiDB: ([English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/))
-* TiDB Internal (I) - Data Storage: ([English](https://pingcap.com/blog/2017-07-11-tidbinternal1/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/))
-* TiDB Internal (II) - Computing: ([English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/))
-* TiDB Internal (III) - Scheduling: ([English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/))
+* How we build TiDB: [English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
+* TiDB Internal (I) - Data Storage: [English](https://pingcap.com/blog/2017-07-11-tidbinternal1/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/)
+* TiDB Internal (II) - Computing: [English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/)
+* TiDB Internal (III) - Scheduling: [English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/)
 
 ## TiDB Roadmap
 
