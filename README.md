@@ -39,7 +39,7 @@ TiDB has the following types of groups that are officially supported:
   module of TiDB. SIGs must have open and transparent proceedings. Anyone is
   welcome to participate and contribute provided they follow the TiDB [Code of
   Conduct](./CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a
-module of TiDB.
+  module of TiDB.
 
 * **Working Groups (WGs)** are temporary groups that are formed to address
   issues that cross SIG boundaries. Working groups do not own any code or other
@@ -54,20 +54,24 @@ environment, contribution workflow and submitting patches, etc.
 
 ## Learning Resources
 
-* [How we build TiDB](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/)
-* [A Brief Introduction of TiDB](https://www.pingcap.com/blog/2017-05-23-perconalive17/)
-* [https://pingcap.com/docs](https://pingcap.com/docs)
-* [TiDB Internal (I) - Data Storage](https://pingcap.com/blog/2017-07-11-tidbinternal1/) or [三篇文章了解 TiDB 技术内幕 - 说存储](https://pingcap.com/blog-cn/tidb-internal-1/) in Chinese
-* [TiDB Internal (II) - Computing](https://pingcap.com/blog/2017-07-11-tidbinternal2/) or [三篇文章了解 TiDB 技术内幕 - 说计算](https://pingcap.com/blog-cn/tidb-internal-2/) in Chinese
-* [TiDB Internal (III) - Scheduling](https://pingcap.com/blog/2017-07-20-tidbinternal3/) or [三篇文章了解 TiDB 技术内幕 - 谈调度](https://pingcap.com/blog-cn/tidb-internal-3/) in Chinese
-* [TiDB 源码阅读系列文章](https://pingcap.com/blog-cn/#TiDB-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB), in Chinese
-* [TiKV 源码解析系列文章](https://pingcap.com/blog-cn/#TiKV-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90), in Chinese
+Learning resources are collected in the [learning
+resources](./learning-resources/README.md) page. Here you can find all the
+resources which helps you learn and contribute TiDB. For example, you can learn
+TiDB architecture though the following blogs:
 
-See more on the [learning resources](./learning-resources/README.md) page.
+* How we build TiDB: ([English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/))
+* TiDB Internal (I) - Data Storage: ([English](https://pingcap.com/blog/2017-07-11-tidbinternal1/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/))
+* TiDB Internal (II) - Computing: ([English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/))
+* TiDB Internal (III) - Scheduling: ([English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/))
 
 ## TiDB Roadmap
 
 See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
+
+## Community Activities
+
+* [Summer of code](./soc/README.md)
+* [Performance Challenge Program](./challenge-Programs/README.md)
 
 ## License
 

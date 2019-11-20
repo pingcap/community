@@ -39,6 +39,7 @@ welcome!
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
+* [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -104,7 +105,7 @@ See [PingCAP coding style guide](https://github.com/pingcap/style-guide) for det
 
 ### Code Comment Style
 
-TBD
+See [Code Comment Style](./code-comment-style.md) for details.
 
 ### Commit Message and Pull Request Style
 
@@ -175,3 +176,6 @@ TBD
 
 TBD
 
+## Contributors
+
+See [TiDB Contributors](./contributors.md) for details. Thanks to all these contributors!
