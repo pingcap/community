@@ -18,7 +18,7 @@ issue/13567](https://github.com/pingcap/tidb/issues/13567).
 
 ## Members
 
-* [spongedu](https://github.com/spongedu)
+* [spongedu](https://github.com/spongedu) Tencent
 * [yangwenmai](https://github.com/yangwenmai)
 
 ## Contact
