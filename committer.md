@@ -15,4 +15,4 @@ Committers are developers of the projects and are elected from contributors. Cur
 
 Thank you for your contribution!
 
-See [Become a Committer](./become-a-committer.md) for how to become a TiDB Committer.
+See [Become a Committer](./architecture/become-a-committer.md) for how to become a TiDB Committer.
