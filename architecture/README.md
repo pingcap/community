@@ -57,9 +57,9 @@ approved and merged, then you become a TiDB Contributor.
 You are also encouraged to participate in the projects in the following ways:
 
 * Actively answer technical questions asked by community users.
-* Help to test the projects.
-* Help to review the pull requests (PRs) submitted by others.
-* Help to improve technical documents.
+* Help test the projects.
+* Help review the pull requests (PRs) submitted by others.
+* Help improve technical documents.
 * Submit valuable issues.
 * Report or fix known and unknown bugs.
 * Participate in the existing discussion about features in the roadmap, and
@@ -121,17 +121,16 @@ A Committer must have accomplished one or more of the following items:
 
 #### Definition of Inactive Committer and operations:
 
-If a Committer has not participated in project discussions or pushing forward
-the progress of the project for over three months, then the Committer is an
-Inactive Committer. Concrete behavior is as follows:
+If a Committer has been inactive for over three months, the Committer is an
+Inactive Committer.  Concrete inactive behaviors are as follows:
 
-* Absence of any community activity for over three months
-    * Committer meeting
-    * Project technical discussion
+* Absent from any community activity for over three months
+* Absent from any Committer meeting for over three months
+* Absent from technical discussions
 * No code commits (including documentation) for over three months
 
-If a Committer has not committed any code for over a year, then the Active
-Committer privilege is reclaimed.
+If a Committer has not committed any code for over a year, then the Committer
+privileges are reclaimed.
 
 #### Committer List
 
