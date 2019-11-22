@@ -39,6 +39,7 @@ welcome!
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
+* [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -104,7 +105,7 @@ See [PingCAP coding style guide](https://github.com/pingcap/style-guide) for det
 
 ### Code Comment Style
 
-TBD
+See [Code Comment Style](./code-comment-style.md) for details.
 
 ### Commit Message and Pull Request Style
 
@@ -155,6 +156,10 @@ example will be this [pull request](https://github.com/pingcap/tidb/pull/3113).
 If you're making code more resilient, test it locally to demonstrate how
 exactly your patch changes things.
 
+**Nit**: in order to improve the efficiency of other contributors and avoid
+duplicated working, it's better to leave a comment in the issue that you are
+working on.
+
 ### Code Review
 
 TBD
@@ -175,3 +180,6 @@ TBD
 
 TBD
 
+## Contributors
+
+See [TiDB Contributors](./contributors.md) for details. Thanks to all these contributors!
