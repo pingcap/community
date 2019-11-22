@@ -5,6 +5,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [数据库](#数据库)
+    * [TiDB 架构](#tidb-架构)
     * [源码阅读](#源码阅读)
         * [TiDB 源码阅读](#tidb-源码阅读)
         * [TiKV 源码阅读](#tikv-源码阅读)
@@ -29,6 +30,13 @@
 <!-- vim-markdown-toc -->
 
 ## 数据库
+
+### TiDB 架构
+
+* [How we build TiDB](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
+* [三篇文章了解 TiDB 技术内幕 - 说存储](https://pingcap.com/blog-cn/tidb-internal-1/)
+* [三篇文章了解 TiDB 技术内幕 - 说计算](https://pingcap.com/blog-cn/tidb-internal-2/)
+* [三篇文章了解 TiDB 技术内幕 - 谈调度](https://pingcap.com/blog-cn/tidb-internal-3/)
 
 ### 源码阅读
 

@@ -10,3 +10,4 @@ policies.
 
 ## Active Working Groups
 * [wg-vec-expr](./wg-vec-expr.md)
+* [wg-sql-diagnostics](./wg-sql-diagnostics.md)
