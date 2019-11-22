@@ -13,6 +13,7 @@ types of roles. The TiDB community has the following organizations:
 * [TiDB Developer Group](#tidb-developer-group)
     * [Contributor](#contributor)
         * [How to become a Contributor?](#how-to-become-a-contributor)
+        * [Contributor List](#contributor-list)
     * [Active Contributor](#active-contributor)
     * [Reviewer](#reviewer)
         * [How to become a Reviewer?](#how-to-become-a-reviewer)
@@ -20,6 +21,8 @@ types of roles. The TiDB community has the following organizations:
     * [Committer](#committer)
         * [How to become a Committer?](#how-to-become-a-committer)
         * [Responsibilities and Privileges](#responsibilities-and-privileges-1)
+        * [Definition of Inactive Committer and operations:](#definition-of-inactive-committer-and-operations)
+        * [Committer List](#committer-list)
     * [Maintainer](#maintainer)
         * [How to become a Maintainer?](#how-to-become-a-maintainer)
         * [Responsibilities and Privileges](#responsibilities-and-privileges-2)
@@ -64,6 +67,10 @@ You are also encouraged to participate in the projects in the following ways:
 * Write articles about the source code analysis and usage cases for the
   projects.
 
+#### Contributor List
+
+[TiDB Contributors](./contributor-list.md)
+
 ### Active Contributor
 
 TBD
@@ -95,9 +102,6 @@ engineering principles.
 Committers are developers of the projects and are elected from contributors.
 Currently.
 
-See [Become a Committer](./become-a-committer.md) for details about how to
-become a TiDB Committer, the rights of a TiDB Committer, etc.
-
 #### How to become a Committer?
 
 A new Committer must be nominated by any existing Maintainer or PMC member, and
@@ -114,6 +118,24 @@ A Committer must have accomplished one or more of the following items:
 * Recommend a new Organizer Committee Member
 * The profile can be listed on the Committer page
 * Participate in offline discussions and the design process
+
+#### Definition of Inactive Committer and operations:
+
+If a Committer has not participated in project discussions or pushing forward
+the progress of the project for over three months, then the Committer is an
+Inactive Committer. Concrete behavior is as follows:
+
+* Absence of any community activity for over three months
+    * Committer meeting
+    * Project technical discussion
+* No code commits (including documentation) for over three months
+
+If a Committer has not committed any code for over a year, then the Active
+Committer privilege is reclaimed.
+
+#### Committer List
+
+[Committer List](./committer-list.md)
 
 ### Maintainer
 
