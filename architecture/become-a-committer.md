@@ -10,23 +10,6 @@ Note that becoming a committer is not just about submitting some patches, it‘s
 also about helping out on the development and user discussion forums, helping
 with documentation and the issues.
 
-# How to become a TiDB Committer?
-
-A new Committer must be nominated by any existing Maintainer or PMC member, and
-is generated through the voting of PMC members.
-
-A Committer must have accomplished one or more of the following items:
-
-* Your commits have been approved and merged by Maintainers for over ten times.
-* You have implemented a complete feature.
-* You have fixed a vital bug.
-
-# Rights of TiDB Committer:
-
-* Recommend a new Organizer Committee Member
-* The profile can be listed on the Committer page
-* Participate in offline discussions and the design process
-
 # Definition of Inactive Committer and operations:
 
 * If a Committer has not participated in project discussions or pushing forward

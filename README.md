@@ -15,9 +15,9 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ## TiDB User Group
 
-The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of
-information related to topics that have long term relevance to large groups of
-TiDB users.
+The TiDB User Groups (TUGs) are groups for facilitating communication and
+discovery of information related to topics that have long term relevance to
+large groups of TiDB users.
 
 See [docs](https://pingcap.com/docs/) or
 [docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
