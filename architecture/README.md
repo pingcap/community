@@ -64,7 +64,7 @@ You are also encouraged to participate in the projects in the following ways:
 * Report or fix known and unknown bugs.
 * Participate in the existing discussion about features in the roadmap, and
   have interest in implementing a certain feature independently.
-* Write articles about the source code analysis and usage cases for the
+* Write articles about source code analysis and usage cases for the
   projects.
 
 #### Contributor List
@@ -85,7 +85,7 @@ engineering principles.
 
 * Knowledgeable about the codebase
 * Sponsored by 2 Committers
-* merged at least 20 PRs 
+* Merged at least 20 PRs 
 
 #### Responsibilities and Privileges
 
