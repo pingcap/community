@@ -11,14 +11,19 @@ issue/13567](https://github.com/pingcap/tidb/issues/13567).
 * Meeting Zoom: [https://pingcap.zoom.us/j/385623917](https://pingcap.zoom.us/j/385623917)
 * Meeting Notes: [Meeting Notes and Agenda](https://docs.google.com/document/d/1yJtuqm00KPH82LTnXWU3FPKhya4_OnmFybuY7a3r7Mw)
 
+## Mentor
+
+* [siddontang](http://github.com/siddontang), [PingCAP](https://github.com/pingcap)
+* [XyuWang](https://github.com/XyuWang), [bilibili](https://github.com/bilibili)
+
 ## Organizer
 
-* [lonng](https://github.com/lonng), PingCAP
-* [crazycs520](https://github.com/crazycs520), PingCAP
+* [lonng](https://github.com/lonng), [PingCAP](https://github.com/pingcap)
+* [crazycs520](https://github.com/crazycs520), [PingCAP](https://github.com/pingcap)
 
 ## Members
 
-* [spongedu](https://github.com/spongedu), Tencent
+* [spongedu](https://github.com/spongedu), [Tencent](https://github.com/Tencent)
 * [yangwenmai](https://github.com/yangwenmai)
 
 ## Contact
