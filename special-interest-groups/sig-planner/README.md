@@ -14,12 +14,12 @@ See [Planner SIG Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-To be updated.
+See [SIG Planner Member List](./member-list.md)
 
 ## Meetings
 
-* Regular Working Group Meeting: 5:00, Wednesdays at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
-* Meeting Zoom: [pingcap.zoom.us/j/3190482744](https://pingcap.zoom.us/j/3190482744)
+* Regular Working Group Meeting: 5:00, Thursday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
+* Meeting Zoom: [ttps://pingcap.zoom.com.cn/j/492702291](ttps://pingcap.zoom.com.cn/j/492702291)
 * Meeting Notes: to be updated
 
 ## Contact
