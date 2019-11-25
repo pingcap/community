@@ -52,7 +52,7 @@ A Contributor refers to the person who contributes to the following projects:
 #### How to become a Contributor?
 
 If a PR (Pull Request) submitted to any one of the above projects by you is
-approved and merged, then you become a TiDB Contributor.
+approved and merged, then you become a Contributor.
 
 You are also encouraged to participate in the projects in the following ways:
 
