@@ -39,7 +39,6 @@ welcome!
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
-* [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -179,7 +178,3 @@ TBD
 ### Issues Management or Triage
 
 TBD
-
-## Contributors
-
-See [TiDB Contributors](./contributors.md) for details. Thanks to all these contributors!

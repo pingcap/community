@@ -1,5 +1,7 @@
 # TiDB Community
-![TiDB Community Logo](./TiDB_Community_Logo.svg)
+
+![TiDB Community Logo](./media/community-logo.svg)
+
 Welcome to the TiDB Community! The main objective is to help members of the
 TiDB community who share similar interests to learn from and collaborate with
 each other.
@@ -9,13 +11,13 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ## Architecture
 
-![TiDB Community Architecture](./architecture.svg)
+![TiDB Community Architecture](./media/architecture.svg)
 
 ## TiDB User Group
 
-The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of
-information related to topics that have long term relevance to large groups of
-TiDB users.
+The TiDB User Groups (TUGs) are groups for facilitating communication and
+discovery of information related to topics that have long term relevance to
+large groups of TiDB users.
 
 See [docs](https://pingcap.com/docs/) or
 [docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
