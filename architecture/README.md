@@ -56,7 +56,7 @@ approved and merged, then you become a Contributor.
 
 You are also encouraged to participate in the projects in the following ways:
 
-* Actively answer technical questions asked by community users.
+* Actively answer technical questions asked by community users in github issues.
 * Help test the projects.
 * Help review the pull requests (PRs) submitted by others.
 * Help improve technical documents.
