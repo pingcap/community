@@ -1,17 +1,52 @@
 # PingCAP Incubator V1.0
 
-PingCAP Incubator is where all new features and projects associated with TiDB Ecosystem can get started. Once going through the incubation process, they can either be merged to tidb/tikv repo or become full PingCAP Community Projects. 
+PingCAP Incubator is where all new features and projects associated with TiDB
+Ecosystem can get started. Once going through the incubation process, they can
+either be merged to tidb/tikv repo or become full PingCAP Community Projects.
 
-The process is designed to ensure that new features and projects have correct licensing, up-to-date boilerplate documents, a healthy community process, and are developed using accepted PingCAP Community practices. 
+The process is designed to ensure that new features and projects have correct
+licensing, up-to-date boilerplate documents, a healthy community process, and
+are developed using accepted PingCAP Community practices.
 
-Welcome to join [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and feel free to contact us in the #incubator channel if any questions and suggestions arised.
+Welcome to join [TiDB Community Slack
+Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
+**#incubator** channel if any question or suggestion arised.
 
-# Incubation Process
+## Content
+
+<!-- vim-markdown-toc GFM -->
+
+* [What you are going to incubate?](#what-you-are-going-to-incubate)
+* [Features Incubation Process](#features-incubation-process)
+    * [Apply for Incubation](#apply-for-incubation)
+        * [Write a proposal](#write-a-proposal)
+        * [Find a Mentor](#find-a-mentor)
+        * [Get approval of PMC (Project Management Committee)](#get-approval-of-pmc-project-management-committee)
+        * [Complete team member recruitment](#complete-team-member-recruitment)
+    * [Start Incubation](#start-incubation)
+    * [Graduation](#graduation)
+* [Projects Incubation Process](#projects-incubation-process)
+    * [Apply for Incubation](#apply-for-incubation-1)
+        * [Write a proposal](#write-a-proposal-1)
+        * [Find a Mentor](#find-a-mentor-1)
+        * [Get approval of PMC (Project Management Committee)](#get-approval-of-pmc-project-management-committee-1)
+        * [Complete team member recruitment](#complete-team-member-recruitment-1)
+    * [Start Incubation](#start-incubation-1)
+    * [Maturity Level Promotion](#maturity-level-promotion)
+    * [Graduation](#graduation-1)
+    * [Retirement](#retirement)
+* [Benefits (WIP)](#benefits-wip)
+* [Features and Projects (WIP)](#features-and-projects-wip)
+
+<!-- vim-markdown-toc -->
 
 ## What you are going to incubate?
 
-- If what you want to incubate is a feature that needs to be merged into an existing project, please follow [Features Incubation Process](#Features-Incubation-Process)
-- If what you want to incubate is a project intended to become a sub-project of PingCAP Community and designed to extend one or more PingCAP projects with functionality, please follow [Projects Incubation Process](#Projects-Incubation-Process)
+- If what you want to incubate is a feature that needs to be merged into an
+  existing project, please follow [Features Incubation Process](#features-incubation-process)
+- If what you want to incubate is a project intended to become a sub-project of
+  PingCAP Community and designed to extend one or more PingCAP projects with
+  functionality, please follow [Projects Incubation Process](#projects-incubation-process)
 
 ## Features Incubation Process
 
@@ -21,18 +56,25 @@ To create a new feature you must follow these steps:
 
 #### Write a proposal
 
-You can write a proposal via GitHub Issue (see [example](https://github.com/pingcap/community/issues/81)) and submit it to [pingcap/community](https://github.com/pingcap/community/) repository. Your proposal should include the following items:
+You can write a proposal via GitHub Issue (see [example](https://github.com/pingcap/community/issues/81)) and submit
+it to [pingcap/community](https://github.com/pingcap/community/) repository.
+Your proposal should include the following items:
 
 - Problems to be solved
 - Initial team members and the expected number of team members at least
 - Estimated completion time. Generally, features are expected to complete within 3 months.
-- Link to your Design Document. 
+- Link to your Design Document.
   - Design Document of TiKV features should be proposed via an RFC (Request for Comment) to tikv repository (see [How to submit an RFC to TiKV](https://github.com/tikv/rfcs#how-to-submit-an-rfc))
   - Design Document of TiDB features should be proposed via a PR (Pull Request) to tidb repository (see [TiDB Design Documents Proposal Process](https://github.com/pingcap/tidb/tree/master/docs/design#proprosal-process))
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal issue and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s). Being a Mentor is a significant amount of work and active participation in the sponsored project is encouraged.
+Once your proposal is submitted, you will get at least 2 Mentors from the
+community. Mentors will express their intention to support the program by
+replying to the proposal issue and help guide the team through the process. The
+majority of the mentorship, review, and advice will come from the Mentor(s).
+Being a Mentor is a significant amount of work and active participation in the
+sponsored project is encouraged.
 
 #### Get approval of PMC (Project Management Committee)
 
@@ -106,7 +148,7 @@ Incubating projects are required to send the monthly report to [pmc@pingcap.com]
 
 ### Maturity Level Promotion
 
-When the majority of the project members determine they have met the criteria to be promoted to a higher maturity stage, they should contact their Mentors to discuss. If the Mentors agree that [the maturity criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8) have been met, the project organizer can create a pull request at their quarterly meeting. 
+When the majority of the project members determine they have met the criteria to be promoted to a higher maturity stage, they should contact their Mentors to discuss. If the Mentors agree that [the maturity criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8) have been met, the project organizer can create a pull request at their quarterly meeting.
 
 PMC will arrange a promotion presentation for the project. Maturity Level Review follows [Projects Approval criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8).
 
@@ -125,16 +167,11 @@ Graduation criteria for projects:see [Projects Approval Criteria](https://docs.g
 
 A project will be retired if it meets either of the situations:
 
-- Fails to graduate within 12 months. 
+- Fails to graduate within 12 months.
 - Fails to make a release for 3 months.
 
 A warning email will be sent 3 weeks before the retirement to the Project Members and the Mentor(s). A project can be re-incubated after retirement but must go through the Incubation Process from the beginning, the same as any new project.
 
-# Benefits (WIP)
+## Benefits (WIP)
 
-# Features and Projects (WIP)
-
-
-
-
-
+## Features and Projects (WIP)
