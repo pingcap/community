@@ -15,15 +15,15 @@ The Key Visualizer Working Group aims to implement a visual component to show ke
 ## Mentors
 
 * [samyubowei](https://github.com/samyubowei)([@58.com](www.58.com))
-* [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/pingcap)
+* [nolouch](https://github.com/nolouch)([@PingCAP](https://github.com/pingcap))
 
 ## Members
 
-* [sivagao](https://github.com/sivagao), [@PingCAP](https://github.com/pingcap)
-* [andylokandy](https://github.com/andylokandy), [@PingCAP](https://github.com/pingcap)
-* [hundundm](https://github.com/hundundm), [@PingCAP](https://github.com/pingcap)
-* [zzh-wisdom](https://github.com/zzh-wisdom), [@HUST](http://www.hust.edu.cn/)
-* [Sullivan12138](https://github.com/Sullivan12138), [@HUST](http://www.hust.edu.cn/)
+* [sivagao](https://github.com/sivagao)([@PingCAP](https://github.com/pingcap))
+* [andylokandy](https://github.com/andylokandy)([@PingCAP](https://github.com/pingcap))
+* [hundundm](https://github.com/hundundm)([@PingCAP](https://github.com/pingcap))
+* [zzh-wisdom](https://github.com/zzh-wisdom)([@HUST](http://www.hust.edu.cn/))
+* [Sullivan12138](https://github.com/Sullivan12138)([@HUST](http://www.hust.edu.cn/))
 
 ## Contact
 
