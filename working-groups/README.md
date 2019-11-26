@@ -12,3 +12,4 @@ policies.
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
 * [wg-key-visualizer](./wg-key-visualizer.md)
+* [wg-wasm](./wg-wasm.md)
