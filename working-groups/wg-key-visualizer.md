@@ -22,6 +22,8 @@ Implement a visual component to show key heatmap of the TiKV cluster, which is u
 * [sivagao](https://github.com/sivagao), [PingCAP](https://github.com/pingcap)
 * [andylokandy](https://github.com/andylokandy), [PingCAP](https://github.com/pingcap)
 * [hundundm](https://github.com/hundundm), [PingCAP](https://github.com/pingcap)
+* [zzh-wisdom](https://github.com/zzh-wisdom), [HUST](http://www.hust.edu.cn/)
+* [Sullivan12138](https://github.com/Sullivan12138), [HUST](http://www.hust.edu.cn/)
 
 ## Contact
 
