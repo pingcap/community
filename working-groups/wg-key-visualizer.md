@@ -2,7 +2,7 @@
 
 ## Goals
 
-Implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting and reasoning inefficient application usage patterns.
+The Key Visualizer Working Group aims to implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting inefficient application usage patterns.
 
 [RFC](https://github.com/tikv/rfcs/pull/367)
 
@@ -15,15 +15,15 @@ Implement a visual component to show key heatmap of the TiKV cluster, which is u
 ## Mentors
 
 * [samyubowei](https://github.com/samyubowei)([@58.com](www.58.com))
-* [nolouch](https://github.com/nolouch), [PingCAP](https://github.com/pingcap)
+* [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/pingcap)
 
 ## Members
 
-* [sivagao](https://github.com/sivagao), [PingCAP](https://github.com/pingcap)
-* [andylokandy](https://github.com/andylokandy), [PingCAP](https://github.com/pingcap)
-* [hundundm](https://github.com/hundundm), [PingCAP](https://github.com/pingcap)
-* [zzh-wisdom](https://github.com/zzh-wisdom), [HUST](http://www.hust.edu.cn/)
-* [Sullivan12138](https://github.com/Sullivan12138), [HUST](http://www.hust.edu.cn/)
+* [sivagao](https://github.com/sivagao), [@PingCAP](https://github.com/pingcap)
+* [andylokandy](https://github.com/andylokandy), [@PingCAP](https://github.com/pingcap)
+* [hundundm](https://github.com/hundundm), [@PingCAP](https://github.com/pingcap)
+* [zzh-wisdom](https://github.com/zzh-wisdom), [@HUST](http://www.hust.edu.cn/)
+* [Sullivan12138](https://github.com/Sullivan12138), [@HUST](http://www.hust.edu.cn/)
 
 ## Contact
 
