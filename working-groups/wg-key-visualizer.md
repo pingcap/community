@@ -14,7 +14,7 @@ The Key Visualizer Working Group aims to implement a visual component to show ke
 
 ## Mentors
 
-* [samyubowei](https://github.com/samyubowei)([@58.com](www.58.com))
+* [samyubowei](https://github.com/samyubowei), [@58.com](www.58.com)
 * [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/pingcap)
 
 ## Members
