@@ -31,7 +31,6 @@ Part of the following maturity criteria is referred to [CII Best Practices](http
 To graduate from sandbox or incubating status, or for a new project to join as a graduated project, a project must meet the incubating stage criteria plus:
 
 - A detailed user documentation and basic reference manuals are required 
-
 - Committers from more than two organizations
 - Comply with PingCAP Code of Conduct
 - Have a clear process for becoming a Committer, with basic community governance documentation
@@ -40,4 +39,3 @@ To graduate from sandbox or incubating status, or for a new project to join as a
 - Monthly Report with ongoing projects 
 
 Projects can attempt to move directly from sandbox to graduation, if they can demonstrate sufficient maturity. Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within two years.
-
