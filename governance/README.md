@@ -1,4 +1,4 @@
-# TiDB Community Goverance
+# TiDB Community Governance
 
 ## Content
 
@@ -9,11 +9,11 @@
 * [Community Groups](#community-groups)
     * [Working Group(WG)](#working-groupwg)
         * [How to create a WG(WIP)?](#how-to-create-a-wgwip)
-        * [WG Goverance(WIP)](#wg-goverancewip)
+        * [WG Governance(WIP)](#wg-governancewip)
         * [WG Lifecycle(WIP)](#wg-lifecyclewip)
     * [Special Interest Group(SIG)](#special-interest-groupsig)
         * [How to create a SIG(WIP)?](#how-to-create-a-sigwip)
-        * [SIG Goverance(WIP)](#sig-goverancewip)
+        * [SIG Governance(WIP)](#sig-governancewip)
         * [SIG Lifecycle(WIP)](#sig-lifecyclewip)
 
 <!-- vim-markdown-toc -->
@@ -38,7 +38,7 @@ term artifacts. Working groups can report back and act through involved SIGs.
 
 #### How to create a WG(WIP)?
 
-#### WG Goverance(WIP)
+#### WG Governance(WIP)
 
 #### WG Lifecycle(WIP)
 
@@ -50,6 +50,6 @@ a SIG is to own and develop a module of TiDB.
 
 #### How to create a SIG(WIP)?
 
-#### SIG Goverance(WIP)
+#### SIG Governance(WIP)
 
 #### SIG Lifecycle(WIP)
