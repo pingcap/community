@@ -14,7 +14,7 @@ Implement a visual component to show key heatmap of the TiKV cluster, which is u
 
 ## Mentors
 
-* [samyubowei](https://github.com/samyubowei), www.58.com
+* [samyubowei](https://github.com/samyubowei)([@58.com](www.58.com))
 * [nolouch](https://github.com/nolouch), [PingCAP](https://github.com/pingcap)
 
 ## Members
