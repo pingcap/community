@@ -4,13 +4,16 @@
 
 The Key Visualizer Working Group aims to implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting inefficient application usage patterns.
 
-[RFC](https://github.com/tikv/rfcs/pull/367)
+[Proposal](https://github.com/pingcap/community/issues/88)
+
+[RFC](https://github.com/tikv/rfcs/pull/36)
 
 ## Work and Meeting
 
 * Regular Working Group Meeting: 4pm on every Thursday
 * Meeting Zoom: [https://pingcap.zoom.com.cn/j/669899354](https://pingcap.zoom.com.cn/j/669899354)
-* [Work Status & Materials](https://docs.google.com/document/d/1LdvS0oWo79eTINHCZAdI0z0vKGP2xiCLnHYKRHBwfh8)
+* Agenda: [https://github.com/orgs/pingcap/projects/4](https://github.com/orgs/pingcap/projects/4)
+* [Meeting Notes](https://docs.google.com/document/d/1EoigdAtZ0tWO0-lpS6FhC454BM4LVypxAdxrOx1VLEU)
 
 ## Mentors
 
