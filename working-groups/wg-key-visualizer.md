@@ -12,7 +12,7 @@ The Key Visualizer Working Group aims to implement a visual component to show ke
 
 * Regular Working Group Meeting: 4pm on every Thursday
 * Meeting Zoom: [https://pingcap.zoom.com.cn/j/669899354](https://pingcap.zoom.com.cn/j/669899354)
-* Agenda: [https://github.com/orgs/pingcap/projects/4](https://github.com/orgs/pingcap/projects/4)
+* Progress: [https://github.com/orgs/pingcap/projects/4](https://github.com/orgs/pingcap/projects/4)
 * [Meeting Notes](https://docs.google.com/document/d/1EoigdAtZ0tWO0-lpS6FhC454BM4LVypxAdxrOx1VLEU)
 
 ## Mentors
