@@ -2,7 +2,7 @@
 
 ## Goals
 
-Use a unified way to manage the configuration options of each component and support dynamically change for the configuration options.
+Use a unified way to manage the configuration options of each component and support dynamically change for the configuration options. The tracking issue can be found in [here](https://github.com/pingcap/tidb/issues/13795).
 
 ## Meetings
 
@@ -19,6 +19,11 @@ Use a unified way to manage the configuration options of each component and supp
 
 * [rleungx](https://github.com/rleungx), [PingCAP](https://github.com/pingcap)
 * [NingLin-P](https://github.com/NingLin-P), [PingCAP](https://github.com/pingcap)
+
+## Members
+
+* [xing0821](https://github.com/xing0821), [Megvii Inc.](https://github.com/megvii)
+* [qxhy123](https://github.com/qxhy123), [ThoughtWorks Inc.](https://github.com/thoughtworks)
 
 ## Contact
 
