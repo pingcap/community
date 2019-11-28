@@ -4,9 +4,9 @@
 
 The Key Visualizer Working Group aims to implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting inefficient application usage patterns.
 
-[Proposal](https://github.com/pingcap/community/issues/88)
+Proposal: [KeyVisualizer: The visualized hotspot profiler](https://github.com/pingcap/community/issues/88)
 
-[RFC](https://github.com/tikv/rfcs/pull/36)
+RFC: [Key Visualizer: The visualized hotspot profiler](https://github.com/tikv/rfcs/pull/36)
 
 ## Work and Meeting
 
