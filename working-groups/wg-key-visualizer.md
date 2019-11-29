@@ -25,8 +25,10 @@ RFC: [Key Visualizer: The visualized hotspot profiler](https://github.com/tikv/r
 * [sivagao](https://github.com/sivagao), [@PingCAP](https://github.com/pingcap)
 * [andylokandy](https://github.com/andylokandy), [@PingCAP](https://github.com/pingcap)
 * [hundundm](https://github.com/hundundm), [@PingCAP](https://github.com/pingcap)
-* [zzh-wisdom](https://github.com/zzh-wisdom), [@HUST](http://www.hust.edu.cn/)
-* [Sullivan12138](https://github.com/Sullivan12138), [@HUST](http://www.hust.edu.cn/)
+* [zzh-wisdom](https://github.com/zzh-wisdom), [@HUST](https://www.hust.edu.cn/)
+* [Sullivan12138](https://github.com/Sullivan12138), [@HUST](https://www.hust.edu.cn/)
+* [weiliu93](https://github.com/weiliu93), [@Airbnb](https://github.com/airbnb)
+* [jackthinking](https://github.com/jackthinking), [@SEU](https://www.seu.edu.cn/)
 
 ## Contact
 
