@@ -2,7 +2,7 @@
 
 ## Goals
 
-The Key Visualizer Working Group aims to implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting inefficient application usage patterns.
+The Key Visualizer Working Group aims to implement a visual component to show key heatmap of the TiKV cluster, which is useful for troubleshooting TiKV performance issues and identify inefficient application usage patterns.
 
 Proposal: [KeyVisualizer: The visualized hotspot profiler](https://github.com/pingcap/community/issues/88)
 
