@@ -25,7 +25,7 @@ We will make these changes:
 
 ## Rationale
 
-Translate sql in PostgreSQL to MySQL within Rails's ORM
+Translate SQL statements from PostgreSQL to MySQL within Rails's ORM
 
 ## Compatibility
 
