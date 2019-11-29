@@ -21,7 +21,7 @@ We will make these changes:
 
 1. Make most SQL statements of Discourse run on MySQL;
 2. Add new elastic search  componentinstead of PostgreSQL's full-text search;
-3. Migrate from MySQL to TiDB, fix potential compatible problems;
+3. Migrate from MySQL to TiDB, and fix potential compatibility problems;
 
 ## Rationale
 
