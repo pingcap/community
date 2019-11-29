@@ -13,7 +13,7 @@ The proposal aims at:
 
 ## Background
 
-The TiDB User Group Website: [AskTUG](https://asktug.com) is running on Discourse, and Discourse is running on PostgreSQL, we want to migrate it to TiDB. Then we can frequently test TiDB before each release.
+The TiDB User Group Website: [AskTUG](https://asktug.com) is running on Discourse, and Discourse is running on PostgreSQL. We want to migrate it to TiDB. Then we can frequently test TiDB before each release.
 
 ## Proposal
 
