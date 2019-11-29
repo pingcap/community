@@ -8,7 +8,7 @@
 
 The proposal aims at:
 
-1. **Eat our own dog food**;
+1. **Eating our own dog food**;
 2. Connect TiDB Community with Discourse Community and Ruby On Rails Community;
 
 ## Background
