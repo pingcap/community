@@ -33,8 +33,8 @@ There is no compatibility issues to TiDB.
 
 ## Implementation
 
-1. Migrate Discourse from PostgreSQL to MySQL. @hooopo till Dec 5, 2019
-2. Migrate Discourse from MySQL to TiDB, @wd0517 till Dec 15, 2019
+1. Migrate Discourse from PostgreSQL to MySQL. @[hooopo](https://github.com/hooopo) till Dec 5, 2019
+2. Migrate Discourse from MySQL to TiDB, @[wd0517](https://github.com/wd0517) till Dec 15, 2019
 
 ## Open issues (if applicable)
 
