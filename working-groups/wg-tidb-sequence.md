@@ -21,7 +21,7 @@ or prefer strictly incrementing integers.
 ## Organizers
 
 * [ailinkid](https://github.com/AilinKid), [PingCAP](https://github.com/pingcap)
-* [andrewdi](https://github.com/AndrewDi), [CSDC](pandipd@outlook.com)
+* [andrewdi](https://github.com/AndrewDi), [Personal](pandipd@outlook.com)
 
 ## Members
 
