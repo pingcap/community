@@ -21,7 +21,7 @@ Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
     * [Apply for Incubation](#apply-for-incubation)
         * [Write a proposal](#write-a-proposal)
         * [Find a Mentor](#find-a-mentor)
-        * [Get approval of PMC (Project Management Committee)](#get-approval-of-pmc-project-management-committee)
+        * [Get approval from PMC (Project Management Committee)](#get-approval-from-pmc-project-management-committee)
         * [Complete team member recruitment](#complete-team-member-recruitment)
     * [Start Incubation](#start-incubation)
     * [Graduation](#graduation)
@@ -30,7 +30,7 @@ Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
         * [Write a proposal](#write-a-proposal-1)
         * [Find a Mentor](#find-a-mentor-1)
         * [Get approval of PMC (Project Management Committee)](#get-approval-of-pmc-project-management-committee-1)
-        * [Complete team member recruitment](#complete-team-member-recruitment-1)
+        * [Recruit team members](#Recruit-team-members)
     * [Start Incubation](#start-incubation-1)
     * [Maturity Level Promotion](#maturity-level-promotion)
     * [Graduation](#graduation-1)
@@ -73,16 +73,14 @@ Once your proposal is submitted, you will get at least 2 Mentors from the
 community. Mentors will express their intention to support the program by
 replying to the proposal issue and help guide the team through the process. The
 majority of the mentorship, review, and advice will come from the Mentor(s).
-Being a Mentor is a significant amount of work and active participation in the
-sponsored project is encouraged.
 
-#### Get approval of PMC (Project Management Committee)
+#### Get approval from PMC (Project Management Committee)
 
 Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying “LGTM (look good to me)” to the proposal issue.
 
-#### Complete team member recruitment
+#### Recruit team members
 
-The recruitment of team members is expected to be completed within 1 week after the approval of PMC.
+The recruitment of team members is expected to be completed within 1 week after PMC's approval
 
 If the recruitment of members is not completed within the specified time, PMC will assist the team formation or delay the project approval.
 
@@ -114,58 +112,58 @@ You can write a proposal via GitHub Issue (see [example](https://github.com/ping
 - Problems to be solved
 - Initial team members and the expected number of team members at least
 - Estimated completion time. Generally, Projects are expected to complete within 12 months.
-- Link to your Design Document which should be proposed via a PR (Pull Request) to [pingcap/community](https://github.com/pingcap/community/) repository (see [Design Template](https://github.com/pingcap/tidb/blob/master/docs/design/TEMPLATE.md))preferred maturity level and evidence (see [Projects Approval Criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8))
+- Link to your Design Document which should be proposed via a PR (Pull Request) to [pingcap/community](https://github.com/pingcap/community/) repository (see [Design Template](https://github.com/pingcap/tidb/blob/master/docs/design/TEMPLATE.md))preferred maturity level and evidence (see [Projects Approval Criteria](./projects-approval-criteria)
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal issue and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s). Being a Mentor is a significant amount of work and active participation in the sponsored project is encouraged.
+Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal issue and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s).
 
-#### Get approval of PMC (Project Management Committee)
+#### Get approval from PMC (Project Management Committee)
 
-[Projects approval criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8) depends on the preferred maturity level and evidence provided. PMC will express their approval by replying “LGTM (look good to me)” to the proposal issue
+[Projects approval criteria](./projects-approval-criteria) depends on the preferred maturity level and evidence provided. PMC (Project Management Committee) will express their approval by replying “LGTM (look good to me)” to the proposal issue. 
 
-#### Complete team member recruitment
+#### Recruit team members
 
-The recruitment of team members is expected to be completed within 1 week after the approval of PMC.
+The recruitment of team members is expected to be completed within 1 week after PMC's approval
 
 If the recruitment of members is not completed within the specified time, PMC will assist the team formation or delay the project approval.
 
 ### Start Incubation
 
-For both features and projects, the incubation process will be traced in a working group (see [Woking Group Governance](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance-zh_CN.md)). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance-zh_CN.md#创建)).
+For both features and projects, the incubation process will be traced in a working group (see [Woking Group Governance](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance.md)). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance-zh_CN.md#创建)).
 
 In addition, each approved project will get a new GitHub repo created in [pingcap-incubator](https://github.com/pingcap-incubator) organization. Project owners are expected to add the following files to the repo:
 
-- A README from the accepted proposal
+- A README for the project
 - An OWNERS from the accepted proposal
 - A CONTRIBUTING file based on[ pingcap/community](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
 - A code-of-conduct.md based on [pingcap/community/code-of-conduct.md](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)
 - A LICENSE file with the Apache 2.0 licensea RELEASE.md file that talks about the process for releases
 
-To start your project with these files can be found here at [template project](https://github.com/pingcap-incubator/pingcap-template-project).
+To help you get started with these files, you can find the corresponding templates at [template project](https://github.com/pingcap-incubator/pingcap-template-project).
 
-Incubating projects are required to send the monthly report to [pmc@pingcap.com](mailto:pmc@pingcap.com) before 10th of every month and cc the Mentor.
+For each incubating project, a monthly report is required to send to [pmc@pingcap.com](mailto:pmc@pingcap.com) before 10th of every month with the mentor copied.
 
 ### Maturity Level Promotion
 
-When the majority of the project members determine they have met the criteria to be promoted to a higher maturity stage, they should contact their Mentors to discuss. If the Mentors agree that [the maturity criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8) have been met, the project organizer can create a pull request at their quarterly meeting.
+When the majority of the project members determine they have met the criteria to be promoted to a higher maturity stage, they should contact their Mentors to discuss. If the Mentors agree that [the maturity criteria](./projects-approval-criteria) have been met, the project organizer can create a pull request at their quarterly meeting.
 
-PMC will arrange a promotion presentation for the project. Maturity Level Review follows [Projects Approval criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8).
+PMC will arrange a promotion presentation for the project. Maturity Level Review follows [Projects Approval criteria](./projects-approval-criteria).
 
 ### Graduation
 
-Projects follow the same graduation process as features, which is:
+Projects follow the same graduation process as features, as described below:
 
 1. Create a pull request for graduation
 2. PMC members arrange a graduation presentation
 3. PMC members express their agreement by replying “LGTM (look good to me)” to the pull request
 4. Related working group disbands
 
-Graduation criteria for projects:see [Projects Approval Criteria](https://docs.google.com/document/d/1spt-2xk0uyCvD-HLCX5eHbIxEGOhal1oCMsJlDkNjC4/edit#heading=h.6lk8cv6sk4t8)
+Graduation criteria for projects: see [Projects Approval Criteria](./projects-approval-criteria)
 
 ### Retirement
 
-A project will be retired if it meets either of the situations:
+An incubation project will be considered retired if it meets either of the following situations:
 
 - Fails to graduate within 12 months.
 - Fails to make a release for 3 months.
