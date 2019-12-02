@@ -4,8 +4,9 @@
 
 Support Sequence in TiDB
 
-* Many customers could probably make do with using Auto_Increment as unique id generator,
-but in some cases, existing applications try to use sequences to fetch generated id back 
+* Many customers could probably choose `AUTO_INCREMENT` as the unique ID
+   generator,
+but in some cases, existing applications try to use `SEQUENCE` to fetch generated id back 
 or prefer strictly incrementing integers.
 
 ## Meetings
@@ -21,7 +22,7 @@ or prefer strictly incrementing integers.
 ## Organizers
 
 * [ailinkid](https://github.com/AilinKid), [PingCAP](https://github.com/pingcap)
-* [andrewdi](https://github.com/AndrewDi), [Personal](pandipd@outlook.com)
+* [andrewdi](https://github.com/AndrewDi), [Personal](mailto:pandipd@outlook.com)
 
 ## Members
 
@@ -31,4 +32,5 @@ or prefer strictly incrementing integers.
 ## Contact
 
 * Slack: channel **#wg-tidb-sequence** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+  [tidbcommunity](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack workspace.
+
