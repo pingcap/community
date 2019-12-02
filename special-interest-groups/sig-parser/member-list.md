@@ -23,8 +23,6 @@ Members and their contributions:
 | [hey-kong](https://github.com/hey-kong)   | 4              | 2019-09-04 23:32:46     | 2019-09-29 14:20:02   |
 | [huaouo](https://github.com/huaouo)       | 1              | 2019-08-15 14:28:09     | 2019-08-15 14:28:09   |
 
-## 
-
 ## Technical Leads
 
 Lead:

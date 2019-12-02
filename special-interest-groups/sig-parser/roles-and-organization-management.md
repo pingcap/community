@@ -13,14 +13,14 @@ the **Active Contributor** community role in the TiDB/parser repository.
 
 Requirements:
 
-* Have at least 5 parser-related PRs merged within one year.
+* Have at least 8 parser-related PRs merged within one year.
 * Nominated by at least 2 Parser SIG Reviewers, Committer or Maintainer.
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 15 parser-related PRs merged within one year.
+* Have at least 20 parser-related PRs merged within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
 #### From `Reviewer` to `Committer`
