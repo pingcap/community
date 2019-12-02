@@ -48,8 +48,6 @@ TiDB has the following types of groups that are officially supported:
   long term artifacts. Working groups can report back and act through involved
   SIGs.
 
-See [TiDB Community Governance](./governance/README.md) for more details.
-
 ### How to contribute
 
 Contributions are welcomed and greatly appreciated. See [How to
