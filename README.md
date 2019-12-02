@@ -66,6 +66,10 @@ TiDB architecture though the following blogs:
 * TiDB Internal (II) - Computing: [English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/)
 * TiDB Internal (III) - Scheduling: [English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/)
 
+## RFC
+
+See [RFC](./rfc/README.md) for RFCs for details.
+
 ## TiDB Roadmap
 
 See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
