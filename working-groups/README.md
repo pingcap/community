@@ -15,3 +15,4 @@ policies.
 * [wg-key-visualizer](./wg-key-visualizer.md)
 * [wg-wasm](./wg-wasm.md)
 * [wg-dynamic-configuration-change](./wg-dynamic-configuration-change.md)
+* [wg-tidb-sequence](./wg-tidb-sequence.md)
