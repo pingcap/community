@@ -14,9 +14,11 @@ Part of the following maturity criteria are inspired by [CII Best Practices](htt
 - The project name must be unique among PingCAP projects
 - Has basic project information files, including README, OWNERS, CONTRIBUTING
 - Has a license statement (Apache 2)
+- Comply with PingCAP Code of conduct
 - The source code is stored on Github. Issue tracking is done via GitHub/issues, and code submission via GitHub/Pull Request.
 - Has an automated continuous integration test infrastructure (CI)
 - Approved by 2 or more PMC members
+
 
 ## Incubating Stage
 
@@ -25,6 +27,7 @@ Part of the following maturity criteria are inspired by [CII Best Practices](htt
 - Has at least 3 active committers and 5 contributors. A continuous commit history is also required.
 - Basic user documentation
 - A clear plan for Roadmap and next version, which can be described by github milestone or documentation
+- Approved by ⅔  PMC members
 
 ## Graduation Stage
 
@@ -32,10 +35,10 @@ To graduate from sandbox or incubating status, or for a new project to join as a
 
 - A detailed user documentation and basic reference manuals are required 
 - Committers from more than two organizations
-- Comply with PingCAP Code of Conduct
 - Has a clear member promotion path, with a basic community governance documentation
 - A user list with at least 3 users applying the project in a production environment
 - Have a clear release method and release cycle. Release notes are required for every release
 - Monthly Report with ongoing projects 
+- Approved by ⅔  PMC members
 
 Projects can attempt to move directly from sandbox to graduation, if they can demonstrate sufficient maturity. Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within two years.
