@@ -14,8 +14,6 @@ Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
 
 ## Content
 
-<!-- vim-markdown-toc GFM -->
-
 * [What you are going to incubate?](#what-you-are-going-to-incubate)
 * [Features Incubation Process](#features-incubation-process)
     * [Apply for Incubation](#apply-for-incubation)
@@ -138,7 +136,7 @@ In addition, each approved project will get a new GitHub repo created in [pingca
 - An OWNERS from the accepted proposal
 - A CONTRIBUTING file based on[ pingcap/community](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
 - A code-of-conduct.md based on [pingcap/community/code-of-conduct.md](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)
-- A LICENSE file with the Apache 2.0 licensea RELEASE.md file that talks about the process for releases
+- A LICENSE which must be Apache 2.0 for code projects and documentation repositories, without any custom content
 
 To help you get started with these files, you can find the corresponding templates at [template project](https://github.com/pingcap-incubator/pingcap-template-project).
 
@@ -170,6 +168,28 @@ An incubation project will be considered retired if it meets either of the follo
 
 A warning email will be sent 3 weeks before the retirement to the Project Members and the Mentor(s). A project can be re-incubated after retirement but must go through the Incubation Process from the beginning, the same as any new project.
 
-## Benefits (WIP)
+## Benefits
 
-## Features and Projects (WIP)
+PingCAP want to build a healthy commmunity ecosystem. All community programs are welcomed to join the PingCAP incubator program. The incubator program will get fully support by PingCAP and community. 
+
+- Rich resources support:
+  - Great Mentors:
+    - At least 2 mentors with the ability to provide technical and practical guidance to the project
+    - Mentors with high community roles (Developer community Committer or TiDB UserGroup Ambassodor) 
+  - PingCAP
+    - Official learning resources
+    - Necessary tutoring lessons
+    - Marketing campaign and promotion  for the project and
+
+- Open Source experience:
+  - First-hand practical experience
+  - Participant fully as an organizer or community member
+  - Project will be maintained contiuously after it is finished
+
+## Features and Projects
+
+Check the proposal of ongoing [features](https://github.com/pingcap/community/labels/IncubatingProgram%2FFeature) here.
+
+Check the proposal of ongoing [projects](https://github.com/pingcap/community/labels/IncubatingProgram%2FProject) here.
+
+If you would like to join the incubator program, please find the corresponding slack channel in [working groups](https://github.com/pingcap/community/tree/master/working-groups).
