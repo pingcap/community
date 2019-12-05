@@ -74,7 +74,7 @@ majority of the mentorship, review, and advice will come from the Mentor(s).
 
 #### Get approval from PMC (Project Management Committee)
 
-Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying “LGTM (look good to me)” to the proposal issue.
+Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying "LGTM (look good to me)" to the proposal issue.
 
 #### Recruit team members
 
@@ -94,7 +94,7 @@ Incubating features graduation process includes the following items:
 
 1. Create a pull request for graduation
 2. PMC members arrange a graduation presentation
-3. PMC members express their agreement by replying “LGTM (look good to me)” to the pull request
+3. PMC members express their agreement by replying "LGTM (look good to me)" to the pull request
 4. Related working group disbands
 
 ## Projects Incubation Process
@@ -132,9 +132,9 @@ For both features and projects, the incubation process will be traced in a worki
 
 In addition, each approved project will get a new GitHub repo created in [pingcap-incubator](https://github.com/pingcap-incubator) organization. Project owners are expected to add the following files to the repo:
 
-- A README for the project
+- A README.md for the project
 - An OWNERS from the accepted proposal
-- A CONTRIBUTING file based on[ pingcap/community](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
+- A CONTRIBUTING.md file based on[ pingcap/community](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
 - A code-of-conduct.md based on [pingcap/community/code-of-conduct.md](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)
 - A LICENSE which must be Apache 2.0 for code projects and documentation repositories, without any custom content
 
