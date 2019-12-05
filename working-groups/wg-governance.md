@@ -12,7 +12,7 @@ The Working Group has the following characteristics:
 
 ## Relationship between Working Group and Special Interest Group
 
-![wg_sig_relationship](/media/governance/wg_sig_relationship.png)
+![wg_sig_relationship](/media/wg_sig_relationship.png)
 
 The assets owned by the TiDB Project (eg: code, documentation, blogs, regulations, etc.) are owned and managed by SIGs . Except for special assets owned by the Working Group , such as:
 
