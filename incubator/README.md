@@ -84,7 +84,7 @@ If the recruitment of members is not completed within the specified time, PMC wi
 
 ### Start Incubation
 
-The incubation process will be traced in a working group (see [Woking Group Governance](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance.md). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](https://github.com/tikv/community/blob/master/committee/wg-governance/working-group-template.md).
+The incubation process will be traced in a working group (see [Woking Group Governance](/working-groups/wg-governance.md). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](/working-groups/wg-template.md).
 
 Regular updates in process are required as well. Features are expected to submit an interim report to [pmc@pingcap.com](mailto:pmc@pingcap.com).
 
