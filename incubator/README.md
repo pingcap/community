@@ -67,7 +67,7 @@ Your proposal should include the following items:
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at least 2 Mentors from the
+Once your proposal is submitted, you will get at 1-2 Mentors from the
 community. Mentors will express their intention to support the program by
 replying to the proposal issue and help guide the team through the process. The
 majority of the mentorship, review, and advice will come from the Mentor(s).
@@ -84,7 +84,7 @@ If the recruitment of members is not completed within the specified time, PMC wi
 
 ### Start Incubation
 
-The incubation process will be traced in a working group (see [Woking Group Governance](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance-zh_CN.md)). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance-zh_CN.md#创建)).
+The incubation process will be traced in a working group (see [Woking Group Governance](https://github.com/tikv/community/blob/master/committee/wg-governance/wg-governance.md). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](https://github.com/tikv/community/blob/master/committee/wg-governance/working-group-template.md).
 
 Regular updates in process are required as well. Features are expected to submit an interim report to [pmc@pingcap.com](mailto:pmc@pingcap.com).
 
@@ -93,7 +93,7 @@ Regular updates in process are required as well. Features are expected to submit
 Incubating features graduation process includes the following items:
 
 1. Create a pull request for graduation
-2. PMC members arrange a graduation presentation
+2. PMC members arrange a graduation presentation (if necessary)
 3. PMC members express their agreement by replying "LGTM (look good to me)" to the pull request
 4. Related working group disbands
 
@@ -133,7 +133,7 @@ For both features and projects, the incubation process will be traced in a worki
 In addition, each approved project will get a new GitHub repo created in [pingcap-incubator](https://github.com/pingcap-incubator) organization. Project owners are expected to add the following files to the repo:
 
 - A README.md for the project
-- An OWNERS from the accepted proposal
+- An OWNERS.md as defined in the accepted proposal
 - A CONTRIBUTING.md file based on[ pingcap/community](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md)
 - A code-of-conduct.md based on [pingcap/community/code-of-conduct.md](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)
 - A LICENSE which must be Apache 2.0 for code projects and documentation repositories, without any custom content
@@ -153,7 +153,7 @@ PMC will arrange a promotion presentation for the project. Maturity Level Review
 Projects follow the same graduation process as features, as described below:
 
 1. Create a pull request for graduation
-2. PMC members arrange a graduation presentation
+2. PMC members arrange a graduation presentation (if necessary)
 3. PMC members express their agreement by replying “LGTM (look good to me)” to the pull request
 4. Related working group disbands
 
