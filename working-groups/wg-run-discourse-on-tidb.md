@@ -6,17 +6,21 @@ Run Discourse on TiDB instead of PostgreSQL
 
 ## Meetings
 
+* Regular Working Group Meeting: [UTC+8]2:30pm on every Thursday
+* [Meeting Notes](https://docs.google.com/document/d/1tQPOSb4kTVvA-mAouFr9gdDSPotqJNzgM--caNBZQHU/edit)
+
 ## Mentors
 
 * [sykp241095](http://github.com/sykp241095), [PingCAP](https://github.com/pingcap)
+* [hooopo](http://github.com/hooopo), [PingCAP](https://github.com/pingcap)
 
 ## Organizers
 
-* [wd0517](https://github.com/wd0517), [PingCAP](https://github.com/pingcap)
+* [sykp241095](http://github.com/sykp241095), [PingCAP](https://github.com/pingcap)
 
 ## Members
 
-* [hooopo](https://github.com/hooopo)
+* [wd0517](https://github.com/wd0517), [PingCAP](https://github.com/pingcap)
 * [JinLingChristopher](https://github.com/JinLingChristopher)
 
 ## Contact
