@@ -30,7 +30,7 @@ The Working Group is different from SIGs , the WG aims to:
 ### Create
 
 * Determine WG organizers and members to ensure that members are TiKV Contributor at least.
-* Create a `wg-xyz` directory in [working group directory](/working-groups) (modify xyz to your WG name) according to [Working Group template](wg-template.md), and modify the Working Group template as `README.md` page
+* Create a `wg-xyz` directory in [working group directory](/working-groups) (modify xyz to your WG name) according to [Working Group template](/committee/wg-template.md), and modify the Working Group template as `README.md` page
 * Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community) , which is determined by voting by the Maintainer/PMC. The Working Group will be announced after the Pull Request is merged.
 * Create a channel corresponding to the Working Group on [Slack: tidbcommunity.slack.com](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) . 
 
