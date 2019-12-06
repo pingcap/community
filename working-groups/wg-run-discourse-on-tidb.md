@@ -12,7 +12,7 @@ Run Discourse on TiDB instead of PostgreSQL
 ## Mentors
 
 * [sykp241095](http://github.com/sykp241095), [PingCAP](https://github.com/pingcap)
-* [hooopo](http://github.com/hooopo), [PingCAP](https://github.com/pingcap)
+* [hooopo](http://github.com/hooopo), member of organizers in Ruby-China's Community
 
 ## Organizers
 
