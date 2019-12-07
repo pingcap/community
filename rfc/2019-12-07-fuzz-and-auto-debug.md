@@ -62,6 +62,72 @@ Our implementation will be divided into several stages:
 
 
 
+### Architecture
+
+This project includes instruction tools and  a statistical server, user should use instruction tool to recompile his interesting application, then deploy it, so called "wrapped-app".
+
+
+
+Statistical server  is composed of Fuzz and Debug module. Fuzz module will fuzz an input to wrapped-app every loop. After execution,  it will push the input to Debug module. Then, Debug module will access the trace of this input in wrapped-app. Web page can access statistical info  from statistical server during or after tests,  as follow:
+
+
+
+```
+                   +-----------------------------------------------------------------------------------+
+                   |                             feedback to mutation algorithm                        |
+                   |                                                                                   |
+   +----------------------------+                                                                      |
+   |Fuzz module    |            |                                                                      |
+   |               v            |                                                                      |
+   |           +---+----+       |                                                                      |
+   |           |mutation|       |                                                                      |
+   |           +---+----+       |                                                                      |
+   | mutated input |            |                                                                      |
+   |               v            |                                                                      |
+   |           +---+-----+      |     +---------------+                                                |
+   |           |execution+----------->+  wrapped app  |                                                |
+   |           +---+-----+      |     +---+-----------+                                                |
+   |  exec result  |            |         ^                                                            |
+   |               v            |         |                                                            |
+   |            +--+---+        |         | get trace info of this input                               |
+   |            |check |        |         |                                                            |
+   |            +--+---+        |         |                                                            |
+   |               |            |         |                                                            |
+   +----------------------------+         |                                                            |
+                   |            +-----------------------------------------------+                      |
+                   |            |         |                        Debug module |                      |
+           input,  |            |         |                                     |                      |
+check pass or not  |            |         |                                     |                      |
+                   |            | +-------+-+       +-----------------+         |                      |
+                   +------------> |collector+------>+statistical model+--------------------------------+
+                                | +---------+       +-------+---------+         |
+                                |                           ^                   |
+                                |                           |                   |
+                                +-----------------------------------------------+
+                                                            |
+                                                            |
+                                                       +----+---+
+                                                       |frontend|
+                                                       +--------+
+
+```
+
+
+
+ ### Fuzz
+
+
+
+### Debug
+
+
+
+
+
+
+
+
+
 ## Open issues
 
 
