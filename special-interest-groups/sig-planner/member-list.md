@@ -19,8 +19,4 @@ None
 
 ## Technical Leads
 
-Lead:
-
-* [winoros](https://github.com/winoros), [PingCAP](https://pingcap.com/en/)
-* [eurekaka](https://github.com/eurekaka), [PingCAP](https://pingcap.com/en/)
-* [lamXTyler](https://github.com/lamXTyler), [PingCAP](https://pingcap.com/en/)
+pingcap/co-planner[https://github.com/orgs/pingcap/teams/co-planner]
