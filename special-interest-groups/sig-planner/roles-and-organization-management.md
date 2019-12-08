@@ -13,23 +13,27 @@ the **Active Contributor** community role in the planner/statistics package.
 
 Requirements:
 
+* Joined the sig-planner slack channel.
 * Have at least 8 PRs merged in the planner/statistics package within one year.
-* Nominated by at least 2 Planner SIG Reviewers or role above.
+* Nominated by at least 2 commiters or role above.
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 10 PRs merged in the planner/statistics package within one year.
-* Nominated by at least 2 Committers or 2 Maintainers.
+* Have at least 20 PRs merged in the planner/statistics package within one year.
+* Fix at least 5 issues whose difficulty is medium or above.
+* Knowledgeable about the codebase.
+* Nominated by at least 2 maintainers or above.
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
 * Have at least 30 PRs merged in the planner/statistics package within one year.
-* Have reviewed at least 15 PRs in the planner/statistics package within one year.
-* Nominated by at least 2 Committers or Maintainers.
+* Fix at least 10 issues whose difficulty is medium or above.
+* Have reviewed at least 20 PRs in the planner/statistics package within one year.
+* Nominated by at least 2 maintainers or above.
 
 ## Quit and Demotion
 
@@ -37,7 +41,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the expression package within one year.
+* No contribution to the planner package within one year.
 
 **How to rejoin**:
 
@@ -60,5 +64,5 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
+Please email to [Cui Yiding](mailto:cuiyiding@pingcap.com) if you are
 going to quit or demote voluntarily.

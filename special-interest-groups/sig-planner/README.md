@@ -18,7 +18,7 @@ See [SIG Planner Member List](./member-list.md)
 
 ## Meetings
 
-* Regular Working Group Meeting: 5:00, Thursday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
+* Regular Working Group Meeting: 5:00 AM, Thursday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
 * Meeting Zoom: [ttps://pingcap.zoom.com.cn/j/492702291](ttps://pingcap.zoom.com.cn/j/492702291)
 * Meeting Notes: to be updated
 
