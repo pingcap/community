@@ -1,4 +1,4 @@
-# PingCAP Incubator V1.0
+# PingCAP Incubator
 
 PingCAP Incubator is where all new features and projects associated with TiDB
 Ecosystem can get started. Once going through the incubation process, they can
@@ -10,7 +10,7 @@ are developed using accepted PingCAP Community practices.
 
 Welcome to join [TiDB Community Slack
 Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
-**#incubator** channel if any question or suggestion arised.
+**#incubator** channel if any question or suggestion.
 
 ## Content
 
@@ -41,7 +41,7 @@ Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
 ## What you are going to incubate?
 
 - If what you want to incubate is a feature that needs to be merged into an
-  existing project, please follow [Features Incubation Process](#features-incubation-process)
+  existing project on [`PingCAP` organization](https://github.com/pingcap), please follow [Features Incubation Process](#features-incubation-process)
 - If what you want to incubate is a project intended to become a sub-project of
   PingCAP Community and designed to extend one or more PingCAP projects with
   functionality, please follow [Projects Incubation Process](#projects-incubation-process)
