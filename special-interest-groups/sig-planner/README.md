@@ -2,7 +2,7 @@
 
 Planner SIG covers TiDB planner/statistics implementations. We are focused on
 the development and maintenance of the TiDB [planner](https://pingcap.com/docs/stable/reference/performance/sql-optimizer-overview/)
-and [statistics](https://pingcap.com/docs/stable/reference/performance/statistics/) component, including but not limited to:
+and [statistics](https://pingcap.com/docs/stable/reference/performance/statistics/) components, including but not limited to:
 
 * Supporting new features.
 * Improving the performance.
@@ -30,4 +30,4 @@ See [SIG Planner Member List](./member-list.md)
 
 * The [planner package](https://github.com/pingcap/tidb/tree/master/planner) in the tidb repo.
 * The [statistics package](https://github.com/pingcap/tidb/tree/master/statistics) in the tidb repo.
-* Other codes that affect the correctness, performance of the planner, like say the [expresion package](https://github.com/pingcap/tidb/tree/master/expression).
+* Other codes that affect the correctness, performance of the planner, like say the [expression package](https://github.com/pingcap/tidb/tree/master/expression).

@@ -13,8 +13,8 @@ the **Active Contributor** community role in the planner/statistics package.
 
 Requirements:
 
-* Have at least 3 PRs merged in the planner/statistics package within one year.
-* Nominated by at least 2 Planner SIG Reviewers, Committer or Maintainer.
+* Have at least 8 PRs merged in the planner/statistics package within one year.
+* Nominated by at least 2 Planner SIG Reviewers or role above.
 
 #### From `Active Contributor` to `Reviewer`
 
