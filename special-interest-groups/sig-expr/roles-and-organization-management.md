@@ -29,7 +29,7 @@ Requirements:
 
 * Have at least 60 PRs merged in the expression package within one year.
 * Have reviewed at least 20 PRs in the expression package within one year.
-* Nominated by at least 2 Committers or Maintainers.
+* Nominated by at least 2 Maintainers.
 
 ## Quit and Demotion
 
