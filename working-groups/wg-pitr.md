@@ -18,7 +18,7 @@ To be discussed.
 * tsthght(**[@tsthght](https://github.com/tsthght)**), MeiTuan
 
 ## Contact
-- Slack: [#pitr-wg](https://tidbcommunity.slack.com/archives/CRH5594F8)
+- Slack: [#wg-pitr](https://tidbcommunity.slack.com/archives/CRH5594F8)
 - [Open Community Issues/PRs](https://github.com/pingcap/community/issues/126)
 
 ## Published Documents
