@@ -1,4 +1,4 @@
-# PITR Working Group (Working Group README Template)
+# PITR Working Group
 
 PITR is an ecosystem tool for TiDB Binlog. By preprocessing the incremental backup file of TiDB, PITR merged the changes of the same line of data to produce a new, lighter incremental backup file, which greatly reduced the Time of incremental backup Recovery and realized fast-pitr (Fast Point in Time Recovery).
 
