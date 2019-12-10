@@ -6,7 +6,7 @@ Run Discourse on TiDB instead of PostgreSQL
 
 ## Meetings
 
-* Regular Working Group Meeting: [UTC+8]2:30pm on every Thursday
+* Regular Working Group Meeting: [UTC+8]2:30pm on every Thursday [Convert to your timezone](http://www.thetimezoneconverter.com/?t=2:30PM&tz=Beijing)
 * [Meeting Notes](https://docs.google.com/document/d/1tQPOSb4kTVvA-mAouFr9gdDSPotqJNzgM--caNBZQHU/edit)
 
 ## Mentors
