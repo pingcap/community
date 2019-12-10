@@ -20,15 +20,15 @@
         * [元数据和路由信息管理](#元数据和路由信息管理)
         * [事务时间戳分配](#事务时间戳分配)
         * [Region 调度](#region-调度)
-    * [TiDB 核心技术解析](#tidb-核心技术解析)
-        * [向量化](#向量化)
-        * [RPC](#rpc)
-        * [Raft](#raft)
-    * [K8s 系列文章](#k8s-系列文章)
-    * [Paper Reading](#paper-reading)
-* [编程语言](#编程语言)
-    * [Golang](#golang)
-    * [Rust](#rust)
+    * [TiDB 核心技术解析（WIP）](#tidb-核心技术解析wip)
+        * [向量化（WIP）](#向量化wip)
+        * [RPC（WIP）](#rpcwip)
+        * [Raft（WIP）](#raftwip)
+    * [K8s 系列文章（WIP）](#k8s-系列文章wip)
+    * [Paper Reading（WIP）](#paper-readingwip)
+* [编程语言（WIP）](#编程语言wip)
+    * [Golang（WIP）](#golangwip)
+    * [Rust（WIP）](#rustwip)
 
 <!-- vim-markdown-toc -->
 
@@ -71,6 +71,16 @@ SQL 优化器大多数代码逻辑都在 [planner](https://github.com/pingcap/ti
 * [TiDB 源码阅读系列文章（十二）统计信息(上)](https://pingcap.com/blog-cn/tidb-source-code-reading-12/)
 * [TiDB 源码阅读系列文章（十三）索引范围计算简介](https://pingcap.com/blog-cn/tidb-source-code-reading-13/)
 * [TiDB 源码阅读系列文章（十四）统计信息（下）](https://pingcap.com/blog-cn/tidb-source-code-reading-14/)
+
+除此之外还可以通过一些设计文档了解 TiDB 优化器相关的内部原理：
+
+* [Proposal: A SQL Planner based on the Volcano/Cascades model](https://github.com/pingcap/tidb/blob/master/docs/design/2018-08-29-new-planner.md)
+* [Proposal: Maintain statistics in Plan](https://github.com/pingcap/tidb/blob/master/docs/design/2018-09-04-histograms-in-plan.md)
+* [Proposal: Join Reorder Design v1](https://github.com/pingcap/tidb/blob/master/docs/design/2018-10-20-join-reorder-dp-v1.md)
+* [Proposal: Support SQL Plan Management](https://github.com/pingcap/tidb/blob/master/docs/design/2018-12-11-sql-plan-management.md)
+* [Proposal: Support Skyline Pruning](https://github.com/pingcap/tidb/blob/master/docs/design/2019-01-25-skyline-pruning.md)
+* [Proposal: Access a table using multiple indexes](https://github.com/pingcap/tidb/blob/master/docs/design/2019-04-11-indexmerge.md)
+* [Proposal: Support automatic index recommendation](https://github.com/pingcap/tidb/blob/master/docs/design/2019-11-05-index-advisor.md)
 
 #### 执行引擎
 
@@ -145,38 +155,20 @@ Region 调度主要分为两方面。其一是副本管理，为 Region 维护�
 
 Region 调度的另一方面是均衡负载。需要通过调整 Region Leader 或其他副本的位置来均衡负载，这部分我们做了多种不同的策略来适应不同的业务场景。
 
-### TiDB 核心技术解析
+### TiDB 核心技术解析（WIP）
 
-TBD
+#### 向量化（WIP）
 
-#### 向量化
+#### RPC（WIP）
 
-TBD
+#### Raft（WIP）
 
-#### RPC
+### K8s 系列文章（WIP）
 
-TBD
+### Paper Reading（WIP）
 
-#### Raft
+## 编程语言（WIP）
 
-TBD
+### Golang（WIP）
 
-### K8s 系列文章
-
-TBD
-
-### Paper Reading
-
-TBD
-
-## 编程语言
-
-TBD
-
-### Golang
-
-TBD
-
-### Rust
-
-TBD
+### Rust（WIP）
