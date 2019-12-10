@@ -1,6 +1,6 @@
 # Mentor Charter
 
-In the PingCAP Incubator Program, mentors are expected to assist through the incubation process. Please refer [Responsiblity and Obligations](#resonsibility-and-obligations) for more details.
+In the PingCAP Incubator Program, mentors are expected to assist through the incubation process. Please refer [Responsiblities and obligations](#resonsibilities-and-obligations) for more details.
 
 **How to become a mentor**
 
@@ -10,7 +10,7 @@ A mentor should come from the developer group or TiDB User Group.
   - If a mentor is from the developer group, he/she should be in the role of Committer or higher.
   - If a mentor is from the TiDB User Group, he/she should be in the role of TUG Ambassador or higher
 
-**Why join incubator program as a mentor**
+**Why join the incubator program as a mentor**
 
 1. Individual Benefits:
 
@@ -39,7 +39,7 @@ A mentor should come from the developer group or TiDB User Group.
    - Technical Strength:
      - Demonstrate technical strength of the company
 
-**Responsiblity and Obligations**
+**Responsiblities and Obligations**
 
 - Guide the program continuously, and provide reasonable advice and suggestions on the direction and progress of the program
 - Attend important meetings about the incubation process. If you are unable to attend, make sure you read the meeting notes to know the project progress, including:
@@ -51,4 +51,4 @@ A mentor should come from the developer group or TiDB User Group.
 
 **Withdraw**
 
-The rights to guide a program would be withdrawn if the mentor did not fulfill the responsibilities or requirements.
+Mentor is a voluntary role in the incubator program. If for some reasons a mentor cannot fulfill the responsibilities and requirements as described above, he/she can withdraw voluntarily by informing the PMC.   
