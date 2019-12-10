@@ -3,7 +3,6 @@
 - Author(s): ET-Team
 - Last updated:  Nov 30, 2019
 
-
 ## Abstract
 
 When users need to use TiDB as their database, they often face what machine configuration and topology to choose. At present, we do not give an official answer, which may cause users to be troubled, what kind of The configuration is to meet the current needs. This proposal is mainly to solve the user's selection problem.
@@ -11,7 +10,6 @@ When users need to use TiDB as their database, they often face what machine conf
 ## Background
 
 Recommending configurations to users is a relatively standard practice for major public cloud vendors. When AWS recommends EC2 to users, it will give some standard instance types. As an open source database, according to the user's characteristic needs give different topologies  and database configuration and machine configuration will greatly help users to choose and better use TiDB
-
 
 ## Proposal
 
