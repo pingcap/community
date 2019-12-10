@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npm install urllib-sync
-node contributors.js > ../contributors/contributors.md
+node contributors.js > ../architecture/contributor-list.md

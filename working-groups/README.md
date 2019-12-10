@@ -9,5 +9,11 @@ this code into the repository will be governed by the related standard
 policies.
 
 ## Active Working Groups
+
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
+* [wg-key-visualizer](./wg-key-visualizer.md)
+* [wg-wasm](./wg-wasm.md)
+* [wg-dynamic-configuration-change](./wg-dynamic-configuration-change.md)
+* [wg-tidb-sequence](./wg-tidb-sequence.md)
+* [wg-multi-dc-enhancement (TiKV)](https://github.com/tikv/community/tree/master/wg/multiple-dc-enhancemant)

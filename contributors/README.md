@@ -39,7 +39,6 @@ welcome!
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
-* [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -88,7 +87,7 @@ label in the tidb repository. These issues are well suited for new contributors.
 there's always a need for more test coverage. You can also start with an area
 that has [low coverage](https://codecov.io/gh/pingcap/tidb).
 
-You can also join one of the [active working groups](./working-groups) to
+You can also join one of the [active working groups](../working-groups) to
 participate in a community activity. Start with attending working group meetings or
 joining the slack channel.
 
@@ -179,7 +178,3 @@ TBD
 ### Issues Management or Triage
 
 TBD
-
-## Contributors
-
-See [TiDB Contributors](./contributors.md) for details. Thanks to all these contributors!
