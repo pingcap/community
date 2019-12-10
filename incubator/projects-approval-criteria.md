@@ -23,22 +23,22 @@ Part of the following maturity criteria are inspired by [CII Best Practices](htt
 ## Incubating Stage
 
 - Has at least 1 user applying the project in a production environment
-- Has clear documentation describing committer definitions, rights and obligations
-- Has at least 3 active committers and 5 contributors. A continuous commit history is also required.
+- Has clear documentation describing committer definitions, rights, and obligations
+- Has at least 3 active committers and 5 contributors. The continuous commit history is also required.
 - Basic user documentation
-- A clear plan for Roadmap and next version, which can be described by github milestone or documentation
+- A clear plan for Roadmap and next version, which can be described by GitHub milestone or documentation
 - Approved by ⅔  PMC members
 
 ## Graduation Stage
 
 To graduate from incubating status, or for an existing project to join as graduated, a project must meet the following criteria:
 
-- Has a detailed user documentation and basic reference manuals
+- Has detailed user documentation and basic reference manuals
 - Committers from more than two organizations
 - Has a clear member promotion path, with a basic community governance documentation
 - A user list with at least 3 users applying the project in a production environment
 - Has a clear release method and release cycle, with release notes provided for every release
-- Provides monthly report for ongoing projects 
+- Provides a monthly report for ongoing projects 
 - Approved by ⅔  PMC members
 
 Projects can attempt to move directly from sandbox to graduation, if they can demonstrate sufficient maturity. Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within two years.
