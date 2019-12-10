@@ -21,21 +21,29 @@ Please ensure that the goals are measurable and deliverable.
 
 ## Meetings
 
+<!--
 * Regular WG Meeting: [Mondays at 13:00 PT (Pacific Time)] (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=13:00&tz=PT%20%28Pacific%20Time%29).
 * Meeting Zoom: Link your Meeting zoom here
 * meeting Notes: Link your meeting notes here (public Google Doc)
+-->
 
 ## Organizers
 
-* [zz-jason](https://github.com/zz-jason), PingCAP
+<!--
+* [Organizer 1](GitHub link of Organizer 1), [Organization](link of organization)
+* [Organizer 2](GitHub link of Organizer 2), [Organization](link of organization)
+-->
 
 ## Members
 
-- [zz-jason](https://github.com/zz-jason), PingCAP
+<!--
+* [Member 1](GitHub link of member 1), [Organization](link of organization)
+* [Member 2](GitHub link of member 2), [Organization](link of organization)
+-->
 
 ## Contact
 
-- Slack: [#wg-${name}](https://pingcap.com/tidbslack)
+* Slack: [#wg-${name}](https://pingcap.com/tidbslack)
 
 ## Published Documents
 
