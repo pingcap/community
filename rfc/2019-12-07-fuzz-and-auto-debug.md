@@ -6,7 +6,7 @@
 
 ## Abstract
 
-There is a lot of uncertainty in Chaos and Fuzz test of complicated software like TiDB. Developers often costs a few of weeks to localize the root cause. This proposal may help on this with fuzz mutation and auto debug.
+There is a lot of uncertainty in Chaos and Fuzz test of complicated software like TiDB. Developers often cost a few of weeks to locate the root cause. This proposal may help to improve this with fuzz mutation and auto debug.
 
 
 
