@@ -1,8 +1,8 @@
 # PingCAP Incubator
 
 PingCAP Incubator is where all new features and projects associated with TiDB
-Ecosystem can get started. Once going through the incubation process, they can
-either be merged to tidb/tikv repo or or being moved from PingCAP Incubator to PingCAP or TiKV organization.
+ecosystem can get started. Once going through the incubation process, they can
+either be merged to tidb/tikv repo or being moved from PingCAP Incubator to PingCAP or TiKV organization.
 
 The process is designed to ensure that new features and projects have correct
 licensing, up-to-date boilerplate documents, a healthy community process, and
@@ -69,12 +69,12 @@ Your proposal should include the following items:
 
 Once your proposal is submitted, you will get at 1-2 Mentors from the
 community. Mentors will express their intention to support the program by
-replying to the proposal issue and help guide the team through the process. The
+replying to the proposal and help guide the team through the process. The
 majority of the mentorship, review, and advice will come from the Mentor(s).
 
 #### Get approval from PMC (Project Management Committee)
 
-Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying "LGTM (look good to me)" to the proposal issue.
+Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying "LGTM (look good to me)" to the proposal.
 
 #### Recruit team members
 
@@ -86,7 +86,7 @@ If the recruitment of members is not completed within the specified time, PMC wi
 
 The incubation process will be traced in a working group (see [Woking Group Governance](/working-groups/wg-governance.md). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](/working-groups/wg-template.md).
 
-Regular updates in process are required as well. Features are expected to submit an interim report to [pmc@pingcap.com](mailto:pmc@pingcap.com).
+Regular updates in the process are required as well. Features are expected to submit an interim report to [pmc@pingcap.com](mailto:pmc@pingcap.com).
 
 ### Graduation
 
@@ -95,7 +95,7 @@ Incubating features graduation process includes the following items:
 1. Create a pull request for graduation
 2. PMC members arrange a graduation presentation (if necessary)
 3. PMC members express their agreement by replying "LGTM (look good to me)" to the pull request
-4. Related working group disbands
+4. The related working group disbands
 
 ## Projects Incubation Process
 
@@ -114,11 +114,11 @@ You can write a proposal via GitHub Issue (see [example](https://github.com/ping
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal issue and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s).
+Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s).
 
 #### Get approval from PMC (Project Management Committee)
 
-[Projects approval criteria](./projects-approval-criteria) depends on the preferred maturity level and evidence provided. PMC (Project Management Committee) will express their approval by replying “LGTM (look good to me)” to the proposal issue. 
+[Projects approval criteria](./projects-approval-criteria) depends on the preferred maturity level and evidence provided. PMC (Project Management Committee) will express their approval by replying “LGTM (look good to me)” to the proposal.
 
 #### Recruit team members
 
@@ -140,7 +140,7 @@ In addition, each approved project will get a new GitHub repo created in [pingca
 
 To help you get started with these files, you can find the corresponding templates at [template project](https://github.com/pingcap-incubator/pingcap-template-project).
 
-For each incubating project, a monthly report is required to send to [pmc@pingcap.com](mailto:pmc@pingcap.com) before 10th of every month with the mentor copied.
+For each incubating project, a monthly report is required to send to [pmc@pingcap.com](mailto:pmc@pingcap.com) before the 10th of every month with the mentor copied.
 
 ### Maturity Level Promotion
 
@@ -155,7 +155,7 @@ Projects follow the same graduation process as features, as described below:
 1. Create a pull request for graduation
 2. PMC members arrange a graduation presentation (if necessary)
 3. PMC members express their agreement by replying “LGTM (look good to me)” to the pull request
-4. Related working group disbands
+4. The related working group disbands
 
 Graduation criteria for projects: see [Projects Approval Criteria](./projects-approval-criteria)
 
@@ -170,12 +170,12 @@ A warning email will be sent 3 weeks before the retirement to the Project Member
 
 ## Benefits
 
-PingCAP want to build a healthy commmunity ecosystem. All community programs are welcomed to join the PingCAP incubator program. The incubator program will get fully support by PingCAP and community. 
+PingCAP wants to build a healthy community ecosystem. All community programs are welcomed to join the PingCAP incubator program. The incubator program will get full support by PingCAP and the community. 
 
 - Rich resources support:
   - Great Mentors:
-    - At least 2 mentors with the ability to provide technical and practical guidance to the project
-    - Mentors with high community roles (Developer community Committer or TiDB UserGroup Ambassodor) 
+    - At least 2 mentors with the ability to provide technical and practical guide to the project
+    - Mentors with high community roles (Developer community Committer or TiDB UserGroup Ambassador) 
   - PingCAP
     - Official learning resources
     - Necessary tutoring lessons
@@ -183,8 +183,8 @@ PingCAP want to build a healthy commmunity ecosystem. All community programs are
 
 - Open Source experience:
   - First-hand practical experience
-  - Participant fully as an organizer or community member
-  - Project will be maintained contiuously after it is finished
+  - The participant fully as an organizer or community member
+  - The project will be maintained continuously after it is finished
 
 ## Features and Projects
 
