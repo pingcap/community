@@ -12,7 +12,10 @@ Issues:
 
 ## Work and Meeting
 
-To be determined.
+* Regular Working Group Meeting: 3pm on every Thursday
+* Meeting Zoom: [https://pingcap.zoom.com.cn/j/3101730338](https://pingcap.zoom.com.cn/j/3101730338)
+* Progress: [https://github.com/pingcap/br/issues/87](https://github.com/pingcap/br/issues/87)
+* [Meeting Notes](https://docs.google.com/document/d/1IeBGsHM2B6Eyio2qsRn-p_MuXBgcVdhtfwHj4zC2qSQ/edit?usp=sharing)
 
 ## Mentors
 
