@@ -12,16 +12,16 @@ Run Discourse on TiDB instead of PostgreSQL
 ## Mentors
 
 * [sykp241095](http://github.com/sykp241095), [PingCAP](https://github.com/pingcap)
-* [hooopo](http://github.com/hooopo), member of organizers in Ruby-China's Community
 
 ## Organizers
 
-* [sykp241095](http://github.com/sykp241095), [PingCAP](https://github.com/pingcap)
+* [sykp241095](http://github.com/sykp241095)
 
 ## Members
 
 * [wd0517](https://github.com/wd0517), [PingCAP](https://github.com/pingcap)
-* [JinLingChristopher](https://github.com/JinLingChristopher)
+* [JinLingChristopher](https://github.com/JinLingChristopher) [PingCAP](https://github.com/pingcap)
+* [hooopo](http://github.com/hooopo), member of organizers in Ruby-China's Community
 
 ## Contact
 
