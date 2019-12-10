@@ -4,7 +4,7 @@ Every Incubation project has an associated maturity level. Proposed Incubation p
 
 ## Existing Code
 
-New projects can be spun off from the main repository of existing projects to allow projects to iterate or release independently. Take [pingcap/parser](https://github.com/pingcap/parser) as an example. As long as it gets more than 2 PMC votes, it can be directly used as a graduated project.
+New projects can be spun off from the main repository of existing projects to allow projects to iterate or release independently. Take [pingcap/parser](https://github.com/pingcap/parser) as an example. As long as it gets approved by ⅔  PMC members, it can be directly used as a graduated project.
 
 Part of the following maturity criteria are inspired by [CII Best Practices](https://bestpractices.coreinfrastructure.org/en):
 
@@ -31,7 +31,7 @@ Part of the following maturity criteria are inspired by [CII Best Practices](htt
 
 ## Graduation Stage
 
-To graduate from sandbox or incubating status, or for a new project to join as a graduated project, a project must meet the incubating stage criteria plus the following:
+To graduate from incubating status, or for an existing project to join as graduated, a project must meet the following criteria:
 
 - Has a detailed user documentation and basic reference manuals
 - Committers from more than two organizations
