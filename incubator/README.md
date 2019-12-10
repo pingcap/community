@@ -50,12 +50,12 @@ Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
 
 ### Apply for Incubation
 
-To create a new feature you must follow these steps:
+To create a new feature, follow these steps:
 
 #### Write a proposal
 
 You can write a proposal via GitHub Issue (see [example](https://github.com/pingcap/community/issues/81)) and submit
-it to [pingcap/community](https://github.com/pingcap/community/) repository.
+it to the [pingcap/community](https://github.com/pingcap/community/) repository.
 Your proposal should include the following items:
 
 - Problems to be solved
@@ -67,14 +67,14 @@ Your proposal should include the following items:
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at 1-2 Mentors from the
-community. Mentors will express their intention to support the program by
+Once your proposal is submitted, you will get 1-2 Mentors from the
+community. Mentors will express their intentions to support the program by
 replying to the proposal and help guide the team through the process. The
 majority of the mentorship, review, and advice will come from the Mentor(s).
 
 #### Get approval from PMC (Project Management Committee)
 
-Once 2 PMC Members approve, features will enter incubation. PMC will express their approval by replying "LGTM (look good to me)" to the proposal.
+Once a proposed feature receives 2 approvals from PMC, it can enter the incubation procedure. The PMC expresses their approvals by replying "LGTM (look good to me)" to the proposal.
 
 #### Recruit team members
 
@@ -101,7 +101,7 @@ Incubating features graduation process includes the following items:
 
 ### Apply for Incubation
 
-To create a new project you must follow these steps:
+To create a new incubating project,  follow these steps:
 
 #### Write a proposal
 
@@ -114,7 +114,7 @@ You can write a proposal via GitHub Issue (see [example](https://github.com/ping
 
 #### Find a Mentor
 
-Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intention to support the program by replying to the proposal and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s).
+Once your proposal is submitted, you will get at least 2 Mentors from the community. Mentors will express their intentions to support the program by replying to the proposal and help guide the team through the process. The majority of the mentorship, review, and advice will come from the Mentor(s).
 
 #### Get approval from PMC (Project Management Committee)
 
@@ -122,7 +122,7 @@ Once your proposal is submitted, you will get at least 2 Mentors from the commun
 
 #### Recruit team members
 
-The recruitment of team members is expected to be completed within 1 week after PMC's approval
+The recruitment of team members is expected to be completed within 1 week after PMC's approval.
 
 If the recruitment of members is not completed within the specified time, PMC will assist the team formation or delay the project approval.
 
@@ -166,7 +166,7 @@ An incubation project will be considered retired if it meets either of the follo
 - Fails to graduate within 12 months.
 - Fails to make a release for 3 months.
 
-A warning email will be sent 3 weeks before the retirement to the Project Members and the Mentor(s). A project can be re-incubated after retirement but must go through the Incubation Process from the beginning, the same as any new project.
+A reminder email will be sent 3 weeks before retirement. A project can be re-incubated after retirement but must go through the incubation process from the beginning, the same as any new project. Retirement of the project indicates the retirement of the members and mentors in the project.
 
 ## Benefits
 

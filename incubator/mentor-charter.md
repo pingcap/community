@@ -32,10 +32,10 @@ A mentor should come from the developer group or TiDB User Group.
 2. Enterprise benefits:
    - Exposure:
      - As a supportive company behind excellent open source projects
-   - High Quality Developer:
+   - Attraction
      - Connect and attract talents through joint incubation projects
    - Open Source Spirit:
-     - Reflect open-source spirit of enterprise 
+     - Reflect open-source spirit of the company 
    - Technical Strength:
      - Demonstrate technical strength of the company
 
