@@ -26,7 +26,7 @@ Fuzz test is a good idea to apply unlimited case to application, it will provide
 
 ## Proposal
 
-This tool will archieve following goals:
+This tool achieves the following goals:
 
 
 
