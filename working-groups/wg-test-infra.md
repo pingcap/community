@@ -4,6 +4,8 @@
 
 Build a test infrastructure including k8s deployment, chaos framework, test cases and a manager.
 
+Works with this infra for some tests.
+
 ## Meetings
 
 * Regular Working Group Meeting: 4:00, Thuesday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=4:00&tz=PT%20%28Pacific%20Time%29).
@@ -20,6 +22,7 @@ Build a test infrastructure including k8s deployment, chaos framework, test case
 * [5kbpers](https://github.com/5kbpers), [PingCAP](https://github.com/pingcap)
 * [amyangfei](https://github.com/amyangfei), [PingCAP](https://github.com/pingcap)
 * [cwen0](https://github.com/cwen0), [PingCAP](https://github.com/pingcap)
+* [mahjonp](https://github.com/mahjonp), [PingCAP](https://github.com/pingcap)
 * [YangKeao](https://github.com/YangKeao), [PingCAP](https://github.com/pingcap)
 * [you06](https://github.com/you06), [PingCAP](https://github.com/pingcap)
 
