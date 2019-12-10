@@ -32,7 +32,7 @@ There is no compatibility issues. Apache Pulsar is compatible with Apache Kafka 
 ## Implementation
 
 1. [@xiaolong](https://github.com/wolfstudy) can support pulsar-client-go, make sure you can meet the required interface in tidb-binlog.
-2. **Tools-Eng** can help to achieve the replacement process
+2. @pingcap/ecosystem-tools
 
 ## Open issues (if applicable)
 
