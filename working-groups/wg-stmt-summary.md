@@ -2,7 +2,7 @@
 
 ## Goals
 
-Discussion for the designing of statement summary tables in TiDB.
+Discussion on the design of statement summary tables in TiDB.
 
 Now we have a statement summary table [events\_statements\_summary\_by\_digest](https://pingcap.com/docs/stable/reference/performance/statement-summary/), and more features are being added to it. But we also have some details to be discussed.
 
