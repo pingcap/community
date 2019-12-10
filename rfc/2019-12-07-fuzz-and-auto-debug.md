@@ -20,7 +20,7 @@ There are many troublesome bugs,  you don't know what's going wrong, even worse,
 
 
 
-Fuzz test is a good idea to apply unlimited case to application, it will provide a bulk of cases to Statistical Debug.  Mutation-Based Fuzzing can introduce small changes  to existing inputs that may still keep the input valid. Some paper guide mutations with some  algorithms to converge input in a root bug. 
+Fuzz test is a good idea to apply unlimited cases to application, it will provide a bulk of cases to Statistical Debug. Mutation-Based Fuzzing can introduce small changes to existing inputs that may still keep the input valid. Some paper guide mutations with some algorithms to converge input in a root bug. 
 
 
 
