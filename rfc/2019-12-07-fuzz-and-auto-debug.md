@@ -16,7 +16,7 @@ There are many troublesome bugs,  you don't know what's going wrong, even worse,
 
  
 
-[Statistical debug](https://stackoverflow.com/questions/505907/what-is-statistical-debugging) is a common auto debug idea, but it need a lot of test cases to accurately localize bug position.
+[Statistical debug](https://stackoverflow.com/questions/505907/what-is-statistical-debugging) is a common auto debug idea, but it needs a lot of test cases to accurately locate the bug position.
 
 
 
