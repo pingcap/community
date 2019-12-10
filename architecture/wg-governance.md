@@ -52,5 +52,5 @@ The Working Group is different from SIGs , the WG aims to:
 
 ### Dismiss
 
-* The Working Group can be dismissed by the Tech Lead after mission completed.
+* The Working Group can be dismissed by the organizer after mission completed.
 * If the Working Group's work has stalled, the PMC can also vote to dismiss the working group.
