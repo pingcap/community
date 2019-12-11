@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Since there are plenty of people interested in TiDB but lack background knowledge, so we propose to create a series of computer system courses to help those people enter the field of the TiDB ecosystem, also computer system infrastructure. Course participants should have developed good knowledge and skills in system programming after consumed course materials.
+Since there are plenty of people interested in TiDB but lack background knowledge, so we propose to create a series of courses to help those people enter the field of infrastructure system and TiDB ecosystem. Course participants should have developed good knowledge and skills in system programming after consumed course materials.
 
 ## Background
 
