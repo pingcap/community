@@ -8,6 +8,14 @@ an appropriate repository as described in the repository document. Merging of
 this code into the repository will be governed by the related standard
 policies.
 
+## Working Group Governance
+
+See [Working Group Governance](../governance/wg-governance.md) for details.
+
+## Working Goup Template
+
+See [Working Group Template](./wg-template.md) for details.
+
 ## Active Working Groups
 
 * [wg-vec-expr](./wg-vec-expr.md)
