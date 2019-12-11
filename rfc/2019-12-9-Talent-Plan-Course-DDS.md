@@ -49,7 +49,7 @@ For programming assignments, a distributed database system framework will be con
 
 ## Rationale
 
-For TiDB Community, an educational distributed database system project in Golang and well written readings are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
+For TiDB Community, an educational distributed database system project in Golang and readings for novice are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
 
 ## Compatibility
 
