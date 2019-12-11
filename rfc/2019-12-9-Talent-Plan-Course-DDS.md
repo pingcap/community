@@ -6,19 +6,15 @@
 
 ## Abstract
 
-The proposal aims at create a distributed database system course to help more people learn the mentioned topic and also have a touch of TiDB. Participants of the course should be able to pull requests to TiDB related projects after consumed the course materials.
-
-## Background
-
-For people without experience in distributed system or database system, it is quite hard to understand TiDB related projects. Since we hope more young blood can embrace the TiDb ecosystem, we think a distributed database system course is necessary. The courses will be consist of reading supplies and programming assignments. As there are already many accessible materials online, we can develop the content of the course by learning from them. We think the voice from the different populations is important for the success of the goal, especially college students, so we hope they can join us to make this happen.
+The proposal aims at create a distributed database system course to help more people to have a touch of TiDB. Participants of the course should be able to submit pull requests to TiDB related projects after finishing the course materials.
 
 ## Proposal
 
-The course is consists of two parts, reading materials and programming assignments. The reading materials can be collected from textbooks, slides, and notes from other related courses.
+The course consists of two parts - reading materials and programming assignments.
 
 ### Reading Materials
 
-The list of reference for reading materials, both for database system and distributed system:
+Reading materials can be collected from textbooks, slides, and notes from other related courses. The following is a list of reading materials, covering database system and distributed system.
 
 - [Designing Data-Intensive Application](https://dataintensive.net/)
 - [Reading in Database system, 5th Edition](http://www.redbook.io/)
@@ -36,11 +32,11 @@ The list of reference for reading materials, both for database system and distri
 - [UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
 - [Distributed System 3rd Edition](https://www.distributed-systems.net/)
 
-Many important topics have already been covered in the above. Course development participants are required to reorganize the content into slides or notes, we hope the final content should be concrete and easy to understand, related to TiDB is preferred.
+Many important topics have already been covered in the above topics, based on which course developers design the course content. The final content should be concrete and easy to understand, and, preferably, related to TiDB.
 
 ### Programming Assignments
 
-For programming assignments, a distributed database system framework will be constructed. Even though there are many programming scaffolds about the database system and the distributed system, but they are not strongly connected, also C++ and Java are not easy to be mastered for young students. The new framework will be built with Golang, which is simpler and also the horsepower of the TiDB ecosystem. The content of the project will be borrowed from course materials listed below:
+For programming assignments, we will be constructing a distributed database system framework. Even though there are many programming scaffolds about the database system and the distributed system, but they are not strongly connected. The languages they use, C++ or Java,are not friendly to young students. Therefore, we use Golang to build the framework, which is more students friendly and also the primary language used in the TiDB ecosystem. The content of the project will be borrowed from course materials listed below:
 
 - [CMU Bustub](https://github.com/cmu-db/bustub)
 - [UCB moocbase](https://github.com/berkeley-cs186/fa19-moocbase)
@@ -49,7 +45,7 @@ For programming assignments, a distributed database system framework will be con
 
 ## Rationale
 
-For TiDB Community, an educational distributed database system project in Golang and readings for novice are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
+For TiDB Community, an educational distributed database system project in Golang for the novice is necessary. With friendly and organized course content as invitation cards for young people to TiDB, we can open the door wider to campus.
 
 ## Compatibility
 
@@ -59,9 +55,9 @@ TiDB will not be affected by this project.
 
 To implement it, we need the following main steps:
 
-- Discussion the topics must be covered in reading materials, and contents of programming assignments.
+- Discuss the topics to be covered in reading materials and programming assignments design.
 - Build the architecture of the new TiDB for education.Experienced engineers from TiDB or TiKV are significant help.
 - Call for community participants to join us, build the course together.
-- Divide the course contents into multiple topics, each one will be handled by course development participants.
+- Divide the course topics, and assign them to course developers.
 
 ## Open issues (if applicable)
