@@ -86,7 +86,7 @@ If the recruitment of members is not completed within the specified time, PMC wi
 
 The incubation process will be traced in a working group (see [Woking Group Governance](/working-groups/wg-governance.md). Once your proposal is approved, The first order of business is to create a related working group (see [How to create a working group](/working-groups/wg-template.md).
 
-Regular updates in the process are required as well. Features are expected to submit an interim report to [pmc@pingcap.com](mailto:pmc@pingcap.com).
+Regular updates in the process are required as well. Features are expected to submit an interim report to the mentor diretly.
 
 ### Graduation
 
@@ -140,7 +140,7 @@ In addition, each approved project will get a new GitHub repo created in [pingca
 
 To help you get started with these files, you can find the corresponding templates at [template project](https://github.com/pingcap-incubator/pingcap-template-project).
 
-For each incubating project, a monthly report is required to send to [pmc@pingcap.com](mailto:pmc@pingcap.com) before the 10th of every month with the mentor copied.
+For each incubating project, a monthly report is required to send to the mentor before the 10th of every month. And the monthly report should be open to the community on GitHub. 
 
 ### Maturity Level Promotion
 
