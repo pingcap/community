@@ -1,16 +1,16 @@
-# Proposal: Create a distributed database system course for PingCAP University
+# Proposal: Talent Plan Courses - Distributed Database System
 
 - Author(s): [Ling Jin](https://github.com/JinLingChristoher)
-- Last updated: 2019-12-6
-- Discussion at:
+- Last updated: 2019-12-11
+- Discussion at: [Incubating Program: Talent Plan Courses - Distributed Database System](https://github.com/pingcap/community/issues/141)
 
 ## Abstract
 
-There are plenty of people interested in TiDB but lack enough background knowledge, especially college students and engineers without backend development experience. The proposal aims at helping those people enter the field of TiDB by creating a course about the distributed database system, which is also a part of PingCAP University. Participants of the course should be able to pull requests to TiDB related projects after consumed the course materials.
+The proposal aims at create a distributed database system course to help more people learn the mentioned topic and also have a touch of TiDB. Participants of the course should be able to pull requests to TiDB related projects after consumed the course materials.
 
 ## Background
 
-Since the campus is always an important member of the TiDB Community, and we hope more young blood from universities or other fields can embrace the TiDB ecosystem, so we want to develop a course about the database system and the distributed system to help people without enough background knowledge to enter the field. The courses will be consist of reading supplies and programming assignments. As there are already many accessible materials online, we can develop the content of the course by learning from them. We think the voice from the different populations is important for the success of the goal, especially college students, so we hope they can join us to make this happen.
+For people without experience in distributed system or database system, it is quite hard to understand TiDB related projects. Since we hope more young blood can embrace the TiDb ecosystem, we think a distributed database system course is necessary. The courses will be consist of reading supplies and programming assignments. As there are already many accessible materials online, we can develop the content of the course by learning from them. We think the voice from the different populations is important for the success of the goal, especially college students, so we hope they can join us to make this happen.
 
 ## Proposal
 
@@ -36,7 +36,7 @@ The list of reference for reading materials, both for database system and distri
 - [UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
 - [Distributed System 3rd Edition](https://www.distributed-systems.net/)
 
-Many important topics have already been covered in the above. Course development participants are required to reorganize the content into slides or notes and translate them into Chinese, We hope the final content should be concrete and easy to understand, related to TiDB is preferred.
+Many important topics have already been covered in the above. Course development participants are required to reorganize the content into slides or notes, we hope the final content should be concrete and easy to understand, related to TiDB is preferred.
 
 ### Programming Assignments
 
@@ -49,7 +49,7 @@ For programming assignments, a distributed database system framework will be con
 
 ## Rationale
 
-For TiDB Community, an educational distributed database system project in Golang and readings well written in Chinese are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
+For TiDB Community, an educational distributed database system project in Golang and well written readings are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
 
 ## Compatibility
 
@@ -60,7 +60,8 @@ TiDB will not be affected by this project.
 To implement it, we need the following main steps:
 
 - Discussion the topics must be covered in reading materials, and contents of programming assignments.
-- Build the architecture of the new TiDB for education.Experienced engineers from TiDB and TiKV are significant help.
+- Build the architecture of the new TiDB for education.Experienced engineers from TiDB or TiKV are significant help.
+- Call for community participants to join us, build the course together.
 - Divide the course contents into multiple topics, each one will be handled by course development participants.
 
 ## Open issues (if applicable)
