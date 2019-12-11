@@ -25,3 +25,6 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-dynamic-configuration-change](./wg-dynamic-configuration-change.md)
 * [wg-tidb-sequence](./wg-tidb-sequence.md)
 * [wg-multi-dc-enhancement (TiKV)](https://github.com/tikv/community/tree/master/wg/multiple-dc-enhancemant)
+* [wg-stmt-summary](./wg-stmt-summary.md)
+* [wg-test-infra](./wg-test-infra.md)
+* [wg-drainer-relay-log](./wg-drainer-relay-log.md)
