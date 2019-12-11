@@ -6,7 +6,7 @@ This working group aims to build distribution packages of TiDB for different pla
 
 ## Meetings
 
-* Not needed.
+* To be added.
 
 ## Mentors
 
@@ -19,9 +19,11 @@ This working group aims to build distribution packages of TiDB for different pla
 ## Members
 
 - [bb7133](https://github.com/bb7133), PingCAP
+- [Xuanwo](https://github.com/Xuanwo), QingCloud
+- [reafans](https://github.com/reafans), PingCAP
 
 ## Contact
-- Slack: [#wg-tidb-distribution](https://tidbcommunity.slack.com/archives/CRGH2NF3J)
+- Slack: [#wg-tidb-distributions](https://tidbcommunity.slack.com/archives/CRGH2NF3J)
 
 ## Published Documents
 
