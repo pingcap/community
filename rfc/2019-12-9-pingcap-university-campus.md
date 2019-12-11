@@ -1,16 +1,15 @@
-# Proposal: Create a distributed database system course for PingCAP University
-
+# Proposal: Talent Plan Courses
 - Author(s): [Ling Jin](https://github.com/JinLingChristoher)
 - Last updated: 2019-12-6
 - Discussion at:
 
 ## Abstract
 
-There are plenty of people interested in TiDB but lack enough background knowledge, especially college students and engineers without backend development experience. The proposal aims at helping those people enter the field of TiDB by creating a course about the distributed database system, which is also a part of PingCAP University. Participants of the course should be able to pull requests to TiDB related projects after consumed the course materials.
+There are plenty of people interested in TiDB but lack enough background knowledge, especially college students and engineers without backend development experience. The proposal aims at helping those people enter the field of TiDB by creating a series of courses, which is also called Talent Plan Courses. Participants should be able to pull requests to TiDB related projects after consumed the course materials.
 
 ## Background
 
-Since the campus is always an important member of the TiDB Community, and we hope more young blood from universities or other fields can embrace the TiDB ecosystem, so we want to develop a course about the database system and the distributed system to help people without enough background knowledge to enter the field. The courses will be consist of reading supplies and programming assignments. As there are already many accessible materials online, we can develop the content of the course by learning from them. We think the voice from the different populations is important for the success of the goal, especially college students, so we hope they can join us to make this happen.
+Since the campus is always an important member of the TiDB Community, and we hope more young blood from universities or other fields can embrace the TiDB ecosystem, so we would develop a distributed database system course to help people without enough background knowledge to enter the field. The courses will be consist of reading supplies and programming assignments. As there are already many accessible materials online, we can develop the content of the course by learning from them. We think the voice from the different populations is important for the success of the goal, especially college students, so we hope they can join us to make this happen.
 
 ## Proposal
 
@@ -49,7 +48,7 @@ For programming assignments, a distributed database system framework will be con
 
 ## Rationale
 
-For TiDB Community, an educational distributed database system project in Golang and readings well written in Chinese are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
+For TiDB Community, an educational distributed database system project in Golang and readings for novice are necessary, they are invitation cards of welcome young people to TiDB. We can open the door of the campus, and push computer system course education in universities forward.
 
 ## Compatibility
 
