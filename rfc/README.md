@@ -12,3 +12,4 @@ See [TiKV RFCs](https://github.com/tikv/rfcs) for details.
 
 - [Run Discourse on TiDB](https://github.com/pingcap/community/rfc/2019-11-28-discourse-on-tidb.md)
 
+- [Talent Plan Courses](https://github.com/pingcap/community/rfc/2019-12-11-Talent-Plan-Courses.md)
