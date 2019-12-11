@@ -1,4 +1,4 @@
-# TiDB Working Group Governance
+# Working Group Governance
 
 <!-- vim-markdown-toc GFM -->
 
@@ -46,7 +46,7 @@ The Working Group is different from SIGs , the WG aims to:
 
 ### Create
 
-1. Create a `wg-${name}.md` file in [working group directory](../working-groups) (modify `${name}` to your Working Group short name) according to [Working Group template](./wg-template.md), and modify the **Active Working Groups** list in the [Working Groups](../working-groups/README.md) page
+1. Create a `wg-${name}.md` file in [working group directory](../working-groups) (modify `${name}` to your Working Group short name) according to [Working Group template](../working-groups/wg-template.md), and modify the **Active Working Groups** list in the [Working Groups](../working-groups/README.md) page
 2. Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community), which is determined by voting by the Maintainer/PMC. The Working Group will be announced after the Pull Request is merged.
 3. Create a channel corresponding to the Working Group on [Slack: tidbcommunity.slack.com](tidbcommunity.slack.com).
 

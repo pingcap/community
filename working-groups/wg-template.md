@@ -1,4 +1,4 @@
-# Working Group README Template
+# Working Group Template
 
 <!-- vim-markdown-toc GFM -->
 
