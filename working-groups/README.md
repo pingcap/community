@@ -28,3 +28,4 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-stmt-summary](./wg-stmt-summary.md)
 * [wg-test-infra](./wg-test-infra.md)
 * [wg-drainer-relay-log](./wg-drainer-relay-log.md)
+* [wg-dm-portal](./wg-dm-portal.md)
