@@ -1,14 +1,6 @@
 # PITR Working Group
 
-PITR is an ecosystem tool for TiDB Binlog. By preprocessing the incremental backup file of TiDB, PITR merged the changes of the same line of data to produce a new, lighter incremental backup file, which greatly reduced the Time of incremental backup Recovery and realized fast-pitr (Fast Point in Time Recovery).
-
-## Stakeholder SIGs
-
-To be discussed.
-
-## Meetings
-
-To be discussed.
+PITR(Point in Time Recovery) is an ecosystem tool for TiDB Binlog. By preprocessing the incremental backup file of TiDB, PITR merged the changes of the same line of data to produce a new, lighter incremental backup file, which greatly reduced the Time of incremental backup Recovery and realized fast-pitr.
 
 ## Organizers
 
@@ -18,13 +10,10 @@ To be discussed.
 * tsthght(**[@tsthght](https://github.com/tsthght)**), MeiTuan
 
 ## Contact
+
 - Slack: [#wg-pitr](https://tidbcommunity.slack.com/archives/CRH5594F8)
 - [Open Community Issues/PRs](https://github.com/pingcap/community/issues/126)
 
 ## Published Documents
 
-https://github.com/lvleiice/Better-PITR
-
-### RFC/Proposal
-
-https://github.com/lvleiice/Better-PITR
+* Design Doc: [中文 (Chinese)](https://github.com/lvleiice/Better-PITR/blob/master/README.md)
