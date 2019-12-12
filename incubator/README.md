@@ -1,12 +1,13 @@
 # PingCAP Incubator
 
-PingCAP Incubator is where all new features and projects associated with TiDB
-ecosystem can get started. Once going through the incubation process, they can
-either be merged to tidb/tikv repo or being moved from PingCAP Incubator to PingCAP or TiKV organization.
-
-The process is designed to ensure that new features and projects have correct
+PingCAP Incubator program is inspired by the CNCF incubating process. The process is designed to ensure that new features and projects have correct
 licensing, up-to-date boilerplate documents, a healthy community process, and
 are developed using accepted PingCAP Community practices.
+
+All programs should follow the incubating process to start a project. PingCAP would offer resources when a project is confirmed.
+
+Once going through the incubation process, they can
+either be merged to tidb/tikv repo or being moved from PingCAP Incubator to PingCAP or TiKV organization.
 
 Welcome to join [TiDB Community Slack
 Workspace](https://pingcap.com/tidbslack/) and feel free to contact us in the
