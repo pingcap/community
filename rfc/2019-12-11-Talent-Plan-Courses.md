@@ -7,7 +7,7 @@
 
 There are plenty of people interested in TiDB but lacking background knowledge, so we propose to create a series of courses to help those people enter the field infrastructure systems and TiDB ecosystem. Course participants should have developed good knowledge and skills in system programming after finishing course materials.
 
-## Proposal
+## Course design
 
 ![course map](./course-ex.png)
 
