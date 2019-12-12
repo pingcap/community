@@ -4,7 +4,7 @@ Now BR supports only backup transactional data of TiDB. The goal of this project
 
 ## Meetings
 
-* As needed
+* Regular meeting on Monday afternoon Exact time depends.
 
 ## Mentor
 
@@ -15,6 +15,11 @@ Now BR supports only backup transactional data of TiDB. The goal of this project
 * [@MyonKeminta](https://github.com/MyonKeminta), PingCAP
 * [@youjiali1995](https://github.com/youjiali1995), PingCAP
 * [@xinhua5](https://github.com/xinhua5)
+
+## Contact
+
+* Slack: channel **#wg-raw-kv-backup-restore** in the
+  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Published Documents
 
