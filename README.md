@@ -13,6 +13,8 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ![TiDB Community Architecture](./media/architecture.svg)
 
+See [TiDB Community Architecture](./architecture/README.md) for more details.
+
 ## TiDB User Group
 
 The TiDB User Groups (TUGs) are groups for facilitating communication and
@@ -38,10 +40,8 @@ For more specific topics, join
 TiDB has the following types of groups that are officially supported:
 
 * **Special Interest Groups (SIGs)** are persistent open groups that focus on a
-  module of TiDB. SIGs must have open and transparent proceedings. Anyone is
-  welcome to participate and contribute provided they follow the TiDB [Code of
-  Conduct](./CODE_OF_CONDUCT.md). The purpose of a SIG is to own and develop a
-  module of TiDB.
+  module of TiDB. SIGs must have open and transparent proceedings. The purpose
+  of a SIG is to own and develop a module of TiDB.
 
 * **Working Groups (WGs)** are temporary groups that are formed to address
   issues that cross SIG boundaries. Working groups do not own any code or other
