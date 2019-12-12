@@ -7,7 +7,7 @@ Currently,  DM cluster has only one DM-master process. When the DM-master proces
 
 ## Work and Meeting
 
-* Regular Working Group Meeting: 4pm on every Tuesday
+* Regular Working Group Meeting: 4pm on every Tuesday at GMT+8 (biweekly).
 * Meeting Zoom: [https://zoom.com.cn/j/5446052091](https://zoom.com.cn/j/5446052091)
 * Progress: [https://github.com/pingcap/dm/issues/406](https://github.com/pingcap/dm/issues/406)
 * [Meeting Notes](https://docs.google.com/document/d/1YgmCs9DOIbz8o3sX85S2TjA1-BW32xsxrm47_K52fYU/edit?usp=sharing)
