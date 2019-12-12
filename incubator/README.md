@@ -34,7 +34,7 @@ and feel free to contact us in the **#incubator** channel if any question or sug
         * [Step 1: Write a proposal](#step-1-write-a-proposal-1)
         * [Step 2: Find a Mentor](#step-2-find-a-mentor-1)
         * [Step 3: Get approval from PMC (Project Management Committee)](#step-3-get-approval-from-pmc-project-management-committee-1)
-        * [Step 3: Recruit team members](#step-3-recruit-team-members)
+        * [Step 4: Recruit team members](#step-4-recruit-team-members-1)
     * [Start Incubation](#start-incubation-1)
     * [Maturity Level Promotion](#maturity-level-promotion)
     * [Graduation](#graduation-1)
@@ -152,7 +152,7 @@ Once a proposed project receives 2 approvals from PMC(2 LGTM from the PMC
 members on the Proposal Issue), it can enter the incubation procedure. The PMC
 expresses their approvals by replying "LGTM" (look good to me) to the proposal.
 
-#### Step 3: Recruit team members
+#### Step 4: Recruit team members
 
 The recruitment of team members is expected to be completed within **1 week**
 after PMC's approval. If the recruitment of members is not completed within the
