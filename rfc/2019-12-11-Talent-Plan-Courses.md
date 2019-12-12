@@ -4,7 +4,6 @@
 - Last updated: 2019-12-11
 - Discussion at: [Incubating Program: Talent Plan Courses](https://github.com/pingcap/community/issues/130)
 
-## Abstract
 
 There are plenty of people interested in TiDB but lacking background knowledge, so we propose to create a series of courses to help those people enter the field infrastructure systems and TiDB ecosystem. Course participants should have developed good knowledge and skills in system programming after finishing course materials.
 
