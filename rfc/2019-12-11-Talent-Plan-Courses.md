@@ -12,7 +12,7 @@ There are plenty of people interested in TiDB but lacking background knowledge, 
 
 ![course map](./course-ex.png)
 
-The above is a snapshot of basic courses introduction. This series of courses include but not limited to the principle of computer system design, but also programming language, open source cooperation, and more topics. The development of a distributed database system course is on the way, more courses will be created in the future. We hope those courses can push forward the computer science education.
+The above is a introduction of the course system. This series of courses include but not limited to the principle of computer system design, but also programming language, open source cooperation, and more. The development of a distributed database system course is on the way, more courses will be created in the future. We hope those courses can make benefit to everyone.
 
 ## Rationale
 
@@ -26,8 +26,8 @@ N/A
 
 To implement it, we need the following main steps:
 
-- Discuss the topics must be covered in reading materials, and contents of programming assignments.
-- Divide the course topics, and assign them to course developers.
+- Discuss the subject must be included in the course system.
+- Divide the subject topics, and assign them to course developers.
 - Create the programming assignments framework, also reading materials.
 
 ## Open issues (if applicable)
