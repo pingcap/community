@@ -49,7 +49,7 @@ For TiDB Community, an educational distributed database system project in Golang
 
 ## Compatibility
 
-TiDB will not be affected by this project.
+N/A
 
 ## Implementation
 
