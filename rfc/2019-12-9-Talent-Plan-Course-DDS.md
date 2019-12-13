@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The proposal aims at creating a distributed database system course to help more people to have a touch of TiDB. After finishing the course materials, participants should gain practical experience in building complex distributed system software.
+The proposal aims at creating a distributed database system course to help more people to have a touch of TiDB. After finishing the course materials, participants should have knowledge preparation for building a complex distributed system software and gain practical experience with it.
 
 ## Proposal
 
