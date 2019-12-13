@@ -45,7 +45,7 @@ For programming assignments, we will be constructing a distributed database syst
 
 ## Rationale
 
-For TiDB Community, an educational distributed database system project in Golang for the novice is necessary. The friendly and organized course content will serve as an invitation cards for more potential community members to TiDB.`
+For TiDB Community, an educational distributed database system project in Golang for the novice is necessary. The friendly and organized course content will serve as an invitation for more potential community members to TiDB.
 
 ## Compatibility
 
