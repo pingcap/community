@@ -56,7 +56,7 @@ TiDB will not be affected by this project.
 To implement it, we need the following main steps:
 
 - Discuss the topics to be covered in reading materials and programming assignments design.
-- Build the architecture of the new TiDB for education.Experienced engineers from TiDB or TiKV are significant help.
+- Build the architecture of the new TiDB for education. Experienced engineers from TiDB or TiKV are significant help.
 - Call for community participants to join us, build the course together.
 - Divide the course topics, and assign them to course developers.
 
