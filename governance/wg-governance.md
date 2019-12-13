@@ -56,10 +56,10 @@ Working Groups have different goals with those of SIGs. A WG aims to:
 2. Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community), which is determined by voting by the Maintainer/PMC. The Working Group will be announced after the Pull Request is merged.
 3. Create a channel corresponding to the Working Group on [Slack: tidbcommunity.slack.com](tidbcommunity.slack.com).
 
-* ### Dissolution
+### Dissolution
 
-  * The Working Group can dissolve itself after it feels that the mission it set out to do is complete.
-  * If the working group has met one of the following requirements, the working group may be dissolved by the PMC:
-    * None of the communication channels for the Working Group have been in use for the goals outlined at the founding of the Working Group in 2 months:
-      * Slack channel
-      * Zoom meeting room
+* The Working Group can dissolve itself after it feels that the mission it set out to do is complete.
+* If the working group has met one of the following requirements, the working group may be dissolved by the PMC:
+  * None of the communication channels for the Working Group have been in use for the goals outlined at the founding of the Working Group in 2 months:
+    * Slack channel
+    * Zoom meeting room
