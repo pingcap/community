@@ -16,7 +16,7 @@ See [Working Group Governance](../governance/wg-governance.md) for details.
 
 See [Working Group Template](./wg-template.md) for details.
 
-## Active Working Groups
+# Active Working Groups
 
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
@@ -29,5 +29,5 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-stmt-summary](./wg-stmt-summary.md)
 * [wg-test-infra](./wg-test-infra.md)
 * [wg-drainer-relay-log](./wg-drainer-relay-log.md)
-* [wg-dm-portal](./wg-dm-portal.md)
 * [wg-replace-loader-with-lightning](./wg-replace-loader-with-lightning.md)
+* [wg-dm-portal](./wg-dm-portal.md)
