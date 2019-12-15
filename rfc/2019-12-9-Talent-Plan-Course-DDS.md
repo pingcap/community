@@ -36,7 +36,7 @@ Many important topics have already been covered in the above materials, based on
 
 ### Programming Assignments
 
-For programming assignments, we will be constructing a distributed database system framework. Even though there are many well-organized programming assignments about the database system and the distributed system, but they are not strongly connected. The languages they use, C++ or Java, are not friendly to young people. Therefore, we use Golang to build the framework, which is more user friendly and also the primary language used in the TiDB ecosystem. The idea of the project will be borrowed from course materials listed below:
+For programming assignments, we will be constructing a distributed database system framework. Even though there are many well-organized programming assignments about the database system and the distributed system,  they are not strongly connected. The languages they use, C++ or Java, are not friendly to young people. Therefore, we use Golang to build the framework, which is more user-friendly and also the primary language used in the TiDB ecosystem. The idea of the project will be borrowed from course materials listed below:
 
 - [CMU Bustub](https://github.com/cmu-db/bustub)
 - [UCB moocbase](https://github.com/berkeley-cs186/fa19-moocbase)
