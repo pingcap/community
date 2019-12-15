@@ -24,7 +24,7 @@ N/A
 
 To implement it, we need the following main steps:
 
-- Discuss the subject must be included in the course system.
+- Discuss the subject to be included in the course system.
 - Divide the subject topics, and assign them to course developers.
 - Create the programming assignments framework, also reading materials.
 
