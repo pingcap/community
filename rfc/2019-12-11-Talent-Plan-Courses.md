@@ -10,7 +10,7 @@ There are plenty of people interested in TiDB but lacking background knowledge, 
 
 ![course map](./course-ex.png)
 
-The above is a introduction of the course system. This series of courses include but not limited to the principle of computer system design, but also programming language, open source cooperation, and more. The development of a distributed database system course is on the way, more courses will be created in the future. We hope those courses can make benefit to everyone.
+The above is the design of the course system. This series of courses include but not limited to the principles of computer system design, the programming language to be used, open-source cooperation, and more. The development of a distributed database system course is in progress, and more courses will be created in the future.
 
 ## Rationale
 
