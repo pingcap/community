@@ -14,7 +14,7 @@ The above is a introduction of the course system. This series of courses include
 
 ## Rationale
 
-There are many open study resources online, our courses can borrow ideas from world top universities also MOOCs. The courses would be practice-concentrated, well-designed programming assignments are the core, reading materials including slides, notes is also irreplaceable.
+There are many open study resources online, our courses can borrow ideas from world-class universities and from MOOCs as well. The courses will be practice-concentrate, with well-designed programming assignments as the core. Reading materials including slides, notes is also irreplaceable.
 
 ## Compatibility
 
