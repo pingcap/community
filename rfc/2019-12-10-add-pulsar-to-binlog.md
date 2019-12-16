@@ -12,7 +12,7 @@ Use **key_shared** subscription type of [Apache Pulsar](https://github.com/apach
 
 ## Background
 
-During the Change Data Capture(CDC), we need to ensure the order of the messages, or, we need to ensure that DDL arrives before DML. Currently, we use Kafka to process the order of messages, but as you know, Kafka can only guarantee the order of messages within a single partition. If we need to expand the downstream data processing capabilities, sometimes we want more partitions to provide more processing power, but how do we ensure the order of messages at this time? This is a trickier question.
+During the Change Data Capture(CDC), we need to ensure the order of the messages, which we use Kafka to process. However Apache Kafka can only guarantee the order of messages within a single partition. If we need to expand data processing capabilities for downstream, sometimes more partitions are needed. How do we ensure the order of messages in this scenario is a tricky question to tackle.
 
 ## Proposal
 
@@ -23,11 +23,12 @@ We will make these changes:
 
 ## Rationale
 
-Portal(tidb-binlog source) collects messages from other databases and publishes the messages to Pulsar topics.
-Stargate(tidb-binlog sink) consumes the messages from the Pulsar topics through the key_shared subscription mode and publishes the messages to TiDB.
+`tidb-binlog` source collects messages from other databases and publishes the messages to Pulsar topics.
+`tidb-binlog` sink consumes the messages from the Pulsar topics through the key_shared subscription mode and publishes the messages to TiDB.
+
 ## Compatibility
 
-There is no compatibility issues. Apache Pulsar is compatible with Apache Kafka protocol
+There are no compatibility issues. Apache Pulsar is compatible with Apache Kafka protocol
 
 ## Implementation
 
