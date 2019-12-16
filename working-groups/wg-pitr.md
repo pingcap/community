@@ -1,6 +1,6 @@
 # PITR Working Group
 
-PITR(Point in Time Recovery) is an ecosystem tool for TiDB Binlog. By preprocessing the incremental backup file of TiDB, PITR merged the changes of the same line of data to produce a new, lighter incremental backup file, which greatly reduced the Time of incremental backup Recovery and realized fast-pitr.
+PITR (Point in Time Recovery) is an eco-system tool for TiDB Binlog. By preprocessing the incremental backup file of TiDB, PITR merges the changes of the same row of data to produce a new, lighter incremental backup file. This greatly reduces the time consumed for incremental backup recovery and achieves a fast point in time recovery.
 
 ## Organizers
 
