@@ -23,9 +23,9 @@ Issues:
 ## Members
 
 * [disksing](https://github.com/disksing), [@PingCAP](https://github.com/pingcap)
-* [zimulala](https://github.com/zimulala), [@PingCAP](https://github.com/zimulala)
-* [lhy1024](https://github.com/lhy1024), [@PingCAP](https://github.com/lhy1024)
-* [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/nolouch)
+* [zimulala](https://github.com/zimulala), [@PingCAP](https://github.com/pingcap)
+* [lhy1024](https://github.com/lhy1024), [@PingCAP](https://github.com/pingcap)
+* [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/pingcap)
 
 ## Contact
 
