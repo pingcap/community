@@ -10,7 +10,7 @@ But some users are still using old version of `Syncer`. For smoothly upgrading, 
 * Sun Ruoxi (**[@zanmato1984](https://github.com/zanmato1984))
 
 ## Contact
-- Slack: [#dm-wg](https://tidbcommunity.slack.com/messages/wg-dm-syncer)
+- Slack: [#dm-wg](https://tidbcommunity.slack.com/archives/CRGEV62C9)
 
 ## Published Documents
 
