@@ -4,7 +4,8 @@ Now BR supports only backup transactional data of TiDB. The goal of this project
 
 ## Meetings
 
-* Regular meeting on Monday afternoon Exact time depends.
+* Regular meeting every Monday 17:00 (UTC+8)
+* Meeting notes: https://docs.google.com/document/d/1jsjCTWwiw14ZGEjfZJ2e9m3T1aSH6LdqYNE_TUps_IY/edit#
 
 ## Mentor
 
