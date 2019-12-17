@@ -16,7 +16,7 @@ See [Working Group Governance](../governance/wg-governance.md) for details.
 
 See [Working Group Template](./wg-template.md) for details.
 
-## Active Working Groups
+# Active Working Groups
 
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
@@ -25,7 +25,10 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-dynamic-configuration-change](./wg-dynamic-configuration-change.md)
 * [wg-tidb-sequence](./wg-tidb-sequence.md)
 * [wg-multi-dc-enhancement (TiKV)](https://github.com/tikv/community/tree/master/wg/multiple-dc-enhancemant)
+* [wg-run-discourse-on-tidb](./wg-run-discourse-on-tidb.md)
 * [wg-stmt-summary](./wg-stmt-summary.md)
 * [wg-test-infra](./wg-test-infra.md)
 * [wg-drainer-relay-log](./wg-drainer-relay-log.md)
+* [wg-replace-loader-with-lightning](./wg-replace-loader-with-lightning.md)
+* [wg-dm-portal](./wg-dm-portal.md)
 * [wg-raw-kv-backup-restore](./wg-raw-kv-backup-restore.md)
