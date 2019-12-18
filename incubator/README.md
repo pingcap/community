@@ -105,7 +105,7 @@ group (see the [Create](../working-groups/wg-governance.md#create) section of
 the Woking Group Governance.
 
 Regular updates in the process are required as well. Features are expected to
-submit an [interim report](/intermi-report-template.md) to the mentor diretly.
+submit an [intermi report](./intermi-report-template.md) to the mentor diretly.
 
 ### Graduation
 
