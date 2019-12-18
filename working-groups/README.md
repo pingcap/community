@@ -31,3 +31,4 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-drainer-relay-log](./wg-drainer-relay-log.md)
 * [wg-replace-loader-with-lightning](./wg-replace-loader-with-lightning.md)
 * [wg-dm-portal](./wg-dm-portal.md)
+* [wg-raw-kv-backup-restore](./wg-raw-kv-backup-restore.md)
