@@ -32,3 +32,4 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-replace-loader-with-lightning](./wg-replace-loader-with-lightning.md)
 * [wg-pitr](./wg-pitr.md)
 * [wg-dm-portal](./wg-dm-portal.md)
+* [wg-raw-kv-backup-restore](./wg-raw-kv-backup-restore.md)
