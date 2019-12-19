@@ -3,9 +3,10 @@
 We used `Syncer` to synchronize binlog from MySQL to TiDB Cluster. After **Data Migrants**(abbr. DM) which is a stronger and stabler fixture has been developed , we rarely maintain `Syncer`.
 But some users are still using old version of `Syncer`. For smoothly upgrading, it's better to compile binlog repliaction unit in DM indenpendently and be compitable with old config format as possible as we can.
 
-## Meeting Notes
+## Work And Meeting
 
-- [#doc](https://docs.google.com/document/d/17Qd77LiTrX-DjmQV1VZx_1KKyY7cVENNLPaSN9zat_k/edit?ts=5def6e13#heading=h.370wtetgahie)
+- Regular Working Group Meeting: 4pm on every Tuesday at GMT+8 (biweekly).
+- [#meeting notes](https://docs.google.com/document/d/17Qd77LiTrX-DjmQV1VZx_1KKyY7cVENNLPaSN9zat_k/edit?ts=5def6e13#heading=h.370wtetgahie)
 
 ## Organizaers
 
