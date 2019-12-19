@@ -6,9 +6,7 @@
 
 ## Abstract
 
-The proposal aims at:
-
-Use **key_shared** subscription type of [Apache Pulsar](https://github.com/apache/pulsar) to enhance **binlog** data processing capabilities;
+The proposal aims at using the **key_shared** subscription type of [Apache Pulsar](https://github.com/apache/pulsar) to enhance binlog data processing capabilities.
 
 ## Background
 
@@ -32,7 +30,7 @@ There are no compatibility issues. Apache Pulsar is compatible with Apache Kafka
 
 ## Implementation
 
-1. [@xiaolong](https://github.com/wolfstudy) can support pulsar-client-go, make sure you can meet the required interface in tidb-binlog.
+1. Implement [pulsar-client-go](https://github.com/apache/pulsar-client-go), and make sure it meets the required interface in tidb-binlog.
 2. @pingcap/ecosystem-tools
 
 ## Open issues (if applicable)
