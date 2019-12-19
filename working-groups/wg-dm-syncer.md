@@ -9,9 +9,9 @@ But some users are still using old version of `Syncer`. For smoothly upgrading, 
 
 ## Organizaers
 
-* Wang Xiang (**[@WangXiangUSTC]https://github.com/WangXiangUSTC**)
+* Wang Xiang (**[@WangXiangUSTC](https://github.com/WangXiangUSTC)**), PingCAP
 * Han Fei (**[@hanfei1991](https://github.com/hanfei1991)**), PingCAP
-* Sun Ruoxi (**[@zanmato1984](https://github.com/zanmato1984))
+* Sun Ruoxi (**[@zanmato1984](https://github.com/zanmato1984)**), PingCAP
 
 ## Contact
 - Slack: [#dm-wg](https://tidbcommunity.slack.com/archives/CRGEV62C9)
