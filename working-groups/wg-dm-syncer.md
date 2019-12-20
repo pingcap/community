@@ -6,7 +6,7 @@ But some users are still using old version of `Syncer`. For smoothly upgrading, 
 ## Work And Meeting
 
 - Regular Working Group Meeting: 4pm on every Tuesday at GMT+8 (biweekly).
-- [#meeting notes](https://docs.google.com/document/d/17Qd77LiTrX-DjmQV1VZx_1KKyY7cVENNLPaSN9zat_k/edit?ts=5def6e13#heading=h.370wtetgahie)
+- [#meeting notes](https://docs.google.com/document/d/1OZz71Shq9kuS5zoje-cCrLahtZV2eHcntxs0MOiFuGA/edit?usp=sharing)
 
 ## Organizaers
 
