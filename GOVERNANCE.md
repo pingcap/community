@@ -10,23 +10,20 @@ This document describes the governance rules of the TiDB project (organization).
 
 The TiDB community adheres to the following principles:
 
-- **Open**: TiKV is open source, as advertised on our [website](https://tikv.org) or the [TiKV Organization](https://github.com/tikv) on github.
-
+- **Open**: TiKV is open source, as advertised on our [website](https://pingcap.com) or the [PingCAP Organization](https://github.com/pingcap) on github.
 - **Welcoming and respectful**: See Code of Conduct below.
-
 - **Transparent and accessible**: Work and collaboration are done in public.
-
 - **Merit**: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
 ## Code of Conduct
 
-The TiDB community follows the [TiDB Code of Conduct](https://github.com/pingcap/tidb/blob/master/CODE_OF_CONDUCT.md). Here are some excerpts:
+The TiDB community follows the [TiDB Code of Conduct](/CODE_OF_CONDUCT.md). Here are some excerpts:
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Community Roles and Responsibilities
 
-TBD
+See <https://github.com/pingcap/community/tree/master/architecture> for details.
 
 ## Community Structure
 
@@ -34,7 +31,7 @@ TBD
 
 The project is comprised of and operated by the following subgroups:
 
-- Project Management Committee, PMC
+- Project Management Committee (PMC)
 - Organizer Committee
 - Developer Group
     - Maintainers
@@ -42,7 +39,7 @@ The project is comprised of and operated by the following subgroups:
     - Working Groups, WGs
 - TiDB User Group
 
-### Project Management Committee
+### Project Management Committee 
 
 The PMC functions as the core management team that oversees the TiDB community. The PMC has additional responsibilities over and above those of Maintainers. These responsibilities ensure the smooth running of the project.
 
