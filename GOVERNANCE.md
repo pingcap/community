@@ -36,7 +36,7 @@ The project is comprised of and operated by the following subgroups:
 - Developer Group
     - Maintainers
     - Special Interest Groups, SIGs (Tech Leads)
-    - Working Groups, WGs (Organizer)
+    - Working Groups, WGs
 - TiDB User Group
 
 ### Project Management Committee
@@ -75,7 +75,7 @@ See [TiDB Maintainers](TBD) for the list of current Maintainers.
 
 The TiDB project is organized primarily into Special Interest Groups, or SIGs. Each SIG is comprised of members from multiple companies or organizations, with a common purpose of advancing the TiDB project with respect to a specific topic,such as Coprocessor or Documentation. The goal of an SIG is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by the corresponding SIG.
 
-Currently, SIG membership requires invitation - potential qualified members are Active Contributors in a particular project under the SIG. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer within an SIG.
+Currently, any Contributor within a SIG is immediately an eligible member of that SIG. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer within an SIG.
 
 Each SIG must have a charter that specifies its scope (topics, code repositories and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [sig governance](TBD).
 
@@ -103,9 +103,9 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 ## Decision making and voting
 
-Decisions are built on consensus between PMC members or Maintainers. Proposals and ideas can either be submitted for agreement via a github issue or PR. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the SIG projects, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
+Proposals and ideas can be submitted for agreement via a github issue or PR. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the SIG projects, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
 
-Major changes such as feature proposals and organization or process changes should be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the supermajority (2/3) votes in the corresponding group.
+Major changes such as feature proposals and organization or process changes should be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](./rfc) process. For the change to happen, the RFC must earn the supermajority (2/3) votes in the corresponding group.
 
 ## Conflict resolution
 
