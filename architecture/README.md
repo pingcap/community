@@ -33,7 +33,7 @@ types of roles. The TiDB community has the following organizations:
 
 ## PMC
 
-TBD
+[PMC List](./pmc-list.md)
 
 ## TiDB Developer Group
 
@@ -147,6 +147,10 @@ TBD
 #### Responsibilities and Privileges
 
 TBD
+
+####Maintainer List
+
+[Maintainer List](./maintainer-list.md)
 
 ## TiDB User Group
 
