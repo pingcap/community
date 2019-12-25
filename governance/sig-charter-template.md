@@ -32,14 +32,14 @@ Describes the current issues related to the modules covered by the SIG, but does
 
 ## Role Definition and Organization Management
 
-This SIG follows the role definition and organization management defined in [SIG Governance](SIG-GOVERNANCE.md). The following is a description of the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](SIG-GOVERNANCE.md). Each SIG can also have different elimination and promotion mechanisms.
+This SIG follows the role definition and organization management defined in [SIG Governance](sig-governance.md). The following is a description of the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](sig-governance.md). Each SIG can also have different elimination and promotion mechanisms.
 
 ### Tech Leads Additional Responsibilities
 
 - List of additional responsibilities
 - Additional situation need to be mentioned
 
-### Difference from [SIG Governance](SIG-GOVERNANCE.md)
+### Difference from [SIG Governance](sig-governance.md)
 
 - Difference list
 - Explain the reasons and purposes for difference reasons

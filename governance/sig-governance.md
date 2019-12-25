@@ -64,11 +64,11 @@ After a period of inactivity, the SIG member will temporarily exit the SIG. The 
 
 2. Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
 
-3. Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters
+3. Create a public and private Slack Channel on [Slack: tidbcommunity.slack.com](tidbcommunity.slack.com) to discuss the SIG operation related matters
 
 4. Create a Zoom room for regular meetings, as well as other online discussions
 
-5. Announce the establishment of a new SIG in the TiKV community
+5. Announce the establishment of a new SIG in the TiDB community
 
 ### Dismiss
 
