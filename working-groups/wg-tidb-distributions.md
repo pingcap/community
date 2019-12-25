@@ -4,10 +4,6 @@
 
 This working group aims to build distribution packages of TiDB for different platforms and maintain them for the long-term supports.
 
-## Meetings
-
-* To be added.
-
 ## Mentors
 
 - [glorv](https://github.com/glorv), PingCAP
