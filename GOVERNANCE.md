@@ -35,11 +35,11 @@ The project is comprised of and operated by the following subgroups:
 - Organizer Committee
 - Developer Group
     - Maintainers
-    - Special Interest Groups, SIGs
-    - Working Groups, WGs
+    - Special Interest Groups, SIGs (Tech Leads)
+    - Working Groups, WGs (Organizer)
 - TiDB User Group
 
-### Project Management Committee 
+### Project Management Committee
 
 The PMC functions as the core management team that oversees the TiDB community. The PMC has additional responsibilities over and above those of Maintainers. These responsibilities ensure the smooth running of the project.
 
@@ -48,8 +48,6 @@ Members of the PMC do not have significant authority over other members of the c
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
 For the first formation of the committee, our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiDB. New PMC members are selected based on the rules described above.
-
-The current number of PMC members is limited to 7. This is to ensure both sufficient representation of different groups in TiKV community and efficiency of decision making.
 
 For a list of the current PMC members, see the [PMC Members](TBD).
 
@@ -105,9 +103,9 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 ## Decision making and voting
 
-Decisions are built on consensus between PMC members or Maintainers. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the SIG projects, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
+Decisions are built on consensus between PMC members or Maintainers. Proposals and ideas can either be submitted for agreement via a github issue or PR. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the SIG projects, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
 
-New proposals and ideas (changes of major features, organization, or processes) can be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/pingcap/community/tree/master/rfc) process. For the change to happen, the RFC must earn the supermajority (2/3) votes in the corresponding group.
+Major changes such as feature proposals and organization or process changes should be brought to the PMC or Maintainers’ attention through the [Request for Comments (RFC)](https://github.com/tikv/rfcs) process. For the change to happen, the RFC must earn the supermajority (2/3) votes in the corresponding group.
 
 ## Conflict resolution
 
@@ -115,8 +113,7 @@ In general, we prefer that technical issues and other disputes upon which consen
 
 ## Adding new projects
 
-New projects can be added to the TiKV organization (normally by Tech Leads of a SIG) via GitHub issue discussion in one of the existing SIG, as long as as they adheres to the [CNCF charter](https://www.cncf.io/about/charter/) and the guidelines in this governance. Once sufficient discussions have taken place, the Maintainers will decide whether the new project should be added. The requester needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
-
+New projects can be added to the PingCAP organization (normally by Tech Leads of a SIG) via GitHub issue discussion in one of the existing SIG, as long as as they adheres to the guidelines as defined in this governance. Once sufficient discussions have taken place, the Maintainers will decide whether the new project should be added. The requester needs to create an corresponding RFC for the change to happen, as described in [Decision Making and Voting](#decision-making-and-voting).
 
 ## Changes in Governance
 
