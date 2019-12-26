@@ -6,5 +6,5 @@
 |  [jackysp](https://github.com/jackysp)  | 于帅鹏 | PingCAP |
 |  [coocood](https://github.com/coocood)  | 周昱行 | PingCAP |
 |  [winkyao](https://github.com/winkyao)  |  姚维  | PingCAP |
-| [zz-jason](https://github.com/zz-jason) | 孙晓光 | PingCAP |
+| [zz-jason](https://github.com/zz-jason) |  张建  | PingCAP |
 
