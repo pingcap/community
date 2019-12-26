@@ -146,4 +146,20 @@ Maintainers are the planners and designers of the TiDB project, with the authori
 
 ## TiDB User Group
 
-The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of information related to topics that have long term relevance to large groups of TiDB users.
+The TiDB User Group (TUG) is an independent user community initiated by TiDB users. Users in the TUG community can learn cutting-edge technical knowledge, publish technical insights, get to know friends in the circle, and build TiDB projects together.
+
+### Leader
+
+The Leader of the  TiDB User Group (TUG) who makes overall plans, tracks progress with the aim to strengthen the joint force and impact of the TUG.
+
+### Co-Leader
+
+Co-Leaders share TUG responsibilities such as development planning, event operation, content creation, and community Q&A.
+
+### Ambassador
+
+Community activists who recognize TiDB and are passionate about sharing and promoting TiDB and TUG on bloggers, community websites, and meetups.
+
+## Organization Committee
+
+The  Organization Committee consists of organizers in charge of event or activity operations; They are the  executors of PMC’s strategies and decisions. Specifically, the members are the leaders of user groups or community event organizers across regions.
