@@ -1,75 +1,81 @@
 # SIG Governance
 
-The full name of SIG is Special Interest Group. Please refer to [Community Organization](/architecture#tidb-community-architecture). SIGs mainly aggregate a group of Active Contributors, and conducts in-depth research & contributions to one or more TiDB modules, and is promoted to Reviewer, Committer within the SIG.
+This charter details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiKV project.
 
-## SIG Role and Organizational Governance
+## Organizational Governance
 
-The SIG is subject to the following rules:
+In order to standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
 
-- Before starting a SIG, the charter will be established in advance. Please refer [Create the SIG charter](#Create-the-SIG-charter) to create the charter 
-- Except for holidays, the regular meeting is organized at least once every two weeks.
+- Create a charter and have it approved according to the SIG charter  process. Please refer [Create the SIG charter](#create-the-sig-charter) for more details.
+- Meet regularly, at least for 30 minutes every 2 weeks, except for long holidays
+- Keep up-to-date meeting notes, linked from the SIG's page in the community repo
+- Report activity in the weekly community meeting at least once every quarter
+- Participate in release planning meetings and retrospectives, and burndown meetings, as needed
+- Ensure related work happens in a project-owned github org and repository, with code and tests explicitly owned and supported by the SIG, including issue triage, PR reviews, test-failure response, bug  fixes, etc.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
-
-Please refer to [SIG Lifecycle](#sig-lifecycle) for other issue.
+- Use the GitHub PR & issues, slack channels as the primary means of working, communicating, and collaborating.
 
 ## SIG Roles
 
-### Active Contributors
+The SIG follows the role definitions in the [TiDB Developer Group](/architecture/README.md#tidb-developer-group) and [GOVERNANCE](/GOVERNANCE.md).
 
-  - Active contributors will be invited to the SIG
-  - Remain active in at least one module in the SIG
-  - Continue to contribute in at least one module
-  - Can participate in the proposal and discussion in the SIG
+### SIG Members
 
-### Reviewer
-
-  Please refer to the definition of [Reviewer](/architecture#reviewer)
-
-### Committer
-
-  Please refer to the definition of [Committer](/architecture#committer)
+- Inludes all Contributors, Active Contributors, Reviewers, and Committers under the SIG
+- SHOULD maintain health of the SIG
+- SHOULD show sustained contributions to the SIG
+- SHOULD hold corresponding responsibilities in the SIG as documented in [TiDB Developer Group](/architecture/README.md#tidb-developer-group)
+- MAY participate in decision making of the SIG
+- Members are tracked in `membership.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintainence convenience)
 
 ### Tech Lead
 
-  - 2 or 3 Tech Leads in an SIG are required
-  - Responsible for training members of the SIG
-  - Organize discussions and make decisions of proposal generated within the SIG
-  - Responsible for the SIG's activity and output
-  - Lead the SIG to generate more Reviewer and Commiter
-  - Follow up progress and assign task in SIG
-  - Need to participate in regular meetings
-  - Make roadmap for the SIG
-  - Weekly progress meeting requires at least one Tech Lead to participate in the discussion online
+  - **Number**: 2-3. Initially assigned by Maintainers
+  - **Requirement**:
+    - MUST be a committer from the specific SIG
+    - MUST have demonstrated deep understanding of the SIG project
+  - **Term**: 1 year
+  - **Election:**
+      - Nominated by the Tech Leads or self-nominate
+      - Gained supermajority votes of Maintainers
+      - Done through PR to update the `membership.md` file in the SIG
+- **Responsibilities**
+    - Creating new projects under the SIG
+    - Triaging issues/tasks in the SIG
+    - Mentoring members of the SIG
+    - Organizing discussions and drawing conclusions for decision making within the SIG
+    - Ensuring health and sustained development of the SIG and grwoth of SIG members
+    - Making roadmap for the SIG
+    - Organizing and participating in regular meetings
 
 ## Member Promotion Mechanism
 
-Members of the SIG can be promoted to a higher role, and the rules are set by the specific SIG. Each promotion is nominated by two members of a higher level role or above.
+Members of the SIG can be promoted to a higher role based on the rules defined in [TiDB Developer Group](/architecture/README.md#tidb-developer-group). 
 
 ## Member Exit Mechanism
 
-After a period of inactivity, the SIG member will temporarily exit the SIG. The exit mechanism is set by each SIG.
+There are two exit situations:
 
-## Create the SIG Charter
+- Members MAY decide to step down at anytime for personal reasons by opening the PR to modify the `member-list.md`in the Specific SIG. The PR can be merged once it gets two approvals from the higher role.
 
-1. Copy the [SIG Charter Template](sig-charter-template.md)
-2. Modify the content in the template that needs to be defined for the specific SIG
-3. Initiate a PR to [pingcap/community](https://github.com/pingcap/community) with the SIG Charter, and propose the SIG Charter to [SIGs log](/special-interest-groups)
-4. The new SIG will be announced by the community committee after approval.
+- Members of a role SHOULD be removed from the SIG if they have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. Tech Leads will assess the communication and contribution status monthly to update the membership list. Each change (removal), depending on the role, requires the following:
+
+    - For Committer or Tech Leads, a supermajority votes from Maintainers are required
+    - For Reviewers or lower roles, two approvals from the immediate higher role is required
+
+Once the change is approved, the corresponding profile will be moved to the emeritus role list.
 
 ## SIG Lifecycle
 
-### Create
+### Creation
 
-1. All SIG Technical Leads, and other roles need to be at least [Active Contributor](/architecture#active-contributor) in the Community structure
+1. Copy the [SIG Charter Template](SIG-CHARTER-TEMPLATE.md).
+2. Modify the content in the template that needs to be defined for the specific SIG
+3. Initiate a PR in [special-interest-groups](https://github.com/pingcap/community/tree/master/special-interest-groups) with the SIG Charter, and propose the SIG Charter. This must be approved by the supermajority of the PMC members.
+4. Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters.
+5. Create a Zoom room for regular meetings, as well as other online discussions.
+6. Announce the establishment of a new SIG in the TiKV community.
 
-2. Follow the steps above to [Create the SIG charter](#Create-the-SIG-charter) 
+### Dissolution
 
-3. Create a public and private Slack Channel on [Slack: tidbcommunity.slack.com](tidbcommunity.slack.com) to discuss the SIG operation related matters
-
-4. Create a Zoom room for regular meetings, as well as other online discussions
-
-5. Announce the establishment of a new SIG in the TiDB community
-
-### Dismiss
-
-Sometimes an SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.
+Sometimes a SIG may need to be dismissed or merged. The SIG's dissolution rules should be defined by the specific SIG.
