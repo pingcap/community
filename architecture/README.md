@@ -30,7 +30,7 @@ Open source projects live and breathe the open-source community with different t
 
 ## PMC
 
-PMC (Project Management Committee) functions as the core management team that oversees the TiKV community. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs. See [Governance](./GOVERNANCE.md) for more details about PMC.
+PMC (Project Management Committee) functions as the core management team that oversees the TiDB community. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs. See [Governance](../GOVERNANCE.md) for more details about PMC and [PMC List](./pmc-list.md) for a list of incumbent PMC members.
 
 ## TiDB Developer Group
 
@@ -57,7 +57,7 @@ You are also encouraged to participate in the projects in the following ways:
 #### Responsibilities and privileges
 
 - Become a member in the SIG
-- Get the profile listed on the membership page of the TiKV community
+- Get the profile listed on the membership page of the TiDB community
 
 #### Contributor List
 
@@ -101,36 +101,35 @@ See `member-list.md` under the specific SIG for a list of Reviewers of the SIG.
 
 ### Committer
 
-Committers come from Reviewers. Committer is scoped to the specific SIG where the promotion applies. Committers are recoganized by Maintainers or SIG Tech Leads for their outstanding contributions to the specific SIG.
+Committers come from Reviewers, and are recoganized by Maintainers and SIG Tech Leads for their outstanding contributions to the specific SIG.
 
-Committer status is scoped to the part of the codebase under the SIG. See `member-list.md` under the specific SIG for a list of Committers of the SIG.
+Committer is scoped to the specific SIG where the promotion applies. See `member-list.md` under the specific SIG for a list of Committers of the SIG.
 
 #### How to become a Committer
 
-A new Committer must be nominated by any existing Maintainer or PMC member, and
-is generated through the voting of PMC members.
-
 A Committer must have accomplished one or more of the following items:
 
-* Your commits have been approved and merged by Maintainers for over ten times.
-* You have implemented a complete feature.
-* You have fixed a vital bug.
+- Demonstrated a good sense of responsibility in PR reviews within the SIG. The review contributions must meet the amount or the difficulty criteria as defined in the charter of the specific SIG.
+- Demonstrated deep understanding of the TiDB components specific to the SIG by contributing significantly as:
+    - Finished 2+ tasks of Medium difficulty or higher
+    - Fixed 1+ task of Hard difficulty
+- Nominated by the Tech Leads of the SIG and gained supermajority (2/3) votes from Maintainers
 
 #### Responsibilities and privileges
 
 - Control overall code quality of projects under the SIG
-- Guide Contributors and Reviewers to contribute to TiKV continuously
+- Guide Contributors and Reviewers to contribute to the SIG continuously
 - Participate in Committer meetings regularly and have knowledge priority regarding project development
 - Participate in design discussions
 - Get the profile listed on the membership page of the corresponding SIG
 
 ### Maintainer
 
-Maintainers are the planners and designers of the TiDB project, with the authority to merge branches into the master. Maintainers come from Committers. They must demonstrate both good judgment and responsibility towards the sustained development and overall health of the TiDB project. See [TiDB Maintainers](./maintainer-list.md) for a list of TiDB Maintainers
+Maintainers are the planners and designers of the TiDB project, with the authority to merge branches into the master. Maintainers come from Committers. They must demonstrate both good judgment and responsibility towards the sustained development and overall health of the TiDB project. See [TiDB Maintainers](./maintainer-list.md) for a list of TiDB Maintainers.
 
 #### How to become a Maintainer
 
-- Demonstrated a deep and comprehensive understanding of TiKV's technical goals and directions
+- Demonstrated a deep and comprehensive understanding of TiDB's technical goals and directions
 - Must be Committer for at least 2 SIGs
 - Actively involved in organizing technical seminars and proposing or reviewing major technical designs
 - Can handle complex problems in the code implementation process
@@ -138,7 +137,7 @@ Maintainers are the planners and designers of the TiDB project, with the authori
 
 #### Responsibilities and Privileges
 
-- Develop and approve technical design and decisions for TiKV projects
+- Develop and approve technical design and decisions for TIDB projects
 - Set the technical directions and priorities for SIG projects
 - Participate in product releases and roadmap development of the project
 - Continuously contribute to the project by mentoring Reviewers and Committers
