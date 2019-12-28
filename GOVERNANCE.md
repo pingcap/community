@@ -4,13 +4,13 @@
 
 # TiDB Community Governance
 
-This document describes the governance rules of the TiDB project (organization). It is meant to be followed by all the repositories in the project and the TiDB community.
+This document describes the governance rules of the TiDB Community. It is meant to be followed by all the repositories in the [PingCAP organization](https://github.com/pingcap) and the TiDB community.
 
 ## Principles
 
 The TiDB community adheres to the following principles:
 
-- **Open**: TiKV is open source, as advertised on our [website](https://pingcap.com) or the [PingCAP Organization](https://github.com/pingcap) on github.
+- **Open**: TiDB is open source, as advertised on our [website](https://pingcap.com) or the [PingCAP Organization](https://github.com/pingcap) on github.
 - **Welcoming and respectful**: See Code of Conduct below.
 - **Transparent and accessible**: Work and collaboration are done in public.
 - **Merit**: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
@@ -23,7 +23,7 @@ The TiDB community follows the [TiDB Code of Conduct](/CODE_OF_CONDUCT.md). Here
 
 ## Community Roles and Responsibilities
 
-See <https://github.com/pingcap/community/tree/master/architecture> for details.
+See [TiDB Community Architecture](./architecture/README.md) for details.
 
 ## Community Structure
 
@@ -59,7 +59,7 @@ The Organizer Committee consists of organizers in charge of community event or a
 
 ### Developer Group
 
-As the cornerstone of community development, the TiDB Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiDB. For more details, refer to [Community Membership](TBD). 
+As the cornerstone of community development, the TiDB Developer Group consists of these roles: Maintainer, Committer, Reviewer, Active Contributor, and Contributor. Each role takes corresponding responsibilities in the community. Collectively they play an important role in the robust development of TiDB. For more details, refer to  [TiDB Community Architecture](./architecture/README.md). 
 
 The Developer Group operates TiDB projects in two function forms: Special Interest Group (SIG) and Working Group (WG). The diagram below illustrates the definition of the SIG and WG, the internal roles of the group, and the role promotion path.
 
