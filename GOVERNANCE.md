@@ -49,7 +49,7 @@ Membership of the PMC is by invitation from the existing PMC members. A nominati
 
 For the first formation of the committee, our maintainers nominated a group of people who had great impact or influence on the project, including some members from PingCAP who founded TiDB. New PMC members are selected based on the rules described above.
 
-For a list of the current PMC members, see the [PMC Members](TBD).
+For a list of the current PMC members, see the [PMC Members](./pmc-list.md).
 
 <!--- need the link to a Guiding Principals (Missions, Values; to be added separately) page as the principals for PMC -->
 
@@ -69,7 +69,7 @@ While the PMC is the core management group that oversees the project, Maintainer
 
 If a Maintainer is no longer interested or cannot perform the Maintainer duties listed above, they should volunteer to be moved to emeritus status.
 
-See [TiDB Maintainers](TBD) for the list of current Maintainers.
+See [TiDB Maintainers](./maintainer-list.md) for a list of TiDB Maintainers.
 
 #### SIGs
 
@@ -77,7 +77,7 @@ The TiDB project is organized primarily into Special Interest Groups, or SIGs. E
 
 Currently, any Contributor within a SIG is immediately an eligible member of that SIG. It is our intention to properly guide or mentor community talents, and help them advance to the higher-level Reviewer, Committer within an SIG.
 
-Each SIG must have a charter that specifies its scope (topics, code repositories, and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [sig governance](TBD).
+Each SIG must have a charter that specifies its scope (topics, code repositories and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved. See the SIG charter process for details on how charters are managed. SIGs should be relatively free to customize or change how they operate, within some broad guidelines and constraints imposed by this Governance and [sig governance](./governance/sig-governance.md).
 
 A primary reason that SIGs exist is as forums for collaboration. Much work in a SIG should stay local within that SIG. However, SIGs must communicate to ensure other SIGs and community members can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of the SIG's work to the community.
 
