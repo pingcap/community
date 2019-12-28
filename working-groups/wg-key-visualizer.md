@@ -17,7 +17,7 @@ RFC: [Key Visualizer: The visualized hotspot profiler](https://github.com/tikv/r
 
 ## Mentors
 
-* [samyubowei](https://github.com/samyubowei), [@58.com](www.58.com)
+* [samyubowei](https://github.com/samyubowei), [@58.com](https://www.58.com)
 * [nolouch](https://github.com/nolouch), [@PingCAP](https://github.com/pingcap)
 
 ## Members
