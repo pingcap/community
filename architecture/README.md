@@ -42,11 +42,11 @@ New contributors should be welcomed to the community by existing members, helped
 
 #### How to become a Contributor
 
-- Merged at least 1 PR for any SIG
+- merged at least 1 PR for any project in the [PingCAP Organization](https://github.com/pingcap)
 
 You are also encouraged to participate in the projects in the following ways:
 
-- Actively answer technical questions asked by community users in github issues.
+- Actively answer technical questions asked by community users in GitHub issues.
 - Help test the projects
 - Help review the pull requests (PRs) submitted by others
 - Help improve technical documents
