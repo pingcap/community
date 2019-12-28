@@ -2,7 +2,7 @@
 
 ## Goals
 
-THe Talent Plan Courses Working Group aims to develop a series of courses to help more peole enter the field of computer infrastructure system and the TiDB ecosystem.
+The Talent Plan Course Working Group aims to develop a series of courses to help people enter the field of computer infrastructure system and TiDB ecosystem.
 
 ## Work and Meeting
 
