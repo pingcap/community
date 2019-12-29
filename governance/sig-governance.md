@@ -1,6 +1,6 @@
 # SIG Governance
 
-This charter details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiKV project.
+This charter details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Cimmunity.
 
 ## Organizational Governance
 
