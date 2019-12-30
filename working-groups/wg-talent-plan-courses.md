@@ -25,4 +25,4 @@ to be determined
 
 ## Contact
 
-* Slack: channel **#wg-talent-plan-courses** in the [tidbcommunity](https://app.slack.com/client/TH91JCS4W/CR746G049) slack workspace.
+* Slack: channel **#wg-talent-plan-courses** in the [tidbcommunity](https://pingcap.com/tidbslack/) slack workspace.
