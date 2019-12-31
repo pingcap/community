@@ -25,7 +25,6 @@ Please describe the module that the SIG is responsible for, and a brief introduc
 
 Describes the current issues related to the modules covered by the SIG, but does not require the SIG's concerns. Take the Document SIG example:
 
-- There is no need to create a new feature document, the developer is responsible for that, and the Document SIG is responsible for reviewing and suggesting.
 - Branding, logo design, campaign, recruitment, etc.
 - Product Release notes, etc.
 
