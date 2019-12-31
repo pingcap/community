@@ -45,7 +45,6 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
     - Mentoring members of the SIG
     - Organizing discussions and drawing conclusions for decision making within the SIG
     - Ensuring health and sustained development of the SIG and grwoth of SIG members
-    - Making roadmap for the SIG
     - Organizing and participating in regular meetings
 
 ## Member Promotion Mechanism
