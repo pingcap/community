@@ -33,7 +33,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
   - **Number**: 2-3. Initially assigned by Maintainers
   - **Requirement**:
     - MUST be a committer from the specific SIG
-    - MUST have demonstrated deep understanding of the SIG project
+    - MUST have demonstrated deep understanding of the SIG
   - **Term**: 1 year
   - **Election:**
       - Nominated by the Tech Leads or self-nominate
