@@ -37,7 +37,7 @@ This SIG follows the role definition and organization management defined in [SIG
 - List of additional responsibilities
 - Additional situation need to be mentioned
 
-### Difference from [SIG Governance](sig-governance.md)
+### Deviation from [SIG Governance](sig-governance.md)
 
 - Difference list
 - Explain the reasons and purposes for difference reasons
