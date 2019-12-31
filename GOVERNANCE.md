@@ -99,7 +99,7 @@ TBD
 
 ## Contributions
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. The various ways of contributing are described in more detail in a separate document. For details, see [Contributing to TiDB](https://github.com/pingcap/community/blob/master/contributors/README.md).
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. The various ways of contributing are described in more detail in a separate document. For details, see [How to contribute](/contributors/README.md).
 
 ## Decision making and voting
 
@@ -109,7 +109,7 @@ Major changes such as feature proposals and organization or process changes shou
 
 ## Conflict resolution
 
-In general, we prefer that technical issues and other disputes upon which consensus can't be reached are amicably worked out between the persons involved. If a dispute cannot be decided independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting based on the [Principles](#principles) and [Code of Conduct](https://github.com/tikv/tikv/blob/master/CODE_OF_CONDUCT.md). The same PR can be used or a separate PR can be opened in the concerned repository for voting.
+In general, we prefer that technical issues and other disputes upon which consensus can't be reached are amicably worked out between the persons involved. If a dispute cannot be decided independently, depending on the nature, the PMC or Maintainers can be called in to resolve the issue by voting based on the [Principles](#principles) and [Code of Conduct](/CODE_OF_CONDUCT.md). The same PR can be used or a separate PR can be opened in the concerned repository for voting.
 
 ## Adding new projects
 
