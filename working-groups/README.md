@@ -36,3 +36,4 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-raw-kv-backup-restore](./wg-raw-kv-backup-restore.md)
 * [wg-dumpling](./wg-dumpling.md)
 * [wg-online-restore](./wg-online-restore.md)
+* [wg-talent-plan-courses](./wg-talent-plan-courses.md)
