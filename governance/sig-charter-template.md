@@ -15,7 +15,6 @@ Please describe the module that the SIG is responsible for, and a brief introduc
 
 ## Other Regulation Process
 
-- Such as code style, submission specification, PR Description template, etc.
 - Organize and guide SIG internal and external personnel, precipitation learning materials and video
 - Organize regular weekly meetings and keep a record
 - Organize task assignment and time planning
