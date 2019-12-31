@@ -71,7 +71,7 @@ Once the change is approved, the corresponding profile will be moved to the emer
 
 1. Copy the [SIG Charter Template](SIG-CHARTER-TEMPLATE.md).
 2. Modify the content in the template that needs to be defined for the specific SIG
-3. Initiate a PR in [special-interest-groups](https://github.com/pingcap/community/tree/master/special-interest-groups) with the SIG Charter, and propose the SIG Charter. This must be approved by the supermajority of the PMC members.
+3. Initiate a PR in [special-interest-groups](/special-interest-groups) with the SIG Charter, and propose the SIG Charter. This must be approved by the supermajority of the PMC members.
 4. Create a public and private Slack Channel in tikv-wg.slack.com to discuss the SIG operation related matters.
 5. Create a Zoom room for regular meetings, as well as other online discussions.
 6. Announce the establishment of a new SIG in the TiKV community.
