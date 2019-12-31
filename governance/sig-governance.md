@@ -73,7 +73,8 @@ Once the change is approved, the corresponding profile will be moved to the emer
 3. Initiate a PR in [special-interest-groups](/special-interest-groups) with the SIG Charter, and propose the SIG Charter. This must be approved by the supermajority of the PMC members.
 4. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-`
 5. Create a public [Zoom](https://zoom.com/) url for regular meetings, as well as other online discussions.
-6. Announce the establishment of a new SIG in the TiKV community.
+6. Announce the establishment of a new SIG in the TiDB community.
+7. Create a public Google Doc to summary the regular SIG work report and record the regular meeting notes.
 
 ### Dissolution
 
