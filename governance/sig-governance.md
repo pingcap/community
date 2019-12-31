@@ -38,7 +38,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
   - **Election:**
       - Nominated by the Tech Leads or self-nominate
       - Gained supermajority votes of Maintainers
-      - Done through PR to update the `membership.md` file in the SIG
+      - Done through PR to update the `member-list.md` file in the SIG
 - **Responsibilities**
     - Creating new projects under the SIG
     - Triaging issues/tasks in the SIG
