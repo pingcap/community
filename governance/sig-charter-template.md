@@ -11,7 +11,7 @@ Please describe the module that the SIG is responsible for, and a brief introduc
 - Test specifications and integration test specifications to be followed
 - Required responsible code range and location
 - Product Design and Evolution Proposal
-- Review related project code
+- Review code owned by the SIG.
 
 ## Other Regulation Process
 
