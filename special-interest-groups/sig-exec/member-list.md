@@ -1,9 +1,9 @@
-# SIG Expr Member List
+# SIG Execution Member List
 
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2019-10-20
+* Last update time: 2020-01-03
 
 ## Active Contributors
 
