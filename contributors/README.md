@@ -36,6 +36,7 @@ welcome!
     * [Open a Pull Request](#open-a-pull-request)
     * [Code Review](#code-review)
     * [Testing](#testing)
+    * [Benchmark](#benchmark)
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
@@ -166,6 +167,26 @@ TBD
 ### Testing
 
 TBD
+
+### Benchmark
+
+#### TiDB
+
+It's appreciate to write benchmark code and add benchmark data if the change affects performance. The [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool is conventionally used to format benchmark data for change descriptions.
+
+We could do is run the benchmarks over multiple runs ie
+
+```bash
+go test -run=^$ -bench=BenchmarkXXX -count=10
+```
+
+And we could make more clear and reportable differences by copying and pasting that output to two different files: old.txt and new.txt and then running: 
+
+```
+benchstat old.txt new.txt
+```
+
+and paste the result into your pull request description.
 
 ### Security
 
