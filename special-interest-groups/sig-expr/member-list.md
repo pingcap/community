@@ -11,11 +11,17 @@ Members and their contributions:
 
 | user                                              | num merged PRs | earliest PR merged time | latest PR merged time |
 |:-------------------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
-| [b41sh](https://github.com/b41sh)                 |             27 |     2019-03-21          |   2019-10-15          |
-| [tangwz](https://github.com/tangwz)               |             23 |     2019-08-17          |   2019-10-15          |
-| [jacklightChen](https://github.com/jacklightChen) |             15 |     2019-09-04          |   2019-10-17          |
-| [hey-kong](https://github.com/hey-kong)           |             13 |     2019-09-16          |   2019-09-22          |
-| [lauhg](https://github.com/lauhg)                 |              8 |     2019-08-09          |   2019-09-25          |
+| [shihongzhi](https://github.com/shihongzhi) |             27 |     2019-09-22          |   2019-12-18          |
+| [js00070](https://github.com/js00070) |             25 |     2019-10-14          |   2019-12-05          |
+| [ekalinin](https://github.com/ekalinin)           |             21 |     2019-09-17          |   2019-12-06          |
+| [icditwang](https://github.com/icditwang)                 |              14 |     2019-10-30          |   2019-12-20          |
+| [jacklightChen](https://github.com/jacklightChen)                 |              13 |     2019-09-06          |   2019-09-22          |
+| [hey-kong](https://github.com/hey-kong)                 |              13 |     2019-09-04          |   2019-10-31          |
+| [pingyu](https://github.com/pingyu)                 |              12 |     2019-11-26          |   2019-12-16          |
+| [TennyZhuang](https://github.com/TennyZhuang)                 |              10 |     2018-08-03          |   2019-12-31          |
+| [AndrewDi](https://github.com/AndrewDi)                 |              10 |     2018-09-26          |   2019-10-22          |
+| [AerysNan](https://github.com/AerysNan)                 |              9 |     2019-11-19          |   2019-11-27          |
+| [k-ye](https://github.com/k-ye)                 |              8 |     2019-09-24          |   2019-10-22          |
 
 ## Reviewers
 
@@ -23,7 +29,10 @@ Members and their contributions:
 
 | user                                        | num merged PRs | earliest PR merged time | latest PR merged time |
 |:-------------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
-| [tsthght](https://github.com/tsthght)       |             33 |     2019-09-18          |   2019-10-18          |
+| [tsthght](https://github.com/tsthght)       |             46 |     2019-09-18          |   2019-11-06          |
+| [b41sh](https://github.com/b41sh)       |             31 |     2019-01-02          |   2019-12-04          |
+| [mmyj](https://github.com/mmyh)       |             30 |     2019-10-14          |   2019-12-07          |
+| [tangwz](https://github.com/tangwz)       |             30 |     2019-08-17          |   2019-12-06          |
 
 ## Technical Leads
 
