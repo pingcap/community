@@ -14,7 +14,7 @@ The picture above is the design of the course system. This series of courses inc
 
 ## Rationale
 
-There are many open study resources online, our courses can borrow ideas from world-class universities and MOOCs as well. The courses will be practice-concentrate, with well-designed programming assignments as the core, Reading materials are also included.
+There are many open study resources online.  Our courses can borrow ideas from world-class universities and MOOCs as well. The courses will be practice-oriented, with well-designed programming assignments as the core. Reading materials are also included.
 
 ## Compatibility
 
