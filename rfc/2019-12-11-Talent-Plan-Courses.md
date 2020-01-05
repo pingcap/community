@@ -10,7 +10,7 @@ There are plenty of people interested in TiDB but lacking background knowledge, 
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-The picture above is the design of the course system. This series of courses include but not limited to infrastructure systems, the programming language to be used, open-source collaboration. The development of a distributed database system course is in progress, and more courses will be created in the future.
+The picture above is the design of the course system. This series of courses include but not limited to infrastructure systems, the programming language to be used, and open-source collaboration. The development of a distributed database system course is in progress, and more courses will be provided in the future.
 
 ## Rationale
 
