@@ -22,7 +22,7 @@ N/A
 
 ## Implementation
 
-To implement it, we need the following main steps:
+The implementation of the course requires the following 3 main steps:  
 
 - Discuss the subject to be included in the course system.
 - Divide the subject topics, and assign them to course developers.
