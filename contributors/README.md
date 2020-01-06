@@ -186,7 +186,7 @@ And we could make more clear and reportable differences by copying and pasting t
 benchstat old.txt new.txt
 ```
 
-and paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/11937#issue-312318946).
+and paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
 
 ### Security
 
