@@ -4,13 +4,17 @@
 - Last updated: 2020-01-05
 - Discussion at: [Incubating Program: Talent Plan Courses](https://github.com/pingcap/community/issues/130)
 
-There are plenty of people interested in TiDB but lacking background knowledge, so we propose to create a series of courses to help those people enter the field of infrastructure systems and TiDB ecosystem. After learning the series of courses, course participants should be able to develop good knowledge and skills in system programming.
+## Background
+
+Talent Plan is a study project developed by PingCAP, which aims to help people get in touch with TiDB and TiKV. After having run the project some of the time, and according to the feedback from the community, we think an upgrade of the project is necessary. At the moment, only two study roadmaps were provided, and the content is not well-designed, so we hope that more topics be covered in the new version of the Talent Plan, and course content will be more concrete.
 
 ## Course design
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-The picture above is the design of the course system. This series of courses include but not limited to infrastructure systems, the programming language to be used, and open-source collaboration. The development of a distributed database system course is in progress, and more courses will be provided in the future.
+We propose Talent Plan Courses, and the picture above is the design of it. Each topic contains multiple courses and has a study goal. In detail, for open source collaboration, we hope participants acquired basic knowledge about open source community operation and knows the basic usage of related tools. For Infrastructure systems, multiple secondary topics will be contained, programming assignments and related reading materials will be provided. Furthermore, Programming languages will be provided as crash study materials for people without related experience, after learning the series of courses, participants should have a good knowledge and skills in infrastructure systems or other related fields. Deep dive into the TiDB ecosystem also is an indispensable part to help people get to know more about TiDB related projects.
+
+As the development of courses, more topics and the detailed course contents would be appended in the future.
 
 ## Rationale
 
