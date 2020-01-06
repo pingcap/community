@@ -6,13 +6,13 @@
 
 ## Background
 
-Talent Plan is a study project developed by PingCAP, which aims to help people get in touch with TiDB and TiKV. After having run the project some of the time, and according to the feedback from the community, we think an upgrade of the project is necessary. At the moment, only two study roadmaps were provided, and the content is not well-designed, so we hope that more topics be covered in the new version of the Talent Plan, and course content will be more concrete.
+Talent Plan is a study project developed by PingCAP, which aims to help people get in touch with TiDB and TiKV. At the moment, only two study roadmaps were provided, and the content is not well-designed. So we propose Talent Plan Courses, a new version of the study project that contains more topics and elaborate contents.
 
 ## Course design
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-We propose Talent Plan Courses, and the picture above is the design of it. Each topic contains multiple courses and has a study goal. In detail, for open source collaboration, we hope participants acquired basic knowledge about open source community operation and knows the basic usage of related tools. For Infrastructure systems, multiple secondary topics will be contained, programming assignments and related reading materials will be provided. Furthermore, Programming languages will be provided as crash study materials for people without related experience, after learning the series of courses, participants should have a good knowledge and skills in infrastructure systems or other related fields. Deep dive into the TiDB ecosystem also is an indispensable part to help people get to know more about TiDB related projects.
+The picture above is the design of Talent Plan Courses which is made up of multiple topics. Each topic contains multiple courses and has a study goal. In detail, for open source collaboration, we hope participants acquired basic knowledge about open source community operation and knows the basic usage of related tools. For Infrastructure systems, multiple secondary topics will be contained, programming assignments and related reading materials will be provided. Furthermore, Programming languages will be provided as crash study materials for people without related experience, after learning the series of courses, participants should have a good knowledge and skills in infrastructure systems or other related fields. Deep dive into the TiDB ecosystem also is an indispensable part to help people get to know more about TiDB related projects.
 
 As the development of courses, more topics and the detailed course contents would be appended in the future.
 
