@@ -8,7 +8,7 @@
 
 Talent Plan is a study project developed by PingCAP, which aims to help people get in touch with TiDB and TiKV. At the moment, only two study roadmaps were provided, and the content is not well-designed. So we propose Talent Plan Courses, a new version of the study project that contains more topics and elaborate contents.
 
-## Course design
+## Course Framework
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
