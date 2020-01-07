@@ -1,7 +1,7 @@
 # Proposal: Talent Plan Courses
 
 - Author(s): [Ling Jin](https://github.com/JinLingChristoher)
-- Last updated: 2020-01-05
+- Last updated: 2020-01-07
 - Discussion at: [Incubating Program: Talent Plan Courses](https://github.com/pingcap/community/issues/130)
 
 ## Background
@@ -18,7 +18,7 @@ As the development of courses, more topics and the detailed course contents woul
 
 ## Rationale
 
-There are many open study resources online. Our courses can borrow ideas from world-class universities and MOOCs as well. The courses will be practice-oriented, with well-designed programming assignments as the core. Reading materials are also included.
+There are many open study resources online, we can gather those materials together to make the learning path easier. Furthermore, the courses will be practice-oriented, elaborately designed programming assignments as the core, which can help participants to check their learning outcomes.
 
 ## Compatibility
 
@@ -32,6 +32,5 @@ The implementation of the course requires the following 3 main steps:
 - Make agreements of the syllabus for each course
 - Fill in learning materials and assignments.
 - Optimize assignment submission and evaluation.
-
 
 ## Open issues (if applicable)
