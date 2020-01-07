@@ -12,13 +12,19 @@ Talent Plan is a study project developed by PingCAP, which aims to help people g
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-The picture above is the design of Talent Plan Courses which is made up of multiple topics. Each topic contains multiple courses and has a study goal. In detail, for open source collaboration, we hope participants acquired basic knowledge about open source community operation and knows the basic usage of related tools. For Infrastructure systems, multiple secondary topics will be contained, programming assignments and related reading materials will be provided. Furthermore, Programming languages will be provided as crash study materials for people without related experience, after learning the series of courses, participants should have a good knowledge and skills in infrastructure systems or other related fields. Deep dive into the TiDB ecosystem also is an indispensable part to help people get to know more about TiDB related projects.
+The picture above shows the latest framework of Talent Plan Courses. In addition to TiDB related learning materials, lots of other sections also will be provided. Courses can be combined according to students' interests and goals. For example:
 
-As the development of courses, more topics and the detailed course contents would be appended in the future.
+- Multiple programming language courses are on the list, and this is a great help for people without related experience to learn quickly.
+- A course about the distributed Key-Value database internal is provided for storage enthusiasts.
+- Database enthusiasts can implement a small distributed database by learning Go language, distributed relational database course, and Deep Dive into TiDB.
+- Open source enthusiasts can better understand open source software, open source community operation by learning courses related to open source collaboration and practicing in TiDB open source community.
+
+In addition to the learning path planned by the Talent Plan, you can create your own learning path according to your own needs. As the development of courses, more topics and the detailed course contents would be appended in the future.
 
 ## Rationale
 
-There are many open study resources online, we can gather those materials together to make the learning path easier. Furthermore, the courses will be practice-oriented, elaborately designed programming assignments as the core, which can help participants to check their learning outcomes.
+There are many open study resources online, we can gather those materials together to make the learning path easier. Furthermore
+the courses will be practice-oriented, elaborately designed programming assignments as the core, which can help participants to check their learning outcomes.
 
 ## Compatibility
 
