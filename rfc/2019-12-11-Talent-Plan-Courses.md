@@ -15,8 +15,8 @@ Talent Plan is a study project developed by PingCAP, which aims to help people g
 The picture above shows the latest framework of Talent Plan Courses. In addition to TiDB related learning materials, lots of other sections also will be provided. Courses can be combined according to students' interests and goals. For example:
 
 - Multiple programming language courses are on the list, and this is a great help for people without related experience to learn quickly.
-- A course about the distributed Key-Value database internal is provided for storage enthusiasts.
-- Database enthusiasts can implement a small distributed database by learning Go language, distributed relational database course, and Deep Dive into TiDB.
+- A course about the distributed Key-Value database internal is provided for storage enthusiasts, and Deep dive into TiKV is necessary for them to get known more about TiKV.
+- Database enthusiasts can implement a small distributed database by taking part in distributed relational database internal course, and Deep dive into TiDB is also provided for them to get in touch with TiDB.
 - Open source enthusiasts can better understand open source software, open source community operation by learning courses related to open source collaboration and practicing in TiDB open source community.
 
 In addition to the learning path planned by the Talent Plan, you can create your own learning path according to your own needs. As the development of courses, more topics and the detailed course contents would be appended in the future.
