@@ -30,6 +30,8 @@ The implementation of the course requires the following 3 main steps:
 
 - Discuss the subject to be included in the course system.
 - Divide the subject topics, and assign them to course developers.
-- Create the programming assignment framework and prepare the corresponding reading materials.
+- Fill in learning materials and assignments.
+- Optimize assignment submission and evaluation.
+
 
 ## Open issues (if applicable)
