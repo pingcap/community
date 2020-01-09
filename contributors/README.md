@@ -172,7 +172,7 @@ TBD
 
 #### TiDB
 
-It's appreciate to write benchmark code and add benchmark data if the change affects performance. The [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool is conventionally used to format benchmark data for change descriptions.
+If the change affects TIDB's performance, the benchmark data is normally required in the description. You can use the [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool to format benchmark data for change descriptions.
 
 We could do is run the benchmarks over multiple runs ie
 
