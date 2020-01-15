@@ -47,7 +47,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
   - [Learn Rust](https://www.rust-lang.org/learn) - Official Rust tutorials that include a book, an interactive practice assignment, and some code examples. We believe anyone interested in the Rust programming language can benefit from it.
   - [Practical Networked Application in Rust](https://github.com/pingcap/talent-plan/tree/master/rust) - A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way, various real-world and practical Rust development subject matter are explored and discussed. This course is developed by [Brian Anderson](https://github.com/brson), who was one of the core writers of the Rust language.
 
-  Other programming languages like C++, Java, Python also in the works, as the development of this course system, more concrete contents will be appended.
+  Materials for other related programming languages like C++, Java, Python are in development.
 
 - Infrastructure System
 
