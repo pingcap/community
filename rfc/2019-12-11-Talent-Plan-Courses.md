@@ -28,7 +28,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Github is a popular website based on Git where people around the world collaborate in open source projects. After taking this course, participants should know the usages of Git and Github.
 
   - Open Source Practice in TiDB
-    TiDB ecosystem is made up of multiple projects and all open-sourced on Github. For people who want to contribute to TiDB, open-source practice in TiDB would be helpful for them.
+    TiDB ecosystem is made up of multiple open-source projects on Github. For people who want to contribute to TiDB, open-source practice in TiDB would be helpful for them.
 
 - Programming Language
 
