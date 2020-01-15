@@ -32,7 +32,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
 - Programming Language
 
-  For anyone who wants to participate in an open-source project, knows the project's development programming language is the most basic requirement. We will deliver some courses about programming language to help participant learns it quickly.
+ To contribute to the code base of an open-source project,  knowing the programming language is a basic requirement. We provide the related programming language courses to help participant learns quickly:
 
   - Golang
     The Go programming language is heavily used in industry, also the TiDB ecosystem. We advise everyone to learn a bit about it:
