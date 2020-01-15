@@ -15,7 +15,7 @@ Talent Plan is a study project developed by PingCAP for training and/or evaluati
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-The picture above shows the latest framework of Talent Plan Courses. In addition to TiDB related learning materials, lots of other sections also will be provided. Following are the details:
+The picture above shows the latest framework of Talent Plan Courses. In addition to TiDB related learning materials, lots of other sections are provided as well. Following are the details:
 
 - Open Source Cooperation
 
