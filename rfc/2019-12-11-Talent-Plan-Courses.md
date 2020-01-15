@@ -51,7 +51,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
 - Infrastructure System
 
-  - Distributed Relational Database Internals is a course made up of many reading materials and programming assignments. A broad range of topics such as relational algebra, parser, runtime, optimizer, transaction, DDL and more are covered in readings. TinySQL is a simplified version of TiDB, used as the programming assignment framework, which let participants can verify their learning outcomes.
+  - Distributed Relational Database Internals is a course made up of many reading materials and programming assignments. A broad range of topics such as relational algebra, parser, runtime, optimizer, transaction, DDL and more are covered in readings. As the programming assignment framework, TinySQL, a simplified version of TiDB, is used for course participants to verify their learning outcomes.
   - Distributed Key-Value Database Internals is a course about distributed key-value database systems. The reading materials cover storage engine, data partitioning, replication, consistency, scalability, balance, distributed transactions and more. For programming assignment, TinyKV, a simplified version of TiKV, will be provided to course participants to verify their learning outcomes.
 
    Topics such as cloud-native database systems and Machine Learning are also planned.
