@@ -42,7 +42,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
   - [Talent Plan MapReduce](https://github.com/pingcap/talent-plan/tree/master/tidb/mapreduce)  - a great tool for learners to evaluate their learning outcomes
 
   - Rust
-    The Rust programming language is becoming more and more popular since it has many advanced features. For people interested in TiKV which is based on rust, we recommend the following materials:
+    The Rust programming language is becoming more and more popular since it has many advanced features. For learners who are interested in TiKV (based on Rust), we recommend the following materials:
 
   - [Learn Rust](https://www.rust-lang.org/learn) is official study materials, it contains a book, an interactive practice assignment, and some code examples. We believe anyone interested in the Rust programming language can benefit from it.
   - [Practical Networked Application in Rust](https://github.com/pingcap/talent-plan/tree/master/rust) is a programming assignment framework develop by [Brian Anderson](https://github.com/brson), who was a core team member of the rust community. We strongly suggest taking this assignment to consolidate rust programming skills.
