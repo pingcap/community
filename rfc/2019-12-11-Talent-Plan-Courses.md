@@ -35,7 +35,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
  To contribute to the code base of an open-source project,  knowing the programming language is a basic requirement. We provide the related programming language courses to help participant learns quickly:
 
   - Golang
-    The Go programming language is heavily used in industry, also the TiDB ecosystem. We advise everyone to learn a bit about it:
+    The Go programming language is heavily used in the industry, and also in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
 
   - [A Tour Of Golang](https://tour.golang.org/) is recommanded since it's a great official tutorial for the newbie to learn the basic language features.
   - [The Go Programming Language](http://www.gopl.io/) is recommended as a reference book for people want to learn the language in detail.
