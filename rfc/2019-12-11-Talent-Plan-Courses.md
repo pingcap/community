@@ -60,7 +60,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
   For anyone who wants to get to know more about TiDB related projects, they would benefit a lot by reading Deep Dive series articles, including into TiDB and Deep Dive into TiKV. It's worth mentioning that Deep Dive into Cloud TiDB is also in development. We highly recommend reading these materials to help you get familiar with the inner world of the TiDB ecosystem.
 
-For participants, they can create their learning path according to individuals conditions. As the development of courses, more topics, and the detailed course contents would be proposed in the future.
+Course participants can choose their own learning path based on personal conditions and learning goals. There will be more topics and courses to be proposed in the future.
 
 ## Rationale
 
