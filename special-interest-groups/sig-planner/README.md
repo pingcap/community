@@ -19,12 +19,12 @@ See [SIG Planner Member List](./member-list.md)
 ## Meetings
 
 * Regular Working Group Meeting: 5:00 AM, Thursday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
-* Meeting Zoom: [ttps://pingcap.zoom.com.cn/j/492702291](ttps://pingcap.zoom.com.cn/j/492702291)
-* Meeting Notes: to be updated
+* Meeting Zoom: [https://pingcap.zoom.com.cn/j/492702291](ttps://pingcap.zoom.com.cn/j/492702291)
+* Meeting Notes: https://docs.google.com/document/d/1sKGu5me20uj-eMAT4gQivDsrqNw1w84hNzH4Y5EGnFo/edit?usp=sharing
 
 ## Contact
 
-* Slack: channel #sig-planner in the [tidbcommunity](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack workspace.
+* Slack: channel **#sig-planner** in the [tidbcommunity](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack workspace.
 
 ## Code Locations
 

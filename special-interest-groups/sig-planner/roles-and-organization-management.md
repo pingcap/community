@@ -2,38 +2,38 @@
 
 ## Join and Promotion
 
+We mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group).
+It lists common requirements, responsibilities and privileges of each role in developer group.
+
 ### Join
 
-The minimal requirement for contributors to join the Planner SIG is to have
-the **Active Contributor** community role in the planner/statistics package.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your pr about planner is merged.
+To have a discusstion with us, just join our slack channel #sig-planner in https://pingcap.com/tidbslack.
 
 ### Promotion
 
-#### From `Contributor` to `Active Contributor`
+#### Be Promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
-Requirements:
+SIG Specific Requirements:
 
 * Joined the sig-planner slack channel.
-* Have at least 8 PRs merged in the planner/statistics package within one year.
-* Nominated by at least 2 commiters or role above.
+* Have at least 5 PRs merged in the planner/statistics package within one year.
 
-#### From `Active Contributor` to `Reviewer`
+#### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
-Requirements:
+SIG Specific Requirements:
+
+* Have at least 10 PRs merged in the planner/statistics package within one year.
+* Fix at least 2 issues whose difficulty is medium or above.
+
+#### Be promoted to [`Committer`](../../architecture/README.md#committer)
+
+SIG Specific Requirements:
 
 * Have at least 20 PRs merged in the planner/statistics package within one year.
-* Fix at least 5 issues whose difficulty is medium or above.
-* Knowledgeable about the codebase.
-* Nominated by at least 2 maintainers or above.
-
-#### From `Reviewer` to `Committer`
-
-Requirements:
-
-* Have at least 30 PRs merged in the planner/statistics package within one year.
 * Fix at least 10 issues whose difficulty is medium or above.
+* Fix at least 2 issues whose difficulty is hard.
 * Have reviewed at least 20 PRs in the planner/statistics package within one year.
-* Nominated by at least 2 maintainers or above.
 
 ## Quit and Demotion
 
