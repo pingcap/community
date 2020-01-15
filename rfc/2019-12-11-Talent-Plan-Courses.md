@@ -19,7 +19,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
 - Open Source Cooperation
 
-  Open source spirit is one of the cores of the TiDB Community. We hope more people embrace open source,so courses about it is a significantly important part of this course system. At current, multiple courses are on the list:
+  Open source spirit is one of the cores of the TiDB Community.  At current, multiple courses regarding this subject are on the list:
 
   - Introduction to OSS
     To let people know about open-source spirit, basic knowledge such as the mean of open-source spirit and its history will be covered.
