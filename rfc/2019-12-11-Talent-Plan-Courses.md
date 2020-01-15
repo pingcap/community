@@ -25,7 +25,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
     A fundamental course about open source and its history
 
   - How to use Git&Github
-    Git is a version control software that is broadly used to accelerate open source development, and Github is a popular website for people around the world to participate in open source project development which based on Git. After taking this course, participants should know the usage of Git and Github.
+    Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Github is a popular website based on Git where people around the world collaborate in open source projects. After taking this course, participants should know the usages of Git and Github.
 
   - Open Source Practice in TiDB
     TiDB ecosystem is made up of multiple projects and all open-sourced on Github. For people who want to contribute to TiDB, open-source practice in TiDB would be helpful for them.
