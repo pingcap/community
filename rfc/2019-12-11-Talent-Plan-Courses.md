@@ -38,7 +38,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
     The Go programming language is heavily used in the industry, and also in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
 
   - [A Tour Of Golang](https://tour.golang.org/)  - a great official tutorial for the newbie to learn the basic language features
-  - [The Go Programming Language](http://www.gopl.io/) is recommended as a reference book for people want to learn the language in detail.
+  - [The Go Programming Language](http://www.gopl.io/)  - a detailed reference book for Go
   - [Talent Plan MapReduce](https://github.com/pingcap/talent-plan/tree/master/tidb/mapreduce) will be a great tool for participants to judge their learning outcomes.
 
   - Rust
