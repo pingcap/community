@@ -22,7 +22,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
   Open source spirit is one of the cores of the TiDB Community.  At current, multiple courses regarding this subject are on the list:
 
   - Introduction to OSS
-    To let people know about open-source spirit, basic knowledge such as the mean of open-source spirit and its history will be covered.
+    A fundamental course about open source and its history
 
   - How to use Git&Github
     Git is a version control software that is broadly used to accelerate open source development, and Github is a popular website for people around the world to participate in open source project development which based on Git. After taking this course, participants should know the usage of Git and Github.
