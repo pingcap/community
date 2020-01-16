@@ -52,7 +52,7 @@ You are also encouraged to participate in the projects in the following ways:
 - Help improve technical documents
 - Submit valuable issues
 - Report or fix known and unknown bugs
-- Write articles about source code analysis and usage cases for the - projects.
+- Write articles about source code analysis and usage cases for a project.
 
 #### Contributor List
 
