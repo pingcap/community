@@ -16,13 +16,13 @@ Open source projects live and breathe the open-source community with different t
     * [Active Contributor](#active-contributor)
     * [Reviewer](#reviewer)
         * [How to become a Reviewer](#how-to-become-a-reviewer)
-        * [Responsibilities and Privileges](#responsibilities-and-privileges)
+        * [Privileges and responsibilities](#responsibilities-and-privileges)
     * [Committer](#committer)
         * [How to become a Committer](#how-to-become-a-committer)
-        * [Responsibilities and Privileges](#responsibilities-and-privileges-1)
+        * [Privileges and responsibilities](#responsibilities-and-privileges-1)
     * [Maintainer](#maintainer)
         * [How to become a Maintainer](#how-to-become-a-maintainer)
-        * [Responsibilities and Privileges](#responsibilities-and-privileges-2)
+        * [Privileges and responsibilities](#responsibilities-and-privileges-2)
 * [TiDB User Group](#tidb-user-group)
 * [Organizer Committee](#organizer-committee)
 
@@ -30,7 +30,7 @@ Open source projects live and breathe the open-source community with different t
 
 ## PMC
 
-PMC (Project Management Committee) functions as the core management team that oversees the TiDB community. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs. See [Governance](../GOVERNANCE.md) for more details about PMC and [PMC List](./pmc-list.md) for a list of incumbent PMC members.
+PMC (Project Management Committee) functions as the core management team that oversees the TiDB community. See [Governance](../GOVERNANCE.md) for more details about PMC and [PMC List](./pmc-list.md) for a list of incumbent PMC members.
 
 ## TiDB Developer Group
 
@@ -38,7 +38,7 @@ As the cornerstone of community development, the TiDB Developer Group consists o
 
 ### Contributor
 
-New contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
+Anyone who has one PR merged for any project in the [PingCAP Organization](https://github.com/pingcap) is a Contributor. New Contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels. A contributor becomes a member of the SIG of the contribution automatically.
 
 #### How to become a Contributor
 
@@ -54,11 +54,6 @@ You are also encouraged to participate in the projects in the following ways:
 - Report or fix known and unknown bugs
 - Write articles about source code analysis and usage cases for the - projects.
 
-#### Responsibilities and privileges
-
-- Become a member in the SIG
-- Get the profile listed on the membership page of the TiDB community
-
 #### Contributor List
 
 See [TiDB Contributors](./contributor-list.md)
@@ -72,7 +67,7 @@ Active Contributors are continuously active contributors in the community. They 
 - Contributed 8 PRs and above to a specific SIG within one year
 - Sponsored by two incumbent Reviewers in a SIG
 
-#### Responsibilities and privileges
+#### Privileges and responsibilities
 
 - Get the profile listed on the membership page of the corresponding SIG
 
@@ -86,12 +81,12 @@ See `member-list.md` under the specific SIG for a list of Reviewers of the SIG.
 #### How to become a Reviewer
 
 - Familiar with the codebase
-- Demonstrated a recoganized level of community engagement in the SIG development, via contributions that have met one or more of the minimal criteria as defined below：
-  - Merged 20+ PRs (may vary among SIGs)
-  - Handled 1+ more issue of Medium difficulty or higher
+- Demonstrated a recognized level of community engagement in the SIG development, via contributions that have met one or more of the minimal criteria as defined below：
+  - Merged 20 PRs or more (may vary among SIGs)
+  - Fixed 1 or more issues of Medium difficulty
 - Sponsored by at 2 Committers of the SIG
 
-#### Responsibilities and Privileges
+#### Privileges and responsibilities
 
 - Ensure the correctness of the code submitted to the SIG
 - Respond promptly to PRs
@@ -101,7 +96,7 @@ See `member-list.md` under the specific SIG for a list of Reviewers of the SIG.
 
 ### Committer
 
-Committers come from Reviewers, and are recoganized by Maintainers and SIG Tech Leads for their outstanding contributions to the specific SIG.
+Committers come from Reviewers, and are recognized by Maintainers and SIG Tech Leads for their outstanding contributions to the specific SIG.
 
 Committer is scoped to the specific SIG where the promotion applies. See `member-list.md` under the specific SIG for a list of Committers of the SIG.
 
@@ -111,11 +106,11 @@ A Committer must have accomplished one or more of the following items:
 
 - Demonstrated a good sense of responsibility in PR reviews within the SIG. The review contributions must meet the amount or the difficulty criteria as defined in the charter of the specific SIG.
 - Demonstrated deep understanding of the TiDB components specific to the SIG by contributing significantly as:
-    - Finished 2+ tasks of Medium difficulty or higher
-    - Fixed 1+ task of Hard difficulty
+    - Finished 2 or more tasks of Medium difficulty
+    - Fixed 1 or more tasks of Hard difficulty
 - Nominated by the Tech Leads of the SIG and gained supermajority (2/3) votes from Maintainers
 
-#### Responsibilities and privileges
+#### Privileges and responsibilities
 
 - Control overall code quality of projects under the SIG
 - Guide Contributors and Reviewers to contribute to the SIG continuously
@@ -135,7 +130,7 @@ Maintainers are the planners and designers of the TiDB project, with the authori
 - Can handle complex problems in the code implementation process
 - Nominated by and obtained supermajority votes from the PMC
 
-#### Responsibilities and Privileges
+#### Privileges and responsibilities
 
 - Develop and approve technical design and decisions for TIDB projects
 - Set the technical directions and priorities for SIG projects
@@ -149,7 +144,7 @@ The TiDB User Group (TUG) is an independent user community initiated by TiDB use
 
 ### Leader
 
-The Leader of the  TiDB User Group (TUG) who makes overall plans, tracks progress with the aim to strengthen the joint force and impact of the TUG.
+The Leader of the  TiDB User Group (TUG) who makes overall plans, tracks progress to strengthen the joint force and impact of the TUG.
 
 ### Co-Leader
 
@@ -161,4 +156,4 @@ Community activists who recognize TiDB and are passionate about sharing and prom
 
 ## Organization Committee
 
-The  Organization Committee consists of organizers in charge of event or activity operations; They are the  executors of PMC’s strategies and decisions. Specifically, the members are the leaders of user groups or community event organizers across regions.
+The  Organization Committee consists of organizers in charge of event or activity operations; They are the executors of PMC’s strategies and decisions. Specifically, the members are the leaders of user groups or community event organizers across regions.
