@@ -39,7 +39,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
   - Golang
 
-    The Go programming language is heavily used in the industry, and also in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
+    The Go programming language is heavily used in the industry, as well as in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
 
     - [A Tour Of Golang](https://tour.golang.org/) - a great official tutorial for the newbie to learn the basic language features.
 
