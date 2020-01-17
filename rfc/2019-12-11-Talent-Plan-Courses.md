@@ -6,7 +6,7 @@
 
 ## Background
 
-Talent Plan is a study project developed by PingCAP for training and/or evaluating students, new employees, and new contributors to [TiDB] and [TiKV]. At the moment, only two study roadmaps are provided. This proposal provides Talent Plan Courses, a new version of the study project with more enriched topics and course designs.
+Talent Plan is a learning Plan initiated by PingCAP. The purpose is to help those who like open source, infrastructure and database to gain more knowledge and improve their abilities. At the moment, only two study roadmaps are provided. This proposal provides Talent Plan Courses, a new version of the study project with more enriched topics and course designs.
 
 [tidb]: https://github.com/pingcap/tidb
 [tikv]: https://github.com/tikv/tikv
