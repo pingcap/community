@@ -35,7 +35,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
 - Programming Language
 
-  To contribute to the code base of an open-source project, knowing the programming language is a basic requirement. We provide the related programming language courses to help participant learns quickly:
+  To contribute to the code base of an open-source project, knowing the programming language is a basic requirement. We provide the related programming language courses to help participants learn quickly:
 
   - Golang
 
