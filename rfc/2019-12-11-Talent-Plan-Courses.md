@@ -6,7 +6,7 @@
 
 ## Background
 
-Talent Plan is a learning Plan initiated by PingCAP. The purpose is to help those who like open source, infrastructure and database to gain more knowledge and improve their abilities. At the moment, only two study roadmaps are provided. This proposal provides Talent Plan Courses, a new version of the study project with more enriched topics and course designs.
+Talent Plan is a learning Plan initiated by PingCAP. The purpose is to provide a series of courses for those who would like to learn about open source, infrastructure, and database. At the moment, only two study modules are provided. This document proposes Talent Plan Courses, a new version of the study project with more enriched topics and course designs.
 
 [tidb]: https://github.com/pingcap/tidb
 [tikv]: https://github.com/tikv/tikv
@@ -15,7 +15,7 @@ Talent Plan is a learning Plan initiated by PingCAP. The purpose is to help thos
 
 ![course map](../media/rfc-talent-plan-courses.png)
 
-The picture above shows the latest framework of Talent Plan Courses. In addition to TiDB related learning materials, lots of other sections are provided as well. Following are the details:
+The picture above shows the framework of Talent Plan Courses. In addition to TiDB related materials, lots of other sections are provided, as described below:
 
 - Open Source Cooperation
 
@@ -25,13 +25,13 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
     A fundamental course about open source and its history.
 
-  - How to use Git&Github
+  - How to use Git & Github
 
     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Github is a popular website based on Git where people around the world collaborate in open source projects. After taking this course, participants should know the usages of Git and Github.
 
   - Open Source Practice in TiDB
 
-    TiDB ecosystem is made up of multiple open-source projects on Github. For people who want to contribute to TiDB, open-source practice in TiDB would be helpful for them.
+    TiDB ecosystem is made up of multiple open-source projects on Github. For people who want to contribute to TiDB, this course would be helpful for them.
 
 - Programming Language
 
@@ -39,13 +39,13 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
   - Golang
 
-    The Go programming language is heavily used in the industry, as well as in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
+    The Go programming language is heavily used in the industry as well as in the TiDB ecosystem. If you haven't learned about it, the following are good places to start:
 
-    - [A Tour Of Golang](https://tour.golang.org/) - a great official tutorial for the newbie to learn the basic language features.
+    - [A Tour Of Golang](https://tour.golang.org/) - a great official tutorial for newbies to learn the basics of the language.
 
     - [The Go Programming Language](http://www.gopl.io/) - a detailed reference book for Go.
 
-    - [Talent Plan MapReduce](https://github.com/pingcap/talent-plan/tree/master/tidb/mapreduce) - a great tool for learners to evaluate their learning outcomes.
+    - [Talent Plan MapReduce](https://github.com/pingcap/talent-plan/tree/master/tidb/mapreduce) - a great tool for Go learners to evaluate their learning outcomes.
 
   - Rust
 
@@ -61,7 +61,7 @@ The picture above shows the latest framework of Talent Plan Courses. In addition
 
   - Distributed Relational Database Internals is a course made up of many reading materials and programming assignments. A broad range of topics such as relational algebra, parser, runtime, optimizer, transaction, DDL and more are covered in readings. As the programming assignment framework, TinySQL, a simplified version of TiDB, is used for course participants to verify their learning outcomes.
 
-  - Distributed Key-Value Database Internals is a course about distributed key-value database systems. The reading materials cover storage engine, data partitioning, replication, consistency, scalability, balance, distributed transactions and more. For programming assignment, TinyKV, a simplified version of TiKV, will be provided to course participants to verify their learning outcomes.
+  - Distributed Key-Value Database Internals is a course about distributed key-value database systems. The reading materials cover storage engine, data partitioning, replication, consistency, scalability, balance, distributed transactions and more. For programming assignments, TinyKV, a simplified version of TiKV, will be provided to course participants to verify their learning outcomes.
 
   Topics such as cloud-native database systems and Machine Learning are also planned.
 
