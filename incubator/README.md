@@ -74,7 +74,7 @@ repository. Your proposal should include the following items:
 * Link to your Design Document.
   * Design Document of TiKV features should be proposed via an RFC (Request for Comment) to [tikv](https://github.com/tikv/tikv) repository (see [How to submit an RFC to TiKV](https://github.com/tikv/rfcs#how-to-submit-an-rfc))
   * Design Document of TiDB features should be proposed via a PR (Pull Request) to [tidb](https://github.com/pingcap/tidb) repository (see [TiDB Design Documents Proposal Process](https://github.com/pingcap/tidb/tree/master/docs/design#proprosal-process))
-  * Design Document of ofther features should be proposed via a PR (Pull Request) to [community](https://github.com/pingcap/community) repository (see [PingCAP RFCs](../rfc/README.md))
+  * Design Document of other features should be proposed via a PR (Pull Request) to [community](https://github.com/pingcap/community) repository (see [PingCAP RFCs](../rfc/README.md))
 
 #### Step 2: Find a Mentor
 

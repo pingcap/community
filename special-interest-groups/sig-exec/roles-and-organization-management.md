@@ -1,11 +1,11 @@
-# SIG Expr Roles and Organization Management
+# SIG Exec Roles and Organization Management
 
 ## Join and Promotion
 
 ### Join
 
-The minimal requirement for contributors to join the Expr SIG is to have
-the **Active Contributor** community role in the expression package.
+The minimal requirement for contributors to join the Exec SIG is to have
+the **Active Contributor** community role in the executor/expression package.
 
 ### Promotion
 
@@ -13,23 +13,26 @@ the **Active Contributor** community role in the expression package.
 
 Requirements:
 
-* Have at least 8 PRs merged in the expression package within one year.
-* Nominated by at least 2 Expr SIG Reviewers, Committer or Maintainer.
+* Merged 8 PRs
+* Sponsored by 2 incumbent Reviewers
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 30 PRs merged in the expression package within one year.
-* Nominated by at least 2 Committers or 2 Maintainers.
+* Merged 20+ PRs
+* Handled 2+ issues of Medium difficulty or higher
+* Sponsored by at 2 Committers
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
-* Have at least 60 PRs merged in the expression package within one year.
-* Have reviewed at least 20 PRs in the expression package within one year.
-* Nominated by at least 2 Maintainers.
+* Merged 40+ PRs
+* Finished 2+ tasks of Medium difficulty or higher
+* Fixed 1+ tasks of Hard difficult
+* Reviewd 20+ PRs
+* Nominated by the Tech Leads of SIG-Exec and gained supermajority (2/3) votes from Maintainers
 
 ## Quit and Demotion
 
@@ -37,7 +40,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the expression package within one year.
+* No contribution to the expression or executor package within one year.
 
 **How to rejoin**:
 
