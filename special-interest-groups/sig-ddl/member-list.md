@@ -15,9 +15,9 @@ Members and their contributions:
 | [spongedu](https://github.com/spongedu)   | 28             | 2018-11-26 12:50:20     | 2019-11-26 17:51:25   |
 | [leiysky](https://github.com/leiysky)     | 8              | 2019-07-30 11:07:34     | 2019-08-16 23:51:46   |
 
-## Technical Leads
+## Tech Leads
 
-Lead:
+Leads:
 * [zimulala](https://github.com/zimulala), [PingCAP](https://pingcap.com/en/)
 * [tangenta](https://github.com/tangenta), [PingCAP](https://pingcap.com/en/)
 

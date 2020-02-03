@@ -14,7 +14,7 @@ the **Active Contributor** community role in the TiDB/parser repository.
 Requirements:
 
 * Have at least 8 PRs merged within one year.
-* Nominated by at least 2 DDL SIG Reviewers, Committer or Maintainer.
+* Nominated by at least 2 DDL SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 
