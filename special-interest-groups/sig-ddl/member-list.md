@@ -11,7 +11,7 @@ Members and their contributions:
 
 | user                                      | num_merged_PRs | earliest_PR_merged_time | latest_PR_merged_time |
 |:-----------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
-| [hey-kong](https://github.com/ciscoxll)   | 45             | 2018-03-13 02:30:31     | 2019-03-16 02:00:35   |
+| [ciscoxll](https://github.com/ciscoxll)   | 45             | 2018-03-13 02:30:31     | 2019-03-16 02:00:35   |
 | [spongedu](https://github.com/spongedu)   | 28             | 2018-11-26 12:50:20     | 2019-11-26 17:51:25   |
 | [leiysky](https://github.com/leiysky)     | 8              | 2019-07-30 11:07:34     | 2019-08-16 23:51:46   |
 
