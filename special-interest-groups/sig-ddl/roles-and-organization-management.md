@@ -1,4 +1,4 @@
-# SIG Parser Roles and Organization Management
+# SIG DDL Roles and Organization Management
 
 ## Join and Promotion
 
@@ -13,22 +13,25 @@ the **Active Contributor** community role in the TiDB/parser repository.
 
 Requirements:
 
-* Have at least 8 parser-related PRs merged within one year.
-* Nominated by at least 2 Parser SIG Reviewers, Committer or Maintainer.
+* Have at least 8 PRs merged within one year.
+* Nominated by at least 2 DDL SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 20 parser-related PRs merged within one year.
+* Have at least 20 PRs merged within one year.
+* Have fixed at least 2 issues whose difficulty is medium or above within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
-* Have at least 30 parser-related PRs merged within one year.
-* Have reviewed at least 10 parser-related PRs within one year.
+* Have at least 30 PRs merged within one year.
+* Have fixed at least 5 issues whose difficulty is medium or above within one year.
+* Have fixed at least 1 issues whose difficulty is hard within one year.
+* Have reviewed at least 20 PRs within one year.
 * Nominated by at least 2 Committers or Maintainers.
 
 ## Quit and Demotion
