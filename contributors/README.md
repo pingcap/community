@@ -173,13 +173,13 @@ TBD
 
 If the change affects TIDB's performance, the benchmark data is normally required in the description. You can use the [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool to format benchmark data for change descriptions.
 
-We could do is run the benchmarks over multiple runs ie
+The following script runs benchmark multiple times (10)
 
 ```bash
 go test -run=^$ -bench=BenchmarkXXX -count=10
 ```
 
-And we could make more clear and reportable differences by copying and pasting that output to two different files: old.txt and new.txt and then running: 
+**Tip**: To make the result more readable, you can copy and paste the output to two both the old.txt and new.txt, and then run: 
 
 ```
 benchstat old.txt new.txt
