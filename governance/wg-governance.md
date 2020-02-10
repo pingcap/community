@@ -5,8 +5,8 @@
 * [What is Working Group (WG)?](#what-is-working-group-wg)
 * [Relationship between WG and SIG](#relationship-between-wg-and-sig)
 * [WG Lifecycle](#wg-lifecycle)
-  * [Create](#create)
-  * [Dismiss](#dismiss)
+    * [Creation](#creation)
+    * [Dissolution](#dissolution)
 
 <!-- vim-markdown-toc -->
 
@@ -16,7 +16,7 @@ Contributors are totally able to just work on goals together without it being a 
 
 A Working Group usually solves a problem that spans the scope of responsibility of multiple Special Interest Groups (SIGs), so it usually consists of members from different SIGs or some other community contributors. The Working Group usually dissolves after the problem is solved. For more detailed procedures of creating or dismiss, see [WG Lifecycle](#wg-lifecycle).
 
-The Working Group has the following characteristics: 
+The Working Group has the following characteristics:
 
 * Does not own the code
 * Have formal hierarchy or expected outcomes
@@ -25,7 +25,7 @@ The Working Group has the following characteristics:
 
 ## Relationship between WG and SIG
 
-![Relationship between WG and SIG](../media/wg-sig.png)
+![Relationship between WG and SIG](../media/wg-sig.svg)
 
 The assets owned by the TiDB Project (eg: code, documentation, blogs, regulations, etc.) are owned and managed by SIGs, maintainers, and ultimately our PMC. However, there are assets that are specially owned and managed by Working Groups, such as:
 
