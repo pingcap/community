@@ -179,13 +179,14 @@ The following script runs benchmark multiple times (10)
 go test -run=^$ -bench=BenchmarkXXX -count=10
 ```
 
-**Tip**: To make the result more readable, you can copy and paste the output to two both the old.txt and new.txt, and then run: 
+**Tip**: To make the result more readable, you can copy and paste the output to both the old.txt and new.txt, and then run: 
 
 ```
 benchstat old.txt new.txt
 ```
 
-and paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
+
+Paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
 
 ### Security
 
