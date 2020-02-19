@@ -6,7 +6,8 @@ This charter details on the governance guidelines of TiDB SIGs. It will be updat
 
 In order to standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
 
-- Create a charter and have it approved according to the SIG charter  process. Please refer [Create the SIG charter](#create-the-sig-charter) for more details.
+- Create a charter and have it approved according to the SIG charter process. Please refer [Create the SIG charter](#create-the-sig-charter) for more details.
+
 - Meet regularly, at least for 30 minutes every 2 weeks, except for long holidays or occasions where all Tech Leads decide that there is nothing to discuss.
 - Keep up-to-date meeting notes, linked from the SIG's page in the community repo
 - Report activity in the weekly community meeting at least once every quarter
