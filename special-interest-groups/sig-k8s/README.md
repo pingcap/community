@@ -14,7 +14,7 @@ See [SIG K8S Member List](./member-list.md)
 
 ## Meetings
 
-* 
+* TBD
 
 ## Contact
 
@@ -24,4 +24,4 @@ See [SIG K8S Member List](./member-list.md)
 
 * The [tidb-operator](https://github.com/pingcap/tidb-operator).
 * The [advanced-statefulset](https://github.com/pingcap/advanced-statefulset).
-* The [tidb-docker-componse](https://github.com/pingcap/tidb-docker-compose).
+* The [tidb-docker-compose](https://github.com/pingcap/tidb-docker-compose).
