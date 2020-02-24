@@ -16,3 +16,4 @@ SIG.
 * [sig-ddl](./sig-ddl)
 * [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
 * [sig-engine (TiKV)](https://github.com/tikv/community/tree/master/sig/engine)
+* [sig-usability](./sig-usability)
