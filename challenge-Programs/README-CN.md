@@ -5,5 +5,4 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 我们感谢并始终相信开源社区的力量，为了让 TiDB 产品在稳定性、性能、易用性等方面更上一层楼，我们决定推出一个中长期的挑战计划 —— TiDB Challenge Program，将一些 Issue 开放出来，供社区小伙伴共同探讨，共同解决，每一个 Issue 都将对应一定的积分，参赛选手可在每个赛季结束后用获得的积分兑换社区大礼。
 
 - [Challenge Program 第一季](challenge-program-season-1-cn.md)
-- Challenge Program 第二季
-
+- [Challenge Program 第二季](challenge-program-season-2-cn.md)
