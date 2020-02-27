@@ -26,7 +26,6 @@ TiDB Usability Challenge Program 作为 TiDB Challenge Program 系列的第二�
 
 - 以团队形式参赛，每队成员最多三人。
 - 有 PingCAP 内部员工参与的队伍，将作为打星队伍，不参与积分总排名，所获积分仍具有兑换权益。
-
 - **如需更改报名信息，需关闭错误报名 Issue，重新开启一个新的 Issue 进行报名，暂不支持在原始 Issue 上进行编辑**。
 
 ## **参赛流程**
