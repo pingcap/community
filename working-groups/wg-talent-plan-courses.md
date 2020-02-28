@@ -2,7 +2,7 @@
 
 ## Goals
 
-The Talent Plan Course Working Group aims to develop a series of courses to help people enter the field of computer infrastructure system and TiDB ecosystem.
+Talent Plan Course Working Group aims to develop a new version of Talent Plan Courses (see [Proposal: Talent Plan Courses](https://github.com/pingcap/community/blob/master/rfc/2019-12-11-Talent-Plan-Courses.md)) based on Talent Plan 1.0 to help open source and infrastructure enthusiasts have better command of programming language, open source collaboration, infrastructure systems and TiDB ecosystem.
 
 ## Work and Meeting
 
@@ -10,7 +10,7 @@ The Talent Plan Course Working Group aims to develop a series of courses to help
 * Meeting Zoom: https://pingcap.zoom.com.cn/j/9681232794
 * [Meeting Notes](https://docs.google.com/document/d/1yH_KeIxA8jW77meaO_5UegQO2tpWfCbPvEYlaW5b9fw/edit)
 
-## Mentors
+## Mentor
 
 * [zz-json](https://github.com/zz-jason), [PingCAP](https://github.com/pingcap)
 
