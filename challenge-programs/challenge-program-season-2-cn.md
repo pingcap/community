@@ -39,7 +39,8 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
 - [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
 - [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
-- [DM Challenge Program Project](https://github.com/pingcap/dm/projects/1)
+- [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
+- [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Usability Challenge 相关标签所代表含义做如下说明：
 
