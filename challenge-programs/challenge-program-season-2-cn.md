@@ -34,7 +34,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 **第一步：查看 / 提出 Issue**
 
-当前开放的 Issue 列表可分别在 [TiDB-Performance Challenge Program Project](https://github.com/pingcap/tidb/projects/26)、[TiKV-Performance Challenge Program Project](https://github.com/tikv/tikv/projects/20)、[PD-Performance Challenge Program Project](https://github.com/pingcap/pd/projects/2) 中的 TODO Columns 查看。
+当前开放的 Issue 列表可分别在 [TiDB-Challenge Program Project](https://github.com/pingcap/tidb/projects/26)、[TiKV-Challenge Program Project](https://github.com/tikv/tikv/projects/20)、[PD-Challenge Program Project](https://github.com/pingcap/pd/projects/2) 中的 TODO Columns 查看。
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Usability Challenge 相关标签所代表含义做如下说明：
 
@@ -61,7 +61,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 **第三步：实现代码**
 
-在实现代码的过程中如果遇到问题，可以通过 [](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE)[**#tidb-challenge-program**](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦～
+在实现代码的过程中如果遇到问题，可以通过 [**#tidb-challenge-program**](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel 与我们进行探讨，Issue 指定的 Mentor 会尽可能在 24h 内予以回复。不过，在提出问题之前一定要确保你已经仔细阅读过题目内容并且已经完成了参考资料的学习哦～
 
 **第四步：提交代码**
 
