@@ -40,7 +40,10 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
 - [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
 - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
-- [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
+- [Backup&Restore challenge Program Project](https://github.com/pingcap/br/projects/1)
+- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
+
+**注：client-rust 与 tikv 在算分时同属于一个 repo。**
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Usability Challenge 相关标签所代表含义做如下说明：
 
@@ -53,7 +56,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
 - PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo。
 
-格式要求：Issue 标题前需添加“**REQ-UCP**”标记，例如：REQ-UCP: Further extract tidb_query into different workspaces。
+格式要求：Issue 标题前需添加“**REQ-challenge-program**”标记，例如：REQ-challenge-program: Further extract tidb_query into different workspaces。
 
 **第二步：领取 Issue**
 
