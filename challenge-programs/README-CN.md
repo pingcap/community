@@ -6,9 +6,11 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 
 当前开放的 Issue 列表可分别在以下 project 中的 TODO Columns 查看。
 
-- [TiDB-Performance Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
-- [TiKV-Performance Challenge Program Project](https://github.com/tikv/tikv/projects/20)
-- [PD-Performance Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
+- [TiDB Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
+- [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
+- [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
+- [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
+- [DM Challenge Program Project](https://github.com/pingcap/dm/projects/1)
 
 ## 赛季索引
 
