@@ -2,7 +2,6 @@
 
 TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一赛季，聚焦 Performance Improvement，于 2019 年 11 月 4 日开启，2020 年 2 月 4 日结束，历时 3 个月，吸引了 165 位社区开发者参赛，产生了 一等奖 1 名，二等奖 2 名，三等奖 3 名，优秀奖 6 名，在 165 位社区开发者的贡献下，TiDB 各方面的性能都有了飞跃式的提升。完整积分榜详见 [活动页面](https://pingcap.com/community-cn/tidb-performance-challenge/)。
 
-欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 和 [tikv-wg Slack Workspace](http://tikv.org/chat)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program** channel 与我们取得联系。
 
 ## 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
