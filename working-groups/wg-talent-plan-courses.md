@@ -2,7 +2,7 @@
 
 ## Goals
 
-Talent Plan Course Working Group aims to develop new version of Talent Plan Courses (see [Proposal: Talent Plan Courses](https://github.com/JinLingChristopher/community/blob/fe6991c5bd4a63254e3d116410702d1c59055abb/rfc/2019-12-11-Talent-Plan-Courses.md)) based on Talent Plan 1.0 to help open source and infrastructure enthusiasts have better command of programming language, open source collaboration, infrastructure systems and TiDB ecosystem.
+Talent Plan Course Working Group aims to develop a new version of Talent Plan Courses (see [Proposal: Talent Plan Courses](https://github.com/JinLingChristopher/community/blob/fe6991c5bd4a63254e3d116410702d1c59055abb/rfc/2019-12-11-Talent-Plan-Courses.md)) based on Talent Plan 1.0 to help open source and infrastructure enthusiasts have better command of programming language, open source collaboration, infrastructure systems and TiDB ecosystem.
 
 ## Work and Meeting
 
