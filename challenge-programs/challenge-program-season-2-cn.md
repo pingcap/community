@@ -20,7 +20,7 @@ TiDB Usability Challenge Program 作为 TiDB Challenge Program 系列的第二�
     - 标题：UCP/Sign Up
     - 内容：
         - 个人参赛：请对你自己进行简要介绍，并留下可以与你取得联系的邮箱地址。
-        - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-challenge-program/register)。
+        - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-challenge-program/register/blob/master/.github/ISSUE_TEMPLATE/challenge-program-register.md)。
 
 **注意事项：**
 
