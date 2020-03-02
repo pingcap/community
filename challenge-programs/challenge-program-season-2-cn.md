@@ -85,7 +85,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 格式要求：PR 的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
 ```
-PCP #12345
+UCP #12345
 
 <!-- The following description -->
 ```
@@ -99,7 +99,7 @@ PCP #12345
 
 **第六步：积分兑换**
 
-积分获得情况将会在 [TiDB 易用性挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+积分获得情况将会在 [TiDB 易用性挑战赛官方网站](https://pingcap.com/community-cn/tidb-usability-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
 兑换时间：**每个赛季结束后至下一赛季结束前**可进行积分兑换，下一个赛季结束时，前一赛季的可兑换积分将直接清零，不可再进行社区礼品兑换。
 
