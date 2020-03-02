@@ -1,12 +1,7 @@
 # TiDB Performance Challenge Program
 
-TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助，我们很欣喜地看到：越来越多的小伙伴参与到 TiDB 开源社区的建设当中，越来越多的小伙伴在 TiDB 开源社区用自己的方式表达着对于开源的热情和对于技术的追求，TiDB 也在社区小伙伴的推动下，不断地刷新着过去的成绩。
+TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一赛季，聚焦 Performance Improvement，于 2019 年 11 月 4 日开启，2020 年 2 月 4 日结束，历时 3 个月，吸引了 165 位社区开发者参赛，产生了 一等奖 1 名，二等奖 2 名，三等奖 3 名，优秀奖 6 名，在 165 位社区开发者的贡献下，TiDB 各方面的性能都有了飞跃式的提升。完整积分榜详见 [活动页面](https://pingcap.com/community-cn/tidb-performance-challenge/)。
 
-我们感谢并始终相信开源社区的力量，为了让 TiDB 产品在稳定性、性能、易用性等方面更上一层楼，我们决定推出一个中长期的挑战计划 —— TiDB Challenge Program，将一些 Issue 开放出来，供社区小伙伴共同探讨，共同解决，每一个 Issue 都将对应一定的积分，参赛选手可在每个赛季结束后用获得的积分兑换社区大礼。
-
-TiDB Performance Challenge Program 作为 TiDB Challenge Program 系列的第一赛季，将聚焦 Performance Improvement，于 2019 年 11 月 4 日正式开启，2020 年 2 月 4 日结束，持续 3 个月。
-
-欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 和 [tikv-wg Slack Workspace](http://tikv.org/chat)，参赛过程中遇到任何问题都可以直接通过 **#performance-challenge-program** channel 与我们取得联系。
 
 ## 赛前准备
 - 参考 [Join GitHub](https://github.com/join) 完成 GitHub 账号的创建。
@@ -119,7 +114,9 @@ PCP #12345
 - 变更 Issue：先对已领取的 Issue 执行 “放弃 Issue” 操作，再选择新的 Issue
 
 ### Q3：之前在社区的贡献如何与 Performance Challenge Program 相结合？
+
 Performance Challenge Program 是面向 TiDB & TiKV 开源社区的全新社区活动，之前在社区的贡献暂时不能以积分的方式呈现，不过 Active Contributor 及以上个人参赛选手可以直接选择 Medium 及以上的 Issue 进行挑战。
 
 ### Q4：能否邀请 PingCAP 内部员工组队参赛？
+
 当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于 ⅔ 时，该团队只能选择 Hard 级别以上的 Issue 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**

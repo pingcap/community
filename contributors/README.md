@@ -36,6 +36,7 @@ welcome!
     * [Open a Pull Request](#open-a-pull-request)
     * [Code Review](#code-review)
     * [Testing](#testing)
+    * [Benchmark](#benchmark)
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
@@ -166,6 +167,26 @@ TBD
 ### Testing
 
 TBD
+
+### Benchmark
+
+
+If the change affects TIDB's performance, the benchmark data is normally required in the description. You can use the [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool to format benchmark data for change descriptions.
+
+The following script runs benchmark multiple times (10)
+
+```bash
+go test -run=^$ -bench=BenchmarkXXX -count=10
+```
+
+**Tip**: To make the result more readable, you can copy and paste the output to both the old.txt and new.txt, and then run: 
+
+```
+benchstat old.txt new.txt
+```
+
+
+Paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
 
 ### Security
 

@@ -1,11 +1,11 @@
-# SIG Parser Roles and Organization Management
+# SIG Exec Roles and Organization Management
 
 ## Join and Promotion
 
 ### Join
 
-The minimal requirement for contributors to join the Parser SIG is to have
-the **Active Contributor** community role in the TiDB/parser repository.
+The minimal requirement for contributors to join the Exec SIG is to have
+the **Active Contributor** community role in the executor/expression package.
 
 ### Promotion
 
@@ -13,23 +13,26 @@ the **Active Contributor** community role in the TiDB/parser repository.
 
 Requirements:
 
-* Have at least 8 parser-related PRs merged within one year.
-* Nominated by at least 2 Parser SIG Reviewers, Committer or Maintainer.
+* Merged 8 PRs
+* Sponsored by 2 incumbent Reviewers
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 20 parser-related PRs merged within one year.
-* Nominated by at least 2 Committers or 2 Maintainers.
+* Merged 20+ PRs
+* Handled 2+ issues of Medium difficulty or higher
+* Sponsored by at 2 Committers
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
-* Have at least 30 parser-related PRs merged within one year.
-* Have reviewed at least 10 parser-related PRs within one year.
-* Nominated by at least 2 Committers or Maintainers.
+* Merged 40+ PRs
+* Finished 2+ tasks of Medium difficulty or higher
+* Fixed 1+ tasks of Hard difficult
+* Reviewd 20+ PRs
+* Nominated by the Tech Leads of SIG-Exec and gained supermajority (2/3) votes from Maintainers
 
 ## Quit and Demotion
 
@@ -37,7 +40,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the parser repository within one year.
+* No contribution to the expression or executor package within one year.
 
 **How to rejoin**:
 
@@ -50,7 +53,7 @@ Requirements:
 For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the parser repository within 3 months.
+* Haven't reviewed or merged any PR in the expression package within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
