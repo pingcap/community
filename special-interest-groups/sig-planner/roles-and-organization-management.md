@@ -30,7 +30,7 @@ SIG Specific Requirements:
 
 SIG Specific Requirements:
 
-* Have at least 20 PRs merged in the planner/statistics package within one year.
+* Have at least 15 PRs merged in the planner/statistics package within one year.
 * Fix at least 10 issues whose difficulty is medium or above.
 * Fix at least 2 issues whose difficulty is hard.
 * Have reviewed at least 20 PRs in the planner/statistics package within one year.
@@ -64,5 +64,5 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Cui Yiding](mailto:cuiyiding@pingcap.com) if you are
+Please email to [Yanqing](mailto:zhangyanqing@pingcap.com) if you are
 going to quit or demote voluntarily.
