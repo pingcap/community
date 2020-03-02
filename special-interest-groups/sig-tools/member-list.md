@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-02-03
+* Last update time: 2020-03-02
 
 ## Active Contributors
 
@@ -16,5 +16,8 @@ Members and their contributions:
 
 Leads:
 
+* [GregoryIan](https://github.com/GregoryIan), [PingCAP](https://pingcap.com/en/)
+
 Co-Leads:
 
+* [WangXiangUSTC](https://github.com/WangXiangUSTC), [PingCAP](https://pingcap.com/en/)
