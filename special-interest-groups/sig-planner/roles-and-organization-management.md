@@ -17,7 +17,6 @@ To have a discusstion with us, just join our slack channel **#sig-planner** in [
 SIG Specific Requirements:
 
 * Joined the sig-planner slack channel.
-* Have at least 5 PRs merged in the planner/statistics package within one year.
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
