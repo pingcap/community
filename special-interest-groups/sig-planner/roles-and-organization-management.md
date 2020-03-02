@@ -7,8 +7,8 @@ It lists common requirements, responsibilities and privileges of each role in de
 
 ### Join
 
-You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your pr about planner is merged.
-To have a discusstion with us, just join our slack channel #sig-planner in https://pingcap.com/tidbslack.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about planner is merged.
+To have a discusstion with us, just join our slack channel **#sig-planner** in [tidbcommnity](https://pingcap.com/tidbslack) slack workspace.
 
 ### Promotion
 
@@ -23,7 +23,7 @@ SIG Specific Requirements:
 
 SIG Specific Requirements:
 
-* Have at least 10 PRs merged in the planner/statistics package within one year.
+* Have at least 10 PRs merged in the `planner` or `statistics` package within one year.
 * Fix at least 2 issues whose difficulty is medium or above.
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
@@ -51,7 +51,7 @@ SIG Specific Requirements:
 
 **Automatically demoted**:
 
-For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
+For a Reviewer to be demoted to an Active Contributor, he/she must satisfy at
 least 1 of the following conditions:
 
 * Haven't reviewed or merged any PR in the planner/statistics package within 3 months.
