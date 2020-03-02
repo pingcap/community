@@ -24,15 +24,17 @@ SIG Specific Requirements:
 
 * Have at least 10 PRs merged in the `planner` or `statistics` package within one year.
 * Fix at least 2 issues whose difficulty is medium or above.
+* Presented design ideas and adopted them in more than 3 executable task.
+
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
 SIG Specific Requirements:
 
-* Have at least 15 PRs merged in the planner/statistics package within one year.
-* Fix at least 10 issues whose difficulty is medium or above.
-* Fix at least 2 issues whose difficulty is hard.
-* Have reviewed at least 20 PRs in the planner/statistics package within one year.
+* Exhibited good technical judgment.
+* Fix at least 1 issues whose difficulty is hard.
+* Have reviewed at least 10 PRs in the planner/statistics package within one year.
+* Play an important role in a big feature.
 
 ## Quit and Demotion
 
