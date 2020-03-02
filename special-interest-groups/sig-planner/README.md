@@ -24,7 +24,7 @@ See [SIG Planner Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel **#sig-planner** in the [tidbcommunity](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack workspace.
+* Slack: channel **#sig-planner** in the [tidbcommunity](https://pingcap.com/tidbslack/) slack workspace.
 
 ## Code Locations
 
