@@ -7,11 +7,11 @@ Tools SIG covers the TiDB surrounding tools. Our work includes
 
 ## Roles and Organization Management
 
-See [SIG DDL Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG Tools Roles and Organization Management](./roles-and-organization-management.md)
 
 ## Members
 
-See [SIG DDL Member List](./member-list.md)
+See [SIG Tools Member List](./member-list.md)
 
 ## Meetings
 
