@@ -16,7 +16,8 @@ See [SIG Tools Member List](./member-list.md)
 ## Meetings
 
 * Regular Working Group Meeting: 5:00, Wednesdays at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
-* Meeting Zoom:
+* Meeting [Link](https://pingcap.zoom.com.cn/j/237833920)
+* Meeting [Notes](https://docs.google.com/document/d/1BOvG9shBJSbSgQkU-sG7xTcB3f3ULzAcr7rhyNZc1XA/edit#)
 
 ## Contact
 
