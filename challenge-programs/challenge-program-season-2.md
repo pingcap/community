@@ -31,7 +31,7 @@ To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-pr
 >- Teams that include PingCAP employees will be marked with a star (*). Their challenge points will not be included in the final ranking, but are legible for gift redemption.
 >- To change the signup information, you need to close the original signup issue and open a new one to sign up again.
 
-## How To Challenge
+## How To challenge
 
 The entire flow of the TiDB Usability Challenge Program consists of the following:
 
@@ -133,7 +133,7 @@ We have put together some learning materials here for you to get familiar with t
 -[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - **a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses and talks
 
 
-## FAQs（Updating in Progress
+## FAQs（Updating in Progress)
 
 **Q1**: How do I change the registration information? How will the points change after the registration information is changed?
 
