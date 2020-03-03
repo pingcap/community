@@ -13,6 +13,7 @@ You can check all the open issues in TODO Columns in Challenge Program season 2 
 - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
 - [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
 - [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
+- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 
 ## Season Index
 

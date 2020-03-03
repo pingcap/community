@@ -42,6 +42,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
 - [Backup&Restore challenge Program Project](https://github.com/pingcap/br/projects/1)
 - [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
+- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 
 **注：client-rust 与 tikv 在算分时同属于一个 repo。**
 
@@ -84,7 +85,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 格式要求：PR 的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
 ```
-PCP #12345
+UCP #12345
 
 <!-- The following description -->
 ```
@@ -98,11 +99,17 @@ PCP #12345
 
 **第六步：积分兑换**
 
-积分获得情况将会在 [TiDB 易用性挑战赛官方网站](https://pingcap.com/community-cn/tidb-performance-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+积分获得情况将会在 [TiDB 易用性挑战赛官方网站](https://pingcap.com/community-cn/tidb-usability-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
+
+积分获得情况将会在 [TiDB 易用性挑战赛官方网站](https://pingcap.com/community-cn/tidb-usability-challenge/) 呈现。所获积分可兑换 PingCAP Open Source Contribution Bonus，包括但不限于：TiDB 限量版帽衫、The North Face 定制电脑双肩包等。
 
 兑换时间：**每个赛季结束后至下一赛季结束前**可进行积分兑换，下一个赛季结束时，前一赛季的可兑换积分将直接清零，不可再进行社区礼品兑换。
 
 兑换方式：本赛季结束后填写礼品兑换表（届时将开放填写权限）。
+
+**注意事项：**
+
+- 排名前三的需求，整体上各自分别加 10000， 8000， 6000 分。等需求完整的实现或者挑战赛结束，需求的加分将由需求的子任务完成者们一起分享。考虑到需求不一定能在挑战赛期间完整做完，这些需求额外积分的分享规则为：(该挑战者完成的该需求的子任务积分和/所有挑战者完成的该需求的子任务积分和)*这个需求的总加分
 
 ## **学习资料**
 
@@ -129,7 +136,7 @@ PCP #12345
 
 当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于 ⅔ 时，该团队只能选择 Hard 级别以上的 Issue 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**
 
-**Q4：我不记得哪个 repo 是否完成了 200 分怎么办？
+**Q4：我不记得哪个 repo 是否完成了 200 分怎么办？**
 
 每个参赛主体在报名之后都会收到 sre-bot 发送的自动回复，回复中包含了当前每个 repo 的积分。
 
