@@ -12,26 +12,26 @@ The minimal requirement for contributors to join the K8S SIG is to have the **Ac
 
 Requirements:
 
-* Have at least 4 PRs merged within 2 months.
-* Nominated by at least 1 k8s SIG Reviewers or roles above.
+* Merged 8 PRs in one year.
+* Sponsored by 2 incumbent Reviewers
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 10 PRs merged within half year.
-* Have fixed at least 2 issues whose difficulty is medium or above within half year.
-* Nominated by at least 2 Committers or 2 Maintainers.
+* Merged 20 PRs
+* Fixed 1 or more issues of priority/important-longterm
+* Sponsored by at 2 Committers
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
-* Have at least 20 PRs merged within one year.
-* Have fixed at least 5 issues whose difficulty is medium or above within one year.
-* Have fixed at least 1 issues whose difficulty is hard within one year.
-* Have reviewed at least 20 PRs within one year.
-* Nominated by at least 2 Committers or Maintainers.
+* Merged 40+ PRs
+* Finished 2+ tasks of Medium priority/important-soon
+* Fixed 1+ tasks of priority/critical-urgent
+* Reviewd 20+ PRs
+* Nominated by the Tech Leads of SIG-k8s and gained supermajority (2/3) votes from Maintainers
 
 ## Quit and Demotion
 
