@@ -8,7 +8,7 @@ Following the principle of “basing directions on users' requirements", we drew
 
 Season 2 of TiDB Challenge Program officially started on March 02, 2020, and will end on May 30, 2020, lasting 3 months.
 
-We can’t wait to see innovative ideas sparkled. Participants are welcomed to join [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) on the slack. Feel free to contact us in the #tidb-challenge-program channel if you have any questions.
+We can’t wait to see innovative ideas sparkled. Participants are welcomed to join [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) on the slack. Feel free to contact us in the **#tidb-challenge-program** channel if you have any questions.
 
 ## Before participation
 
