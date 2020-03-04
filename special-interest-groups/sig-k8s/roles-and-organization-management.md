@@ -4,8 +4,7 @@
 
 ### Join
 
-The minimal requirement for contributors to join the K8S SIG is to have
-the **Active Contributor** community role in the TiDB-Operator repository.
+The minimal requirement for contributors to join the K8S SIG is to have the **Active Contributor** community role in the TiDB-Operator repository.
 
 ### Promotion
 
@@ -50,8 +49,7 @@ Requirements:
 
 **Automatically demoted**:
 
-For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
-least 1 of the following conditions:
+For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at least 1 of the following conditions:
 
 * Haven't reviewed or merged any PR in the operator repository within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
@@ -63,5 +61,4 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
-going to quit or demote voluntarily.
+Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are going to quit or demote voluntarily.
