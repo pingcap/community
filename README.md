@@ -33,7 +33,7 @@ The [communication](./communicating.md) page lists communication channels like
 chat, social medias, etc.
 
 For more specific topics, join
-[https://pingcap.com/tidbslack](https://pingcap.com/tidbslack) and discuss with others.
+[TiDB Community](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack channel and discuss with others.
 
 ### Governance
 
