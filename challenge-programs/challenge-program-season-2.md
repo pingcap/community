@@ -20,7 +20,7 @@ We can’t wait to see innovative ideas sparkled. Participants are welcomed to j
 
 To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-program/register) in the [tidb-challenge-program/register](https://github.com/tidb-challenge-program/register) Repo, in the following format:
 
-- Title: PCP/Sign Up
+- Title: UCP/Sign Up
 - Text content:
     - For personal signup, please introduce yourself briefly and leave your email address for future contact.
     - For team sign up, please introduce your team briefly, provide your team name, list your team members, and leave an email address for future contact
@@ -64,9 +64,9 @@ Of course, if you have other ideas of contributions that are not presented under
  - Raise a proposal to TiKV Repo：[https://github.com/tikv/tikv/issues/new?template=feature-request.md](https://github.com/tikv/tikv/issues/new?template=feature-request.md)
  - Raise a proposal to PD Repo：[https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md)
 
-**Format requirement**: Add the mark `REQ-PCP` at the beginning of the issue title, for example: 
+**Format requirement**: Add the mark `REQ-UCP` at the beginning of the issue title, for example: 
 
-`REQ-PCP: Further extract tidb_query into different workspaces`
+`REQ-UCP: Further extract tidb_query into different workspaces`
 
 ### Step 2: Claim an issue
 
