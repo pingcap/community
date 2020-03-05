@@ -4,8 +4,8 @@
 
 ### Join
 
-The minimal requirement for contributors to join the Parser SIG is to have
-the **Active Contributor** community role in the TiDB/parser repository.
+The minimal requirement for contributors to join the Tools SIG is to have
+the **Active Contributor** community role in the [binlog](https://github.com/pingcap/tidb-binlog), [lightning](https://github.com/pingcap/tidb-lightning) and [dm](https://github.com/pingcap/dm) repositories.
 
 ### Promotion
 
@@ -40,7 +40,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the parser repository within one year.
+* No contribution to the tools-related repositories within one year.
 
 **How to rejoin**:
 
@@ -53,7 +53,7 @@ Requirements:
 For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the parser repository within 3 months.
+* Haven't reviewed or merged any PR in the tools-related repositories within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
