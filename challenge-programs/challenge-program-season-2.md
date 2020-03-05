@@ -120,7 +120,9 @@ A leaderboard of the challenge points will be displayed on the [TiDB Usability C
 >
 > For the top three voted requirements, the challengers will be granted extra points of 10000, 8000, and 6000 respectively. When the requirements are completed or the program ends for the season, the extra points will be distributed evenly among the subtasks, and will be further divided evenly if the subtask is claimed by a team. Considering the possibility that the requirement may not be fully resolved during the season, the sharing rule of the extra point is:
 
-    (total points of completed subtasks under the requirement of the current participant/total points of the completed subtasks under the requirement of all participants)* extra points of this requirement.
+```
+(Current Partitipant's Points of Completed Subtasks under This Requirement/All Participants Total Points of Completed subtasks under This Requirement)* Extra Points Granted to This Requirement
+```
 
 ## Learning materials
 
@@ -130,7 +132,7 @@ We have put together some learning materials here for you to get familiar with t
 - [TiKV documentation](https://tikv.org/docs/3.0/concepts/overview/) - concepts, user guide, and reference documents for TiKV
 - [Chaos Mesh documentation](https://github.com/pingcap/chaos-mesh/wiki) - user guide, and development guide for Chaos Mesh
 -[PingCAP Talent Plan](https://github.com/pingcap/talent-plan)- a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
--[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - **a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses and talks
+-[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses, and talks.
 
 
 ## FAQs（Updating in Progress)
@@ -139,9 +141,9 @@ We have put together some learning materials here for you to get familiar with t
 
 **Answer**: To change the registration information, you need to close the original registration issue and open another issue for registration. Editing on the original issue is not supported for the time being. There are three cases of changes in points after the registration information is changed:
 
- Increase or decrease of team members will not affect the total points of the team;
- The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
- Participants who leave the team and rejoin as individuals do not inherit team points.
+- Increase or decrease of team members will not affect the total points of the team;
+- The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
+- Participants who leave the team and rejoin as individuals do not inherit team points.
 
 **Q2**: How to discard/change the issue I have claimed?
 
@@ -154,6 +156,6 @@ We have put together some learning materials here for you to get familiar with t
 
 **Answer**: Of course you can! We welcome our community members to participate with PingCAP employees. PingCAP members that participate in the program can  only work on the challenge issues during non-working hours. In order to ensure the fairness of the event, when the number of PingCAP internal employees accounts for more than 2/3 in a team, the team can only claim issues that are above the Hard level to challenge, and they will be marked a star team. A star team will not participate in the final points ranking, but still retain the right to redeem their challenge points.
 
-**Q4:** What if I don’t remember in which  Repo have I earned 200 points?
+**Q4:** What if I don’t remember in which Repo have I earned 200 points?
 
 **Answer**: Each participant will receive an automatic response from sre-bot after registration. The response cotains the points status of the participant in each  Repo.
