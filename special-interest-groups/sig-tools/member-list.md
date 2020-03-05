@@ -16,10 +16,8 @@ Members and their contributions:
 
 Leads:
 
-* [GregoryIan](https://github.com/GregoryIan), [PingCAP](https://pingcap.com/en/)
+* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
 
 Co-Leads:
 
 * [WangXiangUSTC](https://github.com/WangXiangUSTC), [PingCAP](https://pingcap.com/en/)
-* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
-
