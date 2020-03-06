@@ -28,3 +28,6 @@ See [SIG Tools Member List](./member-list.md)
 * The [tidb-binlog repo](https://github.com/pingcap/tidb-binlog).
 * The [tidb-lightning repo](https://github.com/pingcap/tidb-lightning).
 * The [dm repo](https://github.com/pingcap/dm/).
+* The [backup and resotre](https://github.com/pingcap/br).
+* The [ticdc](https://github.com/pingcap/ticdc).
+* The [dumpling](https://github.com/pingcap/dumpling).
