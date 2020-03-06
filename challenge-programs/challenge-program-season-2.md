@@ -8,7 +8,7 @@ Following the principle of “basing directions on users' requirements", we drew
 
 Season 2 of TiDB Challenge Program officially started on March 02, 2020, and will end on May 30, 2020, lasting 3 months.
 
-We can’t wait to see innovative ideas sparkled. Participants are welcomed to join [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) on the slack. Feel free to contact us in the **#tidb-challenge-program** channel if you have any questions.
+We can’t wait to see innovative ideas sparkled. You are welcomed to join [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) on the slack. Feel free to contact us in the **#tidb-challenge-program** channel if you have any questions.
 
 ## Before participation
 
@@ -18,15 +18,11 @@ We can’t wait to see innovative ideas sparkled. Participants are welcomed to j
 
 ## Sign up
 
-To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-program/register) in the [tidb-challenge-program/register](https://github.com/tidb-challenge-program/register) Repo, in the following format:
-
-- Title: UCP/Sign Up
-- Text content:
-    - For personal signup, please introduce yourself briefly and leave your email address for future contact.
-    - For team sign up, please introduce your team briefly, provide your team name, list your team members, and leave an email address for future contact
+To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-program/register) in the [tidb-challenge-program/register](https://github.com/tidb-challenge-program/register) Repo, in the format as defined by the issue template.
 
 > **Note:**
 >
+>- You can participate as an individual or team up. In both two cases, you will sign up as a team.
 >- Up to three members are allowed in a team.
 >- Teams that include PingCAP employees will be marked with a star (*). Their challenge points will not be included in the final ranking, but are legible for gift redemption.
 >- To change the signup information, you need to close the original signup issue and open a new one to sign up again.
@@ -118,7 +114,7 @@ A leaderboard of the challenge points will be displayed on the [TiDB Usability C
 
 > **Note:**
 >
-> For the top three voted requirements, the challengers will be granted extra points of 10000, 8000, and 6000 respectively. When the requirements are completed or the program ends for the season, the extra points will be distributed evenly among the subtasks, and will be further divided evenly if the subtask is claimed by a team. Considering the possibility that the requirement may not be fully resolved during the season, the sharing rule of the extra point is:
+> For the top three voted requirements, the challengers will be granted extra points of 10000, 8000, and 6000 respectively. When the requirements are completed or the program ends for the season, the extra points will be distributed evenly among the subtasks, and will be further divided evenly among the members in the corresponding team. Considering the possibility that the requirement may not be fully resolved during the season, the sharing rule of the extra point is:
 
 ```
 (Current Partitipant's Points of Completed Subtasks under This Requirement/All Participants Total Points of Completed subtasks under This Requirement)* Extra Points Granted to This Requirement
@@ -145,7 +141,7 @@ We have put together some learning materials here for you to get familiar with t
 - The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
 - Participants who leave the team and rejoin as individuals do not inherit team points.
 
-**Q2**: How to discard/change the issue I have claimed?
+**Q2**: How do I discard/change the issue I have claimed?
 
 **Answer**:
 
@@ -154,7 +150,7 @@ We have put together some learning materials here for you to get familiar with t
 
 **Q3**: Can I invite PingCAP's internal employees to team up?
 
-**Answer**: Of course you can! We welcome our community members to team up with PingCAP employees. PingCAP members that participate in the program can only work on the challenge issues during non-working hours. In order to ensure the fairness of the event, when the number of PingCAP employees accounts for more than 2/3 in a team, the team can only claim issues that are above the Hard level to challenge, and they will be marked a star team. A star team will not participate in the final points ranking, but still retain the right to redeem their challenge points.
+**Answer**: Of course you can! We welcome our community members to team up with PingCAP employees. If you don’t know any PingCAPers, shout out in the #tidb-challenge-program slack channel. However, please note that PingCAP members in your team can only work on the challenge issues during non-working hours. In order to ensure the fairness of the event, when the number of PingCAP employees accounts for more than 2/3 in a team, the team can only claim issues that are above the Hard level to challenge, and they will be marked a star team. A star team will not participate in the final points ranking, but still retain the right to redeem their challenge points.
 
 **Q4:** What if I don’t remember in which Repo have I earned 200 points?
 
