@@ -51,7 +51,7 @@ View the list of available issues under the TODO Columns in the following projec
  - [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
  - [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 
-> **Note**: `client-rust` and `tikv` are counted as the same  Repo in points calculation.
+> **Note**: `client-rust` and `tikv` are counted as the same Repo in points calculation.
 
 Issues under the TODO columns are divided into three categories according to their difficulty level: TODO/Easy, TODO/Medium, TODO/Hard. The meaning of the tags of Issues are as follows:
 
@@ -75,14 +75,14 @@ If you decide to claim an Issue, please comment “/pick-up-challenge” under t
 Some heads-up:
 
 - The initial challenge point of each participant (individual or team) is 0.
-- "Easy" issues are recommended for newcomers to the challenge program. Earn 200 points in the current  Repo to unlock issues of the "medium" and "hard" difficulty levels.
-- If you already have some historical challenge points and want to challenge a task of “medium” or higher difficulty, you need to make up the historical points of this  Repo to 200 points before you can continue the challenge.
-- Further claiming "easy" tasks of the  Repo after you meet the "medium" challenge qualification will not score. If you just want to do something easy,  you can claim "easy" tasks from other projects.
+- "Easy" issues are recommended for newcomers to the challenge program. Earn 200 points in the current Repo to unlock issues of the "medium" and "hard" difficulty levels.
+- If you already have some historical challenge points and want to challenge a task of “medium” or higher difficulty, you need to make up the historical points of this Repo to 200 points before you can continue the challenge.
+- Further claiming "easy" tasks of the Repo after you meet the "medium" challenge qualification will not score. If you just want to do something easy, you can claim "easy" tasks from other projects.
 - Each participant (individual or team) can only only claim one issue at a time.
 
 ### Step 3: Fix the issue
 
-If you have any questions during the coding process, feel free to contact us via the  [#tidb-challenge-program](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel. Normally you can expect a reply from the assigned mentor for the issue within 24 hours. However, before you ask a question, make sure you have read the issue description carefully and studied the reference materials.
+If you have any questions during the coding process, feel free to contact us via the [#tidb-challenge-program](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel. Normally you can expect a reply from the assigned mentor for the issue within 24 hours. However, before you ask a question, make sure you have read the issue description carefully and studied the reference materials.
 
 ### Step 4: Submit the code
 
@@ -90,11 +90,11 @@ When your solution is ready as required in the issue description, you can commit
 
 The submitted PR must follow the [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/contributors/commit-message-pr-style.md).
 
-For more information on how to submit your PR, see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). After you create the PR, you can also refer to [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) to facilitate the merge process.  
+For more information on how to submit your PR, see [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md). After you create the PR, you can also refer to [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) to facilitate the merge process.
 
 **Format requirement:**
 
-In addition to the format defined by the  Repo, you must provide the number of the claimed issue in the first line,  as shown in the example below:
+In addition to the format defined by the Repo, you must provide the number of the claimed issue in the first line, as shown in the example below:
 
 ```
 UCP #12345
@@ -112,7 +112,7 @@ Otherwise, you will need to update the PR based on the feedback from PR reviewer
 
 A leaderboard of the challenge points will be displayed on the [TiDB Usability Challenge website](https://pingcap.com/community-cn/tidb-usability-challenge/). When the program ends for the season, your can redeem your challenge points for PingCAP Contribution Prizes, including but not limited to TiDB hoodie, North Face customized computer backpack, etc.
 
-**When to redeem**:  Your challenge points are valid for redemption after the current season ends and before the end of the next season. Please be noted that your redemptable  points of this season will be cleared when next season ends.
+**When to redeem**: Your challenge points are valid for redemption after the current season ends and before the end of the next season. Please be noted that your redemptable points of this season will be cleared when next season ends.
 
 **How to redeem**: Fill out the prize redemption table (accessible when redemption is available).
 
@@ -120,7 +120,9 @@ A leaderboard of the challenge points will be displayed on the [TiDB Usability C
 >
 > For the top three voted requirements, the challengers will be granted extra points of 10000, 8000, and 6000 respectively. When the requirements are completed or the program ends for the season, the extra points will be distributed evenly among the subtasks, and will be further divided evenly if the subtask is claimed by a team. Considering the possibility that the requirement may not be fully resolved during the season, the sharing rule of the extra point is:
 
-    (total points of completed subtasks under the requirement of the current participant/total points of the completed subtasks under the requirement of all participants)* extra points of this requirement.
+```
+(Current Partitipant's Points of Completed Subtasks under This Requirement/All Participants Total Points of Completed subtasks under This Requirement)* Extra Points Granted to This Requirement
+```
 
 ## Learning materials
 
@@ -130,7 +132,7 @@ We have put together some learning materials here for you to get familiar with t
 - [TiKV documentation](https://tikv.org/docs/3.0/concepts/overview/) - concepts, user guide, and reference documents for TiKV
 - [Chaos Mesh documentation](https://github.com/pingcap/chaos-mesh/wiki) - user guide, and development guide for Chaos Mesh
 -[PingCAP Talent Plan](https://github.com/pingcap/talent-plan)- a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
--[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - **a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses and talks
+-[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses, and talks.
 
 
 ## FAQs（Updating in Progress)
@@ -139,9 +141,9 @@ We have put together some learning materials here for you to get familiar with t
 
 **Answer**: To change the registration information, you need to close the original registration issue and open another issue for registration. Editing on the original issue is not supported for the time being. There are three cases of changes in points after the registration information is changed:
 
- Increase or decrease of team members will not affect the total points of the team;
- The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
- Participants who leave the team and rejoin as individuals do not inherit team points.
+- Adding or reducing team members will not affect the total points of the team;
+- The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
+- Participants who leave the team and rejoin as individuals do not inherit team points.
 
 **Q2**: How to discard/change the issue I have claimed?
 
@@ -152,8 +154,8 @@ We have put together some learning materials here for you to get familiar with t
 
 **Q3**: Can I invite PingCAP's internal employees to team up?
 
-**Answer**: Of course you can! We welcome our community members to participate with PingCAP employees. PingCAP members that participate in the program can  only work on the challenge issues during non-working hours. In order to ensure the fairness of the event, when the number of PingCAP internal employees accounts for more than 2/3 in a team, the team can only claim issues that are above the Hard level to challenge, and they will be marked a star team. A star team will not participate in the final points ranking, but still retain the right to redeem their challenge points.
+**Answer**: Of course you can! We welcome our community members to team up with PingCAP employees. PingCAP members that participate in the program can only work on the challenge issues during non-working hours. In order to ensure the fairness of the event, when the number of PingCAP employees accounts for more than 2/3 in a team, the team can only claim issues that are above the Hard level to challenge, and they will be marked a star team. A star team will not participate in the final points ranking, but still retain the right to redeem their challenge points.
 
-**Q4:** What if I don’t remember in which  Repo have I earned 200 points?
+**Q4:** What if I don’t remember in which Repo have I earned 200 points?
 
-**Answer**: Each participant will receive an automatic response from sre-bot after registration. The response cotains the points status of the participant in each  Repo.
+**Answer**: Each participant will receive an automatic response from sre-bot after registration. The response cotains the points status of the participant in each Repo.
