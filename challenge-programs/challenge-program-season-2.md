@@ -4,7 +4,7 @@ Welcome to TiDB Challenge Program Season 2.
 
 Season 2 of the TiDB Challenge Program series focuses on the usability of TiDB and its related projects.
 
-Following the principle of “basing directions on users' requirements," we drew most of the requirements of this season from users' votes. These requirements will be presented in the form of tasks in this season. Participants can earn challenge points by claiming tasks. And redeem prizes at the end of the season.
+Following the principle of “basing directions on users' requirements", we drew most of the requirements of this season from users' votes. These requirements will be presented in the form of tasks in this season. Participants can earn challenge points by claiming tasks. And redeem prizes at the end of the season.
 
 Season 2 of TiDB Challenge Program officially started on March 02, 2020, and will end on May 30, 2020, lasting 3 months.
 
