@@ -58,7 +58,8 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 - TiDB 相关 Proposal 可通过 [TiDB Issue 发起通道](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 TiDB Repo；
 - TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
-- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo。
+- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo；
+- TiDB Dashboard 相关 Proposal 可通过 [TiDB Dashboard Issue 发起通道](https://github.com/pingcap-incubator/tidb-dashboard/issues/new?labels=type%2Fenhancement&template=feature-request.md) 递交至 TiDB Dashboard Repo。
 
 格式要求：Issue 标题前需添加“**REQ-challenge-program**”标记，例如：REQ-challenge-program: Further extract tidb_query into different workspaces。
 

@@ -58,9 +58,10 @@ Issues under the TODO columns are divided into three categories according to the
 
 Of course, if you have other ideas of contributions that are not presented under the TODO column, you can raise a proposal by opening a new Issue to the corresponding Repo. Before you do that, make sure you have read the [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) and [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md).
 
-- Raise a proposal to TiDB Repo：[https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md)
-- Raise a proposal to TiKV Repo：[https://github.com/tikv/tikv/issues/new?template=feature-request.md](https://github.com/tikv/tikv/issues/new?template=feature-request.md)
-- Raise a proposal to PD Repo：[https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md)
+- [Raise a proposal](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) to TiDB Repo
+- [Raise a proposal](https://github.com/tikv/tikv/issues/new?template=feature-request.md) to TiKV Repo
+- [Raise a proposal](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) to PD Repo
+- [Raise a proposal](https://github.com/pingcap-incubator/tidb-dashboard/issues/new?labels=type%2Fenhancement&template=feature-request.md) to TiDB Dashboard Repo
 
 **Format requirement**: Add the mark `REQ-UCP` at the beginning of the issue title, for example:
 
