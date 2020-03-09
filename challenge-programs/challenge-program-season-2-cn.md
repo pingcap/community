@@ -13,10 +13,10 @@
     * [团队参赛者](#团队参赛者)
     * [更改报名信息](#更改报名信息)
 * [参赛流程](#参赛流程)
-    * [第一步：查看/新建 Issue](#第一步查看新建-issue)
-        * [查看已有 Issue](#查看已有-issue)
-        * [新建 Issue](#新建-issue)
-    * [第二步：领取 Issue](#第二步领取-issue)
+    * [第一步：查看/新建任务](#第一步查看新建任务)
+        * [查看已有任务](#查看已有任务)
+        * [新建任务](#新建任务)
+    * [第二步：领取任务](#第二步领取任务)
     * [第三步：实现代码](#第三步实现代码)
     * [第四步：提交代码](#第四步提交代码)
     * [第五步：代码评估及积分授予](#第五步代码评估及积分授予)
@@ -24,7 +24,7 @@
 * [**学习资料**](#学习资料)
 * [**FAQ（持续更新中）**](#faq持续更新中)
     * [**Q1：如何进行报名信息变更？报名信息变更后积分将如何变化？**](#q1如何进行报名信息变更报名信息变更后积分将如何变化)
-    * [**Q2：如何放弃/变更已领取的 Issue？**](#q2如何放弃变更已领取的-issue)
+    * [**Q2：如何放弃/变更已领取的任务？**](#q2如何放弃变更已领取的任务)
     * [**Q3：能否邀请 PingCAP 内部员工组队参赛？**](#q3能否邀请-pingcap-内部员工组队参赛)
     * [**Q4：我不记得哪个 repo 是否完成了 200 分怎么办？**](#q4我不记得哪个-repo-是否完成了-200-分怎么办)
     * [**Q5 参加过第一季的选手如何继承历史积分？**](#q5-参加过第一季的选手如何继承历史积分)
@@ -95,11 +95,11 @@
 
 TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->实现任务->提交任务->评估任务->获得积分->积分兑换，其中 “获得积分” 之前的步骤都将在 GitHub 上完成。
 
-### 第一步：查看/新建 Issue
+### 第一步：查看/新建任务
 
-#### 查看已有 Issue
+#### 查看已有任务
 
-当前开放的 Issue 列表可分别在以下仓库 "challenge-program" project 的 TODO Columns 查看：
+当前开放的任务列表可分别在以下仓库 "challenge-program" project 的 TODO Columns 查看：
 
 - [TiDB](https://github.com/pingcap/tidb/projects/26)
 - [TiKV](https://github.com/tikv/tikv/projects/20)
@@ -113,14 +113,14 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 **注：client-rust 与 tikv 在算分时同属于一个 repo。**
 
-其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Usability Challenge 相关标签所代表含义做如下说明：
+其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个任务还设置了一些标签，为方便大家理解，现将 TiDB Usability Challenge 相关标签所代表含义做如下说明：
 
-- "difficulty/easy"、"difficulty/medium"、"difficulty/hard"：Issue 难度级别。
-- "Component/XX"：Issue 所涉及的模块。
+- "difficulty/easy"、"difficulty/medium"、"difficulty/hard"：任务难度级别。
+- "Component/XX"：任务所涉及的模块。
 
-#### 新建 Issue
+#### 新建任务
 
-除了当前开放的 Issue，如果你有其他关于 **Usability Improvement** 的想法想要实现，可通过在相应代码仓库创建 Issue 的方式提出。创建 Issue 之前请确保你已经阅读和了解了 [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) 和 [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)。
+除了当前开放的任务，如果你有其他关于 **Usability Improvement** 的想法想要实现，可通过在相应代码仓库创建 Issue 的方式提出。创建 Issue 之前请确保你已经阅读和了解了 [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) 和 [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md)。
 
 - TiDB 相关 Proposal 可通过 [TiDB Issue 发起通道](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 TiDB Repo；
 - TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
@@ -133,9 +133,9 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 REQ-challenge-program: Further extract tidb_query into different workspaces
 ```
 
-### 第二步：领取 Issue
+### 第二步：领取任务
 
-如果你决定认领某一个 Issue，请先在这个 Issue 中回复 "/pick-up-challenge"， 后台将自动判断你所拥有的积分是否具备挑战此 Issue 的资格，积分满足要求即可开始挑战，积分不满足要求，需按照机器人的提示获得满足挑战要求的积分。
+如果你决定认领某一个任务，请先在这个任务的 GitHub Issue 中回复 "/pick-up-challenge"， 后台将自动判断你所拥有的积分是否具备挑战此任务的资格，积分满足要求即可开始挑战，积分不满足要求，需按照机器人的提示获得满足挑战要求的积分。
 
 **需要特别提醒的是：**
 
@@ -147,7 +147,7 @@ REQ-challenge-program: Further extract tidb_query into different workspaces
 
 ### 第三步：实现代码
 
-如果你觉得你的方案已经达到了题目的要求，可在相关 Repo（例如 tidb）的 master 分支上实现你的方案，在实现代码的过程中如果遇到问题，可以通过 [**#tidb-challenge-program**](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel 与 Mentor 或者其他参赛选手讨论，Issue 指定的 Mentor 会尽可能在 24 小时内予以回复。不过，在提问前确保已经仔细阅读过题目内容并且已经完成了参考资料的学习哦～
+如果你觉得你的方案已经达到了题目的要求，可在相关 Repo（例如 tidb）的 master 分支上实现你的方案，在实现代码的过程中如果遇到问题，可以通过 [**#tidb-challenge-program**](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel 与 Mentor 或者其他参赛选手讨论，任务指定的 Mentor 会尽可能在 24 小时内予以回复。不过，在提问前确保已经仔细阅读过题目内容并且已经完成了参考资料的学习哦～
 
 ### 第四步：提交代码
 
@@ -159,7 +159,7 @@ REQ-challenge-program: Further extract tidb_query into different workspaces
 
 格式要求：
   - PR 标题请参考 [Commit Message and Pull Request Style](https://github.com/pingcap/community/blob/master/contributors/commit-message-pr-style.md) 中定义的规范。
-  - PR 描述的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
+  - PR 描述的第一行需要指定任务 GitHub Issue 的编号，再写每个 repo 要求的格式，示例：
   ```
   UCP #12345
 
@@ -209,14 +209,14 @@ REQ-challenge-program: Further extract tidb_query into different workspaces
 - 加入团队的新成员个人积分将冻结至加入团队前的状态，加入团队后所获积分为团队所有；
 - 从团队中脱离出来以个人身份参赛的选手不继承团队积分，初始积分为 0。
 
-### **Q2：如何放弃/变更已领取的 Issue？**
+### **Q2：如何放弃/变更已领取的任务？**
 
-- 放弃 Issue：在已领取的 Issue 下回复 “give-up-challenge”
-- 变更 Issue：先对已领取的 Issue 执行 “放弃 Issue” 操作，再选择新的 Issue
+- 放弃任务：在已领取的 GitHub Issue 下回复 “give-up-challenge”
+- 变更任务：先对已领取的任务执行 “放弃任务” 操作，再选择新的任务
 
 ### **Q3：能否邀请 PingCAP 内部员工组队参赛？**
 
-当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于等于 ⅔ 时，该团队只能选择 Hard 级别以上的 Issue 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**
+当然可以！我们非常欢迎社区小伙伴与 PingCAP 内部员工共同参赛。PingCAP 小伙伴可以在**非工作时间**与社区小伙伴一起攻克难题。为了尽可能保证赛事的公平，**当 PingCAP 内部员工数在团队总人数中所占比例大于等于 2/3 时，该团队只能选择 Hard 级别以上的任务 进行挑战，且团队将作为打星队伍，不参与积分最终排名，但仍保留积分兑换权限。**
 
 ### **Q4：我不记得哪个 repo 是否完成了 200 分怎么办？**
 
@@ -224,6 +224,6 @@ REQ-challenge-program: Further extract tidb_query into different workspaces
 
 ### **Q5 参加过第一季的选手如何继承历史积分？**
 
-- 第一季个人报名选手，如果需要继承历史积分，请在 issue 中直接 @you06
-- 第一季个人报名选手，第二季如果想转成团队并继承历史积分，请在 issue 中直接 @you06
+- 第一季个人报名选手，如果需要继承历史积分，请在报名 issue 中直接 @you06
+- 第一季个人报名选手，第二季如果想转成团队并继承历史积分，请在报名 issue 中直接 @you06
 - 第一季的团队选手，如果需要继承积分，请队长在第二季创建同名队伍。
