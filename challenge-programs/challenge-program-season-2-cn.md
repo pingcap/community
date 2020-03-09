@@ -1,4 +1,5 @@
 # Challenge Program Season 2
+
 TiDB Usability Challenge Program 作为 TiDB Challenge Program 系列的第二赛季，将聚焦 TiDB 易用性。
 
 本着「用户的需求就是我们的方向」，这一季的大部分需求都将由用户投票产生，这些需求将以任务的形式呈现在第二季挑战赛中，参赛选手可以通过认领任务的方式获得积分，在赛季结束后进行奖品兑换。
@@ -17,10 +18,10 @@ TiDB Usability Challenge Program 作为 TiDB Challenge Program 系列的第二�
 
 - 报名方式： [发起 Issue](https://github.com/tidb-challenge-program/register) 至 [tidb-challenge-program/register](https://github.com/tidb-challenge-program/register) repo
 - 格式要求：
-    - 标题：UCP/Sign Up
-    - 内容：
-        - 个人参赛：请对你自己进行简要介绍，并留下可以与你取得联系的邮箱地址。
-        - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-challenge-program/register/blob/master/.github/ISSUE_TEMPLATE/challenge-program-register.md)。
+  - 标题：UCP/Sign Up
+  - 内容：
+    - 个人参赛：请对你自己进行简要介绍，并留下可以与你取得联系的邮箱地址。
+    - 团队参赛：请对你的团队进行简要介绍，写明团队名称，每个团队成员的 GitHub ID，并留下可以与你们取得联系的邮箱地址。可参考 [示例](https://github.com/tidb-challenge-program/register/blob/master/.github/ISSUE_TEMPLATE/challenge-program-register.md)。
 
 **注意事项：**
 
@@ -35,15 +36,16 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 **第一步：查看 / 提出 Issue**
 
 当前开放的 Issue 列表可分别在以下 repo 的 TODO Columns 查看。
-- [TiDB Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
-- [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
-- [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
-- [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
-- [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
-- [Backup&Restore challenge Program Project](https://github.com/pingcap/br/projects/1)
-- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
-- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
-- [cherry-bot challenge Program Project](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+
+- [TiDB](https://github.com/pingcap/tidb/projects/26)
+- [TiKV](https://github.com/tikv/tikv/projects/20)
+- [PD](https://github.com/pingcap/pd/projects/2)
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh/projects/14)
+- [Data Migration](https://github.com/pingcap/dm/projects/1)
+- [Backup & Restore](https://github.com/pingcap/br/projects/1)
+- [client-rust](https://github.com/tikv/client-rust/projects/3)
+- [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 **注：client-rust 与 tikv 在算分时同属于一个 repo。**
 
@@ -56,7 +58,8 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 
 - TiDB 相关 Proposal 可通过 [TiDB Issue 发起通道](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 TiDB Repo；
 - TiKV 相关 Proposal 可通过 [TiKV Issue 发起通道](https://github.com/tikv/tikv/issues/new?template=feature-request.md) 提交至 TiKV Repo；
-- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo。
+- PD 相关 Proposal 可通过 [PD Issue 发起通道](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md) 提交至 PD Repo；
+- TiDB Dashboard 相关 Proposal 可通过 [TiDB Dashboard Issue 发起通道](https://github.com/pingcap-incubator/tidb-dashboard/issues/new?labels=type%2Fenhancement&template=feature-request.md) 递交至 TiDB Dashboard Repo。
 
 格式要求：Issue 标题前需添加“**REQ-challenge-program**”标记，例如：REQ-challenge-program: Further extract tidb_query into different workspaces。
 
@@ -85,11 +88,13 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 提交方式：代码完成后，参赛者需提交 GitHub Pull Request(PR) 到相应 Repo，如何提交 PR 可参考 [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md)，这里也有一些 [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) 供大家参考。
 
 格式要求：PR 的第一行需要指定任务 Issue 的编号，再写每个 repo 要求的格式，示例：
+
 ```
 UCP #12345
 
 <!-- The following description -->
 ```
+
 **第五步：代码评估及积分授予**
 
 评估规则：PR Reviewer 会对 PR 进行代码格式、代码功能和易用性的 Review，获得 2 个以上 Reviewer 认可（即在 PR 中评论 “LGTM”）的 PR 将会被 merge 到对应 repo 的主干。
@@ -108,7 +113,7 @@ UCP #12345
 
 **注意事项：**
 
-- 排名前三的需求，整体上各自分别加 10000， 8000， 6000 分。等需求完整的实现或者挑战赛结束，需求的加分将由需求的子任务完成者们一起分享。考虑到需求不一定能在挑战赛期间完整做完，这些需求额外积分的分享规则为：(该挑战者完成的该需求的子任务积分和/所有挑战者完成的该需求的子任务积分和)*这个需求的总加分
+- 排名前三的需求，整体上各自分别加 10000， 8000， 6000 分。等需求完整的实现或者挑战赛结束，需求的加分将由需求的子任务完成者们一起分享。考虑到需求不一定能在挑战赛期间完整做完，这些需求额外积分的分享规则为：(该挑战者完成的该需求的子任务积分和/所有挑战者完成的该需求的子任务积分和)\*这个需求的总加分
 
 ## **学习资料**
 
