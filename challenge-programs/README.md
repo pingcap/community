@@ -1,10 +1,10 @@
 # TiDB Challenge Program
 
-We’re thankful to all contributors of the TiDB open-source community for every contribution to TiDB! We’re inspired to see more and more developers joining our community and demonstrating their passion and pursuit of open-source spirit. TiDB continues to evolve on and on, empowered by the open-source community!
+We’re thankful to all TiDB contributors for each and every contribution you made! As the TiDB community expands and the project evloves, we’re inspired to see more and more developers joining us and demonstrating their passion and pursuit of the open-source spirit. TiDB could not be what it is today if it were not the community.
 
-We really appreciate and always believe in the power of the open-source community, so in order to raise TiDB to a new level in terms of stability, performance, usability, we decided to launch the series of TiDB Challenge Program! There some issues will be opened for the programmers to discuss and solve together. Completed a task that’s part of the Challenge Program, we’ll make a note of it. At the end of each season, we’ll be offering some rewards to top contributors!
+In order to bring TiDB to a new level in terms of stability, performance, and usability, we decided to launch the TiDB Challenge Program! It is a series program where issues of the specified theme will be opened for the participants to discuss and solve together. Once a task from the Challenge Program is completed, it will be counted in score under the name of the participants. At the end of each season of the program, top contributors will receive awards based on their final scores!
 
-You can check all the open issues in TODO Columns in Challenge Program season 2 under the following projects:
+Here are a list of projects available for your choice. You can check all the open issues of your interested project in the TODO Columns (Currently applicable to Challenge Program Season 2):
 
 - [TiDB Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
 - [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
@@ -15,7 +15,7 @@ You can check all the open issues in TODO Columns in Challenge Program season 2 
 - [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
 - [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 
-## Season Index
+## Season Entry
 
 | season                                                      | period          |
 | ----------------------------------------------------------- | --------------- |
