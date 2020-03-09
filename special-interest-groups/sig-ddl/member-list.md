@@ -17,11 +17,7 @@ Members and their contributions:
 
 ## Tech Leads
 
-Leads:
 * [zimulala](https://github.com/zimulala), [PingCAP](https://pingcap.com/en/)
 * [tangenta](https://github.com/tangenta), [PingCAP](https://pingcap.com/en/)
-
-Co-Leads:
-
 * [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
 * [tiancaiamao](https://github.com/tiancaiamao), [PingCAP](https://pingcap.com/en/)

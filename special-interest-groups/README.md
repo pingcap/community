@@ -14,6 +14,7 @@ SIG.
 
 * [sig-exec](./sig-exec)
 * [sig-ddl](./sig-ddl)
+* [sig-k8s](./sig-k8s)
 * [sig-planner](./sig-planner)
 * [sig-tools](./sig-tools)
 * [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
