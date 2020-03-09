@@ -8,8 +8,8 @@
 ## Tech Leads
 
 Leads:
-* [tennix](https://github.com/tennix), [PingCAP](https://pingcap.com/en/)
+* [cofyc](https://github.com/cofyc), [PingCAP](https://pingcap.com/en/)
 
 Co-Leads:
 
-* [cofyc](https://github.com/cofyc), [PingCAP](https://pingcap.com/en/)
+* [yisaer](https://github.com/yisaer), [PingCAP](https://pingcap.com/en/)
