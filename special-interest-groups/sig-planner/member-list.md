@@ -17,6 +17,6 @@ Members and their contributions:
 
 None
 
-## Technical Leads
+## Tech Leads
 
-pingcap/co-planner[https://github.com/orgs/pingcap/teams/co-planner]
+* [winoros](https://github.com/winoros), [PingCAP](https://pingcap.com/en/)
