@@ -6,15 +6,15 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 
 当前开放的 Issue 列表可分别在以下 project 中的 TODO Columns 查看。
 
-- [TiDB Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
-- [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
-- [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
-- [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
-- [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
-- [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
-- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
-- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
-- [cherry-bot challenge Program Project](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+- [TiDB](https://github.com/pingcap/tidb/projects/26)
+- [TiKV](https://github.com/tikv/tikv/projects/20)
+- [PD](https://github.com/pingcap/pd/projects/2)
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh/projects/14)
+- [Data Migration](https://github.com/pingcap/dm/projects/1)
+- [Backup & Restore](https://github.com/pingcap/br/projects/1)
+- [client-rust](https://github.com/tikv/client-rust/projects/3)
+- [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 ## 赛季索引
 
@@ -22,6 +22,3 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 | ------------------------------------------------------------ | --------------- |
 | [Challenge Program 第二季](challenge-program-season-2-cn.md) | 2020.03~2020.05 |
 | [Challenge Program 第一季](challenge-program-season-1-cn.md) | 2019.11~2020.02 |
-
-
-

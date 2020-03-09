@@ -6,14 +6,15 @@ In order to bring TiDB to a new level in terms of stability, performance, and us
 
 Here are a list of projects available for your choice. You can check all the open issues of your interested project in the TODO Columns (Currently applicable to Challenge Program Season 2):
 
-- [TiDB Challenge Program Project](https://github.com/pingcap/tidb/projects/26)
-- [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
-- [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2) 
-- [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
-- [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
-- [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
-- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
-- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [TiDB](https://github.com/pingcap/tidb/projects/26)
+- [TiKV](https://github.com/tikv/tikv/projects/20)
+- [PD](https://github.com/pingcap/pd/projects/2)
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh/projects/14)
+- [Data Migration](https://github.com/pingcap/dm/projects/1)
+- [Backup & Restore](https://github.com/pingcap/br/projects/1)
+- [client-rust](https://github.com/tikv/client-rust/projects/3)
+- [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 ## Season Entry
 

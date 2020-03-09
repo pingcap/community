@@ -22,16 +22,16 @@ To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-pr
 
 > **Note:**
 >
->- You can participate as an individual or team up. In both two cases, you will sign up as a team.
->- Up to three members are allowed in a team.
->- Teams that include PingCAP employees will be marked with a star (*). Their challenge points will not be included in the final ranking, but are legible for gift redemption.
->- To change the signup information, you need to close the original signup issue and open a new one to sign up again.
+> - You can participate as an individual or team up. In both two cases, you will sign up as a team.
+> - Up to three members are allowed in a team.
+> - Teams that include PingCAP employees will be marked with a star (\*). Their challenge points will not be included in the final ranking, but are legible for gift redemption.
+> - To change the signup information, you need to close the original signup issue and open a new one to sign up again.
 
 ## How To challenge
 
 The entire flow of the TiDB Usability Challenge Program consists of the following:
 
-**Check the issue** -> **Claim the issue**  -> **Fix the task** -> **Submit the code** -> **Evaluate the Issue** -> **Grant points** -> **Redeem your points**
+**Check the issue** -> **Claim the issue** -> **Fix the task** -> **Submit the code** -> **Evaluate the Issue** -> **Grant points** -> **Redeem your points**
 
 where the steps before "Grant points" will be performed on GitHub.
 
@@ -39,13 +39,15 @@ where the steps before "Grant points" will be performed on GitHub.
 
 View the list of available issues under the TODO Columns in the following projects:
 
- - [TiKV Challenge Program Project](https://github.com/tikv/tikv/projects/20)
- - [PD Challenge Program Project](https://github.com/pingcap/pd/projects/2)
- - [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
- - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
- - [Backup&Restore challenge Program Project](https://github.com/pingcap/br/projects/1)
- - [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
- - [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [TiDB](https://github.com/pingcap/tidb/projects/26)
+- [TiKV](https://github.com/tikv/tikv/projects/20)
+- [PD](https://github.com/pingcap/pd/projects/2)
+- [chaos-mesh](https://github.com/pingcap/chaos-mesh/projects/14)
+- [Data Migration](https://github.com/pingcap/dm/projects/1)
+- [Backup & Restore](https://github.com/pingcap/br/projects/1)
+- [client-rust](https://github.com/tikv/client-rust/projects/3)
+- [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 > **Note**: `client-rust` and `tikv` are counted as the same Repo in points calculation.
 
@@ -56,11 +58,11 @@ Issues under the TODO columns are divided into three categories according to the
 
 Of course, if you have other ideas of contributions that are not presented under the TODO column, you can raise a proposal by opening a new Issue to the corresponding Repo. Before you do that, make sure you have read the [Contribution Guide](https://github.com/pingcap/community/blob/master/CONTRIBUTING.md) and [Contributor Covenant Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md).
 
- - Raise a proposal to TiDB Repo：[https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md)
- - Raise a proposal to TiKV Repo：[https://github.com/tikv/tikv/issues/new?template=feature-request.md](https://github.com/tikv/tikv/issues/new?template=feature-request.md)
- - Raise a proposal to PD Repo：[https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md)
+- Raise a proposal to TiDB Repo：[https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/tidb/issues/new?labels=type%2Fenhancement&template=feature-request.md)
+- Raise a proposal to TiKV Repo：[https://github.com/tikv/tikv/issues/new?template=feature-request.md](https://github.com/tikv/tikv/issues/new?template=feature-request.md)
+- Raise a proposal to PD Repo：[https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md](https://github.com/pingcap/pd/issues/new?labels=type%2Fenhancement&template=feature-request.md)
 
-**Format requirement**: Add the mark `REQ-UCP` at the beginning of the issue title, for example: 
+**Format requirement**: Add the mark `REQ-UCP` at the beginning of the issue title, for example:
 
 `REQ-UCP: Further extract tidb_query into different workspaces`
 
@@ -127,9 +129,8 @@ We have put together some learning materials here for you to get familiar with t
 - [TiDB documentation](https://pingcap.com/docs/) - concepts, user guide, and reference documents for TiDB
 - [TiKV documentation](https://tikv.org/docs/3.0/concepts/overview/) - concepts, user guide, and reference documents for TiKV
 - [Chaos Mesh documentation](https://github.com/pingcap/chaos-mesh/wiki) - user guide, and development guide for Chaos Mesh
--[PingCAP Talent Plan](https://github.com/pingcap/talent-plan)- a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
--[Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)** - a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses, and talks.
-
+- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan) - a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - a list of learning materials to help you understand databases internals, including but not limited to:papers, blogs, courses, and talks.
 
 ## FAQs（Updating in Progress)
 
