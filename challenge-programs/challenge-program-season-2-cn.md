@@ -1,5 +1,7 @@
 # Challenge Program Season 2
 
+![Usability Challenge Program](/media/challenge-programs/usability-challenge.svg)
+
 欢迎来到聚焦于 TiDB **易用性**的挑战赛第二季：TiDB Usability Challenge Program！
 
 ## 目录
