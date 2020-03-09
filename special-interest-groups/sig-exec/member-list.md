@@ -36,11 +36,6 @@ Members and their contributions:
 
 ## Technical Leads
 
-Lead:
-
 * [qw4990](https://github.com/qw4990), [PingCAP](https://pingcap.com/en/)
-
-Co-Leads:
-
 * [XuHuaiyu](https://github.com/XuHuaiyu), [PingCAP](https://pingcap.com/en/)
 * [SunRunAway](https://github.com/SunRunAway), [PingCAP](https://pingcap.com/en/)
