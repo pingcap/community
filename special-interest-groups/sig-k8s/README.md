@@ -18,7 +18,7 @@ See [SIG K8S Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel #sig-tidb-operator in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #tidb-on-cloud in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Code Locations
 
