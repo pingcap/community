@@ -37,10 +37,10 @@
 
 - 比赛时间：2020-03-02 ~ 2020-05-30，持续 3 个月；
 - 交流渠道：我们使用 Slack 进行沟通交流，欢迎大家加入 [TiDB Community Slack Workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) 的 **#tidb-challenge-program** channel，在这里你可以：
-    - 和 Mentor 和其他参赛选手讨论任务如何实现
-    - 找 Mentor 或者相关 SIG Reviewer 以上角色的同学 Review PR
+    - 和 Mentor 或其他参赛选手讨论任务如何实现
+    - 找 Mentor 或相关 SIG Reviewer 以上角色的同学 Review PR
     - 反馈机器人（sre-bot）故障
-    - 找 PingCAP 内部同学组队（不过需要注意和组队规则哟）
+    - 找 PingCAP 内部同学组队（不过需要注意和 PingCAP 内部同学的组队规则哟，见 [团队参赛者](#团队参赛者)）
     - 参赛过程中遇到任何其他问题
 
 ## 赛前准备
