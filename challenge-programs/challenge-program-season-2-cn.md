@@ -41,8 +41,9 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
 - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
 - [Backup&Restore challenge Program Project](https://github.com/pingcap/br/projects/1)
-- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
+- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
 - [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot challenge Program Project](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 **注：client-rust 与 tikv 在算分时同属于一个 repo。**
 

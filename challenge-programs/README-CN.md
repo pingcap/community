@@ -12,7 +12,9 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 - [chaos-mesh Challenge Program Project](https://github.com/pingcap/chaos-mesh/projects/14)
 - [Data Migration Challenge Program Project](https://github.com/pingcap/dm/projects/1)
 - [Backup&Restore challenge program project](https://github.com/pingcap/br/projects/1)
-- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3) 
+- [client-rust challenge Program Project](https://github.com/tikv/client-rust/projects/3)
+- [dashboard challenge program](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
+- [cherry-bot challenge Program Project](https://github.com/pingcap-incubator/cherry-bot/projects/1)
 
 ## 赛季索引
 
