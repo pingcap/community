@@ -31,3 +31,4 @@ See [SIG Tools Member List](./member-list.md)
 * The [backup and resotre](https://github.com/pingcap/br).
 * The [ticdc](https://github.com/pingcap/ticdc).
 * The [dumpling](https://github.com/pingcap/dumpling).
+* The [tidb-tools](https://github.com/pingcap/tidb-tools).
