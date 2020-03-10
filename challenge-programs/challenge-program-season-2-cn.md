@@ -213,7 +213,7 @@ REQ-challenge-program: Further extract tidb_query into different workspaces
 
 ### **Q2：如何放弃/变更已领取的任务？**
 
-- 放弃任务：在已领取的 GitHub Issue 下回复 “give-up-challenge”
+- 放弃任务：在已领取的 GitHub Issue 下回复 “/give-up-challenge”
 - 变更任务：先对已领取的任务执行 “放弃任务” 操作，再选择新的任务
 
 ### **Q3：能否邀请 PingCAP 内部员工组队参赛？**
