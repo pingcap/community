@@ -22,6 +22,7 @@ SIG.
 
 * [K8S](./sig-k8s)
 * [Tools](./sig-tools)
+* [TiDB Dashboard](./sig-dashboard)
 
 ### TiKV
 
