@@ -33,7 +33,7 @@ The [communicating.md](./communicating.md) file lists communication channels lik
 chat, social medias, etc.
 
 For more specific topics, join
-[TiDB Community slack channel](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
+[TiDB Community slack workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
 
 ### Governance
 
@@ -56,11 +56,11 @@ TiDB has the following types of groups that are officially supported:
 
 Contributions are welcomed and greatly appreciated.
 
-See [`contributors` directory](./contributors/README.md) for details.
+See [`contributors`](./contributors/README.md) for details.
 
 ## Learning Resources
 
-Learning resources are collected in the [`learning-resources` directory](./learning-resources/README.md). Here you can find all the
+Learning resources are collected in the [`learning-resources`](./learning-resources/README.md). Here you can find all the
 resources which helps you learn and contribute TiDB. For example, you can learn
 TiDB architecture though the following blogs:
 
@@ -71,7 +71,7 @@ TiDB architecture though the following blogs:
 
 ## RFC
 
-See [`rfc` directory](./rfc/README.md).
+See [`rfc`](./rfc/README.md).
 
 ## TiDB Roadmap
 
