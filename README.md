@@ -13,7 +13,7 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ![TiDB Community Architecture](./media/architecture.svg)
 
-See [`architecture` directory](./architecture/README.md) for more details about the community architecture.
+See [`architecture` directory](./architecture/README.md) for details.
 
 ## TiDB User Group
 
@@ -43,14 +43,14 @@ TiDB has the following types of groups that are officially supported:
   module of TiDB. SIGs must have open and transparent proceedings. The purpose
   of a SIG is to own and develop a module of TiDB.
 
-  See [`special-interest-groups` directory](./special-interest-groups) for details and active SIGs.
+  See [`special-interest-groups` directory](./special-interest-groups/README.md) for details and active SIGs.
 
 * **Working Groups (WGs)** are temporary groups that are formed to address
   issues that cross SIG boundaries. Working groups do not own any code or other
   long term artifacts. Working groups can report back and act through involved
   SIGs.
 
-  See [`working-groups` directory](./working-groups) for details and active WGs.
+  See [`working-groups` directory](./working-groups/README.md) for details and active WGs.
 
 ### How to contribute
 
