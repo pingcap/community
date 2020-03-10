@@ -12,14 +12,22 @@ SIG.
 
 ## Active Special Interest Groups
 
-* [sig-exec](./sig-exec)
-* [sig-ddl](./sig-ddl)
-* [sig-k8s](./sig-k8s)
-* [sig-planner](./sig-planner)
-* [sig-tools](./sig-tools)
-* [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
-* [sig-engine (TiKV)](https://github.com/tikv/community/tree/master/sig/engine)
-* [sig-raft (TiKV)](https://github.com/tikv/community/tree/master/sig/raft)
-* [sig-performance (TiKV)](https://github.com/tikv/community/tree/master/sig/performance)
-* [sig-transaction (TiKV)](https://github.com/tikv/community/tree/master/sig/transaction)
-* [sig-ecosystem (TiKV)](https://github.com/tikv/community/tree/master/sig/ecosystem)
+### TiDB
+
+* [Execution](./sig-exec)
+* [Planner](./sig-planner)
+* [DDL](./sig-ddl)
+
+### TiDB Product
+
+* [K8S](./sig-k8s)
+* [Tools](./sig-tools)
+
+### TiKV
+
+* [Coprocessor](https://github.com/tikv/community/tree/master/sig/coprocessor)
+* [Engine](https://github.com/tikv/community/tree/master/sig/engine)
+* [Raft](https://github.com/tikv/community/tree/master/sig/raft)
+* [Performance](https://github.com/tikv/community/tree/master/sig/performance)
+* [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
+* [Ecosystem](https://github.com/tikv/community/tree/master/sig/ecosystem)
