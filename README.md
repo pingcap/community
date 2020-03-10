@@ -50,7 +50,7 @@ TiDB has the following types of groups that are officially supported:
   long term artifacts. Working groups can report back and act through involved
   SIGs.
 
-  See [`working-groups` directory](./working-groups/README.md) for details and active WGs.
+  See [`working-groups`](./working-groups/README.md) for details and active WGs.
 
 ### How to contribute
 
