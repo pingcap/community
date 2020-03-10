@@ -13,7 +13,7 @@ improving docs, improving code, giving talks, organizing meetups, etc.
 
 ![TiDB Community Architecture](./media/architecture.svg)
 
-See [TiDB Community Architecture](./architecture/README.md) for more details.
+See [`architecture` directory](./architecture/README.md) for more details about the community architecture.
 
 ## TiDB User Group
 
@@ -21,19 +21,19 @@ The TiDB User Groups (TUGs) are groups for facilitating communication and
 discovery of information related to topics that have long term relevance to
 large groups of TiDB users.
 
-See [docs](https://pingcap.com/docs/) or
-[docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
-help in [AskTUG](https://asktug.com/) if you met any problem.
+See [pingcap/docs](https://pingcap.com/docs/) or
+[pingcap/docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
+help in [AskTUG.com](https://asktug.com/) if you met any problem.
 
 ## TiDB Developer Group
 
 ### Communication
 
-The [communication](./communicating.md) page lists communication channels like
+The [communicating.md](./communicating.md) file lists communication channels like
 chat, social medias, etc.
 
 For more specific topics, join
-[TiDB Community](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) slack channel and discuss with others.
+[TiDB Community slack channel](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
 
 ### Governance
 
@@ -43,21 +43,24 @@ TiDB has the following types of groups that are officially supported:
   module of TiDB. SIGs must have open and transparent proceedings. The purpose
   of a SIG is to own and develop a module of TiDB.
 
+  See [`special-interest-groups` directory](./special-interest-groups) for details and active SIGs.
+
 * **Working Groups (WGs)** are temporary groups that are formed to address
   issues that cross SIG boundaries. Working groups do not own any code or other
   long term artifacts. Working groups can report back and act through involved
   SIGs.
 
+  See [`working-groups` directory](./working-groups) for details and active WGs.
+
 ### How to contribute
 
-Contributions are welcomed and greatly appreciated. See [How to
-contribute](./contributors/README.md) for details on setting up development
-environment, contribution workflow and submitting patches, etc.
+Contributions are welcomed and greatly appreciated.
+
+See [`contributors` directory](./contributors/README.md) for details.
 
 ## Learning Resources
 
-Learning resources are collected in the [learning
-resources](./learning-resources/README.md) page. Here you can find all the
+Learning resources are collected in the [`learning-resources` directory](./learning-resources/README.md). Here you can find all the
 resources which helps you learn and contribute TiDB. For example, you can learn
 TiDB architecture though the following blogs:
 
@@ -68,7 +71,7 @@ TiDB architecture though the following blogs:
 
 ## RFC
 
-See [RFC](./rfc/README.md) for RFCs for details.
+See [`rfc` directory](./rfc/README.md).
 
 ## TiDB Roadmap
 
@@ -81,7 +84,7 @@ See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
 * [Techday 2019](https://github.com/pingcap/presentations/tree/master/techday2019)
 * [Paper Reading](https://github.com/pingcap/presentations/blob/master/paper-reading.md)
 * [Summer of code](./soc/README.md)
-* [Performance Challenge Program](./challenge-Programs/README.md)
+* [Challenge Program](./challenge-programs/README.md)
 * [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
 * [PingCAP Incubator Program](./incubator/README.md)
 

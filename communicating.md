@@ -12,7 +12,7 @@ members via any one of the following ways:
 
 The TiDB Blog is a great resource pool to find content! We post the latest TiDB
 news including new releases and technical articles there. Check out this page:
-[blog](https://pingcap.com/blog) or [blog-cn](https://pingcap.com/blog-cn)(in Chinese).
+[pingcap/blog](https://pingcap.com/blog) or [pingcap/blog-cn](https://pingcap.com/blog-cn)(in Chinese).
 
 ## TiDB Weekly
 
