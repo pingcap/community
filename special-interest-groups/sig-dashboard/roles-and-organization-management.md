@@ -1,8 +1,4 @@
-# Dashboard SIG Charter
-
-## Meetings
-
-There is no regular meeting.
+# Dashboard SIG Roles and Organization Management
 
 ## Join
 
@@ -59,4 +55,4 @@ There is no explicit promotion rules, but the following basic requirements must 
 - Exhibited good technical judgment.
 - Notable contributions: PR point (**excluding** easy level) >= 20.
 
-[member list]: ./MEMBERS.md
+[member list]: ./member-list.md
