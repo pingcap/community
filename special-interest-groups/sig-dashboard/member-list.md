@@ -19,3 +19,7 @@ None
 ## Active Contributors
 
 None
+
+## Inactive Contributors
+
+None
