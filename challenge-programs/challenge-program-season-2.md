@@ -48,6 +48,7 @@ View the list of available issues under the TODO Columns in the following projec
 - [client-rust](https://github.com/tikv/client-rust/projects/3)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 - [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+- [TiDB Operator](https://github.com/pingcap/tidb-operator/projects/4)
 
 > **Note**: `client-rust` and `tikv` are counted as the same Repo in points calculation.
 
