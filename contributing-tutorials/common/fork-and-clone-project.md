@@ -98,3 +98,13 @@ git rebase upstream/master
 git fetch upstream
 git rebase upstream/master
 ```
+
+### 第七步：提交 Pull request
+
+[Refer to create-pull-request](create-pull-request.md)
+
+![](./images/git-process.png)
+
+
+
+
