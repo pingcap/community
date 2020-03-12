@@ -58,9 +58,15 @@ There is no explicit promotion rules, but the following basic requirements must 
 
 ### Active Contributor
 
-You will lose the Active Contributor role if you have no contribution within a year. After that, you will be moved to Inactive Contributors in the [member list].
+The Active Contributor role will be demoted if one has no contribution within a year. After demotion, he / she will be moved to Inactive Contributors in the [member list].
 
-Once you meet the requirements, you can become Active Contributor again.
+Once meeting the requirements of Active Contributor, one can become Active Contributor again.
+
+### Reviewer
+
+The Reviewer role will be demoted if one does not review any PR or contribute any new PR within 6 months. After demotion, he / she will be moved to Active Contributor.
+
+Once meeting the requirements of Reviewer, one can become Reviewer again.
 
 ### Voluntarily Quit or Demote
 
