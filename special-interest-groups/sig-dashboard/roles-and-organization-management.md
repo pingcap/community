@@ -13,14 +13,6 @@ However you will be only listed in our [member list] if you have **Active Contri
 
 ### Promotion
 
-#### Concept: PR Point
-
-Most of the promotion rules below use "PR Point" to calculate the contribution, which is calculated as:
-
-- 1 easy level task = 1 point
-- 1 medium level task = 5 point
-- 1 hard level task = 15 point
-
 #### Be Promoted to [`Contributor`](../../architecture/README.md#contributor)
 
 Everyone that successfully contributes commits to the [TiDB Dashboard repository](https://github.com/pingcap-incubator/tidb-dashboard) is a contributor.
@@ -29,7 +21,7 @@ Everyone that successfully contributes commits to the [TiDB Dashboard repository
 
 Please open a Pull Request to list yourself in our [member list] if you meet the following requirements and want to have an Active Contributor role:
 
-- PR point >= 5 in recent 1 years.
+- Merged 8+ PRs in recent 1 years.
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
@@ -40,7 +32,9 @@ There is no explicit promotion rules, but the following basic requirements must 
 - Nominated by a Tech Leader.
 - Already an Active Contributor.
 - Familiar with the code base.
-- Contributions that prove the reviewing capability: PR point >= 10.
+- Contributions that prove the reviewing capability. Meet **any** of the following:
+  - Merged 2+ medium level PRs.
+  - Merged 1+ hard level PRs.
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
@@ -52,7 +46,10 @@ There is no explicit promotion rules, but the following basic requirements must 
 - Approved by 2 maintainers from TiDB Dashboard, TiDB or TiKV.
 - Already an Active Contributor (Reviewer is not a prerequisite).
 - Exhibited good technical judgment.
-- Notable contributions: PR point (**excluding** easy level) >= 20.
+- Notable contributions. Meet **any** of the following:
+  - Merged 4+ medium level PRs.
+  - Merged 1+ medium level PRs and 1+ hard level PRs.
+  - Merged 2+ hard level PRs.
 
 ## Quit and Demotion
 
