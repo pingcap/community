@@ -112,6 +112,7 @@ TiDB Usability Challenge Program 全流程包括：查看任务->领取任务->�
 - [client-rust](https://github.com/tikv/client-rust/projects/3)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 - [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+- [TiDB Operator](https://github.com/pingcap/tidb-operator/projects/4)
 
 **注：client-rust 与 tikv 在算分时同属于一个 repo。**
 
