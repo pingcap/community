@@ -15,6 +15,7 @@ TiDB 产品的每一次微小进步都离不开社区小伙伴的支持和帮助
 - [client-rust](https://github.com/tikv/client-rust/projects/3)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 - [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+- [TiDB Operator](https://github.com/pingcap/tidb-operator/projects/4)
 
 ## 赛季索引
 
