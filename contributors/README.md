@@ -111,6 +111,12 @@ See [Code Comment Style](./code-comment-style.md) for details.
 
 See [Commit Message and Pull Request Style](./commit-message-pr-style.md) for details.
 
+### Designing a diagram
+
+To keep a consistent diagram style, you are recommended to use [Figma](https://www.figma.com/) to design a diagram.
+
+See [Figma Quick Start Guide](/contributors/figma-quick-start-guide.md).
+
 ## Contributing
 
 ### Communication
