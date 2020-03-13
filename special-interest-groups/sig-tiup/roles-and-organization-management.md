@@ -18,7 +18,7 @@ However you will be only listed in our [member list] if you have **Active Contri
 Requirements:
 
 * Have at least 4 PRs merged within one year.
-* Nominated by at least 1 DDL TiUP Reviewers or roles above.
+* Nominated by at least 1 TiUP SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 
