@@ -1,6 +1,6 @@
-## 从开发一个新 Chaos 开始
+## 从第一个开发试验开始
 
-在这一章节，我们将尝试开发一个非常简单的新 Chaos 对象，从而熟悉 chaos-mesh 的开发框架。 chaos-mesh 的整个核心框架是 [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), 你可以通过这本教程来学习 [kubebulder开发指南](https://book.kubebuilder.io/)
+在这一章节，我们将尝试开发一个非常简单的新功能，从而熟悉 chaos-mesh 的开发框架。 chaos-mesh 的整个核心框架是 [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), 你可以通过这本教程来学习 [kubebulder开发指南](https://book.kubebuilder.io/)
 
 
 现在，我们可以通过给 chaos-mesh controller 增加一个 event 事件，来作为我们第一次小改动。如果你并不了解 event，你可以通过[如何排查应用](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/#using-kubectl-describe-pod-to-fetch-details-about-pods) 以及 [Kubernetes event 中文资料](https://www.kubernetes.org.cn/1031.html)  来了解。

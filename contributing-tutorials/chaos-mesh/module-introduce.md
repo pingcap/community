@@ -1,6 +1,6 @@
 ## 模块介绍
 
-整个 chaos-mesh 醒目，可以拆分成以下几个大块。这个章节主要介绍 chaos-mesh 的各个大块，以及各个模块的主要负责人。
+整个 chaos-mesh 项目，可以拆分成以下几个大块。这个章节主要介绍 chaos-mesh 的各个大块，以及各个模块的主要负责人。你可以通过 slack #sig-chaos-mesh [Tidb Community](tidbcommunity.slack.com) 来联系他们，或者直接在 Github Issue 中 @ 他们。
 
 
 ### Controllers   
@@ -22,7 +22,7 @@ Webhook 模块为 Admission webhook Service 实现模块，主要负责 sidecar 
 
 - api/webhook
 
-负责人：@cwen0 @Gaosong 
+负责人：@cwen0 @Yisaer
 
 ### ChaosDaemon  
 
