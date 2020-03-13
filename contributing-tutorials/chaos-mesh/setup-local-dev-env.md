@@ -51,6 +51,16 @@ Client: &version.Version{SemVer:"v2.12.3", GitCommit:"eecf22f77df5f65c823aacd2db
 ```
 
 
+### 熟悉云原生概念、工具
+
+如果你并不熟悉 Kubernetes 与 相关工具 ，我们建议你先进行相关概念与工具的学习。当然，开发 Chaos-mesh 并不需要你掌握所有的概念，我们也非常鼓励在开发工程中进行学习。
+
+1. [Kubernetes 官方教程](https://kubernetes.io/zh/docs/tutorials/kubernetes-basics/), 同时也推荐 [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+
+2. [Kubectl Overview](https://kubernetes.io/zh/docs/reference/kubectl/overview/), 以及 [Kubectl 备忘单](https://kubernetes.io/zh/docs/reference/kubectl/cheatsheet/)
+
+3. [Helm 官方Tutorials](https://helm.sh/docs/intro/) 与 [Helm 使用指南](https://cloud.tencent.com/developer/article/1450315)
+
 ### 本地编译 Chaos-mesh
 
 当必要的工具都准备完毕后，并且将 ChaosMesh 仓库 fork 并 clone 到本地后。我们可以开始尝试本地编译 ChaosMesh 并打成 docker 镜像,最后部署在 kind Kubernetes 集群后运行。
