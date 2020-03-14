@@ -1,11 +1,19 @@
-## 模块介绍
+## Chaos-mesh 架构总览
 
-整个 chaos-mesh 项目，可以拆分成以下几个大块。这个章节主要介绍 chaos-mesh 的各个大块，以及各个模块的主要负责人。你可以通过 slack #sig-chaos-mesh [Tidb Community](tidbcommunity.slack.com) 来联系他们，或者直接在 Github Issue 中 @ 他们。
+Chaos-mesh 在架构上边界非常清晰，通过 `控制层`，`Daemon 节点`，`注入层`，的三层设计来构建出整个架构。
+
+1. 控制层，即整个 Chaos-mesh 的总控，负责感知并调整整个集群的 Chaos 情况
+2. Daemon 节点，每个 Kubernetes Node 节点都会安装一个实例，负责调整所在 Node 节点 chaos 测试
+3. 注入层，作为真正受影响的 Kubernetes Pod 的 sidecar，以 sidecar 模式向真实运行的 Pod 注入 chaos
+
+![](./images/chaos-mesh-overview.png)
 
 
-### Controllers   
+同时，Chaos-mesh 也同样有着其他组件模块，但核心模块其实就上面三个，这里给出每个模块的介绍以及所对应的负责人，当开发者们在所在模块遇到问题时，完全可以通过 Github Issue 或者是 slack #sig-chaos-mesh [Tidb Community](tidbcommunity.slack.com) 的方式向他们提问。
 
-Controllers 模块为 Chaos Mesh 与 Kubernetes 交互模块，主要包括两部分，一部分为 CRD 结构定义，另一部分主要为接收 Kubernetes 事件以及对各类 Chaos 对象的调度与管理。
+### 控制层  
+
+控制层 模块为 Chaos Mesh 与 Kubernetes 交互模块，主要包括两部分，一部分为 CRD 结构定义，另一部分主要为接收 Kubernetes 事件以及对各类 Chaos 对象的调度与管理。
 
 #### 代码目录：
 
@@ -24,7 +32,7 @@ Webhook 模块为 Admission webhook Service 实现模块，主要负责 sidecar 
 
 负责人：@cwen0 @Yisaer
 
-### ChaosDaemon  
+### Daemon 模块
 
 ChasoDaemon 模块为具体物理节点 Chaos 注入实现模块，该模块通过 gRPC 协议接收来自 Controllers 请求进行具体的 Chaos 注入逻辑，目前提供的功能有： 容器信息获取，网络注入，时间注入等。 
 
