@@ -29,6 +29,7 @@ welcome!
     * [Coding Style](#coding-style)
     * [Code Comment Style](#code-comment-style)
     * [Commit Message and Pull Request Style](#commit-message-and-pull-request-style)
+    * [Diagram Style](#diagram-style)
 * [Contributing](#contributing)
     * [Communication](#communication)
     * [GitHub workflow](#github-workflow)
