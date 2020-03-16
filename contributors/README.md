@@ -29,6 +29,7 @@ welcome!
     * [Coding Style](#coding-style)
     * [Code Comment Style](#code-comment-style)
     * [Commit Message and Pull Request Style](#commit-message-and-pull-request-style)
+    * [Diagram Style](#diagram-style)
 * [Contributing](#contributing)
     * [Communication](#communication)
     * [GitHub workflow](#github-workflow)
@@ -110,6 +111,12 @@ See [Code Comment Style](./code-comment-style.md) for details.
 ### Commit Message and Pull Request Style
 
 See [Commit Message and Pull Request Style](./commit-message-pr-style.md) for details.
+
+### Diagram Style
+
+See [Figma Quick Start Guide](./figma-quick-start-guide.md).
+
+To keep a consistent style for diagrams, we recommend using [Figma](https://www.figma.com/) to draw or design diagrams. If you need to draw a diagram, refer to the guide and use shapes or colors provided in the template.
 
 ## Contributing
 
