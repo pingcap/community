@@ -27,7 +27,7 @@ Go to [https://www.figma.com/](https://www.figma.com/) and click **Sign up** to 
 >
 > If you have a Google account, you can click **Sign up with Google** to log in with the existing Google account.
 
-![Sign up](/media/sign-up.png)
+![Sign up](/media/figma-guide/sign-up.png)
 
 ### Step 2: Open the tidb-sketch-book file
 
@@ -38,35 +38,35 @@ Click [tidb-sketch-book](https://www.figma.com/file/MOBwqkBtuA03agMjeGEGUT/tidb-
 > - **tidb-sketch-book** is a Figma file that collects common shapes for diagram designs. When creating a diagram, you are recommended to use the objects and colors in this file to maintain a consistent style for diagrams.
 > - If you cannot open this file, contact [Jingyi Chen](mailto:chenjingyi@pingcap.com) for help.
 
-![tidb-sketch-book](/media/tidb-sketch-book.png)
+![tidb-sketch-book](/media/figma-guide/tidb-sketch-book.png)
 
 ### Step 3: Create a Frame
 
 1. Click **Back to Files** to see the files you can view or edit.
 
-    ![Back to Files](/media/back-to-files.png)
+    ![Back to Files](/media/figma-guide/back-to-files.png)
 
-    ![Recently viewed](/media/recently-viewed.png)
+    ![Recently viewed](/media/figma-guide/recently-viewed.png)
 
 2. Right-click on the file and select **Duplicate**. You will get a new file named **tidb-sketch-book (Copy)**.
 
-    ![Duplicate](/media/duplicate.png)
+    ![Duplicate](/media/figma-guide/duplicate.png)
 
-    ![tidb-sketch-book (Copy)](/media/tidb-sketch-book-copy.png)
+    ![tidb-sketch-book (Copy)](/media/figma-guide/tidb-sketch-book-copy.png)
 
 3. Right-click on the **tidb-sketch-book (Copy)** file and select **Rename** to alter its name. In this example, the file is renamed as figma-test.
 
-    ![Rename](/media/rename.png)
+    ![Rename](/media/figma-guide/rename.png)
 
-    ![figma-test](/media/figma-test.png)
+    ![figma-test](/media/figma-guide/figma-test.png)
 
 4. Double-click the file you renamed just now. Choose the **Frame** tool (F) and drag out an area of the screen to make a new Frame. In this example, Frame 19 is created.
 
     To delete a frame, choose the frame and then press <kbd>Shift</kbd>+<kbd>Command</kbd>+<kbd>G</kbd>.
 
-    ![Frame](/media/frame.png)
+    ![Frame](/media/figma-guide/frame.png)
 
-    ![New Frame](/media/new-frame.png)
+    ![New Frame](/media/figma-guide/new-frame.png)
 
 Within this Frame, you can begin your designs.
 
@@ -83,15 +83,15 @@ You are recommended to copy and paste the existing objects within other Frames i
 
 1. Select an object and click the **Fill** value in the properties panel to open the color picker.
 
-    ![Fill](/media/fill.png)
+    ![Fill](/media/figma-guide/fill.png)
 
 2. Click the eyedropper tool icon (keyboard shortcuts: <kbd>I</kbd> or <kbd>Ctrl</kbd>+<kbd>C</kbd>) next to the slider to open the eyedropper tool.
 
-    ![Eyedropper](/media/eyedropper.png)
+    ![Eyedropper](/media/figma-guide/eyedropper.png)
 
 3. Use the eyedropper to hover over the color in the Frame you want to sample. The magnifier window will show you both the color and hex code of the sampled pixel.
 
-    ![Magnifier window](/media/magnifier-window.png)
+    ![Magnifier window](/media/figma-guide/magnifier-window.png)
 
 #### Copy and paste an object
 
@@ -103,7 +103,7 @@ You are recommended to copy and paste the existing objects within other Frames i
 
 1. Select the layers you want to edit in the layers panel and press <kbd>Command</kbd>+<kbd>C</kbd> to copy these objects.
 
-    ![Copy objects](/media/copy-objects.png)
+    ![Copy objects](/media/figma-guide/copy-objects.png)
 
 2. Select the target Frame and press <kbd>Command</kbd>+<kbd>V</kbd> to paste the objects into the current Frame.
 
@@ -111,7 +111,7 @@ You are recommended to copy and paste the existing objects within other Frames i
 
 Select the object you want to edit and adjust the **Corner Radius** value in the properties panel.
 
-![Corner Radius](/media/corner-radius.png)
+![Corner Radius](/media/figma-guide/corner-radius.png)
 
 #### Other operations
 
@@ -125,14 +125,14 @@ See the [Figma user guide](https://help.figma.com/category/9-getting-started).
     >
     > You can export a Frame (recommended), a layer, a group, or multiple layers.
 
-    ![Export](/media/export.png)
+    ![Export](/media/figma-guide/export.png)
 
 2. Set the diagram format. You can export to **PNG (recommended)**, JPG, SVG, or PDF.
 
-    ![Diagram format](/media/figure-format.png)
+    ![Diagram format](/media/figma-guide/figure-format.png)
 
 3. Click the **Export Frame X** button below **PNG** to export your diagram.
 
-    ![Export Frame X](/media/export-frame-x.png)
+    ![Export Frame X](/media/figma-guide/export-frame-x.png)
 
 4. Use a **descriptive** name for the diagram. You can use lowercase characters, numbers, and hyphens `-` in the name. **Avoid using uppercase characters, spaces, and underscores**.
