@@ -1,6 +1,6 @@
-# Expression Special Interest Group(Expr SIG)
+# Execution Special Interest Group(Exec SIG)
 
-Expression SIG covers TiDB expression implementations. We are focused on
+Execution SIG covers TiDB execution implementations. We are focused on
 the development and maintenance of the TiDB [Function and
 Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/reference/)
 , including but not limited to:
@@ -11,11 +11,11 @@ Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/ref
 
 ## Roles and Organization Management
 
-See [SIG Expr Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG Exec Roles and Organization Management](./roles-and-organization-management.md)
 
 ## Members
 
-See [SIG Expr Member List](./member-list.md)
+See [SIG Exec Member List](./member-list.md)
 
 ## Meetings
 
@@ -25,9 +25,10 @@ See [SIG Expr Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel #sig-expr in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #sig-exec in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Code Locations
 
 * The [expression package](https://github.com/pingcap/tidb/tree/master/expression) in the tidb repo.
+* The [execution package](https://github.com/pingcap/tidb/tree/master/executor) in the tidb repo.
 * Other codes that affect the correctness, performance of the TiDB [Function and Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/reference/)

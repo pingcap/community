@@ -12,7 +12,23 @@ SIG.
 
 ## Active Special Interest Groups
 
-* [sig-expr](./sig-expr)
-* [sig-parser](./sig-parser)
-* [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
-* [sig-engine (TiKV)](https://github.com/tikv/community/tree/master/sig/engine)
+### TiDB
+
+* [Execution](./sig-exec)
+* [Planner](./sig-planner)
+* [DDL](./sig-ddl)
+
+### TiDB Product
+
+* [K8S](./sig-k8s)
+* [Tools](./sig-tools)
+* [TiDB Dashboard](./sig-dashboard)
+
+### TiKV
+
+* [Coprocessor](https://github.com/tikv/community/tree/master/sig/coprocessor)
+* [Engine](https://github.com/tikv/community/tree/master/sig/engine)
+* [Raft](https://github.com/tikv/community/tree/master/sig/raft)
+* [Performance](https://github.com/tikv/community/tree/master/sig/performance)
+* [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
+* [Ecosystem](https://github.com/tikv/community/tree/master/sig/ecosystem)

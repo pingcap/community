@@ -29,6 +29,7 @@ welcome!
     * [Coding Style](#coding-style)
     * [Code Comment Style](#code-comment-style)
     * [Commit Message and Pull Request Style](#commit-message-and-pull-request-style)
+    * [Diagram Style](#diagram-style)
 * [Contributing](#contributing)
     * [Communication](#communication)
     * [GitHub workflow](#github-workflow)
@@ -36,6 +37,7 @@ welcome!
     * [Open a Pull Request](#open-a-pull-request)
     * [Code Review](#code-review)
     * [Testing](#testing)
+    * [Benchmark](#benchmark)
     * [Security](#security)
     * [Documentation](#documentation)
     * [Issues Management or Triage](#issues-management-or-triage)
@@ -110,6 +112,12 @@ See [Code Comment Style](./code-comment-style.md) for details.
 
 See [Commit Message and Pull Request Style](./commit-message-pr-style.md) for details.
 
+### Diagram Style
+
+See [Figma Quick Start Guide](./figma-quick-start-guide.md).
+
+To keep a consistent style for diagrams, we recommend using [Figma](https://www.figma.com/) to draw or design diagrams. If you need to draw a diagram, refer to the guide and use shapes or colors provided in the template.
+
 ## Contributing
 
 ### Communication
@@ -166,6 +174,26 @@ TBD
 ### Testing
 
 TBD
+
+### Benchmark
+
+
+If the change affects TIDB's performance, the benchmark data is normally required in the description. You can use the [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool to format benchmark data for change descriptions.
+
+The following script runs benchmark multiple times (10)
+
+```bash
+go test -run=^$ -bench=BenchmarkXXX -count=10
+```
+
+**Tip**: To make the result more readable, you can copy and paste the output to both the old.txt and new.txt, and then run: 
+
+```
+benchstat old.txt new.txt
+```
+
+
+Paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
 
 ### Security
 
