@@ -4,7 +4,7 @@
 
 ### Join
 
-The minimal requirement for contributors to join the Scheduling SIG is to have the **Active Contributor** community role in the PD repository.
+All contributors, active contributors, reviewers, and committers of PD can join the Scheduling SIG.
 
 ### Promotion
 
