@@ -8,5 +8,4 @@
 ## Tech Leads
 
 * [sticnarf](https://github.com/sticnarf), [PingCAP](https://pingcap.com/en/)
-* [lamxTyler](https://github.com/lamxTyler), [PingCAP](https://pingcap.com/en/)
 * [Connor1996](https://github.com/Connor1996), [PingCAP](https://pingcap.com/en/)
