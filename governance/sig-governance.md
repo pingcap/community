@@ -1,12 +1,12 @@
 # SIG Governance
 
-This charter details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Cimmunity.
+Special Interest Groups (SIGs) are persistent open groups that focus on a module of TiDB. SIGs must have open and transparent proceedings. The purpose of a SIG is to own and develop a module of TiDB. This document details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Cimmunity.
 
 ## Organizational Governance
 
 In order to standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
 
-- Create a charter and have it approved according to the SIG charter process. Please refer to [Create the SIG charter](#create-the-sig-charter) for more details.
+- Create a `sig-${name}` folder in [special interest group directory](../special-interest-groups) and have it approved according to the SIG charter process. Please refer to [Creation](#Creation) for more details.
 
 - Meet regularly, at least for 30 minutes every 2 weeks, except for long holidays or occasions where all Tech Leads decide that there is nothing to discuss.
 - Keep up-to-date meeting notes, linked from the SIG's page in the community repo
@@ -22,7 +22,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
 
 ### SIG Members
 
-- Inludes all Contributors, Active Contributors, Reviewers, and Committers under the SIG
+- Include all Contributors, Active Contributors, Reviewers, and Committers under the SIG
 - SHOULD maintain health of the SIG
 - SHOULD show sustained contributions to the SIG
 - SHOULD hold corresponding responsibilities in the SIG as documented in [TiDB Developer Group](/architecture/README.md#tidb-developer-group)
@@ -69,13 +69,22 @@ Once the change is approved, the corresponding profile will be moved to the emer
 
 ### Creation
 
-1. Copy the [SIG Charter Template](SIG-CHARTER-TEMPLATE.md).
-2. Modify the content in the template that needs to be defined for the specific SIG
-3. Initiate a PR in [special-interest-groups](/special-interest-groups) with the SIG Charter, and propose the SIG Charter. This must be approved by the supermajority of the PMC members.
-4. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-`
-5. Create a public [Zoom](https://zoom.com/) url for regular meetings, as well as other online discussions.
-6. Announce the establishment of a new SIG in the TiDB community.
-7. Create a public Google Doc to summary the regular SIG work report and record the regular meeting notes.
+* Before creating a special interest group, make sure you get the following ready:
+  * Ensure all SIG Tech Leads, and other SIG roles are community members
+  * Have the answers to following questions:
+    * What is the exact module this group focused on?
+    * What is the artifact that this group will deliver, and to whom?
+    * What are the meeting mechanics (frequency, duration, roles)?
+
+* Once you have met the above criteria, you can create the SIG according to the  following steps:
+
+	1. Create a `sig-${name}` folder in [special interest group directory](../special-interest-groups) (modify `${name}` to your Special Interest Group short name) according to [SIG Template](../special-interest-groups/sig-template), and modify the **Active Special Interest Groups** list in the [Special Interest Groups](../special-interest-groups/README.md) page. 
+	2. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-${name}`
+	3. Create a public [Zoom](https://zoom.com/) url for regular meetings, as well as other online discussions.
+	4. Create a public Google Doc to summary the regular SIG work report and record the regular meeting notes.
+	5. Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community), titled `SIG-Creation-Request: SIG-XXX`, with all the items and related documents (RFCs, PRs) attached. The PR will be reviewed by the PMC. 2 approvals are required for the PR to pass.
+	6. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-${name}`
+	7. Announce the establishment of a new SIG in the TiDB community.
 
 ### Dissolution
 
