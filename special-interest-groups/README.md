@@ -23,6 +23,7 @@ SIG.
 * [K8S](./sig-k8s)
 * [Tools](./sig-tools)
 * [TiDB Dashboard](./sig-dashboard)
+* [Talent Plan](./sig-talent-plan)
 
 ### TiKV
 
