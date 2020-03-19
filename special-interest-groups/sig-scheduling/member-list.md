@@ -9,4 +9,5 @@
 
 Leads:
 * [nolouch](https://github.com/nolouch), [PingCAP](https://pingcap.com/en/)
+* [rleungx](https://github.com/rleungx), [PingCAP](https://pingcap.com/en/)
 
