@@ -1,8 +1,8 @@
 <!--
 The Special Interest Group Template is a template for starting new special interest groups in the GitHub organizations owned by PingCAP.  All special interest group, at minimum, must have the following files:
 
-* a `README.md` outlining: the module that the SIG is responsible for, and the way this SIG is organized
-* a `Roles and Organization Management.md`outlining the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](sig-governance.md)
+* a `README.md` outlining the module that the SIG is responsible for, and the way this SIG is organized
+* a `roles-and-organization-management.md` outlining the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](sig-governance.md)
 * a `member-list.md` with members of this SIG listed
 
 -->
