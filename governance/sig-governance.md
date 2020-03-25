@@ -7,7 +7,6 @@ Special Interest Groups (SIGs) are persistent open groups that focus on a module
 In order to standardize Special Interest Group efforts, create maximum transparency, and route contributors to the appropriate SIG, SIGs should follow these guidelines:
 
 - Create a `sig-${name}` folder in [special interest group directory](../special-interest-groups) and have it approved according to the SIG charter process. Please refer to [Creation](#Creation) for more details.
-
 - Meet regularly, at least for 30 minutes every 2 weeks, except for long holidays or occasions where all Tech Leads decide that there is nothing to discuss.
 - Keep up-to-date meeting notes, linked from the SIG's page in the community repo
 - Report activity in the weekly community meeting at least once every quarter
