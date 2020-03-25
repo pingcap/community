@@ -12,9 +12,9 @@ In order to standardize Special Interest Group efforts, create maximum transpare
 - Keep up-to-date meeting notes, linked from the SIG's page in the community repo
 - Report activity in the weekly community meeting at least once every quarter
 - Participate in release planning meetings and retrospectives, and burndown meetings, as needed
-- Ensure related work happens in a project-owned github org and repository, with code and tests explicitly owned and supported by the SIG, including issue triage, PR reviews, test-failure response, bug  fixes, etc.
+- Ensure related work happens in a project-owned GitHub organization and repository, with code and tests explicitly owned and supported by the SIG, including issue triage, PR reviews, test-failure response, bug fixes, etc.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
-- Use the GitHub PR & issues, slack channels as the primary means of working, communicating, and collaborating.
+- Use the GitHub PR & issues, Slack channels as the primary means of working, communicating, and collaborating.
 
 ## SIG Roles
 
