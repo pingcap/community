@@ -18,6 +18,9 @@ You are welcomed to be a [contributor](../../architecture/README.md#contributor)
 
 SIG Specific Requirements:
 
+* Have at least **8** PRs merged in [documentation repositories](./README.md#code-locations) within one year
+  > **Note:** Same changes made to different branches in multiple PRs are considered as one PR.
+* Sponsored by two incumbent Reviewers in a SIG
 * Joined the [#sig-docs](https://tidbcommunity.slack.com/messages/sig-docs) Slack channel
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
