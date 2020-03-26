@@ -18,11 +18,11 @@ Docs SIG covers the documentation of all PingCAP products, tools, or projects, b
 
 ## Roles and Organization Management
 
-See [Template SIG Roles and Organization Management](./roles-and-organization-management.md).
+See [Docs SIG Roles and Organization Management](./roles-and-organization-management.md).
 
 ## Members
 
-See [Template SIG Member List](./member-list.md).
+See [Docs SIG Member List](./member-list.md).
 
 ## Meetings
 
