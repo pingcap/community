@@ -14,7 +14,7 @@ You are welcomed to be a [contributor](../../architecture/README.md#contributor)
 
 ### Promotion
 
-#### Be Promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
+#### Be promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
 SIG Specific Requirements:
 
