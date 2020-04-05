@@ -126,8 +126,9 @@ Some heads-up:
 - "Easy" issues are recommended for newcomers to the challenge program. Earn 200 points in the current repository to unlock issues of the "medium" and "hard" difficulty levels.
 - If you already have some historical challenge points and want to challenge a task of “medium” or higher difficulty, you need to make up the historical points of this repository to 200 points before you can continue the challenge.
 - Further claiming "easy" tasks of the repository after you meet the "medium" challenge qualification will not score. However, if you just want to do something easy, you can claim "easy" tasks from other repositories where your points haven't reached the medium level yet.
-- Each team can only claim one issue at a time.
-
+- Each team can claim as many tasks as the number of people in your team. For example, if your team has 3 members, then you can claim 3 tasks at most.
+- Once a task is claimed by a team, it can't be claimed by any other team in the following 7 days. If the claiming team fail to submit the code within 7 days, the task will be released for  other teams' picking.
+- A claimed task will be released for other teams' picking if the claiming team give it up.       
 ### Step 3: Fix the issue
 
 If you have any questions during the coding process, feel free to contact us via the [#tidb-challenge-program](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) channel. Normally you can expect a reply from the assigned mentor for the issue within 24 hours. However, before you ask a question, make sure you have read the issue description carefully and studied the reference materials.
