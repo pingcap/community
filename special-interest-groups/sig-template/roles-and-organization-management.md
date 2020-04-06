@@ -12,11 +12,11 @@ It lists common requirements, responsibilities and privileges of each role in de
 ### Join
 
 You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about `${module name}` is merged.
-To have a discusstion with us, just join our slack channel **#sig-${name}** in [tidbcommnity](https://pingcap.com/tidbslack) slack workspace.
+To have a discussion with us, just join our slack channel **#sig-${name}** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ### Promotion
 
-#### Be Promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
+#### Be promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
 SIG Specific Requirements:
 
@@ -26,9 +26,9 @@ SIG Specific Requirements:
 
 SIG Specific Requirements:
 
-* Have at least  **${a certain number}** PRs merged in the `${module name}` package within one year.
+* Have at least **${a certain number}** PRs merged in the `${module name}` package within one year.
 * Fix at least **${a certain number}** issues whose difficulty is medium or above.
-* Presented design ideas and adopted them in more than  **${a certain number}** executable task.
+* Present design ideas and adopt them in more than **${a certain number}** executable task.
 
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
@@ -36,8 +36,8 @@ SIG Specific Requirements:
 SIG Specific Requirements:
 
 * Exhibited good technical judgment.
-* Fix at least  **${a certain number}** issues whose difficulty is hard.
-* Have reviewed at least  **${a certain number}** PRs in the `${module name}` package within one year.
+* Fix at least **${a certain number}** issues whose difficulty is high.
+* Have reviewed at least **${a certain number}** PRs in the `${module name}` package within one year.
 * Play an important role in a big feature.
 
 ## Quit and Demotion

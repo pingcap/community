@@ -16,8 +16,8 @@
 
 Members and their contributions:
 
-| user                                              | num merged PRs | earliest PR merged time | latest PR merged time |
-|:-------------------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
+| User | Num of merged PRs | First PR merged time | Last PR merged time |
+|:----:|:--------------:|:--------------:|:--------------:|
 | [Committer 1](GitHub-link-of-Committer-1) |             x |     yyyy-mm-dd          |   yyyy-mm-dd          |
 | [Committer 2](GitHub-link-of-Committer-2) |             y |     yyyy-mm-dd          |   yyyy-mm-dd          |
 | [...](...)           |             ... |     ...          |   ...          |
