@@ -6,8 +6,7 @@ Outline the organism specific to this SIG, as well as those that differ from [SI
 
 ## Join and Promotion
 
-We mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group).
-It lists common requirements, responsibilities and privileges of each role in developer group.
+Here we mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group), including common requirements, responsibilities and privileges of each community role.
 
 ### Join
 
