@@ -38,3 +38,4 @@ Members and their contributions:
 | [tsthght](https://github.com/tsthght) | 4 | 2020-03-08 | 2020-03-10 |
 | [CharLotteiu](https://github.com/CharLotteiu) | 1 | 2020-03-13 | 2020-03-13 |
 | [sumens](https://github.com/sumens) | 2 | 2020-03-25 | 2020-03-25 |
+| [mmyj](https://github.com/mmyj) | 2 | 2020-04-02 | 2020-04-07 |
