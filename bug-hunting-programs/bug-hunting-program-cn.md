@@ -71,7 +71,7 @@ Bug 等级表
 | P2               | 和 MySQL 不兼容（除官方明确说明不兼容的外） | 1. 行为不兼容，例如权限、SQL 报错等；<br />2. error code 不兼容； |
 | P3               | 文档 bug                                    | 1. dev 格式（https://pingcap.com/docs-cn/dev/） 下描述错误；<br />2. 功能使用文档出错，或无法得到预期结果 |
 
-参赛者在测试/试用之后，也可以记录下您的测试过程和体验感受，在 AskTUG 上提交测试体验报告，该测试体验报告可作为 TUG [MVA](https://asktug.com/t/topic/633) (Most Valuable Advocate) 内容贡献的参考依据。参考 [如何发布测试体验报告](https://asktug.com/t/topic/33432) 同时，伴随此次捉“虫”竞赛将成立 **SIG-Testing 的专项兴趣小组**。小组成员可以持续为 TiDB 产品的质量保驾护航。根据贡献程度的不同，小组成员将会在组内获得 Active Contributor 甚至 Committer  等社区荣誉。
+参赛者在测试/试用之后，也可以记录下您的测试过程和体验感受，在 [AskTUG](https://asktug.com/) 上提交测试体验报告，该测试体验报告可作为 TUG [MVA](https://asktug.com/t/topic/633) (Most Valuable Advocate) 内容贡献的参考依据。参考 [如何发布测试体验报告](https://asktug.com/t/topic/33432) 同时，伴随此次捉“虫”竞赛将成立 **SIG-Testing 的专项兴趣小组**。小组成员可以持续为 TiDB 产品的质量保驾护航。根据贡献程度的不同，小组成员将会在组内获得 Active Contributor 甚至 Committer 等社区荣誉。
 
 在 AskTUG 上提交的测试体验报告经官方评定为内容质量前三的，会获得额外加分：
 
