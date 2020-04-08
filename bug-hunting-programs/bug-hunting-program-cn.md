@@ -19,7 +19,7 @@ TiDB 4.0 版本计划于 2020 年 5 月 31 日 GA，众多新功能备受大家�
   - 找 PingCAP 内部同学组队
   - 参赛过程中遇到任何其他问题
 
-为了感谢大家的参与，我们将按大家发现的 bug 等级给予相应积分，积分可以兑换  TiDB  周边礼品，PingCAP University 培训机会等多项奖品。
+为了感谢大家的参与，我们将按大家发现的 bug 等级给予相应积分，积分可以兑换 TiDB 周边礼品，PingCAP University 培训机会等多项奖品。
 
 ## 赛前准备
 
@@ -120,9 +120,9 @@ Bug 等级与积分兑换表：
 
 ## 文档资料
 
- 在开始测试前可以阅读 TiDB[ 官方用户文档](https://pingcap.com/docs-cn/dev/) 帮助了解 TiDB。
+ 在开始测试前可以阅读 TiDB [官方用户文档](https://pingcap.com/docs-cn/dev/) 帮助了解 TiDB。
 
-除此之外 TiDB 第一本开源书 [ TiDB in Action](https://book.tidb.io/) 也是很好的学习材料。书中包括了 TiDB 基本架构原理； 最佳实践及案例：部署、运维（慢查询、热点问题调优）、备份恢复、数据同步和迁移等。
+除此之外 TiDB 第一本开源书 [TiDB in Action](https://book.tidb.io/) 也是很好的学习材料。书中包括了 TiDB 基本架构原理、最佳实践及案例、部署、运维（慢查询、热点问题调优）、备份恢复、数据同步和迁移等。
 
 ## 彩蛋：挑战赛挖矿
 
