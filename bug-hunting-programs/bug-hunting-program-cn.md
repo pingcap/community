@@ -131,7 +131,7 @@ Bug 等级与积分兑换表：
 具体规则如下：
 
 1. 挑战赛的参赛选手可以认领 4.0 捉“虫”竞赛 issue 中选择任何一个已经被标记为“challenge-program-2”的 issue，就像认领挑战赛任务一样，在该 issue 下评论 “/pick up challenge” 
-2. 收到正确命令后 bot 会自动回复 “pick up success, PTAL@point-team” 表示任务认领成功，将由挑战赛打分小组确认此 issue 的具体分值。
+2. 收到正确命令后 bot 会自动回复 “pick up success, PTAL @tidb-challenge-program/point-team” 表示任务认领成功，将由挑战赛打分小组确认此 issue 的具体分值。
 3. 挑战赛打分小组会在评定完该题分数后（一般为三个工作日）在该 issue 下打分，例如评论 “/bug point 1000”，表示这个 issue 在挑战赛是 1000 分。同时这个分数也会自动更新在该 issue 的描述最后。
 
 注：
