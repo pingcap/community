@@ -55,7 +55,7 @@ TiDB 4.0 版本计划于 2020 年 5 月 31 日 GA，众多新功能备受大家�
 
 在测试完成后，如果参赛者发现了 Bug，则可以在 [bug-hunting/issue](https://github.com/tidb-challenge-program/bug-hunting-issue) 按照模版 [提交 Issue](https://github.com/tidb-challenge-program/bug-hunting-issue/issues/new?labels=type%2Fbug&template=bug-report.md)，
 
-**提交 issue 的标题格式**为：Pn-[4.0 bug hunting]-[feature names]-brief descriptions
+**提交 issue 的标题格式**为：Pn-[4.0 bug hunting]-[feature names]-[brief descriptions]
 
 **其中：**
 
