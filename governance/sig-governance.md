@@ -1,6 +1,14 @@
 # SIG Governance
 
-Special Interest Groups (SIGs) are persistent open groups that focus on a module of TiDB. SIGs must have open and transparent proceedings. The purpose of a SIG is to own and develop a module of TiDB. This document details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Community.
+The TiDB project is organized primarily into Special Interest Groups, or SIGs. Each SIG is comprised of members from multiple companies and organizations, with **a common purpose of advancing the project with respect to a specific topic, such as Networking or Documentation**. Our goal is to enable a distributed decision structure and code ownership, as well as providing focused instructions for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG.
+
+Areas covered by SIGs may be vertically focused on particular components or functions, cross-cutting/horizontal, spanning many/all functional areas of the project, or in support of the project itself. Examples:
+
+- Vertical: Network, Storage, Scheduling
+- Horizontal: Scalability, Architecture
+- Project: Testing, Docs,Contributor Experience
+
+This document details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Community.
 
 ## Organizational Governance
 
@@ -13,7 +21,6 @@ In order to standardize Special Interest Group efforts, create maximum transpare
 - Participate in release planning meetings and retrospectives, and burndown meetings, as needed
 - Ensure related work happens in a project-owned GitHub organization and repository, with code and tests explicitly owned and supported by the SIG, including issue triage, PR reviews, test-failure response, bug fixes, etc.
 - The assignable tasks will be graded by difficulty levels and claimed by SIG members.
-- Use the GitHub PR & issues, Slack channels as the primary means of working, communicating, and collaborating.
 
 ## SIG Roles
 
