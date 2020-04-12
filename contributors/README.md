@@ -48,7 +48,9 @@ welcome!
 
 ### Sign the CLA
 
-TBD
+Click the button "Sign in with Github to agree" to sign the CLA. For example: [here](https://cla-assistant.io/pingcap/tidb?pullRequest=16303).
+
+What is [CLA](https://www.clahub.com/pages/why_cla)?
 
 ### Code of Conduct
 
