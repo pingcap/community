@@ -19,7 +19,7 @@ If not, you need to dive into the discourse source code. You will need to learn 
 - [emberjs](https://emberjs.com/)
 - [sass](https://sass-lang.com/)
 
-This is not simple.
+This is not simple but It embeds code seamlessly.
 
 And asktug theme uses the second way, make all overwrites can be highly componentized.
 
