@@ -1,20 +1,16 @@
 # TiDB 4.0 Bug Hunting Program
 
-<!-- TOC -->
+ - [Program introduction](#program-introduction)
+ - [Before participation](#before-participation)
+ - [Sign up](#sign-up)
+ - [How to participate](#how-to-participate)
+     - [Step 1: Test the feature](#step-1-test-the-feature)
+     - [Step 2: Report the bug](#step-2-report-the-bug)
+     - [Step 3: Evaluate the bug and grant points](#step-3-evaluate-the-bug-and-grant-points)
+     - [Step 4: Redeem points](#step-4-redeem-points)
+ - [Documentation materials](#documentation-materials)
+ - [FAQs（Updating in Progress)](#faqsupdating-in-progress)
 
-- [TiDB 4.0 Bug Hunting Program](#tidb-40-bug-hunting-program)
-    - [Program introduction](#program-introduction)
-    - [Before participation](#before-participation)
-    - [Sign up](#sign-up)
-    - [How to participate](#how-to-participate)
-        - [Step 1: Test the feature](#step-1-test-the-feature)
-        - [Step 2: Report the bug](#step-2-report-the-bug)
-        - [Step 3: Evaluate the bug and grant points](#step-3-evaluate-the-bug-and-grant-points)
-        - [Step 4: Redeem points](#step-4-redeem-points)
-    - [Documentation materials](#documentation-materials)
-    - [FAQs（Updating in Progress)](#faqsupdating-in-progress)
-
-<!-- /TOC -->
 
 ## Program introduction
 
