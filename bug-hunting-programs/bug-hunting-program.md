@@ -42,7 +42,7 @@ To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-pr
 
 The entire flow of the TiDB 4.0 Bug Hunting Program consists of the following steps: 
 
-**Test the feature**-> **Reportthe bug**-> **Evaluate the bug**-> **Grant points**-> **Redeem points**
+**Test the feature**-> **Report the bug**-> **Evaluate the bug**-> **Grant points**-> **Redeem points**
 
 where the steps before "Grant points" are performed on GitHub.
 
