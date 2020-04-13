@@ -1,5 +1,21 @@
 # TiDB 4.0 Bug Hunting Program
 
+<!-- TOC -->
+
+- [TiDB 4.0 Bug Hunting Program](#tidb-40-bug-hunting-program)
+    - [Program introduction](#program-introduction)
+    - [Before participation](#before-participation)
+    - [Sign up](#sign-up)
+    - [How to participate](#how-to-participate)
+        - [Step 1: Test the feature](#step-1-test-the-feature)
+        - [Step 2: Report the bug](#step-2-report-the-bug)
+        - [Step 3: Evaluate the bug and grant points](#step-3-evaluate-the-bug-and-grant-points)
+        - [Step 4: Redeem points](#step-4-redeem-points)
+    - [Documentation materials](#documentation-materials)
+    - [FAQs（Updating in Progress)](#faqsupdating-in-progress)
+
+<!-- /TOC -->
+
 ## Program introduction
 
 TiDB 4.0 GA version will be released on May 31, 2020 with many new features that are highly anticipated. To make TiDB 4.0 experience available earlier, we invite you to participate in TiDB 4.0 Bug Hunting Program, where you could report bugs that affect your experience while exploring TiDB 4.0. Sponsored by PingCAP and launched by the TiDB developer community,  this program aims to bring a better experience of TiDB 4.0 to the global community.
@@ -211,7 +227,7 @@ Fill out the prize redemption table (accessible when redemption is available).
 
 ## FAQs（Updating in Progress)
 
-**Q1**: How do I change the registration information? How will the points change after the registration information is changed?
+**Q1: How do I change the registration information? How will the points change after the registration information is changed?**
 
 **Answer**: To change the registration information, you need to close the original registration issue and open another issue for registration. Editing on the original issue is not supported for the time being. There are three cases of changes in points after the registration information is changed:
 
@@ -219,11 +235,11 @@ Fill out the prize redemption table (accessible when redemption is available).
 *   The individual points of new members joining the team will be frozen to the state before joining the team, and the points earned after joining the team will be owned by the team;
 *   Participants who leave the team and rejoin as individuals do not inherit team points.
 
-**Q2**: Can I invite PingCAP's internal employees to team up?
+**Q2: Can I invite PingCAP's internal employees to team up?**
 
 **Answer**: Of course you can! We welcome our community members to team up with PingCAP employees. If you don’t know any PingCAPers, shout out in the **#everyone** slack channel. To ensure the fairness of the event, the team that include PingCAP employees will be marked with a star (*). Their bug hunting points will not be included in the final ranking, but are valid for the prizes redemption.
 
-**Q3**:  Are the bugs reported here available to be picked for the 4.0 [TiDB Usability Challenge Program](https://github.com/pingcap/community/blob/master/challenge-programs/challenge-program-season-2.md)?
+**Q3:  Are the bugs reported here available to be picked for the 4.0 [TiDB Usability Challenge Program](https://github.com/pingcap/community/blob/master/challenge-programs/challenge-program-season-2.md)?**
 
 **Answer**: Of course YES! We would love to see  [TiDB Challenge Program](https://github.com/pingcap/community/blob/master/challenge-programs/challenge-program-season-2.md) participants  help us fix these issues!  Challenge points will be granted once you successfully pick one and fix it.
 
