@@ -13,7 +13,7 @@ It contains many commonly used features and this proposal wishes it can be open 
 Custom discourse, it is difficult to say whether it is a simple or not simple thing. You can overwrite the page by
 using vanilla javascript and css. This is simple. But this is not customizable and destroys the structure of the page.
 
-If not, you need to dive into the discourse source code. You will need to learn such of things:
+If not, you need to dive into the discourse source code. You will need to learn such things:
 
 - [handlebars](https://handlebarsjs.com/)
 - [emberjs](https://emberjs.com/)
@@ -21,9 +21,9 @@ If not, you need to dive into the discourse source code. You will need to learn 
 
 This is not simple.
 
-And asktug theme use the second way, make all overwrites can be highly componentized.
+And asktug theme uses the second way, make all overwrites can be highly componentized.
 
-Now this theme is just getting started, it will add more features in the future.
+Now, this theme is just getting started, it will add more features in the future.
 
 ## proposal
 
