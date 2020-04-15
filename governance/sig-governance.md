@@ -2,11 +2,7 @@
 
 The TiDB project is organized primarily into Special Interest Groups, or SIGs. Each SIG is comprised of members from multiple companies and organizations, with **a common purpose of advancing the project with respect to a specific topic, such as Networking or Documentation**. Our goal is to enable a distributed decision structure and code ownership, as well as providing focused instructions for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG.
 
-Areas covered by SIGs may be vertically focused on particular components or functions, cross-cutting/horizontal, spanning many/all functional areas of the project, or in support of the project itself. Examples:
-
-- Vertical: Network, Storage, Scheduling
-- Horizontal: Scalability, Architecture
-- Project: Testing, Docs,Contributor Experience
+Areas covered by SIGs may be vertically focused on particular components or functions, cross-cutting/horizontal, spanning many/all functional areas of the project, or in support of the project itself.
 
 This document details on the governance guidelines of TiDB SIGs. It will be updated as needed to meet the current needs of the TiDB Community.
 
