@@ -7,7 +7,7 @@ It lists common requirements, responsibilities and privileges of each role in de
 
 ### Join
 
-There is no restrictions to join the discussion of Dashboard SIG. See [README](./README.md) for where we discuss.
+There is no restrictions to join the discussion of Web SIG. See [README](./README.md) for where we discuss.
 
 However you will be only listed in our [member list] if you have **Active Contributor** role or above.
 
@@ -67,5 +67,5 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
+Please email to [sykp241095](mailto:huohao@pingcap.com) if you are
 going to quit or demote voluntarily.
