@@ -68,5 +68,5 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing](mailto:zhangyanqing@pingcap.com) if you are
+Please create a PR to remove yourself from the `member-list.md` if you are
 going to quit or demote voluntarily.
