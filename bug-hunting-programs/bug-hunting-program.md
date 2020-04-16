@@ -35,12 +35,12 @@ To sign up for the program, [Open an Issue](https://github.com/tidb-challenge-pr
 
 > **Note:**
 > 
-> *   The individual participant should sign up as a team.
+> *   Individual participants should sign up as a team.
 > *   Up to five members are allowed in a team.
 
 ## How to participate
 
-The entire flow of the TiDB 4.0 Bug Hunting Program consists of the following steps: 
+The entire flow of the TiDB 4.0 Bug Hunting Program consists of the following steps:
 
 **Test the feature**-> **Report the bug**-> **Evaluate the bug**-> **Grant points**-> **Redeem points**
 
@@ -70,13 +70,13 @@ Test features according to the corresponding documentation below. Bugs could be 
 If you find any bug in step 1, report it as an issue in [bug-hunting/issue](https://github.com/tidb-challenge-program/bug-hunting-issue). The title of the issue should be in the format below:
 
 ```
-Pn-[4.0-bug-hunting]-[feature-names]-brief-descriptions 
+Pn-[4.0-bug-hunting]-[feature-names]-brief-descriptions
 ```
 
 where:
 
-*   Pn indicates the bug level. It is recommended you include an estimated bug level in the title according to the level table below. This makes the review process easier and more efficient.  
-*   The issue title and content should be written in English. 
+*   Pn indicates the bug level. It is recommended you include an estimated bug level in the title according to the level table below. This makes the review process easier and more efficient.
+*   The issue title and content should be written in English.
 
 <table>
   <tr>
@@ -103,6 +103,9 @@ Bug level
 <li>Usability issues, such as service inaccessible for more than 30 seconds
 
 <li>Process crash, etc.
+<br /> Note: rare corner cases might be downgraded as deemed appropriately.
+
+
 </li>
 </ol>
    </td>
@@ -158,56 +161,34 @@ Bug level
   </tr>
 </table>
 
+> **Note:** The QA team from PingCAP reserves the right of interpretations with regard to the rating results.
+
 ### Step 3: Evaluate the bug and grant points
 
 1. The QA team from PingCAP will label the bug according to the bug level. If you are the first one to report the bug,  you will be granted the corresponding points for you based on the points table below. The sre-bot will automatically reply “Thank you for your contribution, you have been awarded xx points!”
-2. If the reported issue is verified not to be a bug, the QA team will label it as “non-bug” and close the issue. In this case,  you could keep on your hunting. 
 
-<table>
-  <tr>
-   <td>
-Bug level
-<p>
-(in descending order)
-   </td>
-   <td>Points
-   </td>
-  </tr>
-  <tr>
-   <td>P0
-   </td>
-   <td>1000
-   </td>
-  </tr>
-  <tr>
-   <td>P1
-   </td>
-   <td>500
-   </td>
-  </tr>
-  <tr>
-   <td>P2
-   </td>
-   <td>100
-   </td>
-  </tr>
-  <tr>
-   <td>P3
-   </td>
-   <td>50
-   </td>
-  </tr>
-</table>
+   The points will be granted based on the following table:
+
+   | Bug Level (Descending)| Points |
+   | ---------------- | ---- |
+   | P0               | 1000 |
+   | P1               | 500  |
+   | P2               | 100  |
+   | P3               | 50   |
+
+2. If the reported issue is verified not to be a bug, the QA team will label it as “non-bug” and close the issue. In this case, don't be frustrated and keep on hunting.
 
 ### Step 4: Redeem points
 
 If the reported bug is confirmed as valid, you could check the above table to confirm whether the received points are correct.
 
-Points bonus
+**Points bonus**
 
-*   When the issue is verified to be reproducible with clear steps a, there will be an additional 100 points granted.
+When the issue is verified to be reproducible with clear steps, there will be an additional 100 points granted.
 
-The leaderboard of the points will be displayed on TiDB 4.0 Bug Hunting website. The points could be redeemed for PingCAP contribution prizes, including but not limited to TUG T-shirt, PingCAP portable charger, and TUG hoodie, and more.
+The leaderboard of the points will be displayed on [TiDB 4.0 Bug Hunting website](https://pingcap.com/community-cn/tidb-bug-hunting)(In Chinese). The points could be redeemed for PingCAP contribution prizes, including but not limited to TUG T-shirt, PingCAP portable charger, and TUG hoodie, and more.
+
+> **Note:** Prizes like PCTA or PCTP certification (TiDB professionals recognized by PingCAP) coupon might not be supported if you are not within China or don't speak Chinese.
 
 **When to redeem:**
 
