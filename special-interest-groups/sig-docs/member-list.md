@@ -41,5 +41,5 @@ Members and their contributions:
 | [mmyj](https://github.com/mmyj) | 2 | 2020-04-02 | 2020-04-07 |
 | [benmaoer](https://github.com/benmaoer) | 1 | 2020-04-08 | 2020-04-08 |
 | [piperck](https://github.com/piperck) | 1 | 2020-04-09 | 2020-04-09 |
-| [ChristianLeow](https://github.com/ChristianLeow) | 2020-04-16 | 2020-04-23 |
-| [terror](https://github.com/terror) | 2020-04-20 | 2020-04-23 |
+| [ChristianLeow](https://github.com/ChristianLeow) | 2 | 2020-04-16 | 2020-04-23 |
+| [terror](https://github.com/terror) | 3 | 2020-04-20 | 2020-04-23 |
