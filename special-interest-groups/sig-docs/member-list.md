@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-04-07
+* Last update time: 2020-04-24
 
 ## Tech Leads
 
@@ -37,5 +37,9 @@ Members and their contributions:
 | [hjk0205](https://github.com/hjk0205) | 1 | 2020-03-06 | 2020-03-06 |
 | [tsthght](https://github.com/tsthght) | 4 | 2020-03-08 | 2020-03-10 |
 | [CharLotteiu](https://github.com/CharLotteiu) | 1 | 2020-03-13 | 2020-03-13 |
-| [sumens](https://github.com/sumens) | 2 | 2020-03-25 | 2020-03-25 |
+| [sumens](https://github.com/sumens) | 2 | 2020-03-25 | 2020-04-13 |
 | [mmyj](https://github.com/mmyj) | 2 | 2020-04-02 | 2020-04-07 |
+| [benmaoer](https://github.com/benmaoer) | 1 | 2020-04-08 | 2020-04-08 |
+| [piperck](https://github.com/piperck) | 1 | 2020-04-09 | 2020-04-09 |
+| [ChristianLeow](https://github.com/ChristianLeow) | 2 | 2020-04-16 | 2020-04-23 |
+| [terror](https://github.com/terror) | 3 | 2020-04-20 | 2020-04-23 |
