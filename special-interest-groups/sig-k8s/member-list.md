@@ -1,4 +1,4 @@
-# SIG K8S Member List
+# SIG K8s Member List
 
 **NOTE**:
 
