@@ -15,6 +15,7 @@ Here are a list of projects available for your choice. You can check all the ope
 - [client-rust](https://github.com/tikv/client-rust/projects/3)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard/projects/17)
 - [cherry-bot](https://github.com/pingcap-incubator/cherry-bot/projects/1)
+- [TiDB Operator](https://github.com/pingcap/tidb-operator/projects/4)
 
 ## Season Entry
 

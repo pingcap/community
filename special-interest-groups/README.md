@@ -22,6 +22,7 @@ SIG.
 
 * [K8S](./sig-k8s)
 * [Tools](./sig-tools)
+* [TiDB Dashboard](./sig-dashboard)
 
 ### TiKV
 
@@ -31,3 +32,7 @@ SIG.
 * [Performance](https://github.com/tikv/community/tree/master/sig/performance)
 * [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
 * [Ecosystem](https://github.com/tikv/community/tree/master/sig/ecosystem)
+
+### Documentation
+
+* [Docs](./sig-docs)
