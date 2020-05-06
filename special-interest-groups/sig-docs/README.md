@@ -36,7 +36,7 @@ There is no regular meeting currently.
 
 ## Contact
 
-* Slack: [#sig-docs](https://tidbcommunity.slack.com/messages/sig-docs)
+* Slack: [#sig-docs](http://suo.im/6lRF17)
 
 ## Code Locations
 
