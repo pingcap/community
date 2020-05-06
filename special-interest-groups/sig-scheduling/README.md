@@ -18,7 +18,7 @@ See [SIG Scheduling Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel #sig-scheduling in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel [#sig-scheduling](http://suo.im/6lRqNv) in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Code Locations
 
