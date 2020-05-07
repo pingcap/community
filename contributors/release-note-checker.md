@@ -12,7 +12,7 @@ CI obtains the Release note keyword from the description, and judges that there 
 
 <img src="../media/release-note-2.png" alt="Write release note" width="450"/>
 
-If there is really no release note, you can write "No release note"
+If there is really no release note, you can write "No release note".
 
 <img src="../media/release-note-3.png" alt="No release note" width="450"/>
 
