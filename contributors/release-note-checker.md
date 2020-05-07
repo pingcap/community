@@ -3,7 +3,7 @@
 This document describes the background, principle, and usage method of the release note checker.
 
 ## Background
-As we all know, the release process of TiDB is relatively lengthy. One of the most time-consuming thing is collecting release notes. We have many PRs that do not have a release note when they are merged. Therefore, a release note checker has been added to some repositories in the CI Check. Please pay attention when you mention or review a PR. The effect is as follows:
+As we all know, the release process of TiDB is relatively lengthy. One of the most time-consuming thing is collecting release notes. We have many PRs that do not have a release note when they are merged. Therefore, a release note checker has been added to some repositories in the CI Check. Please pay attention when you create or review a PR. The effect is as follows:
 
 <img src="../media/release-note-1.png" alt="Release note checker" width="450"/>
 
