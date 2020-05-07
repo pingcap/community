@@ -8,7 +8,7 @@ As we all know, the release process of TiDB is relatively lengthy. One of the mo
 <img src="../media/release-note-1.png" alt="Release note checker" width="450"/>
 
 ## Check principle and usage
-CI obtains the Release note keyword from the description, and judges that there is a release note displayed in the form of a list (internal judgment is a regular expression `Release note[\r\n]\s*[-|*].+`). If there is, it will judge success.
+CI obtains the Release note keyword from the description, and judges that there is a release note displayed in the form of a list (internal judgment is a regular expression `Release note[\r\n]\s*[-|*].+`). If there is one, it will judge as success.
 
 <img src="../media/release-note-2.png" alt="Write release note" width="450"/>
 
