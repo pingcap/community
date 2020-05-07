@@ -32,6 +32,7 @@ SIG.
 * [Performance](https://github.com/tikv/community/tree/master/sig/performance)
 * [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
 * [Ecosystem](https://github.com/tikv/community/tree/master/sig/ecosystem)
+* [Scheduling](./sig-scheduling)
 
 ### Documentation
 
