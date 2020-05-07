@@ -13,6 +13,6 @@ If there is really no release note, you can write "No release note"
 <img src="../static/img/release-note-3.png" alt="No release note" width="450"/>
 
 ## Trigger method
-At present, every commit will automatically run a check. If the description is modified and you want to trigger again, you can use the /rebuild command
+At present, every commit will automatically run a check. If the description is modified and you want to trigger again, you can command the `/rebuild` command to trigger again
 
 
