@@ -1,3 +1,7 @@
+# Release Note Checker
+
+This document describes the background, principle, and usage method of the release note checker.
+
 ## Background
 As we all know, the release process of TiDB is relatively lengthy. One of the most cost time thing is the collection of release notes. We have many PRs that do not have a release note when they are merged. Therefore, a release note checker was added to some repo in CI Check the release note, please pay attention when you mention pr and review, the effect is as follows
 
@@ -14,4 +18,3 @@ If there is really no release note, you can write "No release note"
 
 ## Trigger method
 At present, every commit will automatically run a check. If the description is modified and you want to trigger again, you can command the `/rebuild` command to trigger again
-
