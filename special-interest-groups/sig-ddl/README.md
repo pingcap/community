@@ -20,7 +20,7 @@ See [SIG DDL Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel #sig-ddl in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #sig-ddl in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace, you can join this channel through [this invitation link](https://slack.tidb.io/invite?team=tidb-community&channel=sig-ddl&ref=pingcap-community).
 
 ## Code Locations
 
