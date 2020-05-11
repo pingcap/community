@@ -1,16 +1,16 @@
-# K8S Special Interest Group(K8S SIG)
+# K8s Special Interest Group(K8s SIG)
 
-K8S SIG covers the TiDB Products on Kubernetes and Docker. Our work includes
+K8s SIG covers the TiDB Products on Kubernetes and Docker. Our work includes
 * Supporting new features or improving performance for TiDB Products on Kubernetes and Docker.
-* Supporting TiDB ecosystem tools intergrated natively with TiDB on Kubernetes
+* Supporting TiDB ecosystem tools integrated natively with TiDB on Kubernetes
 
 ## Roles and Organization Management
 
-See [SIG K8S Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG K8s Roles and Organization Management](./roles-and-organization-management.md)
 
 ## Members
 
-See [SIG K8S Member List](./member-list.md)
+See [SIG K8s Member List](./member-list.md)
 
 ## Meetings
 
