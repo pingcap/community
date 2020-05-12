@@ -10,7 +10,7 @@ We mainly follow the instructions in [TiDB Developer Group](../../architecture/R
 
 ### Join
 
-You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your [PR about documentation](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md) is merged. To have a discussion with us, just join our Slack channel **#sig-docs** in the [TiDB Community](https://pingcap.com/tidbslack) Slack workspace.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your [PR about documentation](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md) is merged. To have a discussion with us, just join our Slack channel [**#sig-docs**](https://slack.tidb.io/invite?team=tidb-community&channel=sig-docs&ref=pingcap-community) in the TiDB Community Slack workspace.
 
 ### Promotion
 
