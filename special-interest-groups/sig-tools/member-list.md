@@ -3,14 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-03-02
-
-## Active Contributors
-
-Members and their contributions:
-
-| user                                      | num_merged_PRs | earliest_PR_merged_time | latest_PR_merged_time |
-|:-----------------------------------------:|:--------------:|:-----------------------:|:---------------------:|
+* Last update time: 2020-05-13
 
 ## Tech Leads
 
@@ -21,3 +14,25 @@ Leads:
 Co-Leads:
 
 * [WangXiangUSTC](https://github.com/WangXiangUSTC), [PingCAP](https://pingcap.com/en/)
+
+## Committers
+
+* [3pointer](https://github.com/3pointer)
+* [5kbpers](https://github.com/5kbpers)
+* [amyangfei](https://github.com/amyangfei)
+* [csuzhngxc](https://github.com/csuzhngxc)
+* [GMHDBJD](https://github.com/GMHDBJD)
+* [GregoryIan](https://github.com/GregoryIan)
+* [july2993](https://github.com/july2993)
+* [leoppro](https://github.com/leoppro)
+* [lichunzhu](https://github.com/lichunzhu)
+* [overvenus](https://github.com/overvenus)
+* [YuJuncen](https://github.com/YuJuncen)
+
+## Reviewers
+
+## Active Contributors
+
+## Contributors
+
+* [AndrewDi](https://github.com/AndrewDi)

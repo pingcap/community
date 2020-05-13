@@ -15,20 +15,20 @@ See [SIG Tools Member List](./member-list.md)
 
 ## Meetings
 
-* Regular Working Group Meeting: 5:00, Wednesdays at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
-* Meeting [Link](https://pingcap.zoom.com.cn/j/237833920)
-* Meeting [Notes](https://docs.google.com/document/d/1BOvG9shBJSbSgQkU-sG7xTcB3f3ULzAcr7rhyNZc1XA/edit#)
+There is no regular meeting.
 
 ## Contact
 
-* Slack: channel #sig-tools in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools) in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ## Code Locations
 
-* The [tidb-binlog repo](https://github.com/pingcap/tidb-binlog).
-* The [tidb-lightning repo](https://github.com/pingcap/tidb-lightning).
-* The [dm repo](https://github.com/pingcap/dm/).
-* The [backup and resotre](https://github.com/pingcap/br).
-* The [ticdc](https://github.com/pingcap/ticdc).
-* The [dumpling](https://github.com/pingcap/dumpling).
-* The [tidb-tools](https://github.com/pingcap/tidb-tools).
+Each code of each tool can be found in their own repository:
+
+* [BR](https://github.com/pingcap/br) (backup & restore)
+* [TiCDC](https://github.com/pingcap/ticdc) (change data capture)
+* [DM](https://github.com/pingcap/dm/) (data migration)
+* [Lightning](https://github.com/pingcap/tidb-lightning) (data import)
+* [Dumpling](https://github.com/pingcap/dumpling) (data export)
+* [TiDB-Binlog](https://github.com/pingcap/tidb-binlog)
+* [TiDB-Tools](https://github.com/pingcap/tidb-tools) (miscellaneous tools and libraries)
