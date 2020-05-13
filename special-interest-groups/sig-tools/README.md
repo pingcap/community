@@ -19,7 +19,10 @@ There is no regular meeting.
 
 ## Contact
 
-* Slack: channel [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools) in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+Feel free to join our discussion if you are interested.
+
+* Slack (English): [#sig-tools](https://tidbcommunity.slack.com/messages/sig-tools)
+* Slack (中文): [#sig-tools-zh](https://tidbcommunity.slack.com/messages/sig-tools-zh)
 
 ## Code Locations
 
