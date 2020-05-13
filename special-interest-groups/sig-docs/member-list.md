@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-04-24
+* Last update time: 2020-05-08
 
 ## Tech Leads
 
@@ -43,3 +43,5 @@ Members and their contributions:
 | [piperck](https://github.com/piperck) | 1 | 2020-04-09 | 2020-04-09 |
 | [ChristianLeow](https://github.com/ChristianLeow) | 2 | 2020-04-16 | 2020-04-23 |
 | [terror](https://github.com/terror) | 3 | 2020-04-20 | 2020-04-23 |
+| [glkappe](https://github.com/glkappe) | 2 | 2020-05-07 | 2020-05-08 |
+| [Hangzhi](https://github.com/Hangzhi) | 1 | 2020-05-08 | 2020-05-08 |
