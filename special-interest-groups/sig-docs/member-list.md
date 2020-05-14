@@ -5,17 +5,17 @@
 * This member list is updated on a bi-weekly basis.
 * Last update time: 2020-05-14
 
-## Tech Leads
+## SIG Leaders
 
-* [lilin90](https://github.com/lilin90), [PingCAP](https://pingcap.com/en/)
-* [yikeke](http://github.com/yikeke), [PingCAP](https://pingcap.com/en/)
+* Leader: [lilin90](https://github.com/lilin90) @ [PingCAP](https://pingcap.com/en/)
+* Co-leader: [yikeke](http://github.com/yikeke) @ [PingCAP](https://pingcap.com/en/)
 
 ## Committers
 
-- [TomShawn](https://github.com/TomShawn)
 - [yikeke](https://github.com/yikeke)
-- [CaitinChen](https://github.com/CaitinChen)
 - [lilin90](https://github.com/lilin90)
+- [CaitinChen](https://github.com/CaitinChen)
+- [TomShawn](https://github.com/TomShawn)
 - [ran-huang](https://github.com/ran-huang)
 - [toutdesuite](https://github.com/toutdesuite)
 - [dcalvin](https://github.com/dcalvin)
@@ -26,14 +26,14 @@
 
 ## Reviewers
 
-- [juliezhang1112](https://github.com/juliezhang1112)
 - [anotherrachel](https://github.com/anotherrachel)
 - [aylei](https://github.com/aylei)
-- [ericsyh](https://github.com/ericsyh)
 - [YiniXu9506](https://github.com/YiniXu9506)
 - [weekface](https://github.com/weekface)
-- [morgo](https://github.com/morgo)
 - [crazycs520](https://github.com/crazycs520)
+- [juliezhang1112](https://github.com/juliezhang1112)
+- [ericsyh](https://github.com/ericsyh)
+- [morgo](https://github.com/morgo)
 
 ## Active Contributors
 
