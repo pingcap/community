@@ -5,7 +5,7 @@
 ### Join
 
 The minimal requirement for contributors to join the Tools SIG is to have
-the **Active Contributor** community role in the [binlog](https://github.com/pingcap/tidb-binlog), [lightning](https://github.com/pingcap/tidb-lightning), [dm](https://github.com/pingcap/dm), [backup and resotre](https://github.com/pingcap/br), [ticdc](https://github.com/pingcap/ticdc), [dumpling](https://github.com/pingcap/dumpling) or [tidb-tools](https://github.com/pingcap/tidb-tools) repository.
+the **Active Contributor** community role in at least [one of the tools repository](README.md#code-locations).
 
 ### Promotion
 
@@ -13,7 +13,7 @@ the **Active Contributor** community role in the [binlog](https://github.com/pin
 
 Requirements:
 
-* Have at least 8 PRs merged within one year.
+* Have at least 8 PRs merged (combined total of all repositories) within one year.
 * Nominated by at least 2 Tools SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
