@@ -23,7 +23,7 @@ SIG Specific Requirements:
   > **Note:** Same changes made to different branches in multiple PRs are considered as one PR.
 
 * Sponsored by two incumbent Reviewers in a SIG
-* Joined the [#sig-docs](https://tidbcommunity.slack.com/messages/sig-docs) Slack channel
+* Joined the [#sig-docs](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-community) Slack channel
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
