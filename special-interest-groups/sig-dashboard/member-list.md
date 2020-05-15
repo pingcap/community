@@ -10,7 +10,11 @@ Note: This file only lists members of **Active Contributor** role or above. See 
 
 ## Committers
 
-None
+- [@crazycs520](https://github.com/crazycs520) (PingCAP)
+- [@Deardrops](https://github.com/Deardrops) (PingCAP)
+- [@rleungx](https://github.com/rleungx) (PingCAP)
+- [@mapleFU](https://github.com/mapleFU) (PingCAP)
+- [@reafans](https://github.com/reafans) (PingCAP)
 
 ## Reviewers
 

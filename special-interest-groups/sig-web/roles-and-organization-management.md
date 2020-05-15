@@ -1,11 +1,15 @@
-# SIG Tools Roles and Organization Management
+# SIG Web Roles and Organization Management
 
 ## Join and Promotion
 
+We mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group).
+It lists common requirements, responsibilities and privileges of each role in developer group.
+
 ### Join
 
-The minimal requirement for contributors to join the Tools SIG is to have
-the **Active Contributor** community role in at least [one of the tools repository](README.md#code-locations).
+There is no restrictions to join the discussion of Web SIG. See [README](./README.md) for where we discuss.
+
+However you will be only listed in our [member list] if you have **Active Contributor** role or above.
 
 ### Promotion
 
@@ -13,8 +17,8 @@ the **Active Contributor** community role in at least [one of the tools reposito
 
 Requirements:
 
-* Have at least 8 PRs merged (combined total of all repositories) within one year.
-* Nominated by at least 2 Tools SIG Reviewers or roles above.
+* Have at least 8 PRs merged within one year.
+* Nominated by at least 1 Web SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 
@@ -40,7 +44,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the tools-related repositories within one year.
+* No contribution to the parser repository within one year.
 
 **How to rejoin**:
 
@@ -53,7 +57,7 @@ Requirements:
 For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the tools-related repositories within 3 months.
+* Haven't reviewed or merged any PR in the parser repository within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
@@ -63,5 +67,5 @@ least 1 of the following conditions:
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
+Please email to [sykp241095](mailto:huohao@pingcap.com) if you are
 going to quit or demote voluntarily.

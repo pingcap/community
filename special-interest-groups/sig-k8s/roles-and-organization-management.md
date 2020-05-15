@@ -1,10 +1,10 @@
-# SIG K8S Roles and Organization Management
+# SIG K8s Roles and Organization Management
 
 ## Join and Promotion
 
 ### Join
 
-The minimal requirement for contributors to join the K8S SIG is to have the **Active Contributor** community role in the TiDB-Operator repository.
+The minimal requirement for contributors to join the K8s SIG is to have the **Active Contributor** community role in the TiDB-Operator repository.
 
 ### Promotion
 
@@ -30,7 +30,7 @@ Requirements:
 * Merged 40+ PRs
 * Finished 2+ tasks of Medium priority/important-soon
 * Fixed 1+ tasks of priority/critical-urgent
-* Reviewd 20+ PRs
+* Reviewed 20+ PRs
 * Nominated by the Tech Leads of SIG-k8s and gained supermajority (2/3) votes from Maintainers
 
 ## Quit and Demotion

@@ -23,7 +23,7 @@ large groups of TiDB users.
 
 See [pingcap/docs](https://pingcap.com/docs/) or
 [pingcap/docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
-help in [AskTUG.com](https://asktug.com/) if you met any problem.
+help in [AskTUG.com(Chinese)](https://asktug.com/) if you met any problem.
 
 ## TiDB Developer Group
 
