@@ -12,14 +12,17 @@
 
 ## Committers
 
-None
+* [AstroProfundis](https://github.com/AstroProfundis), [PingCAP](https://pingcap.com/en/)
+* [nrc](https://github.com/nrc), [PingCAP](https://pingcap.com/en/)
+* [july2993](https://github.com/july2993), [PingCAP](https://pingcap.com/en/)
 
 ## Reviewers
 
-None
+* [birdstorm](https://github.com/birdstorm), [PingCAP](https://pingcap.com/en/)
+* [breeswish](https://github.com/breeswish), [PingCAP](https://pingcap.com/en/)
 
 ## Active Contributors
 
-Members and their contributions:
-
-- [qinzuoyan](https://github.com/qinzuoyan)
+* [c4pt0r](https://github.com/c4pt0r), [PingCAP](https://pingcap.com/en/)
+* [qinzuoyan](https://github.com/qinzuoyan), [XiaoMi](https://github.com/XiaoMi)
+* [YangKeao](https://github.com/YangKeao), [PingCAP](https://pingcap.com/en/)
