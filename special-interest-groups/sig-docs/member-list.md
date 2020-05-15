@@ -2,8 +2,8 @@
 
 **NOTE**:
 
-* This member list is updated on a bi-weekly basis.
-* Last update time: 2020-05-14
+* This member list is updated on a weekly basis.
+* Last update time: 2020-05-15
 
 ## SIG Leaders
 
@@ -59,6 +59,7 @@
 - [july2993](https://github.com/july2993)
 - [lysu](https://github.com/lysu)
 - [lance6716](https://github.com/lance6716)
+- [zhouqiang-cl](https://github.com/zhouqiang-cl)
 
 ## Contributors
 
@@ -148,7 +149,6 @@
 - [ldnvnbl](https://github.com/ldnvnbl)
 - [zhangjinpeng1987](https://github.com/zhangjinpeng1987)
 - [llussy](https://github.com/llussy)
-- [zhouqiang-cl](https://github.com/zhouqiang-cl)
 - [siddontang](https://github.com/siddontang)
 - [zhenjiaogao](https://github.com/zhenjiaogao)
 - [zyh-hust](https://github.com/zyh-hust)
