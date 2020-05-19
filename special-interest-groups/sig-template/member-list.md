@@ -5,7 +5,7 @@
 * This member list is updated on a bi-weekly basis.
 * Last update time: yyyy-mm-dd
 
-## Leader
+## Tech Lead
 
 * [Tech lead 1](Github-link-of-tech-lead-1)
 
