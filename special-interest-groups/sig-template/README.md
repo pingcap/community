@@ -37,7 +37,7 @@ See [Template SIG Member List](./member-list.md)
 
 * Slack: [#sig-${name}](https://pingcap.com/tidbslack)
 
-## Repositories，Project and labels
+## Repositories, Projects and labels
 
 - [repo-1](Github-link-of-repo)
   - [project-1](Github-link-of-project-1)
