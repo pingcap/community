@@ -65,7 +65,6 @@
 ## Contributors
 
 - [imtbkcat](https://github.com/imtbkcat)
-
 - [WalterWj](https://github.com/WalterWj)
 - [marsishandsome](https://github.com/marsishandsome)
 - [kennytm](https://github.com/kennytm)
