@@ -2,22 +2,23 @@
 
 **NOTE**:
 
-* This member list is updated on a bi-weekly basis.
-* Last update time: 2020-04-08
+* This member list is updated on a monthly basis.
+* Last update time: 2020-05-15
 
-## Tech Leads
+## SIG Leader
 
 * [wd0517](https://github.com/wd0517), [PingCAP](https://pingcap.com/en/)
-* [g1eny0ung](https://github.com/g1eny0ung), [PingCAP](https://pingcap.com/en/)
 
 ## Committers
 
-- [hooopo](https://github.com/hooopo)
+* [g1eny0ung](https://github.com/g1eny0ung), [PingCAP](https://pingcap.com/en/)
+* [YiniXu9506](https://github.com/YiniXu9506), [PingCAP](https://pingcap.com/en/)
 
 ## Reviewers
 
 None
 
-## Active Contributors
+## Contributors
 
-None
+* [hooopo](https://github.com/hooopo)
+* [JinLingChristopher](https://github.com/JinLingChristopher)

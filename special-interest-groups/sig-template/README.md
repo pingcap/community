@@ -37,9 +37,17 @@ See [Template SIG Member List](./member-list.md)
 
 * Slack: [#sig-${name}](https://pingcap.com/tidbslack)
 
-## Code Locations
+## Repositories, Projects and labels
 
-<!-- Put the code locations of this Special Interest Group here -->
+- [repo-1](Github-link-of-repo)
+  - [project-1](Github-link-of-project-1)
+    - [label1](xx)
+  - [project-1](Github-link-of-project-2)
+    - [label2](xx)
+    - [label3](xxx)
+- [repo-2](Github-link-of-repo)
+<!--if the whole repo belongs to this SIG, the informantion for projects and labels are optional -->
+- [repo-3](Github-link-of-repo)
 
 ## Published Documents
 

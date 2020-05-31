@@ -31,7 +31,7 @@ Go to [https://www.figma.com/](https://www.figma.com/) and click **Sign up** to 
 
 ### Step 2: Open the tidb-sketch-book file
 
-Click [tidb-sketch-book](https://www.figma.com/file/MOBwqkBtuA03agMjeGEGUT/tidb-sketch-book) to view the template.
+Click [tidb-sketch-book](https://www.figma.com/file/dHQ9B7X4mF1q78NRIzNTs5/tidb-sketch-book-2020) to view the template.
 
 > **Note:**
 >

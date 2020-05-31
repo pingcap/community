@@ -2,8 +2,8 @@
 
 **NOTE**:
 
-* This member list is updated on a bi-weekly basis.
-* Last update time: 2020-05-14
+* This member list is updated on a weekly basis.
+* Last update time: 2020-05-22
 
 ## SIG Leaders
 
@@ -33,12 +33,11 @@
 - [crazycs520](https://github.com/crazycs520)
 - [juliezhang1112](https://github.com/juliezhang1112)
 - [ericsyh](https://github.com/ericsyh)
-- [morgo](https://github.com/morgo)
+- [Yisaer](https://github.com/Yisaer)
 
 ## Active Contributors
 
 - [tiancaiamao](https://github.com/tiancaiamao)
-- [Yisaer](https://github.com/Yisaer)
 - [csuzhangxc](https://github.com/csuzhangxc)
 - [huangxiuyan](https://github.com/huangxiuyan)
 - [superlzs0476](https://github.com/superlzs0476)
@@ -59,11 +58,13 @@
 - [july2993](https://github.com/july2993)
 - [lysu](https://github.com/lysu)
 - [lance6716](https://github.com/lance6716)
+- [zhouqiang-cl](https://github.com/zhouqiang-cl)
+- [morgo](https://github.com/morgo)
+- [AilinKid](https://github.com/AilinKid)
 
 ## Contributors
 
 - [imtbkcat](https://github.com/imtbkcat)
-- [AilinKid](https://github.com/AilinKid)
 - [WalterWj](https://github.com/WalterWj)
 - [marsishandsome](https://github.com/marsishandsome)
 - [kennytm](https://github.com/kennytm)
@@ -148,7 +149,6 @@
 - [ldnvnbl](https://github.com/ldnvnbl)
 - [zhangjinpeng1987](https://github.com/zhangjinpeng1987)
 - [llussy](https://github.com/llussy)
-- [zhouqiang-cl](https://github.com/zhouqiang-cl)
 - [siddontang](https://github.com/siddontang)
 - [zhenjiaogao](https://github.com/zhenjiaogao)
 - [zyh-hust](https://github.com/zyh-hust)
@@ -300,3 +300,15 @@
 - [acs-ferreira](https://github.com/acs-ferreira)
 - [motian](https://github.com/motian)
 - [thinxer](https://github.com/thinxer)
+- [bobotu](https://github.com/bobotu)
+- [claassistantio](https://github.com/claassistantio)
+- [ethercflow](https://github.com/ethercflow)
+- [gengliqi](https://github.com/gengliqi)
+- [hsqlu](https://github.com/hsqlu)
+- [leiysky](https://github.com/leiysky)
+- [miaoqingli](https://github.com/miaoqingli)
+- [pepezzzz](https://github.com/pepezzzz)
+- [ramonli](https://github.com/ramonli)
+- [Reminiscent](https://github.com/Reminiscent)
+- [xiaoyangwang5](https://github.com/xiaoyangwang5)
+- [yuzhibotao](https://github.com/yuzhibotao)

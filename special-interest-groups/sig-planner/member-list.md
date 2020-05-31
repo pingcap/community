@@ -3,19 +3,31 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2019-11-24
+* Last update time: 2020-05-18
 
 ## Active Contributors
 
-Members and their contributions:
-
-None
+- [tiancaiamao](https://github.com/tiancaiamao)
+- [SeaRise](https://github.com/SeaRise)
+- [Deardrops](https://github.com/Deardrops)
+- [wshwsh12](https://github.com/wshwsh12)
+- [foreyes](https://github.com/foreyes)
+- [lonng](https://github.com/lonng)
 
 ## Reviewers
 
-Members and their contributions:
+- [imtbkcat](https://github.com/imtbkcat)
+- [wjhuang2016](https://github.com/wjhuang2016)
+- [zz-jason](https://github.com/zz-jason)
+- [SunRunAway](https://github.com/SunRunAway)
+- [lamxTyler](https://github.com/lamxTyler)
+- [XuHuaiyu](https://github.com/XuHuaiyu)
 
-None
+## Committers
+
+- [lzmhhh123](https://github.com/lzmhhh123)
+- [francis0407](https://github.com/francis0407)
+- [eurekaka](https://github.com/eurekaka)
 
 ## Tech Leads
 
