@@ -18,8 +18,7 @@ There is no regular meeting.
 
 Feel free to join our discussion if you are interested.
 
-- Slack (English): [#sig-dashboard](https://slack.tidb.io/invite?team=tidb-community&channel=sig-dashboard&ref=github_sig)
-- Slack (Chinese): [#sig-dashboard-china](https://slack.tidb.io/invite?team=tidb-community&channel=sig-dashboard-china&ref=github_sig)
+- Slack: [#sig-dashboard](https://slack.tidb.io/invite?team=tidb-community&channel=sig-dashboard&ref=github_sig)
 
 ## Code Location
 
