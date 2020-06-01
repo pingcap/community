@@ -21,8 +21,7 @@ There is no regular meeting.
 
 Feel free to join our discussion if you are interested.
 
-* Slack (English): [#sig-tools](https://slack.tidb.io/invite?team=tidb-community&channel=sig-tools&ref=github_sig)
-* Slack (中文): [#sig-tools-zh](https://slack.tidb.io/invite?team=tidb-community&channel=sig-tools-zh&ref=github_sig)
+* Slack: [#sig-tools](https://slack.tidb.io/invite?team=tidb-community&channel=sig-tools&ref=github_sig)
 
 ## Code Locations
 
