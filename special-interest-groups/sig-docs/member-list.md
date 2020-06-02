@@ -31,7 +31,7 @@
 - [crazycs520](https://github.com/crazycs520)
 - [csuzhangxc](https://github.com/csuzhangxc)
 - [ericsyh](https://github.com/ericsyh)
-- [juliezhang1112](https://github.com/juliezhang1112)
+- [junlan-zhang](https://github.com/junlan-zhang)
 - [superlzs0476](https://github.com/superlzs0476)
 - [tangenta](https://github.com/tangenta)
 - [tiancaiamao](https://github.com/tiancaiamao)
