@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a weekly basis.
-* Last update time: 2020-05-29
+* Last update time: 2020-06-05
 
 ## SIG Leaders
 
@@ -55,6 +55,7 @@
 - [kissmydb](https://github.com/kissmydb)
 - [lamxTyler](https://github.com/lamxTyler)
 - [lance6716](https://github.com/lance6716)
+- [lawyerphx](https://github.com/lawyerphx)
 - [lichunzhu](https://github.com/lichunzhu)
 - [liubo0127](https://github.com/liubo0127)
 - [lysu](https://github.com/lysu)
@@ -65,6 +66,7 @@
 - [WalterWj](https://github.com/WalterWj)
 - [Win-Man](https://github.com/Win-Man)
 - [winoros](https://github.com/winoros)
+- [wjhuang2016](https://github.com/wjhuang2016)
 - [wshwsh12](https://github.com/wshwsh12)
 - [xiaojingchen](https://github.com/xiaojingchen)
 - [zhouqiang-cl](https://github.com/zhouqiang-cl)
@@ -111,6 +113,7 @@
 - [datahoecn](https://github.com/datahoecn)
 - [dbaoutdo](https://github.com/dbaoutdo)
 - [disksing](https://github.com/disksing)
+- [eastfisher](https://github.com/eastfisher)
 - [elitecodegroovy](https://github.com/elitecodegroovy)
 - [elvizlai](https://github.com/elvizlai)
 - [emhlbmc](https://github.com/emhlbmc)
@@ -124,7 +127,6 @@
 - [freyfl](https://github.com/freyfl)
 - [fzhedu](https://github.com/fzhedu)
 - [g1eny0ung](https://github.com/g1eny0ung)
-- [gengliqi](https://github.com/gengliqi)
 - [glkappe](https://github.com/glkappe)
 - [GregoryIan](https://github.com/GregoryIan)
 - [gregwebs](https://github.com/gregwebs)
@@ -140,6 +142,7 @@
 - [HuangPingZhong](https://github.com/HuangPingZhong)
 - [huangxiuyan](https://github.com/huangxiuyan)
 - [HunDunDM](https://github.com/HunDunDM)
+- [hunterlxt](https://github.com/hunterlxt)
 - [husiyu](https://github.com/husiyu)
 - [iamxy](https://github.com/iamxy)
 - [iamzhout](https://github.com/iamzhout)
@@ -159,7 +162,6 @@
 - [King-Dylan](https://github.com/King-Dylan)
 - [kolbe](https://github.com/kolbe)
 - [lastzero](https://github.com/lastzero)
-- [lawyerphx](https://github.com/lawyerphx)
 - [ldnvnbl](https://github.com/ldnvnbl)
 - [leiysky](https://github.com/leiysky)
 - [leoppro](https://github.com/leoppro)
@@ -167,6 +169,7 @@
 - [letientai299](https://github.com/letientai299)
 - [lhy1024](https://github.com/lhy1024)
 - [lhyPingcap](https://github.com/lhyPingcap)
+- [lidaobing](https://github.com/lidaobing)
 - [lidezhu](https://github.com/lidezhu)
 - [limitless083](https://github.com/limitless083)
 - [LinuxGit](https://github.com/LinuxGit)
@@ -231,6 +234,7 @@
 - [suzaku](https://github.com/suzaku)
 - [sweetIan](https://github.com/sweetIan)
 - [sydnever](https://github.com/sydnever)
+- [sylar8023baby](https://github.com/sylar8023baby)
 - [TaoZhengCN](https://github.com/TaoZhengCN)
 - [tender-boluo](https://github.com/tender-boluo)
 - [terror](https://github.com/terror)
@@ -247,7 +251,6 @@
 - [Wenting0905](https://github.com/Wenting0905)
 - [windtalker](https://github.com/windtalker)
 - [winkyao](https://github.com/winkyao)
-- [wjhuang2016](https://github.com/wjhuang2016)
 - [wolfstudy](https://github.com/wolfstudy)
 - [wsabc01](https://github.com/wsabc01)
 - [wyuchen007](https://github.com/wyuchen007)
