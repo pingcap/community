@@ -20,6 +20,10 @@ None
 * [shafreeck](https://github.com/shafreeck), [PingCAP](https://pingcap.com/en/)
 * [lhy1024](https://github.com/lhy1024), [PingCAP](https://pingcap.com/en/)
 * [HunDunDM](https://github.com/HunDunDM), [PingCAP](https://pingcap.com/en/)
+* [siddontang](https://github.com/siddontang), [PingCAP](https://pingcap.com/en/)
+* [qiuyesuifeng](https://github.com/qiuyesuifeng), [PingCAP](https://pingcap.com/en/)
+* [overvenus](https://github.com/overvenus), [PingCAP](https://pingcap.com/en/)
+* [Connor1996](https://github.com/Connor1996), [PingCAP](https://pingcap.com/en/)
 
 ## Reviewers
 
