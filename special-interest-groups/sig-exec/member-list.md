@@ -16,6 +16,12 @@
 - [Reminiscent](https://github.com/Reminiscent)
 - [wshwsh12](https://github.com/wshwsh12)
 - [qw4990](https://github.com/qw4990)
+- [crazycs520](https://github.com/crazycs520)
+- [jackysp](https://github.com/jackysp)
+- [tiancaiamao](https://github.com/tiancaiamao)
+- [coocood](https://github.com/coocood)
+- [lysu](https://github.com/lysu)
+
 
 ## Reviewers
 
