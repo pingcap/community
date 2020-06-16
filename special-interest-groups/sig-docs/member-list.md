@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a weekly basis.
-* Last update time: 2020-06-05
+* Last update time: 2020-06-12
 
 ## SIG Leaders
 
@@ -14,6 +14,7 @@
 
 - [CaitinChen](https://github.com/CaitinChen)
 - [cofyc](https://github.com/cofyc)
+- [csuzhangxc](https://github.com/csuzhangxc)
 - [DanielZhangQD](https://github.com/DanielZhangQD)
 - [dcalvin](https://github.com/dcalvin)
 - [jackysp](https://github.com/jackysp)
@@ -29,13 +30,15 @@
 - [anotherrachel](https://github.com/anotherrachel)
 - [aylei](https://github.com/aylei)
 - [crazycs520](https://github.com/crazycs520)
-- [csuzhangxc](https://github.com/csuzhangxc)
 - [ericsyh](https://github.com/ericsyh)
 - [junlan-zhang](https://github.com/junlan-zhang)
+- [lysu](https://github.com/lysu)
 - [superlzs0476](https://github.com/superlzs0476)
 - [tangenta](https://github.com/tangenta)
+- [tennix](https://github.com/tennix)
 - [tiancaiamao](https://github.com/tiancaiamao)
 - [weekface](https://github.com/weekface)
+- [Win-Man](https://github.com/Win-Man)
 - [YiniXu9506](https://github.com/YiniXu9506)
 - [Yisaer](https://github.com/Yisaer)
 
@@ -50,21 +53,19 @@
 - [eurekaka](https://github.com/eurekaka)
 - [GMHDBJD](https://github.com/GMHDBJD)
 - [imtbkcat](https://github.com/imtbkcat)
-- [IzabelWang](https://github.com/IzabelWang)
 - [july2993](https://github.com/july2993)
 - [kissmydb](https://github.com/kissmydb)
+- [kolbe](https://github.com/kolbe)
 - [lamxTyler](https://github.com/lamxTyler)
 - [lance6716](https://github.com/lance6716)
 - [lawyerphx](https://github.com/lawyerphx)
 - [lichunzhu](https://github.com/lichunzhu)
 - [liubo0127](https://github.com/liubo0127)
-- [lysu](https://github.com/lysu)
 - [marsishandsome](https://github.com/marsishandsome)
 - [morgo](https://github.com/morgo)
+- [overvenus](https://github.com/overvenus)
 - [SunRunAway](https://github.com/SunRunAway)
-- [tennix](https://github.com/tennix)
 - [WalterWj](https://github.com/WalterWj)
-- [Win-Man](https://github.com/Win-Man)
 - [winoros](https://github.com/winoros)
 - [wjhuang2016](https://github.com/wjhuang2016)
 - [wshwsh12](https://github.com/wshwsh12)
@@ -141,6 +142,7 @@
 - [huachaohuang](https://github.com/huachaohuang)
 - [HuangPingZhong](https://github.com/HuangPingZhong)
 - [huangxiuyan](https://github.com/huangxiuyan)
+- [HuGanghui](https://github.com/HuGanghui)
 - [HunDunDM](https://github.com/HunDunDM)
 - [hunterlxt](https://github.com/hunterlxt)
 - [husiyu](https://github.com/husiyu)
@@ -150,6 +152,8 @@
 - [ilovesoup](https://github.com/ilovesoup)
 - [innerr](https://github.com/innerr)
 - [iroi44](https://github.com/iroi44)
+- [Ishiihara](https://github.com/Ishiihara)
+- [IzabelWang](https://github.com/IzabelWang)
 - [JaySon-Huang](https://github.com/JaySon-Huang)
 - [jebter](https://github.com/jebter)
 - [jinsheng1995](https://github.com/jinsheng1995)
@@ -160,7 +164,6 @@
 - [KASSADAR](https://github.com/KASSADAR)
 - [kennytm](https://github.com/kennytm)
 - [King-Dylan](https://github.com/King-Dylan)
-- [kolbe](https://github.com/kolbe)
 - [lastzero](https://github.com/lastzero)
 - [ldnvnbl](https://github.com/ldnvnbl)
 - [leiysky](https://github.com/leiysky)
@@ -176,6 +179,7 @@
 - [lishuai87](https://github.com/lishuai87)
 - [Little-Wallace](https://github.com/Little-Wallace)
 - [LittleFall](https://github.com/LittleFall)
+- [littlesmilelove](https://github.com/littlesmilelove)
 - [liubin](https://github.com/liubin)
 - [liukun4515](https://github.com/liukun4515)
 - [llussy](https://github.com/llussy)
@@ -196,7 +200,6 @@
 - [oasangqi](https://github.com/oasangqi)
 - [onlymellb](https://github.com/onlymellb)
 - [oraluben](https://github.com/oraluben)
-- [overvenus](https://github.com/overvenus)
 - [pcqz](https://github.com/pcqz)
 - [pepezzzz](https://github.com/pepezzzz)
 - [philip](https://github.com/philip)
