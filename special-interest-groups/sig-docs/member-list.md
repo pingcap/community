@@ -142,7 +142,7 @@
 - [huachaohuang](https://github.com/huachaohuang)
 - [HuangPingZhong](https://github.com/HuangPingZhong)
 - [huangxiuyan](https://github.com/huangxiuyan)
-- [HuGanghu](https://github.com/HuGanghui)
+- [HuGanghui](https://github.com/HuGanghui)
 - [HunDunDM](https://github.com/HunDunDM)
 - [hunterlxt](https://github.com/hunterlxt)
 - [husiyu](https://github.com/husiyu)
