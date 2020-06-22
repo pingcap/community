@@ -1,4 +1,4 @@
-# Dashboard SIG Roles and Organization Management
+# TiDB Dashboard SIG Roles and Organization Management
 
 ## Join and Promotion
 
