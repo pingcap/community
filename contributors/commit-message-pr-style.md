@@ -126,6 +126,13 @@ If there is document change, please file a PR in ([docs](https://github.com/ping
 ## Add a few positive/negative examples (optional)
 ```
 
+You may also use checklist style listing of contents if needed, the Markdown syntax is like:
+
+```
+- [x] A checked line, something already done or fullfilled
+- [ ] An unchecked line, something not finished yet
+```
+
 For short and obvious Pull Requests, you can omit some of the above information.
 
 Thanks for your contribution！
