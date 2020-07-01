@@ -232,7 +232,7 @@ get full support by PingCAP and the community.
   - PingCAP
     - Official learning resources
     - Necessary tutoring lessons
-    - Marketing campaign and promotion  for the project and
+    - Marketing campaign and promotion  for the project
 
 - Open Source experience:
   - First-hand practical experience
