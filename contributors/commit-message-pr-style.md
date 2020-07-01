@@ -129,7 +129,7 @@ If there is document change, please file a PR in ([docs](https://github.com/ping
 You may also use the checklist style to list contents if needed. The Markdown syntax is as follows:
 
 ```
-- [x] A checked line, something already done or fullfilled
+- [x] A checked line, something already done or fulfilled
 - [ ] An unchecked line, something not finished yet
 ```
 
