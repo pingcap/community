@@ -33,6 +33,11 @@ Co-Leads:
 
 ## Active Contributors
 
+* [lance6716](https://github.com/lance6716)
+
 ## Contributors
 
 * [AndrewDi](https://github.com/AndrewDi)
+* [glorv](https://github.com/glorv)
+* [Kuri-su](https://github.com/Kuri-su)
+* [qixiaobin](https://github.com/qixiaobin)
