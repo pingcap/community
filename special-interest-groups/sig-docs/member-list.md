@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a weekly basis.
-* Last update time: 2020-06-12
+* Last update time: 2020-07-07
 
 ## SIG Leaders
 
@@ -290,7 +290,7 @@
 - [zhouyueyue1115](https://github.com/zhouyueyue1115)
 - [zhumengzhu](https://github.com/zhumengzhu)
 - [zhzy0077](https://github.com/zhzy0077)
-- [zyguan](https://github.com/zyguan
-- [zyh-hust](https://github.com/zyh-hust
-- [zz-jason](https://github.com/zz-jason
-- [zzh1985](https://github.com/zzh1985
+- [zyguan](https://github.com/zyguan)
+- [zyh-hust](https://github.com/zyh-hust)
+- [zz-jason](https://github.com/zz-jason)
+- [zzh1985](https://github.com/zzh1985)
