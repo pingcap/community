@@ -1,9 +1,9 @@
-# Tools Special Interest Group(Tools SIG)
+# Tools Special Interest Group (SIG Tools)
 
 Tools SIG covers the TiDB surrounding tools. Our work includes
 * Improving the functionality of tools.
 * Fixing all kinds of tools-related bugs.
-* Improving the performance.
+* Improving the performance of tools.
 
 ## Roles and Organization Management
 
@@ -20,13 +20,9 @@ See [SIG Tools Member List](./member-list.md)
 
 ## Contact
 
-Feel free to join our discussion if you are interested.
-
 * Slack: [#sig-tools]
 
-## Code Locations
-
-Each code of each tool can be found in their own repository:
+## Repositories, Projects and labels
 
 * [BR](https://github.com/pingcap/br) (backup & restore)
 * [TiCDC](https://github.com/pingcap/ticdc) (change data capture)
