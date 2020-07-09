@@ -5,6 +5,14 @@ DDL SIG covers the TiDB DDL and parser. Our work includes
 * Fixing all kinds of DDL-related and parser-related bugs.
 * Improving the performance.
 
+## Learning Materials
+
+* Basic Theory Related Articles
+    * DDL Related Articles: [Online, Asynchronous Schema Change in F1](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf), [Deep analysis of Google F1's schema change algorithm(CN)](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)
+    * Parser Related Articles: [Bison manual](https://www.gnu.org/software/bison/manual/html_node/index.html), [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811v)
+* Architecture Related Articles: [TiDB DDL architecture](https://github.com/pingcap/tidb/blob/master/docs/design/2018-10-08-online-DDL.md)
+* Source Code Implementation Related Articles: based on the v1.1 [source-code](https://github.com/pingcap/tidb/tree/source-code) version of the [DDL source code reading(CN)](https://pingcap.com/blog-cn/tidb-source-code-reading-17/) and [Parser implementation(CN)](https://pingcap.com/blog-cn/tidb-source-code-reading-5/)
+
 ## Roles and Organization Management
 
 See [SIG DDL Roles and Organization Management](./roles-and-organization-management.md)
@@ -26,4 +34,8 @@ See [SIG DDL Member List](./member-list.md)
 
 * The [parser repo](https://github.com/pingcap/parser).
 * The [ddl package](https://github.com/pingcap/tidb/tree/master/ddl) in the tidb repo.
+* The [domain package](https://github.com/pingcap/tidb/tree/master/domain) in the tidb repo.
+* The [infoschema package](https://github.com/pingcap/tidb/tree/master/infoschema) in the tidb repo.
+* The [meta package](https://github.com/pingcap/tidb/tree/master/meta) in the tidb repo.
+* The [owner package](https://github.com/pingcap/tidb/tree/master/owner) in the tidb repo.
 * Other codes that affect the correctness, performance of the TiDB DDL. 
