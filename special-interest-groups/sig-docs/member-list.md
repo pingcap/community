@@ -79,7 +79,7 @@
 * [wshwsh12](https://github.com/wshwsh12)
 * [xiaojingchen](https://github.com/xiaojingchen)
 * [zhouqiang-cl](https://github.com/zhouqiang-cl)
-* [zimulala](https://github.com/zimulala)*
+* [zimulala](https://github.com/zimulala)
 
 ## Contributors
 
