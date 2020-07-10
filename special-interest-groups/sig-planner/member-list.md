@@ -21,13 +21,14 @@
 - [zz-jason](https://github.com/zz-jason)
 - [SunRunAway](https://github.com/SunRunAway)
 - [lamxTyler](https://github.com/lamxTyler)
-- [XuHuaiyu](https://github.com/XuHuaiyu)
 
 ## Committers
 
 - [lzmhhh123](https://github.com/lzmhhh123)
 - [francis0407](https://github.com/francis0407)
 - [eurekaka](https://github.com/eurekaka)
+- [qw4990](https://github.com/qw4990)
+- [XuHuaiyu](https://github.com/XuHuaiyu)
 
 ## Tech Leads
 
