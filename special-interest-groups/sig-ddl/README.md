@@ -34,6 +34,17 @@ See [SIG DDL Member List](./member-list.md)
 
 * Slack: channel #sig-ddl in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace, you can join this channel through [this invitation link](https://slack.tidb.io/invite?team=tidb-community&channel=sig-ddl&ref=pingcap-community).
 
+## Repositories, Projects and labels
+
+* [tidb](https://github.com/pingcap/tidb)
+    * [SIG DDL Kanban](https://github.com/pingcap/tidb/projects/40)
+        * [component/DDL](https://github.com/pingcap/tidb/labels/component%2FDDL)
+        * [component/parser](https://github.com/pingcap/tidb/labels/component%2Fparser)
+        * [component/charset](https://github.com/pingcap/tidb/labels/component%2Fcharset)
+        * [component/infoschema](https://github.com/pingcap/tidb/labels/component%2Finfoschema)
+        * [component/binlog](https://github.com/pingcap/tidb/labels/component%2Fbinlog)
+* [parser](https://github.com/pingcap/parser/issues)
+
 ## Code Locations
 
 * The [parser repo](https://github.com/pingcap/parser).
