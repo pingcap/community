@@ -22,10 +22,14 @@ None
 * [HunDunDM](https://github.com/HunDunDM), [PingCAP](https://pingcap.com/en/)
 * [siddontang](https://github.com/siddontang), [PingCAP](https://pingcap.com/en/)
 * [qiuyesuifeng](https://github.com/qiuyesuifeng), [PingCAP](https://pingcap.com/en/)
+* [huachaohuang](https://github.com/huachaohuang)
 * [overvenus](https://github.com/overvenus), [PingCAP](https://pingcap.com/en/)
 * [Connor1996](https://github.com/Connor1996), [PingCAP](https://pingcap.com/en/)
 
 ## Reviewers
+
+* [Luffbee](https://github.com/Luffbee)
+* [shafreeck](https://github.com/shafreeck)
 
 None
 
