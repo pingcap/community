@@ -13,6 +13,10 @@ DDL SIG covers the TiDB DDL and parser. Our work includes
 * Architecture Related Articles: [TiDB DDL architecture](https://github.com/pingcap/tidb/blob/master/docs/design/2018-10-08-online-DDL.md)
 * Source Code Implementation Related Articles: based on the v1.1 [source-code](https://github.com/pingcap/tidb/tree/source-code) version of the [DDL source code reading(CN)](https://pingcap.com/blog-cn/tidb-source-code-reading-17/) and [Parser implementation(CN)](https://pingcap.com/blog-cn/tidb-source-code-reading-5/)
 
+## Contributing
+
+Please feel free to explore our [GitHub project](https://github.com/orgs/pingcap/projects/28).
+
 ## Roles and Organization Management
 
 See [SIG DDL Roles and Organization Management](./roles-and-organization-management.md)
