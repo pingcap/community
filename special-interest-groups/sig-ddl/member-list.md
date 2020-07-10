@@ -10,20 +10,22 @@
 ## Committers
 
 - [crazycs520](https://github.com/crazycs520)
+- [lysu](https://github.com/lysu)
 - [winkyao](https://github.com/winkyao)
 - [bb7133](https://github.com/bb7133)
 - [AilinKid](https://github.com/AilinKid)
-- [djshow832](https://github.com/djshow832)
 - [wjhuang2016](https://github.com/wjhuang2016)
-- [lonng](https://github.com/lonng)
+- [djshow832](https://github.com/djshow832)
 
 ## Reviewers
 
-- [lysu](https://github.com/lysu)
+- [ciscoxll](https://github.com/ciscoxll)
+- [XuHuaiyu](https://github.com/XuHuaiyu)
+- [spongedu](https://github.com/spongedu)
 - [Deardrops](https://github.com/Deardrops)
 
 ## Active Contributors
 
-- [spongedu](https://github.com/spongedu)
 - [reafans](https://github.com/reafans)
 - [Rustin-Liu](https://github.com/Rustin-Liu)
+- [zhaox1n](https://github.com/zhaox1n)
