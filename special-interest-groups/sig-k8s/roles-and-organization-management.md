@@ -1,37 +1,41 @@
-# SIG K8s Roles and Organization Management
+# Template SIG Roles and Organization Management
+
+<!--
+Outline the organism specific to this SIG, as well as those that differ from [SIG Governance](sig-governance.md)
+-->
 
 ## Join and Promotion
 
+Here we mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group), including common requirements, responsibilities and privileges of each community role.
+
 ### Join
 
-The minimal requirement for contributors to join the K8s SIG is to have the **Active Contributor** community role in the TiDB-Operator repository.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about `${module name}` is merged.
+To have a discussion with us, just join our slack channel **#sig-k8s** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ### Promotion
 
-#### From `Contributor` to `Active Contributor`
+#### Be promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
-Requirements:
+SIG Specific Requirements:
 
-* Merged 8 PRs in one year.
-* Sponsored by 2 incumbent Reviewers
+* Joined the sig-k8s slack channel.
 
-#### From `Active Contributor` to `Reviewer`
+#### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
-Requirements:
+SIG Specific Requirements:
 
-* Merged 20 PRs
-* Fixed 1 or more issues of priority/important-longterm
-* Sponsored by at 2 Committers
+* Have at least 15 PRs merged in `#sig-k8s` projects
+* Fix at least 1 issue whose difficulty is medium or above
 
-#### From `Reviewer` to `Committer`
+#### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
-Requirements:
+SIG Specific Requirements:
 
-* Merged 40+ PRs
-* Finished 2+ tasks of Medium priority/important-soon
-* Fixed 1+ tasks of priority/critical-urgent
-* Reviewed 20+ PRs
-* Nominated by the Tech Leads of SIG-k8s and gained supermajority (2/3) votes from Maintainers
+* Exhibited good technical judgment.
+* Fix at least 2 issues whose difficulty is high.
+* Have reviewed at least 20 PRs in `#sig-k8s` projects
+* Nominated by the tech leaders (including co-leaders) and sponsored by at 2 committers
 
 ## Quit and Demotion
 
@@ -39,7 +43,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the operator repository within half year.
+* No contribution to the `#k8s-sig` projects within one year.
 
 **How to rejoin**:
 
@@ -49,16 +53,18 @@ Requirements:
 
 **Automatically demoted**:
 
-For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at least 1 of the following conditions:
+For a Reviewer to be demoted to an Active Contributor, he/she must satisfy at
+least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the operator repository within 3 months.
+* Haven't reviewed or merged any PR in the `#k8s-sig` projects within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
 **How to retain**:
 
-* Have reviewed or merged 2 PRs within 1 month.
+* Have reviewed or merged 3 PRs within 1 month.
 
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are going to quit or demote voluntarily.
+Please create a PR to remove yourself from the `member-list.md` if you are
+going to quit or demote voluntarily.

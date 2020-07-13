@@ -2,21 +2,23 @@
 
 ## Join and Promotion
 
+Here we mainly follow the instructions in [TiDB Developer Group](../../architecture/README.md#tidb-developer-group), including common requirements, responsibilities and privileges of each community role.
+
 ### Join
 
-The minimal requirement for contributors to join the Tools SIG is to have
-the **Active Contributor** community role in at least [one of the tools repository](README.md#code-locations).
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about tools is merged.
+To have a discussion with us, just join our slack channel **[#sig-tools](https://slack.tidb.io/invite?team=tidb-community&channel=sig-tools&ref=github_sig)** in [tidbcommunity](https://pingcap.com/tidbslack) Slack workspace.
 
 ### Promotion
 
-#### From `Contributor` to `Active Contributor`
+#### Be promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
 Requirements:
 
 * Have at least 8 PRs merged (combined total of all repositories) within one year.
 * Nominated by at least 2 Tools SIG Reviewers or roles above.
 
-#### From `Active Contributor` to `Reviewer`
+#### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
 Requirements:
 
@@ -24,7 +26,7 @@ Requirements:
 * Have fixed at least 2 issues whose difficulty is medium or above within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
-#### From `Reviewer` to `Committer`
+#### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
 Requirements:
 
@@ -46,22 +48,7 @@ Requirements:
 
 * Should meet the requirements for Active Contributor again.
 
-### Reviewer
-
-**Automatically demoted**:
-
-For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
-least 1 of the following conditions:
-
-* Haven't reviewed or merged any PR in the tools-related repositories within 3 months.
-* Haven't appeared in the SIG meeting without any reason for 3 times continuously.
-* At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
-
-**How to retain**:
-
-* Have reviewed or merged 5 PRs within 1 month.
-
 ### Voluntarily Quit or Demote
 
-Please email to [Yanqing Zhang](mailto:zhangyanqing@pingcap.com) if you are
+Please create a PR to remove yourself from the `member-list.md` if you are
 going to quit or demote voluntarily.

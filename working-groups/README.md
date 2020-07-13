@@ -37,3 +37,4 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-dumpling](./wg-dumpling.md)
 * [wg-online-restore](./wg-online-restore.md)
 * [wg-talent-plan-courses](./wg-talent-plan-courses.md)
+* [wg-tracing](./wg-tracing.md)
