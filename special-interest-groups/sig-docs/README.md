@@ -38,7 +38,7 @@ There is no regular meeting currently.
 
 * Slack: [#sig-docs](https://slack.tidb.io/invite?team=tidb-community&channel=sig-docs&ref=pingcap-community)
 
-## Code Locations
+## Repositories
 
 - [docs](https://github.com/pingcap/docs): TiDB documentation in English
 - [docs-cn](https://github.com/pingcap/docs-cn): TiDB documentation in Chinese
