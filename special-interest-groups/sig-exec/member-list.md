@@ -12,7 +12,7 @@
 - [zz-jason](https://github.com/zz-jason)
 - [XuHuaiyu](https://github.com/XuHuaiyu)
 - [SunRunAway](https://github.com/SunRunAway)
-- [fzhudu](https://github.com/fzhudu)
+- [fzhedu](https://github.com/fzhedu)
 - [Reminiscent](https://github.com/Reminiscent)
 - [wshwsh12](https://github.com/wshwsh12)
 - [qw4990](https://github.com/qw4990)
@@ -21,6 +21,8 @@
 - [tiancaiamao](https://github.com/tiancaiamao)
 - [coocood](https://github.com/coocood)
 - [lysu](https://github.com/lysu)
+- [lzmhhh123](https://github.com/lzmhhh123)
+- [winoros](https://github.com/winoros)
 
 
 ## Reviewers

@@ -1,4 +1,4 @@
-# Dashboard Special Interest Group (Dashboard SIG)
+# TiDB Dashboard Special Interest Group (sig-dashboard)
 
 We focus on the **development** of the [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard).
 
