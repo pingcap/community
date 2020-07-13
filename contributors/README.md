@@ -86,7 +86,7 @@ workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and
 ### Find a good first topic
 
 You can start by finding an existing issue with the
-[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Astatus%2Fhelp-wanted)
 label in the tidb repository. These issues are well suited for new contributors. BTW,
 there's always a need for more test coverage. You can also start with an area
 that has [low coverage](https://codecov.io/gh/pingcap/tidb).
