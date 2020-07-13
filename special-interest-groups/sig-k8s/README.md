@@ -1,6 +1,7 @@
 # K8s Special Interest Group(K8s SIG)
 
 K8s SIG covers the TiDB Products on Kubernetes and Docker. Our work includes
+
 * Supporting new features or improving performance for TiDB Products on Kubernetes and Docker.
 * Supporting TiDB ecosystem tools integrated natively with TiDB on Kubernetes
 
@@ -18,10 +19,15 @@ See [SIG K8s Member List](./member-list.md)
 
 ## Contact
 
-* Slack: channel #sig-k8s in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: [#sig-k8s](https://tidbcommunity.slack.com/archives/CHD0HA3LZ) in the [TiDB Community](https://pingcap.com/tidbslack) workspace
 
-## Code Locations
+## Repositories, Projects and labels
 
-* The [tidb-operator](https://github.com/pingcap/tidb-operator).
-* The [advanced-statefulset](https://github.com/pingcap/advanced-statefulset).
-* The [tidb-docker-compose](https://github.com/pingcap/tidb-docker-compose).
+- [tidb-operator](https://github.com/pingcap/tidb-operator)
+- [advanced-statefulset](https://github.com/pingcap/advanced-statefulset)
+- [tidb-docker-compose](https://github.com/pingcap/tidb-docker-compose)
+
+## Published Documents
+
+- TiDB Operator Documentation: https://github.com/pingcap/docs-tidb-operator
+- TiDB Operator Design Proposals: https://github.com/pingcap/tidb-operator/tree/master/docs
