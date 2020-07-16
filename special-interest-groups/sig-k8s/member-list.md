@@ -30,7 +30,7 @@
 
 ## Reviewers
 
-None
+* [lichunzhu](https://github.com/lichunzhu)
 
 ## Active Contributors
 
@@ -47,7 +47,6 @@ None
 * [zjj2wry](https://github.com/zjj2wry)
 * [zyguan](https://github.com/zyguan)
 * [PengJi](https://github.com/PengJi)
-* [lichunzhu](https://github.com/lichunzhu)
 * [longfangsong](https://github.com/longfangsong)
 * [mathspanda](https://github.com/mathspanda)
 * [mightyguava](https://github.com/mightyguava)
