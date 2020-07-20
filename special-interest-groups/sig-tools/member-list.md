@@ -3,17 +3,11 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-05-13
+* Last update time: 2020-07-09
 
 ## Tech Leads
 
-Leads:
-
 * [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
-
-Co-Leads:
-
-* [WangXiangUSTC](https://github.com/WangXiangUSTC), [PingCAP](https://pingcap.com/en/)
 
 ## Committers
 
@@ -24,18 +18,22 @@ Co-Leads:
 * [amyangfei](https://github.com/amyangfei)
 * [csuzhangxc](https://github.com/csuzhangxc)
 * [GMHDBJD](https://github.com/GMHDBJD)
+* [holys](https://github.com/holys)
 * [IANTHEREAL](https://github.com/IANTHEREAL)
 * [july2993](https://github.com/july2993)
 * [leoppro](https://github.com/leoppro)
 * [lichunzhu](https://github.com/lichunzhu)
 * [lonng](https://github.com/lonng)
 * [overvenus](https://github.com/overvenus)
-* [YuJuncen](https://github.com/YuJuncen)
+* [suzaku](https://github.com/suzaku)
+* [WangXiangUSTC](https://github.com/WangXiangUSTC)
 
 ## Reviewers
 
 <!-- 20 PRs+ && nominated -->
 
+* [iamxy](https://github.com/iamxy)
+* [tiancaiamao](https://github.com/tiancaiamao)
 * [YuJuncen](https://github.com/YuJuncen)
 
 ## Active Contributors
@@ -46,9 +44,7 @@ Co-Leads:
 * [lance6716](https://github.com/lance6716)
 * [MyonKeminta](https://github.com/MyonKeminta)
 * [shafreeck](https://github.com/shafreeck)
-* [suzaku](https://github.com/suzaku)
 * [tangenta](https://github.com/tangenta)
-* [tiancaiamao](https://github.com/tiancaiamao)
 
 ## Contributors
 
@@ -65,15 +61,14 @@ Co-Leads:
 * [freemindLi](https://github.com/freemindLi)
 * [glorv](https://github.com/glorv)
 * [hicqu](https://github.com/hicqu)
-* [holys](https://github.com/holys)
 * [huachaohuang](https://github.com/huachaohuang)
-* [iamxy](https://github.com/iamxy)
 * [kolbe](https://github.com/kolbe)
 * [Kuri-su](https://github.com/Kuri-su)
 * [lewgun](https://github.com/lewgun)
 * [lhy1024](https://github.com/lhy1024)
 * [Little-Wallace](https://github.com/Little-Wallace)
 * [liubo0127](https://github.com/liubo0127)
+* [liuzix](https://github.com/liuzix)
 * [lysu](https://github.com/lysu)
 * [lzmhhh123](https://github.com/lzmhhh123)
 * [NingLin-P](https://github.com/NingLin-P)
