@@ -23,6 +23,7 @@
 - [lysu](https://github.com/lysu)
 - [lzmhhh123](https://github.com/lzmhhh123)
 - [winoros](https://github.com/winoros)
+- [tiancaiamao](https://github.com/tiancaiamao)
 
 
 ## Reviewers
@@ -33,6 +34,7 @@
 - [@tangwz](https://github.com/tangwz)
 - [@shihongzhi](https://github.com/shihongzhi)
 - [@js00070](https://github.com/js00070)
+- [@wjhuang2016](https://github.com/wjhuang2016)
 
 ## Active Contributors
 
