@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-07-10
+* Last update time: 2020-07-27
 
 ## Tech Lead
 
@@ -230,6 +230,7 @@
 * [reAsOn2010](https://github.com/reAsOn2010)
 * [Reminiscent](https://github.com/Reminiscent)
 * [rleungx](https://github.com/rleungx)
+* [Rubik-W](https://github.com/Rubik-W)
 * [ryanpbrewster](https://github.com/ryanpbrewster)
 * [scsldb](https://github.com/scsldb)
 * [SE-Bin](https://github.com/SE-Bin)
