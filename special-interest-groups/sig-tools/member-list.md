@@ -36,6 +36,7 @@
 * [lance6716](https://github.com/lance6716)
 * [iamxy](https://github.com/iamxy)
 * [tiancaiamao](https://github.com/tiancaiamao)
+* [liuzix](https://github.com/liuzix)
 
 ## Active Contributors
 
