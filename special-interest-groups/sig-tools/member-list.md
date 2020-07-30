@@ -69,7 +69,6 @@
 * [lhy1024](https://github.com/lhy1024)
 * [Little-Wallace](https://github.com/Little-Wallace)
 * [liubo0127](https://github.com/liubo0127)
-* [liuzix](https://github.com/liuzix)
 * [lysu](https://github.com/lysu)
 * [lzmhhh123](https://github.com/lzmhhh123)
 * [NingLin-P](https://github.com/NingLin-P)
