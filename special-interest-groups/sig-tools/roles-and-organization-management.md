@@ -22,17 +22,18 @@ Requirements:
 
 Requirements:
 
-* Have at least 20 PRs merged within one year.
-* Have fixed at least 2 issues whose difficulty is medium or above within one year.
+* One of the following:
+    * Have at least 20 PRs merged within one year, *or*
+    * Have fixed at least 2 issues whose difficulty is medium or above within one year.
 * Nominated by at least 2 Committers or 2 Maintainers.
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
 Requirements:
 
-* Have at least 30 PRs merged within one year.
-* Have fixed at least 5 issues whose difficulty is medium or above within one year.
-* Have fixed at least 1 issues whose difficulty is hard within one year.
+* One of the following:
+    * Have at least 30 PRs merged within one year, *or*
+    * Have fixed at least 5 issues whose difficulty is medium *and* at least 1 issues whose difficulty is hard within one year.
 * Have reviewed at least 20 PRs within one year.
 * Nominated by at least 2 Committers or Maintainers.
 
