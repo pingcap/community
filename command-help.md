@@ -1,5 +1,5 @@
 
-# 
+# Command Help Guide
 | Command        | Explanation                                                  | Authority               |
 | -------------- | ------------------------------------------------------------ | ----------------------- |
 | /merge         | Once the merging conditions are met, GitHub automatically runs the test and merges the PR after that. By default, at least 2 LGTMs are required to merge the PR.  Each SIG can choose to modify this number according to their needs.<br>The */merge* action will also check how many LGTMs are required to merge the current PR. The checking sequence is as follows:<br><br>1. If the PR contains the label of ‘require-LGT3’, check whether  the number of LGTMs is greater than or equal to 3.  <br>2. If the above condition is not met, then check the default label defined by SIG | SIG Committer or higher |
