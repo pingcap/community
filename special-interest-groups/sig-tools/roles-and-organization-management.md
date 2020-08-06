@@ -11,6 +11,12 @@ To have a discussion with us, just join our slack channel **[#sig-tools](https:/
 
 ### Promotion
 
+Promotion by PR contributions will be automatically performed every 2 weeks, before the regular meeting.
+
+If any person solved enough hard or medium issues and wish to be promoted, they or the nominator should file a pull request to this (`pingcap/community`) repository and update the member list. The PR description should link to all issues involved.
+
+In both cases, the member list update should be announced during the regular meeting and merged after 24 hours if there are two approvals and no opposition.
+
 #### Be promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
 Requirements:
