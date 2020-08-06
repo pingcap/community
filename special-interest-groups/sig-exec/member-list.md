@@ -37,6 +37,8 @@
 - [@shihongzhi](https://github.com/shihongzhi)
 - [@js00070](https://github.com/js00070)
 - [@wjhuang2016](https://github.com/wjhuang2016)
+- [@AilinKid](https://github.com/AilinKid)
+- [@tangenta](https://github.com/tangenta)
 
 ## Active Contributors
 
