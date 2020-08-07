@@ -17,7 +17,6 @@ None
 
 * [nolouch](https://github.com/nolouch), [PingCAP](https://pingcap.com/en/)
 * [disksing](https://github.com/disksing), [PingCAP](https://pingcap.com/en/)
-* [shafreeck](https://github.com/shafreeck), [PingCAP](https://pingcap.com/en/)
 * [lhy1024](https://github.com/lhy1024), [PingCAP](https://pingcap.com/en/)
 * [HunDunDM](https://github.com/HunDunDM), [PingCAP](https://pingcap.com/en/)
 * [siddontang](https://github.com/siddontang), [PingCAP](https://pingcap.com/en/)
@@ -30,8 +29,6 @@ None
 
 * [Luffbee](https://github.com/Luffbee)
 * [shafreeck](https://github.com/shafreeck)
-
-None
 
 ## Active Contributors
 
