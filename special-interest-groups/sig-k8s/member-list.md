@@ -27,10 +27,12 @@
 * [jlerche](https://github.com/jlerche)
 * [qiffang](https://github.com/qiffang)
 * [sdojjy](https://github.com/sdojjy)
+* [lonng](https://github.com/lonng)
 
 ## Reviewers
 
 * [lichunzhu](https://github.com/lichunzhu)
+* [mikechengwei](https://github.com/mikechengwei)
 
 ## Active Contributors
 
