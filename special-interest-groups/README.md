@@ -34,7 +34,7 @@ And if you are new to tidb, and want to find a sig to start, this [contribution 
 * [Raft](https://github.com/tikv/community/tree/master/sig/raft)
 * [Performance](https://github.com/tikv/community/tree/master/sig/performance)
 * [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
-* [Scheduling](./sig-scheduling)
+* [Scheduling](https://github.com/tikv/community/tree/master/sig/scheduling)
 
 ### Documentation
 
