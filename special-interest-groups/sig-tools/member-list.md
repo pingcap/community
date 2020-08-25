@@ -3,11 +3,16 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-07-23
+* Last update time: 2020-08-07
 
-## Tech Leads
+## Tech Lead
 
-* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
+* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/) (focusing on BRIE)
+
+## Co-Leaders
+
+* [amyangfei](https://github.com/amyangfei), [PingCAP](https://pingcap.com/en/) (focusing on CDC)
+* [lance6716](https://github.com/lance6716), [PingCAP](https://pingcap.com/en/) (focusing on DM)
 
 ## Committers
 
@@ -21,6 +26,8 @@
 * [holys](https://github.com/holys)
 * [IANTHEREAL](https://github.com/IANTHEREAL)
 * [july2993](https://github.com/july2993)
+* [kennytm](https://github.com/kennytm)
+* [lance6716](https://github.com/lance6716)
 * [leoppro](https://github.com/leoppro)
 * [lichunzhu](https://github.com/lichunzhu)
 * [lonng](https://github.com/lonng)
@@ -33,7 +40,6 @@
 
 <!-- (20 PRs+ || 2 medium issues) && nominated -->
 
-* [lance6716](https://github.com/lance6716)
 * [iamxy](https://github.com/iamxy)
 * [tiancaiamao](https://github.com/tiancaiamao)
 * [liuzix](https://github.com/liuzix)
