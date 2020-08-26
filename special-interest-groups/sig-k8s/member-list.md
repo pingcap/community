@@ -7,7 +7,7 @@
 
 ## Tech Lead
 
-* [cofyc](https://github.com/cofyc), [PingCAP](https://pingcap.com/en/)
+* [DanielZhangQD](https://github.com/DanielZhangQD), [PingCAP](https://pingcap.com/en/)
 
 ## Co-Leaders
 
@@ -15,10 +15,10 @@
 
 ## Committers
 
+* [cofyc](https://github.com/cofyc)
 * [weekface](https://github.com/weekface)
 * [aylei](https://github.com/aylei)
 * [onlymellb](https://github.com/onlymellb)
-* [DanielZhangQD](https://github.com/DanielZhangQD)
 * [tennix](https://github.com/tennix)
 * [gregwebs](https://github.com/gregwebs)
 * [shuijing198799](https://github.com/shuijing198799)
