@@ -1,6 +1,6 @@
-# TiDB Dashboard SIG Member List
+# Diagnosis SIG Member List
 
-Note: This file only lists members of **Active Contributor** role or above. See [TiDB Community Architecture](https://github.com/pingcap/community/blob/master/architecture/README.md) and [Dashboard SIG Roles and Organization Management](./roles-and-organization-management.md) for details about roles.
+Note: This file only lists members of **Active Contributor** role or above. See [TiDB Community Architecture](https://github.com/pingcap/community/blob/master/architecture/README.md) and [Diagnosis SIG Roles and Organization Management](./roles-and-organization-management.md) for details about roles.
 
 ## Tech Leaders
 
@@ -15,7 +15,8 @@ Note: This file only lists members of **Active Contributor** role or above. See 
 
 ## Reviewers
 
-None
+- [@Fullstop000](https://github.com/Fullstop000)
+- [@Renkai](https://github.com/Renkai)
 
 ## Active Contributors
 
