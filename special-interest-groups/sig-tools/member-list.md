@@ -22,6 +22,7 @@
 * [5kbpers](https://github.com/5kbpers)
 * [amyangfei](https://github.com/amyangfei)
 * [csuzhangxc](https://github.com/csuzhangxc)
+* [glorv](https://github.com/glorv)
 * [GMHDBJD](https://github.com/GMHDBJD)
 * [holys](https://github.com/holys)
 * [IANTHEREAL](https://github.com/IANTHEREAL)
@@ -49,7 +50,6 @@
 <!-- 8 PRs+ && 1 PR+ within 1 year -->
 
 * [ericsyh](https://github.com/ericsyh)
-* [glorv](https://github.com/glorv)
 * [MyonKeminta](https://github.com/MyonKeminta)
 * [shafreeck](https://github.com/shafreeck)
 * [tangenta](https://github.com/tangenta)
