@@ -3,11 +3,16 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-07-23
+* Last update time: 2020-08-07
 
-## Tech Leads
+## Tech Lead
 
-* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
+* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/) (focusing on BRIE)
+
+## Co-Leaders
+
+* [amyangfei](https://github.com/amyangfei), [PingCAP](https://pingcap.com/en/) (focusing on CDC)
+* [lance6716](https://github.com/lance6716), [PingCAP](https://pingcap.com/en/) (focusing on DM)
 
 ## Committers
 
@@ -17,10 +22,13 @@
 * [5kbpers](https://github.com/5kbpers)
 * [amyangfei](https://github.com/amyangfei)
 * [csuzhangxc](https://github.com/csuzhangxc)
+* [glorv](https://github.com/glorv)
 * [GMHDBJD](https://github.com/GMHDBJD)
 * [holys](https://github.com/holys)
 * [IANTHEREAL](https://github.com/IANTHEREAL)
 * [july2993](https://github.com/july2993)
+* [kennytm](https://github.com/kennytm)
+* [lance6716](https://github.com/lance6716)
 * [leoppro](https://github.com/leoppro)
 * [lichunzhu](https://github.com/lichunzhu)
 * [lonng](https://github.com/lonng)
@@ -33,7 +41,6 @@
 
 <!-- (20 PRs+ || 2 medium issues) && nominated -->
 
-* [lance6716](https://github.com/lance6716)
 * [iamxy](https://github.com/iamxy)
 * [tiancaiamao](https://github.com/tiancaiamao)
 * [liuzix](https://github.com/liuzix)
@@ -43,7 +50,6 @@
 <!-- 8 PRs+ && 1 PR+ within 1 year -->
 
 * [ericsyh](https://github.com/ericsyh)
-* [glorv](https://github.com/glorv)
 * [MyonKeminta](https://github.com/MyonKeminta)
 * [shafreeck](https://github.com/shafreeck)
 * [tangenta](https://github.com/tangenta)
