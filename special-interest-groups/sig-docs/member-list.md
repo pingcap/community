@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-08-21
+* Last update time: 2020-09-04
 
 ## Tech Lead
 
@@ -34,13 +34,18 @@
 ## Reviewers
 
 * [3pointer](https://github.com/3pointer)
+* [amyangfei](https://github.com/amyangfei)
 * [anotherrachel](https://github.com/anotherrachel)
 * [aylei](https://github.com/aylei)
 * [breeswish](https://github.com/breeswish)
 * [crazycs520](https://github.com/crazycs520)
 * [ericsyh](https://github.com/ericsyh)
+* [GMHDBJD](https://github.com/GMHDBJD)
+* [ireneontheway](https://github.com/ireneontheway)
+* [Joyinqin](https://github.com/Joyinqin)
 * [junlan-zhang](https://github.com/junlan-zhang)
 * [kissmydb](https://github.com/kissmydb)
+* [lance6716](https://github.com/lance6716)
 * [lichunzhu](https://github.com/lichunzhu)
 * [lysu](https://github.com/lysu)
 * [nullnotnil](https://github.com/nullnotnil)
@@ -49,11 +54,11 @@
 * [weekface](https://github.com/weekface)
 * [YiniXu9506](https://github.com/YiniXu9506)
 * [Yisaer](https://github.com/Yisaer)
+* [zimulala](https://github.com/zimulala)
 
 ## Active Contributors
 
 * [AilinKid](https://github.com/AilinKid)
-* [amyangfei](https://github.com/amyangfei)
 * [bb7133](https://github.com/bb7133)
 * [Deardrops](https://github.com/Deardrops)
 * [disksing](https://github.com/disksing)
@@ -61,16 +66,13 @@
 * [eurekaka](https://github.com/eurekaka)
 * [flowbehappy](https://github.com/flowbehappy)
 * [glkappe](https://github.com/glkappe)
-* [GMHDBJD](https://github.com/GMHDBJD)
 * [imtbkcat](https://github.com/imtbkcat)
-* [ireneontheway](https://github.com/ireneontheway)
-* [Joyinqin](https://github.com/Joyinqin)
 * [july2993](https://github.com/july2993)
 * [kennytm](https://github.com/kennytm)
 * [kolbe](https://github.com/kolbe)
-* [lance6716](https://github.com/lance6716)
 * [lawyerphx](https://github.com/lawyerphx)
 * [leoppro](https://github.com/leoppro)
+* [lidezhu](https://github.com/lidezhu)
 * [liubo0127](https://github.com/liubo0127)
 * [lucklove](https://github.com/lucklove)
 * [marsishandsome](https://github.com/marsishandsome)
@@ -89,11 +91,11 @@
 * [YuJuncen](https://github.com/YuJuncen)
 * [zanmato1984](https://github.com/zanmato1984)
 * [zhouqiang-cl](https://github.com/zhouqiang-cl)
-* [zimulala](https://github.com/zimulala)
 
 ## Contributors
 
 * [20100507](https://github.com/20100507)
+* [2014BDuck](https://github.com/2014BDuck)
 * [5kbpers](https://github.com/5kbpers)
 * [acs-ferreira](https://github.com/acs-ferreira)
 * [ahdong2007](https://github.com/ahdong2007)
@@ -136,6 +138,7 @@
 * [elvizlai](https://github.com/elvizlai)
 * [emhlbmc](https://github.com/emhlbmc)
 * [erjiaqing](https://github.com/erjiaqing)
+* [EspenDai](https://github.com/EspenDai)
 * [ethercflow](https://github.com/ethercflow)
 * [exialin](https://github.com/exialin)
 * [fipped](https://github.com/fipped)
@@ -178,7 +181,6 @@
 * [jinsheng1995](https://github.com/jinsheng1995)
 * [jlerche](https://github.com/jlerche)
 * [JmPotato](https://github.com/JmPotato)
-* [junlan-zhang](https://github.com/junlan-zhang)
 * [kana112233](https://github.com/kana112233)
 * [kangxiaoning](https://github.com/kangxiaoning)
 * [KASSADAR](https://github.com/KASSADAR)
@@ -194,7 +196,6 @@
 * [lhy1024](https://github.com/lhy1024)
 * [lhyPingcap](https://github.com/lhyPingcap)
 * [lidaobing](https://github.com/lidaobing)
-* [lidezhu](https://github.com/lidezhu)
 * [limitless083](https://github.com/limitless083)
 * [LinuxGit](https://github.com/LinuxGit)
 * [lishuai87](https://github.com/lishuai87)
@@ -268,6 +269,7 @@
 * [tennix](https://github.com/tennix)
 * [terror](https://github.com/terror)
 * [thinxer](https://github.com/thinxer)
+* [time-and-fate](https://github.com/time-and-fate)
 * [together-wang](https://github.com/together-wang)
 * [tptpp](https://github.com/tptpp)
 * [tshqin](https://github.com/tshqin)
@@ -284,11 +286,13 @@
 * [wsabc01](https://github.com/wsabc01)
 * [WuShaoQiang](https://github.com/WuShaoQiang)
 * [wyuchen007](https://github.com/wyuchen007)
+* [XiaoGe2030](https://github.com/XiaoGe2030)
 * [XiaoJenny](https://github.com/XiaoJenny)
 * [xiaojingchen](https://github.com/xiaojingchen)
 * [xiaoyangwang5](https://github.com/xiaoyangwang5)
 * [xiekeyi98](https://github.com/xiekeyi98)
 * [xuechunL](https://github.com/xuechunL)
+* [xxj123go](https://github.com/xxj123go)
 * [yanchaozhong](https://github.com/yanchaozhong)
 * [yanyanqing](https://github.com/yanyanqing)
 * [yejiayu](https://github.com/yejiayu)
