@@ -65,6 +65,8 @@
 * [flowbehappy](https://github.com/flowbehappy)
 * [glkappe](https://github.com/glkappe)
 * [imtbkcat](https://github.com/imtbkcat)
+* [ireneontheway](https://github.com/ireneontheway)
+* [Joyinqin](https://github.com/Joyinqin)
 * [july2993](https://github.com/july2993)
 * [kennytm](https://github.com/kennytm)
 * [kolbe](https://github.com/kolbe)
