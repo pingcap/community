@@ -41,8 +41,6 @@
 * [crazycs520](https://github.com/crazycs520)
 * [ericsyh](https://github.com/ericsyh)
 * [GMHDBJD](https://github.com/GMHDBJD)
-* [ireneontheway](https://github.com/ireneontheway)
-* [Joyinqin](https://github.com/Joyinqin)
 * [junlan-zhang](https://github.com/junlan-zhang)
 * [kissmydb](https://github.com/kissmydb)
 * [lance6716](https://github.com/lance6716)
