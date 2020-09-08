@@ -1,4 +1,4 @@
-# SIG Tools Roles and Organization Management
+# SIG-Migrate Roles and Organization Management
 
 ## Join and Promotion
 
@@ -6,8 +6,8 @@ Here we mainly follow the instructions in [TiDB Developer Group](../../architect
 
 ### Join
 
-You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about tools is merged.
-To have a discussion with us, just join our slack channel **[#sig-tools](https://slack.tidb.io/invite?team=tidb-community&channel=sig-tools&ref=github_sig)** in [tidbcommunity](https://pingcap.com/tidbslack) Slack workspace.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about data migration is merged.
+To have a discussion with us, just join our slack channel **[#sig-migrate](https://slack.tidb.io/invite?team=tidb-community&channel=sig-migrate&ref=github_sig)** in [tidbcommunity](https://pingcap.com/tidbslack) Slack workspace.
 
 ### Promotion
 
@@ -22,7 +22,7 @@ In both cases, the member list update should be announced during the regular mee
 Requirements:
 
 * Have at least 8 PRs merged (combined total of all repositories) within one year.
-* Nominated by at least 2 Tools SIG Reviewers or roles above.
+* Nominated by at least 2 SIG-Migrate Reviewers or roles above.
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
@@ -49,7 +49,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the tools-related repositories within one year.
+* No contribution to the [related repositories](README.md#repositories-projects-and-labels) within one year.
 
 **How to rejoin**:
 
