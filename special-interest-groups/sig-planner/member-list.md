@@ -30,7 +30,7 @@
 - [SunRunAway](https://github.com/SunRunAway)
 - [XuHuaiyu](https://github.com/XuHuaiyu)
 - [coocood](https://github.com/coocood)
-- [hanfei1990](https://github.com/hanfei1991)
+- [hanfei1991](https://github.com/hanfei1991)
 
 ## Tech Leads
 
