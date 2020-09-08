@@ -29,6 +29,8 @@
 - [qw4990](https://github.com/qw4990)
 - [SunRunAway](https://github.com/SunRunAway)
 - [XuHuaiyu](https://github.com/XuHuaiyu)
+- [coocood](https://github.com/coocood)
+- [hanfei1991](https://github.com/hanfei1991)
 
 ## Tech Leads
 
