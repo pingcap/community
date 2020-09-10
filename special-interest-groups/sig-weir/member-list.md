@@ -10,9 +10,9 @@
 
 ## Committers
 
-* [eastfisher](https://github.com/eastfisher), [伴鱼](https://www.ipalfish.com/)
-
 ## Reviewers
+
+* [eastfisher](https://github.com/eastfisher), [伴鱼](https://www.ipalfish.com/)
 
 ## Active Contributors
 
