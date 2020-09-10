@@ -15,7 +15,7 @@ See [SIG Weir Member List](./member-list.md)
 
 ## Meetings
 
-* TBD
+* Slack Weekly in `#sig-weir`
 
 ## Contact
 
