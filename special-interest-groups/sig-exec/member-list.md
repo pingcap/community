@@ -40,6 +40,7 @@
 - [@wjhuang2016](https://github.com/wjhuang2016)
 - [@AilinKid](https://github.com/AilinKid)
 - [@tangenta](https://github.com/tangenta)
+- [@ichn-hu](https://github.com/ichn-hu)
 
 ## Active Contributors
 
