@@ -22,15 +22,17 @@ SIG Specific Requirements:
 
   > **Note:** Same changes made to different branches in multiple PRs are considered as one PR.
 
-* Sponsored by two incumbent Reviewers in a SIG
+* Sponsored by two incumbent Reviewers in Docs SIG
 * Joined the [#sig-docs](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-community) Slack channel
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
 SIG Specific Requirements:
 
+* Have a general command of technical writing and documentation rules
 * Have at least **20** PRs merged in [documentation repositories](./README.md#code-locations) within one year
 * Fix at least 2 or more issues of medium or low difficulty
+* Sponsored by two incumbent Committers in Docs SIG
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
@@ -40,6 +42,7 @@ SIG Specific Requirements:
 * Resolve or complete at least 1 or more issues or tasks of high difficulty
 * Have reviewed at least **20** PRs in [documentation repositories](./README.md#code-locations) within one year
 * Play an important role in a big feature
+* Sponsored by two incumbent Committers in Docs SIG
 
 ## Quit and Demotion
 

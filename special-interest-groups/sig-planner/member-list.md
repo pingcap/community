@@ -19,7 +19,6 @@
 - [imtbkcat](https://github.com/imtbkcat)
 - [wjhuang2016](https://github.com/wjhuang2016)
 - [zz-jason](https://github.com/zz-jason)
-- [SunRunAway](https://github.com/SunRunAway)
 - [lamxTyler](https://github.com/lamxTyler)
 
 ## Committers
@@ -28,7 +27,10 @@
 - [francis0407](https://github.com/francis0407)
 - [eurekaka](https://github.com/eurekaka)
 - [qw4990](https://github.com/qw4990)
+- [SunRunAway](https://github.com/SunRunAway)
 - [XuHuaiyu](https://github.com/XuHuaiyu)
+- [coocood](https://github.com/coocood)
+- [hanfei1991](https://github.com/hanfei1991)
 
 ## Tech Leads
 

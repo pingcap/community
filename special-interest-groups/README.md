@@ -7,35 +7,34 @@ specific topic, such as Parser/Expression/Planner. Our goal is to enable a
 distributed decision structure and code ownership, as well as providing focused
 forums for getting work done, making decisions, and onboarding new
 contributors. Every identifiable subpart of the project (e.g., github org,
-repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG. For more details about sig governance, you can read this doc [sig governance](./governance/sig-governance.md). 
+repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG. For more details about sig governance, you can read this doc [sig governance](./governance/sig-governance.md).
 And if you are new to tidb, and want to find a sig to start, this [contribution map for sig](https://github.com/pingcap/tidb-map/blob/master/maps/contribution-map.md#sig---special-interest-group) may be helpful.
-
 
 ## Active Special Interest Groups
 
 ### TiDB
 
-* [Execution](./sig-exec)
-* [Planner](./sig-planner)
-* [DDL](./sig-ddl)
+- [Execution](./sig-exec)
+- [Planner](./sig-planner)
+- [DDL](./sig-ddl)
 
 ### TiDB Product
 
-* [K8S](./sig-k8s)
-* [Tools](./sig-tools)
-* [TiDB Dashboard](./sig-dashboard)
-* [TiUP](./sig-tiup)
-* [web](./sig-web)
+- [K8S](./sig-k8s)
+- [Migrate](./sig-migrate)
+- [Diagnosis](./sig-diagnosis)
+- [TiUP](./sig-tiup)
+- [web](./sig-web)
 
 ### TiKV
 
-* [Coprocessor](https://github.com/tikv/community/tree/master/sig/coprocessor)
-* [Engine](https://github.com/tikv/community/tree/master/sig/engine)
-* [Raft](https://github.com/tikv/community/tree/master/sig/raft)
-* [Performance](https://github.com/tikv/community/tree/master/sig/performance)
-* [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
-* [Scheduling](./sig-scheduling)
+- [Coprocessor](https://github.com/tikv/community/tree/master/sig/coprocessor)
+- [Engine](https://github.com/tikv/community/tree/master/sig/engine)
+- [Raft](https://github.com/tikv/community/tree/master/sig/raft)
+- [Performance](https://github.com/tikv/community/tree/master/sig/performance)
+- [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
+- [Scheduling](https://github.com/tikv/community/tree/master/sig/scheduling)
 
 ### Documentation
 
-* [Docs](./sig-docs)
+- [Docs](./sig-docs)

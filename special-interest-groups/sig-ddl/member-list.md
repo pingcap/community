@@ -23,10 +23,12 @@
 - [XuHuaiyu](https://github.com/XuHuaiyu)
 - [spongedu](https://github.com/spongedu)
 - [Deardrops](https://github.com/Deardrops)
+- [xhebox](https://github.com/xhebox)
 
 ## Active Contributors
 
 - [reafans](https://github.com/reafans)
 - [Rustin-Liu](https://github.com/Rustin-Liu)
+- [xiongjiwei](https://github.com/xiongjiwei)
+- [wangggong](https://github.com/wangggong)
 - [zhaox1n](https://github.com/zhaox1n)
-- [xhebox](https://github.com/xhebox)
