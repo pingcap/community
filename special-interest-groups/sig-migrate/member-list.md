@@ -1,9 +1,9 @@
-# SIG Tools Member List
+# SIG-Migrate Member List
 
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-08-07
+* Last update time: 2020-09-04
 
 ## Tech Lead
 

@@ -21,7 +21,7 @@ And if you are new to tidb, and want to find a sig to start, this [contribution 
 ### TiDB Product
 
 - [K8S](./sig-k8s)
-- [Tools](./sig-tools)
+- [Migrate](./sig-migrate)
 - [Diagnosis](./sig-diagnosis)
 - [TiUP](./sig-tiup)
 - [web](./sig-web)
