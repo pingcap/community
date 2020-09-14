@@ -1,5 +1,7 @@
 # Weir Special Interest Group(Weir SIG)
 
+A weir is a low barrier which is built across a river in order to control or direct the flow of water.
+Project Weir mainly focuses on controlling SQL flows, which is similar to a weir built across TiDB clusters.
 Weir SIG covers the Proxy or Database Mesh for TiDB. Our work includes
 
 * A Proxy or Database Mesh for TiDB which can replace Layer 4 load balancing such as SLB+Haproxy but can understand sql semantics.
@@ -15,7 +17,7 @@ See [SIG Weir Member List](./member-list.md)
 
 ## Meetings
 
-* Slack Weekly in `#sig-weir`
+* We will have a meeting in the slack channel `#sig-weir` once a week.
 
 ## Contact
 
