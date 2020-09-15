@@ -73,7 +73,7 @@
 **WG 列表：**
 原则上，每个 work load 只能成立一个 working group。TPCC 考虑到其复杂性，每个场景允许成立 2 个 working group
 
-| 场景       | 子场景                            | 顾问             |
+| 场景     | 子场景                         | 顾问           |
 | -------- | ------------------------------ | -------------- |
 | sysbench | sysbench-Oltp_Insert           | youjiali1995   |
 | tpcc     | tpcc-High-Conflicts            | Little-Wallace |
@@ -82,6 +82,15 @@
 | ycsb     | ycsb-Workloade                 | xhebox         |
 | sysbench | sysbench-Oltp_Point_Select     | jackysp        |
 | sysbench | sysbench-Oltp_Read_Only        | bobotu         |
+| tpcc     | 高并发低冲突场景               | 待定           |
+| ycsb     | ycsb-Workloada                 | 待定           |
+| ycsb     | ycsb-Workloadb                 | 待定           |
+| ycsb     | ycsb-Workloadc                 | 待定           |
+| ycsb     | ycsb-Workloadd                 | 待定           |
+| ycsb     | ycsb-Workloadf                 | 待定           |
+| sysbench | sysbench-Oltp_Write_Only       | 待定           |
+| sysbench | sysbench-Oltp_Delete           | 待定           |
+| sysbench | sysbench-Oltp_Read_Write       | 待定           |
 
 
 2. 高难度课程 issue 优化方向：请仔细阅读「[活动规则](#活动规则)」并填写报名表单申请加入对应优化场景的 working group。
@@ -149,7 +158,7 @@
 - 中间有阶段性的成果，例如文章、直播等
 - 最终的性能优化成绩
 
-答辩时间为 11.21 日下午 13:00-17:00，综合排名位列前茅的优秀团队将获得奖金，奖项会当场宣布。
+答辩时间为 11.21 日下午 13:00-17:00，组长需在 PingCAP 各地办公室同步进行现场答辩（海外队伍可线上进行答辩）。综合排名位列前茅的优秀团队将获得奖金，奖项会当场宣布。
 
 ## 奖项设置
 
@@ -165,4 +174,3 @@
     - 由 TiDB 核心研发工程师以及 TiDB 社区 Committer 和 Maintainer 联合打造的 High Performance TiDB 连载视频教学课程，将带领大家从源码层面了解 TiDB 的设计与实现，并帮助大家对分布式系统领域知识有更加深入的了解。
 - [专项学习文档包](tidb-learning-materials-cn.md)
     - 参赛必读。提供了一些常用的调优工具和 workload 相关知识背景,帮助参赛选手更了解 TiDB 性能测试场景。
-
