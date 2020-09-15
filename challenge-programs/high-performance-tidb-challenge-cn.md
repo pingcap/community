@@ -12,7 +12,7 @@
 - 现场答辩：2020.11.21
 
 **交流渠道：**
-我们使用 Slack 进行沟通交流，欢迎大家加入 TiDB Community Slack Workspace 的 #tidb-challenge channel，在这里你可以：
+我们使用 Slack 进行沟通交流，欢迎大家加入 TiDB Community Slack Workspace 的 [#tidb-challenge-program](https://slack.tidb.io/invite?team=tidb-community&channel=tidb-challenge-program&ref=github-community) channel，在这里你可以：
 
 - 寻找志同道合的小伙伴一起组队
 - 反馈机器人（sre-bot）故障
