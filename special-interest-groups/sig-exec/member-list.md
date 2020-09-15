@@ -41,6 +41,7 @@
 - [@AilinKid](https://github.com/AilinKid)
 - [@tangenta](https://github.com/tangenta)
 - [@ichn-hu](https://github.com/ichn-hu)
+- [@Yisaer](https://github.com/Yisaer)
 
 ## Active Contributors
 
