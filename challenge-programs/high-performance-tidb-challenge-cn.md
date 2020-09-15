@@ -88,11 +88,11 @@
 
 **课程高难度 issue 问题列表：**
 
-| issue 地址                                                       | 分数   | SIG        | 顾问         |
-| -------------------------------------------------------------- | ---- | ---------- | ---------- |
-| [tikv#8635](https://github.com/tikv/tikv/issues/8635)          | 6600 | engine     | yiwu-arbug |
+| issue 地址                                                   | 分数 | SIG        | 顾问       |
+| ------------------------------------------------------------ | ---- | ---------- | ---------- |
+| [tikv#8635](https://github.com/tikv/tikv/issues/8635)        | 6600 | engine     | yiwu-arbug |
 | [dumpling#126](https://github.com/pingcap/dumpling/issues/126) | 6600 | migrate    | kennytm    |
-| [ikv/pd#2950](http://github.com/tikv/pd/issues/2950)           | 6600 | scheduling | gaosong    |
+| [tikv/pd#2950](http://github.com/tikv/pd/issues/2950)        | 6600 | scheduling | gaosong    |
 
 1. **WG 组长提交分支地址（针对 worklaod 优化小组）**
 
@@ -110,7 +110,7 @@
 4. **找出 issue 并提交代码（2020.09.16-2020.11.15）**
 
 **Workload 优化方向：**
-参赛选手需要找到优化点，提出 Issue 后@分数评估小组，对 issue进行打分。对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。
+参赛选手需要找到优化点，提出 Issue 后@分数评估小组，对 issue进行打分。对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
 
 - issue 提交格式要求：
     - issue 标题需标明参赛信息 **hptc** 和对应优化场景
@@ -125,7 +125,7 @@
     - PR 描述中必须带上 issue Number 例：Issue Number:  #xxx 
 
 **固定性能优化相关大 issue 方向：**
-参赛选手需直接 pick up 自己所在团队的 issue，并提交 PR。
+参赛选手需直接 pick up 自己所在团队的 issue，并提交 PR。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
 
 - PR 提交格式要求：
     - PR 提交格式要求：
@@ -153,8 +153,8 @@
 
 ## 奖项设置
 
-- 一等奖：每支参赛队伍 5 万元 RMB  + 团队顾问个人奖金 1 w
-- 二等奖：每支参赛队伍 3 万元 RMB + 团队顾问个人奖金 1 w/人
+- 一等奖：每支参赛队伍 5 万元 RMB  + 团队顾问个人奖金 1 万元 RMB
+- 二等奖：每支参赛队伍 3 万元 RMB + 团队顾问个人奖金 1 万元 RMB
 - 三等奖：每支参赛队伍 1 万元 RMB
 
 所有完成答辩的小组成员都可以获得神秘纪念周边一个哦～
@@ -163,5 +163,6 @@
 
 - [High Performance TiDB 专项视频课程](https://space.bilibili.com/86485707/channel/detail?cid=145009)
     - 由 TiDB 核心研发工程师以及 TiDB 社区 Committer 和 Maintainer 联合打造的 High Performance TiDB 连载视频教学课程，将带领大家从源码层面了解 TiDB 的设计与实现，并帮助大家对分布式系统领域知识有更加深入的了解。
-- [专项学习文档包](https://docs.google.com/document/d/1nh0mKhMTZ-eFdWrrCrwpQQ1qYH8S8fLRpYZKmimU_6w/edit#)
+- [专项学习文档包](tidb-learning-materials-cn.md)
     - 参赛必读。提供了一些常用的调优工具和 workload 相关知识背景,帮助参赛选手更了解 TiDB 性能测试场景。
+
