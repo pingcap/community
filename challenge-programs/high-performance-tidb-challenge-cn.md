@@ -71,7 +71,7 @@
    workload 优化方向：请仔细阅读「[活动规则](#活动规则)」并填写报名表单申请加入对应优化场景的 working group。
 
 **WG 列表：**
-原则上，每个 work load 只能成立一个 working group。TPCC 考虑到其复杂性，每个场景允许成立 2 个 working group
+原则上，每个 workload 只能成立一个 working group。TPCC 考虑到其复杂性，每个场景允许成立 2 个 working group
 
 | 场景     | 子场景                         | 顾问           |
 | -------- | ------------------------------ | -------------- |
@@ -82,7 +82,7 @@
 | ycsb     | ycsb-Workloade                 | xhebox         |
 | sysbench | sysbench-Oltp_Point_Select     | jackysp        |
 | sysbench | sysbench-Oltp_Read_Only        | bobotu         |
-| tpcc     | 高并发低冲突场景               | 待定           |
+| tpcc     | tpcc-Low-Conflicts             | 待定           |
 | ycsb     | ycsb-Workloada                 | 待定           |
 | ycsb     | ycsb-Workloadb                 | 待定           |
 | ycsb     | ycsb-Workloadc                 | 待定           |
@@ -102,6 +102,7 @@
 | [tikv#8635](https://github.com/tikv/tikv/issues/8635)        | 6600 | engine     | yiwu-arbug |
 | [dumpling#126](https://github.com/pingcap/dumpling/issues/126) | 6600 | migrate    | kennytm    |
 | [tikv/pd#2950](http://github.com/tikv/pd/issues/2950)        | 6600 | scheduling | gaosong    |
+| [tidb#19386](https://github.com/pingcap/tidb/issues/19386)        | 6600 | ddl | djshow832    |
 
 1. **WG 组长提交分支地址（针对 worklaod 优化小组）**
 
