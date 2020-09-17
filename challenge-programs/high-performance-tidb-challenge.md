@@ -26,7 +26,7 @@ TiDB Community Slack Workspace is the official communication platform for this c
 
 ### Step 1: Sign up
 
-Make sure you read [Participation Notes](#Participation-Notes) before you apply for the program. To apply, fill in the [application form](https://forms.pingcap.com/f/high-performance-challenge-en) and submit. Note that once the form is submitted, it cannot be modified.
+Make sure you read [Participation Notes](#participation-notes) before you apply for the program. To apply, fill in the [application form](https://forms.pingcap.com/f/high-performance-challenge-en) and submit. Note that once the form is submitted, it cannot be modified.
 
 <table>
   <tr>
@@ -249,7 +249,7 @@ This is a series of training courses about writing distributed systems in Go and
 
 *   Your team only earns points when you resolve the issues that you proposed for workload optimization. If the issues resolved are not relevant, there will be no points granted. 
 *   The team points are the sum of the points of all the tasks completed by your team members.
-*    The leaderboard does not indicate the final team rankings. Refer to [evaluation criteria](#About-evaluation-criteria) for the final results.
+*    The leaderboard does not indicate the final team rankings. Refer to [evaluation criteria](#about-evaluation-criteria) for the final results.
 *   The organizaing committee determines the challenge points for the created issues under each workload. The points are determined according to the team's estimated work.
 
 ### About mentors
