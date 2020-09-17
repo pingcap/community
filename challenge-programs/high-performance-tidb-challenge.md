@@ -6,7 +6,7 @@ This time we focus on workload optimization to bring TiDB performance to a highe
 *   Sept.17- Nov.15     Challenge applications open
 *   Sept.17- Nov.15     Team bonding and coding
 *   Nov.15- Nov.20      Challenge results evaluation		        
-*   Nov.21			    Presentation and prizes announcement
+*   Nov.21              Presentation and prizes announcement
 
 ## Communication
 
@@ -20,7 +20,7 @@ TiDB Community Slack Workspace is the official communication platform for this c
 
 ### About team-up
 
-*   You need to team up before submitting the application [form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization. Once the form is submitted, no information can be modified.
+*   You need to team up before submitting the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization. Once the form is submitted, no information can be modified.
 *   Up to five participants are allowed in a team; cross team-up is not allowed.  
 *   If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
 
@@ -34,7 +34,7 @@ TiDB Community Slack Workspace is the official communication platform for this c
 ### About mentors
 
 *   Only one mentor is allowed in a team and one mentor could only provide instructions to one team. 
-*   The team that needs mentoring could contact the organizing committee on the Slack channel.
+*   The team that needs mentoring could contact the organizing committee in the Slack channel.
 
 ### About evaluation criteria
 
@@ -56,7 +56,7 @@ The results of the challenge will be evaluated in teams. The organizing committe
 
 ### Step 1 sign up (available until Nov.15)
 
-Make sure you read the Participation Notes before you apply for the program. To apply, fill in the form and submit. Note that once the form is submitted, it cannot be modified.
+Make sure you read the [Participation Notes](#Participation-notes) before you apply for the program. To apply, fill in the form and submit. Note that once the form is submitted, it cannot be modified.
 
 <table>
   <tr>
