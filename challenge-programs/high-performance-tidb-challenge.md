@@ -3,14 +3,14 @@ This time we focus on workload optimization to bring TiDB performance to a highe
 
 ## Program Timeline
 
-*   Sept.17- Nov.15 	Challenge applications open
-*   Sept.17-Nov.15 	Team bonding and coding
-*   Nov.15			Code submission
-*   Nov.21			Presentation and prizes announcement
+*   Sept.17- Nov.15     Challenge applications open
+*   Sept.17- Nov.15     Team bonding and coding
+*   Nov.15- Nov.20      Challenge results evaluation		        
+*   Nov.21			    Presentation and prizes announcement
 
 ## Communication
 
-TiDB Community Slack Workspace is the official communication platform for this challenge program! Join #tidb-challenge-program channel to
+TiDB Community Slack Workspace is the official communication platform for this challenge program! Join [#tidb-challenge-program](https://slack.tidb.io/invite?team=tidb-community&channel=tidb-challenge-program&ref=github-community) channel to
 
 *   Team up with other participants
 *   Report sre-bot bugs
@@ -20,7 +20,7 @@ TiDB Community Slack Workspace is the official communication platform for this c
 
 ### About team-up
 
-*   You need to team up before submitting the application form. One team could only select one workload for optimization. Once the form is submitted, no information can be modified.
+*   You need to team up before submitting the application [form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization. Once the form is submitted, no information can be modified.
 *   Up to five participants are allowed in a team; cross team-up is not allowed.  
 *   If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
 
@@ -28,6 +28,8 @@ TiDB Community Slack Workspace is the official communication platform for this c
 
 *   Your team only earns points when you resolve the issues that you proposed for workload optimization. If the issues resolved are not relevant, there will be no points granted. 
 *   The team points are the sum of the points of all the tasks completed by your team members.
+*    The leaderboard does not indicate the final team rankings. Refer to [evaluation criteria](###About-evaluation-criteria) for the final results.
+*   The organizaing committee determines the challenge points for the created issues under each workload. The points are determined according to the team's estimated work.
 
 ### About mentors
 
@@ -218,7 +220,7 @@ When you are creating issues, make sure you tag the organizaing committe so that
 *   The title of the issue should be in the format below:
     *   The label `hptc` and the corresponding workload should be indicated in the issue titles, such as `hptc sysbench-Oltp_Read_Only xxxxx`
 
-### Step 4 submit code
+### Step 4 resolve issues by Pull Request
 
 After the completion of coding and the pass of unit tests, you should submit the code to your branch by Pull Request (PR). As for how to submit PR, refer to [GitHub Workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md).
 
@@ -232,7 +234,7 @@ After the completion of coding and the pass of unit tests, you should submit the
 
 All PRs merged into the Master branch during the competition will be automatically granted corresponding points. If the merged PR is not granted points, please check whether the PR has been submitted according to the PR format requirements, or contact the organizing committee in the slack channel.
 
-### Step 6 submit code
+### Step 6 submit code change
 
 Submit the code change before 18:00 Nov.15 (China Standard Time). PRs merged after Nov.15 will not be counted for the points.
 
@@ -244,6 +246,8 @@ Submit teamwork presentation slides before 10:00 Nov.20 (China Standard Time). T
 *   Teamwork allocation
 *   The PR points of the team and performance improvement
 *   Performance improvement
+
+The online presentation will be held at 13:00-17:00, Nov.21 (China Standard Time). The challenge results will be announced after teams' presentation.
 
 ## Awards
 
