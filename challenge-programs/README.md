@@ -21,5 +21,6 @@ Here are a list of projects available for your choice. You can check all the ope
 
 | season                                                      | period          |
 | ----------------------------------------------------------- | --------------- |
+| [High Performance TiDB Challenge](high-performance-tidb-challenge.md) | 2020.09~2020.11 |
 | [Challenge Program season 2](challenge-program-season-2.md) | 2020.03~2020.05 |
 | [Challenge Program season 1](challenge-program-season-1.md) | 2019.11~2020.02 |
