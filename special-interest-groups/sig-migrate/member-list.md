@@ -1,26 +1,34 @@
-# SIG Tools Member List
+# SIG-Migrate Member List
 
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-07-23
+* Last update time: 2020-09-04
 
-## Tech Leads
+## Tech Lead
 
-* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/)
+* [kennytm](https://github.com/kennytm), [PingCAP](https://pingcap.com/en/) (focusing on BRIE)
+
+## Co-Leaders
+
+* [amyangfei](https://github.com/amyangfei), [PingCAP](https://pingcap.com/en/) (focusing on CDC)
+* [lance6716](https://github.com/lance6716), [PingCAP](https://pingcap.com/en/) (focusing on DM)
 
 ## Committers
 
-<!-- 30 PRs+ && nominated -->
+<!-- (30 PRs+ || 1 hard && 5 medium issues) && nominated -->
 
 * [3pointer](https://github.com/3pointer)
 * [5kbpers](https://github.com/5kbpers)
 * [amyangfei](https://github.com/amyangfei)
 * [csuzhangxc](https://github.com/csuzhangxc)
+* [glorv](https://github.com/glorv)
 * [GMHDBJD](https://github.com/GMHDBJD)
 * [holys](https://github.com/holys)
 * [IANTHEREAL](https://github.com/IANTHEREAL)
 * [july2993](https://github.com/july2993)
+* [kennytm](https://github.com/kennytm)
+* [lance6716](https://github.com/lance6716)
 * [leoppro](https://github.com/leoppro)
 * [lichunzhu](https://github.com/lichunzhu)
 * [lonng](https://github.com/lonng)
@@ -31,18 +39,17 @@
 
 ## Reviewers
 
-<!-- 20 PRs+ && nominated -->
+<!-- (20 PRs+ || 2 medium issues) && nominated -->
 
-* [lance6716](https://github.com/lance6716)
 * [iamxy](https://github.com/iamxy)
 * [tiancaiamao](https://github.com/tiancaiamao)
+* [liuzix](https://github.com/liuzix)
 
 ## Active Contributors
 
 <!-- 8 PRs+ && 1 PR+ within 1 year -->
 
 * [ericsyh](https://github.com/ericsyh)
-* [glorv](https://github.com/glorv)
 * [MyonKeminta](https://github.com/MyonKeminta)
 * [shafreeck](https://github.com/shafreeck)
 * [tangenta](https://github.com/tangenta)
@@ -58,6 +65,7 @@
 * [crazycs520](https://github.com/crazycs520)
 * [ddatsh](https://github.com/ddatsh)
 * [disksing](https://github.com/disksing)
+* [dixingxing0](https://github.com/dixingxing0)
 * [djshow832](https://github.com/djshow832)
 * [freemindLi](https://github.com/freemindLi)
 * [hicqu](https://github.com/hicqu)
@@ -68,7 +76,6 @@
 * [lhy1024](https://github.com/lhy1024)
 * [Little-Wallace](https://github.com/Little-Wallace)
 * [liubo0127](https://github.com/liubo0127)
-* [liuzix](https://github.com/liuzix)
 * [lysu](https://github.com/lysu)
 * [lzmhhh123](https://github.com/lzmhhh123)
 * [NingLin-P](https://github.com/NingLin-P)
