@@ -4,7 +4,7 @@ This package provides workload-related background knowledge and commonly used tu
 
 ## Workloads introductions
 
-    Workload-related background knowledge includes
+Workload-related background knowledge includes
 
 *   [tpcc ](http://www.tpc.org/tpcc/)
 *   [ycsb](https://github.com/brianfrankcooper/YCSB)
