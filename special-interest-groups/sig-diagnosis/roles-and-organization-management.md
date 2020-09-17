@@ -1,4 +1,4 @@
-# TiDB Dashboard SIG Roles and Organization Management
+# Diagnosis SIG Roles and Organization Management
 
 ## Join and Promotion
 
@@ -7,7 +7,7 @@ It lists common requirements, responsibilities and privileges of each role in de
 
 ### Join
 
-There is no restrictions to join the discussion of Dashboard SIG. See [README](./README.md) for where we discuss.
+There is no restrictions to join the discussion of Diagnosis SIG. See [README](./README.md) for where we discuss.
 
 However you will be only listed in our [member list] if you have **Active Contributor** role or above.
 
@@ -15,7 +15,15 @@ However you will be only listed in our [member list] if you have **Active Contri
 
 #### Be Promoted to [`Contributor`](../../architecture/README.md#contributor)
 
-Everyone that successfully contributes commits to the [TiDB Dashboard repository](https://github.com/pingcap-incubator/tidb-dashboard) is a contributor.
+Everyone that successfully contributes commits related to improving TiDB products' diagnosability or observability is a contributor. Related repositories may be (but not limited to):
+
+- [pingcap/tidb](https://github.com/pingcap/tidb)
+- [pingcap/pd](https://github.com/pingcap/pd)
+- [tikv/tikv](https://github.com/tikv/tikv)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus)
+- [pingcap-incubator/tidb-dashboard](https://github.com/pingcap-incubator/tidb-dashboard)
+- [pingcap-incubator/minitrace-rust](https://github.com/pingcap-incubator/minitrace-rust)
+- [pingcap-incubator/minitrace-go](https://github.com/pingcap-incubator/minitrace-go)
 
 #### Be Promoted to [`Active Contributor`](../../architecture/README.md#active-contributor)
 
@@ -67,7 +75,7 @@ Once meeting the requirements of Reviewer, one can become Reviewer again.
 
 ### Voluntarily Quit or Demote
 
-You can quit the Dashboard SIG voluntarily by simply leaving our discussion channel.
+You can quit the Diagnosis SIG voluntarily by simply leaving our discussion channel.
 
 - For Reviewers and above: Your name will remain in the [member list] to acknowledge your contribution.
 

@@ -23,6 +23,10 @@
 - [lysu](https://github.com/lysu)
 - [lzmhhh123](https://github.com/lzmhhh123)
 - [winoros](https://github.com/winoros)
+- [tiancaiamao](https://github.com/tiancaiamao)
+- [imtbkcat](https://github.com/imtbkcat)
+- [cfzjywxk](https://github.com/cfzjywxk)
+- [hanfei1991](https://github.com/hanfei1991)
 
 
 ## Reviewers
@@ -33,11 +37,16 @@
 - [@tangwz](https://github.com/tangwz)
 - [@shihongzhi](https://github.com/shihongzhi)
 - [@js00070](https://github.com/js00070)
+- [@wjhuang2016](https://github.com/wjhuang2016)
+- [@AilinKid](https://github.com/AilinKid)
+- [@tangenta](https://github.com/tangenta)
+- [@ichn-hu](https://github.com/ichn-hu)
+- [@Yisaer](https://github.com/Yisaer)
+- [@pingyu](http://github.com/pingyu)
 
 ## Active Contributors
 
 - [@ekalinin](http://github.com/ekalinin)
-- [@pingyu](http://github.com/pingyu)
 - [@AndrewDi](https://github.com/AndrewDi)
 - [@hey-kong](https://github.com/hey-kong)
 - [@jacklightChen](https://github.com/jacklightChen)
