@@ -60,7 +60,7 @@
 - 参考 [Join GitHub](https://github.com/join) 创建 GitHub 账号。
 - 参考 [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 在本地环境中安装 Git。
 - 通过 [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) 配置 Git 访问 GitHub。
-- 推荐参加 [High Perfromance TiDB 课程](https://space.bilibili.com/86485707/channel/detail?cid=145009)，对比赛更有帮助。
+- 推荐学习 [High Perfromance TiDB 课程](https://space.bilibili.com/86485707/channel/detail?cid=145009)，对比赛更有帮助。
 
 ## 参赛流程
 
@@ -111,7 +111,7 @@ tidb:1bfeff96c7439ed672f8362cf67573666a43f781
 tikv:dcd2f8f4076d847151fdf58e9c0ba333f242d374
 pd:c05ef6f95773941db5c1060174f5a62e8f864e88
 ```
-**注：**此分支只保存本小组的优化代码，后续不得将 master 合并到此分支。比赛最后性能提升比较数据需采用此分支和赛前指定 master 版本的对比。
+**注：此分支只保存本小组的优化代码，后续不得将 master 合并到此分支。比赛最后性能提升比较数据需采用此分支和赛前指定 master 版本的对比。**
 
 3. **实现任务（2020.09.17-2020.11.15）**
 
@@ -124,7 +124,7 @@ pd:c05ef6f95773941db5c1060174f5a62e8f864e88
 4. **找出 issue 并提交代码（2020.09.17-2020.11.15）**
 
 **固定场景优化方向：**
-参赛选手需要找到优化点，提出 Issue 后@分数评估小组，对 issue进行打分。对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
+参赛选手需要找到优化点，提出 Issue 后 bot 会自动通知顾问小组对 issue进行打分。对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
 
 - issue 提交格式要求：
     - issue 标题需标明参赛信息 **hptc** 和对应优化场景
