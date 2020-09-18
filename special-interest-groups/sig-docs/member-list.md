@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-09-04
+* Last update time: 2020-09-18
 
 ## Tech Lead
 
@@ -21,8 +21,12 @@
 * [DanielZhangQD](https://github.com/DanielZhangQD)
 * [dcalvin](https://github.com/dcalvin)
 * [jackysp](https://github.com/jackysp)
+* [kissmydb](https://github.com/kissmydb)
+* [lance6716](https://github.com/lance6716)
+* [lichunzhu](https://github.com/lichunzhu)
 * [lilin90](https://github.com/lilin90)
 * [morgo](https://github.com/morgo)
+* [nullnotnil](https://github.com/nullnotnil)
 * [queenypingcap](https://github.com/queenypingcap)
 * [ran-huang](https://github.com/ran-huang)
 * [tangenta](https://github.com/tangenta)
@@ -30,6 +34,7 @@
 * [toutdesuite](https://github.com/toutdesuite)
 * [WangXiangUSTC](https://github.com/WangXiangUSTC)
 * [yikeke](https://github.com/yikeke)
+* [YiniXu9506](https://github.com/YiniXu9506)
 
 ## Reviewers
 
@@ -40,17 +45,16 @@
 * [breeswish](https://github.com/breeswish)
 * [crazycs520](https://github.com/crazycs520)
 * [ericsyh](https://github.com/ericsyh)
+* [glkappe](https://github.com/glkappe)
 * [GMHDBJD](https://github.com/GMHDBJD)
 * [junlan-zhang](https://github.com/junlan-zhang)
-* [kissmydb](https://github.com/kissmydb)
-* [lance6716](https://github.com/lance6716)
-* [lichunzhu](https://github.com/lichunzhu)
+* [lucklove](https://github.com/lucklove)
 * [lysu](https://github.com/lysu)
-* [nullnotnil](https://github.com/nullnotnil)
+* [overvenus](https://github.com/overvenus)
+* [SunRunAway](https://github.com/SunRunAway)
 * [superlzs0476](https://github.com/superlzs0476)
 * [tiancaiamao](https://github.com/tiancaiamao)
 * [weekface](https://github.com/weekface)
-* [YiniXu9506](https://github.com/YiniXu9506)
 * [Yisaer](https://github.com/Yisaer)
 * [zimulala](https://github.com/zimulala)
 
@@ -63,7 +67,6 @@
 * [djshow832](https://github.com/djshow832)
 * [eurekaka](https://github.com/eurekaka)
 * [flowbehappy](https://github.com/flowbehappy)
-* [glkappe](https://github.com/glkappe)
 * [imtbkcat](https://github.com/imtbkcat)
 * [ireneontheway](https://github.com/ireneontheway)
 * [Joyinqin](https://github.com/Joyinqin)
@@ -74,12 +77,9 @@
 * [leoppro](https://github.com/leoppro)
 * [lidezhu](https://github.com/lidezhu)
 * [liubo0127](https://github.com/liubo0127)
-* [lucklove](https://github.com/lucklove)
 * [marsishandsome](https://github.com/marsishandsome)
-* [overvenus](https://github.com/overvenus)
 * [rleungx](https://github.com/rleungx)
 * [SE-Bin](https://github.com/SE-Bin)
-* [SunRunAway](https://github.com/SunRunAway)
 * [uglyengineer](https://github.com/uglyengineer)
 * [WalterWj](https://github.com/WalterWj)
 * [Win-Man](https://github.com/Win-Man)
@@ -232,11 +232,11 @@
 * [piperck](https://github.com/piperck)
 * [ppiao](https://github.com/ppiao)
 * [qgxiaozhan](https://github.com/qgxiaozhan)
+* [qinzuoyan](https://github.com/qinzuoyan)
 * [qiukun](https://github.com/qiukun)
 * [qiuyesuifeng](https://github.com/qiuyesuifeng)
 * [qqbuby](https://github.com/qqbuby)
 * [qqsun8819](https://github.com/qqsun8819)
-* [queenypingcap](https://github.com/queenypingcap)
 * [qw4990](https://github.com/qw4990)
 * [reafans](https://github.com/reafans)
 * [reAsOn2010](https://github.com/reAsOn2010)
@@ -291,6 +291,7 @@
 * [xiaojingchen](https://github.com/xiaojingchen)
 * [xiaoyangwang5](https://github.com/xiaoyangwang5)
 * [xiekeyi98](https://github.com/xiekeyi98)
+* [xiongjiwei](https://github.com/xiongjiwei)
 * [xuechunL](https://github.com/xuechunL)
 * [xxj123go](https://github.com/xxj123go)
 * [yanchaozhong](https://github.com/yanchaozhong)
