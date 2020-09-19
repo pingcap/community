@@ -118,15 +118,7 @@ pd:c05ef6f95773941db5c1060174f5a62e8f864e88
 3. **实现任务（2020.09.17-2020.11.15）**
 
 **固定场景优化方向：**
-在小组顾问的指导下，大家围绕本小组场景主题，进行性能瓶颈判断及针对性的优化。对优化点提出 issue 并解决即可获得相应分数。
-
-**固定性能优化相关大 issue 方向：**
-在小组顾问的指导下解决 issue 后获得相应的分数。
-
-4. **找出 issue 并提交代码（2020.09.17-2020.11.15）**
-
-**固定场景优化方向：**
-参赛选手需要找到优化点，提出 Issue 后 bot 会自动通知顾问小组对 issue进行打分。对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
+在小组顾问的指导下，大家围绕本小组场景主题，进行性能瓶颈判断及针对性的优化。参赛选手需要自行找到优化点，提出 Issue 后 bot 会自动通知顾问小组对 issue 进行打分。之后对应 workload 小组成员可以 pick up 打分完毕的 issue 进行挑战。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
 
 - issue 提交格式要求：
     - issue 标题需标明参赛信息 **hptc** 和对应优化场景
@@ -141,7 +133,7 @@ pd:c05ef6f95773941db5c1060174f5a62e8f864e88
     - PR 描述中必须带上 issue Number 例：Issue Number:  #xxx 
 
 **固定性能优化相关大 issue 方向：**
-参赛选手需直接 pick up 自己所在团队的 issue，并提交 PR。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
+参赛选手需在小组顾问的指导下解决 issue 后获得相应的分数。选手可以直接 pick up 自己所在团队的 issue，并提交 PR。**关于 pick up 命令可以查看 [TiDB 专项学习包](tidb-learning-materials-cn.md)**
 
 - PR 提交格式要求：
     - PR 提交格式要求：
@@ -149,15 +141,15 @@ pd:c05ef6f95773941db5c1060174f5a62e8f864e88
     - PR 第一行需标明参赛信息 hptc
     - PR 描述中必须带上 issue Number 例：Issue Number:  #xxx 
 
-5. **获得积分**
+4. **获得积分**
 
 所有参赛过程中符合要求并被合并到 Master 分支的 PR 都会自动获得相应分数，如果你的 PR 没有得分，请检查是否已按照格式要求提出 PR，或在 slack 群组联系主办方。
 
-6. **提交成果**
+5. **提交成果**
 
 所有参赛选手需要在 11.15 日下午 18:00 之前停止更新 Master 分支并提交成果。
 
-7. **答辩**
+6. **答辩**
 
 每个参赛队伍需在 11.20 上午 10:00 前提交答辩 PPT，PPT 中需要包括以下内容：
 
