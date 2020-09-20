@@ -17,6 +17,38 @@ TiDB Community Slack Workspace is the official communication platform for this c
 * Report sre-bot bugs
 * Ask any questions concerning this challenge
 
+## Participation Notes
+
+Glad you are interested! Before you start hacking, these are something you should know to get you started quickly.
+
+### About team-up
+
+* You need to team up before submitting the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization.
+* Up to five participants are allowed in a team; cross team-up is not allowed.
+* If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
+
+### About challenge points
+
+* Your team only earns points when you resolve the issues that you created for your target workload optimization. If the issues resolved are not relevant, there will be no points granted.
+* The team points are the sum of the points of all the tasks completed by your team members.
+* The leaderboard in real time does not indicate the final team rankings. See [Evaluation criteria](#evaluation-criteria) for all the factors at play.
+* The organizing committee determines the challenge points for the created issues under each workload. The points are determined according to the team's estimated work.
+
+### About mentors
+
+* Only one mentor is allowed in a team and one mentor could only provide instructions to one team.
+* The team that needs mentoring could contact the organizing committee in the Slack channel.
+
+### Evaluation criteria
+
+The results of the challenge will be evaluated in teams. The organizing committee will pull the latest working branches of each team at 18:00 on Nov.15 (China Standard Time) to evaluate workload optimization results and calculate the total PR points of each team. Besides, each team has 7 minutes to present their teamwork for the optimization on Nov.21.
+
+**The final ranking is determined by:**
+
+* Performance improvement (65%): performance improvement (percentage) of the working branch compared with the base Master branch
+* PR points of the team (30%): the validated PRs merged into Master
+* Presentation (5%): presentation performance
+
 ## Before participation
 
 1   See [Join GitHub](https://github.com/join) to create a GitHub account
@@ -235,32 +267,3 @@ This package provides workload-related background knowledge and commonly used tu
 
 This is a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
 
-## Participation Notes
-
-### About team-up
-
-* You need to team up before submitting the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization.
-* Up to five participants are allowed in a team; cross team-up is not allowed.
-* If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
-
-### About challenge points
-
-* Your team only earns points when you resolve the issues that you created for your target workload optimization. If the issues resolved are not relevant, there will be no points granted.
-* The team points are the sum of the points of all the tasks completed by your team members.
-* The leaderboard in real time does not indicate the final team rankings. See [Evaluation criteria](#evaluation-criteria) for all the factors at play.
-* The organizing committee determines the challenge points for the created issues under each workload. The points are determined according to the team's estimated work.
-
-### About mentors
-
-* Only one mentor is allowed in a team and one mentor could only provide instructions to one team.
-* The team that needs mentoring could contact the organizing committee in the Slack channel.
-
-### Evaluation criteria
-
-The results of the challenge will be evaluated in teams. The organizing committee will pull the latest working branches of each team at 18:00 on Nov.15 (China Standard Time) to evaluate workload optimization results and calculate the total PR points of each team. Besides, each team has 7 minutes to present their teamwork for the optimization on Nov.21.
-
-**The final ranking is determined by:**
-
-* Performance improvement (65%): performance improvement (percentage) of the working branch compared with the base Master branch
-* PR points of the team (30%): the validated PRs merged into Master
-* Presentation (5%): presentation performance
