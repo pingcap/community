@@ -231,11 +231,11 @@ In this period, your team will be working together with the mentor to diagnose p
     * The target workload should be indicated in the PR description, such as `performance/tpcc`
     * The corresponding issue number should be indicated in the PR description, such as “Issue Number: #xxx”
 
-### Step 6: Submit code change
+### Step 5: Submit code change
 
 Submit your code change to the master branch before 18:00 Nov.15 (China Standard Time). PRs merged after Nov.15 will not be counted for the points.
 
-### Step 5: Points granted
+### Step 6: Points granted
 
 PRs merged into the master branch during the competition will be automatically granted the points as labeled on the corresponding issue. If a merged PR does not receive any points, please check whether the PR has been submitted according to the PR format requirements, or contact the organizing committee in the slack channel.
 
