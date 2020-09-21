@@ -51,9 +51,9 @@ The results of the challenge will be evaluated in teams. The organizing committe
 
 ## Before participation
 
-1   See [Join GitHub](https://github.com/join) to create a GitHub account
-2  [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your local environment
-3   Check [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) to configure your Git to access GitHub
+1. See [Join GitHub](https://github.com/join) to create a GitHub account.
+2. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your local environment.
+3. Check [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) to configure your Git to access GitHub.
 
 ## How to challenge
 
@@ -266,4 +266,3 @@ This package provides workload-related background knowledge and commonly used tu
 * **[PingCAP Talent Plan](https://github.com/pingcap/talent-plan)**
 
 This is a series of training courses about writing distributed systems in Go and Rust with no previous experience of TiDB or TiKV required.
-
