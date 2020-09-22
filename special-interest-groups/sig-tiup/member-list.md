@@ -26,3 +26,4 @@
 * [c4pt0r](https://github.com/c4pt0r), [PingCAP](https://pingcap.com/en/)
 * [qinzuoyan](https://github.com/qinzuoyan), [XiaoMi](https://github.com/XiaoMi)
 * [YangKeao](https://github.com/YangKeao), [PingCAP](https://pingcap.com/en/)
+* [9547](https://github.com/9547)
