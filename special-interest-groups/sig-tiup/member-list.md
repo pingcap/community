@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-03-13
+* Last update time: 2020-09-22
 
 ## Tech Leads
 
