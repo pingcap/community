@@ -103,6 +103,7 @@
 | [tidb#19386](https://github.com/pingcap/tidb/issues/19386)        | 6600 | ddl | djshow832    |
 | [tidb#14441](https://github.com/pingcap/tidb/issues/14441)        | 6600 | execution | qw4990 |
 | [tidb/18693](https://github.com/pingcap/tidb/issues/18693)        | 6600 | planner | winoros  |
+| [tikv/8653](https://github.com/tikv/tikv/issues/8653)        | 6600 | transaction | sticnarf  |
 
 2. **WG 组长提交分支地址（针对固定场景优化小组）**
 
