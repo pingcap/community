@@ -79,15 +79,15 @@ See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
 
 ## Community Activities
 
+* [Hacktoberfest](./Hacktoberfest/README.md)
+* [Challenge Program](./challenge-programs/README.md)
 * [Infra Meetup](https://github.com/pingcap/presentations/tree/master/Infra-Meetup)
 * [Hackathon 2019](https://github.com/pingcap/presentations/tree/master/hackathon-2019)
 * [Techday 2019](https://github.com/pingcap/presentations/tree/master/techday2019)
 * [Paper Reading](https://github.com/pingcap/presentations/blob/master/paper-reading.md)
 * [Summer of code](./soc/README.md)
-* [Challenge Program](./challenge-programs/README.md)
 * [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
 * [PingCAP Incubator Program](./incubator/README.md)
-* [Hacktoberfest](./Hacktoberfest)
 
 ## License
 
