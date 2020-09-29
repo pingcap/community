@@ -87,6 +87,7 @@ See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
 * [Challenge Program](./challenge-programs/README.md)
 * [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
 * [PingCAP Incubator Program](./incubator/README.md)
+* [Hacktoberfest](./Hacktoberfest)
 
 ## License
 
