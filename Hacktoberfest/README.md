@@ -17,4 +17,5 @@ Not familiar with our contributing process? See [Contributing Guide](../contribu
 |---|---|---|
 |  TiDB Dashboard | A Web UI for monitoring, diagnosing and managing the TiDB cluster.   | <https://github.com/pingcap-incubator/tidb-dashboard/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest>   |
 |  TiDB DDL | DDL-related and parser-related features.  | <https://github.com/pingcap/tidb/issues?q=is%3Aopen+label%3Ahacktoberfest+label%3Asig%2FDDL>   |
+|  PD | PD is used to manage and schedule the TiKV cluster.  | <https://github.com/tikv/pd/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest>   |
  <!---Please add your issues in the table-->
