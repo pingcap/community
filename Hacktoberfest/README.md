@@ -23,4 +23,5 @@ Not familiar with our contributing process? See [Contributing Guide](../contribu
 | TiDB Lightning | Import SQL/CSV data into TiDB | <https://github.com/pingcap/br/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest> |
 | Dumpling | Export SQL/CSV data from MySQL/TiDB | <https://github.com/pingcap/dumpling/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest> |
 |  PD | PD is used to manage and schedule the TiKV cluster.  | <https://github.com/tikv/pd/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest>   |
+| TiDB Operator | Manage TiDB clusters on Kubernetes | <https://github.com/pingcap/tidb-operator/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest> |
  <!---Please add your issues in the table-->
