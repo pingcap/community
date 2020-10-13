@@ -24,7 +24,7 @@ Glad you are interested! Before you start hacking, these are something you shoul
 ### About team-up
 
 * You need to team up before submitting the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization.
-* Up to five participants are allowed in a team; cross team-up is not allowed.
+* Up to six participants are allowed in a team (The mentor and the team leader are included). Cross team-up is not allowed.
 * If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
 
 ### About challenge points
@@ -37,6 +37,7 @@ Glad you are interested! Before you start hacking, these are something you shoul
 ### About mentors
 
 * Only one mentor is allowed in a team and one mentor could only provide instructions to one team.
+* The mentor is recognized as a participant in the team. In addition to the mentor prize, the mentor is eligible to claim team prize.
 * The team that needs mentoring could contact the organizing committee in the Slack channel.
 
 ### Evaluation criteria
