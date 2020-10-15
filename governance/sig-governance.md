@@ -47,7 +47,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
     - Triaging issues/tasks in the SIG
     - Mentoring members of the SIG
     - Organizing discussions and drawing conclusions for decision making within the SIG
-    - Ensuring health and sustained development of the SIG and grwoth of SIG members
+    - Ensuring health and sustained development of the SIG and growth of SIG members
     - Organizing and participating in regular meetings
 
 ## Member Promotion Mechanism
@@ -78,7 +78,7 @@ Once the change is approved, the corresponding profile will be moved to the emer
     * What is the artifact that this group will deliver, and to whom?
     * What are the meeting mechanics (frequency, duration, roles)?
 
-* Once you have met the above criteria, you can create the SIG according to the  following steps:
+* Once you have met the above criteria, you can create the SIG according to the following steps:
 
 	1. Create a `sig-${name}` folder in [special interest group directory](../special-interest-groups) (modify `${name}` to your Special Interest Group short name) according to [SIG Template](../special-interest-groups/sig-template), and modify the **Active Special Interest Groups** list in the [Special Interest Groups](../special-interest-groups/README.md) page. 
 	2. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-${name}`

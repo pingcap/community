@@ -41,11 +41,12 @@
 - [@AilinKid](https://github.com/AilinKid)
 - [@tangenta](https://github.com/tangenta)
 - [@ichn-hu](https://github.com/ichn-hu)
+- [@Yisaer](https://github.com/Yisaer)
+- [@pingyu](http://github.com/pingyu)
 
 ## Active Contributors
 
 - [@ekalinin](http://github.com/ekalinin)
-- [@pingyu](http://github.com/pingyu)
 - [@AndrewDi](https://github.com/AndrewDi)
 - [@hey-kong](https://github.com/hey-kong)
 - [@jacklightChen](https://github.com/jacklightChen)

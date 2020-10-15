@@ -1,48 +1,27 @@
 # How to contribute
 
-TiDB is a community driven open source project and we welcome any contributor.
-The process of contributing to the TiDB project may be different than many
-other projects you have been involved in. This document outlines some
-conventions about development workflow, commit message formatting, contact
-points and other resources to make it easier to get your contribution accepted.
-This document is the canonical source of truth for things like supported
-toolchain versions for building and testing TiDB.
+# Contribution Guide
 
-This document is the single source of truth for how to contribute to the code
-base. Feel free to browse the open issues and file new ones, all feedback
-welcome!
+TiDB is a community-driven open source project and we welcome any contributor.  Contributions to the TiDB project are expected to adhere to our [Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md).
 
-## Contents
+This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. You can also join us in our [Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap) for help with any issues.
 
-<!-- vim-markdown-toc GFM -->
+<!-- TOC -->
 
-* [Before you get started](#before-you-get-started)
-    * [Sign the CLA](#sign-the-cla)
-    * [Code of Conduct](#code-of-conduct)
-    * [Setting up your development environment](#setting-up-your-development-environment)
-        * [TiDB](#tidb)
-        * [TiKV](#tikv)
-* [Your First Contribution](#your-first-contribution)
-    * [Find a good first topic](#find-a-good-first-topic)
-    * [RFCs or Proposals](#rfcs-or-proposals)
-* [Your first PR](#your-first-pr)
-    * [Coding Style](#coding-style)
-    * [Code Comment Style](#code-comment-style)
-    * [Commit Message and Pull Request Style](#commit-message-and-pull-request-style)
-    * [Diagram Style](#diagram-style)
-* [Contributing](#contributing)
-    * [Communication](#communication)
-    * [GitHub workflow](#github-workflow)
-    * [Bot Commmands](#bot-commmands)
-    * [Open a Pull Request](#open-a-pull-request)
-    * [Code Review](#code-review)
-    * [Testing](#testing)
-    * [Benchmark](#benchmark)
-    * [Security](#security)
-    * [Documentation](#documentation)
-    * [Issues Management or Triage](#issues-management-or-triage)
+- [How to contribute](#how-to-contribute)
+- [Contribution Guide](#contribution-guide)
+    - [Before you get started](#before-you-get-started)
+        - [Sign the CLA](#sign-the-cla)
+        - [Setting up your development environment](#setting-up-your-development-environment)
+    - [Your First Contribution](#your-first-contribution)
+    - [Before you open your PR](#before-you-open-your-pr)
+    - [TiDB Contribution Workflow](#tidb-contribution-workflow)
+    - [Get a code review](#get-a-code-review)
+        - [Style reference](#style-reference)
+    - [Bot Commands](#bot-commands)
+    - [Benchmark](#benchmark)
 
-<!-- vim-markdown-toc -->
+<!-- /TOC -->
 
 ## Before you get started
 
@@ -50,91 +29,37 @@ welcome!
 
 Click the **Sign in with Github to agree** button to sign the CLA. See an example [here](https://cla-assistant.io/pingcap/tidb?pullRequest=16303).
 
-What is [CLA](https://www.clahub.com/pages/why_cla)?
-
-### Code of Conduct
-
-Please make sure to read and observe our [Code of Conduct](../CODE_OF_CONDUCT.md).
+What is [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)?
 
 ### Setting up your development environment
 
-#### TiDB
+TiDB is written in GO. Before you start contributing code to TiDB, you need to
+set up your GO development environment.
 
-Setting up a Go development environment: [How to Write Go Code](http://golang.org/doc/code.html).
+1. Install `Go` version **1.13** or above. Refer to [How to Write Go Code](http://golang.org/doc/code.html) for more information.
+2. Define `GOPATH` environment variable and modify `PATH` to access your Go binaries. A common setup is as follows. You could always specify it based on your own flavor.
 
-**NOTE**: TiDB uses [`Go Modules`](https://github.com/golang/go/wiki/Modules)
-to manage dependencies. The version of GO should be **1.13** or above.
+    ```sh
+    export GOPATH=$HOME/go
+    export PATH=$PATH:$GOPATH/bin
+    ```
 
-You'll need `GOPATH` defined, and `PATH` modified to access your Go binaries. A
-common setup is the following but you could always google a setup for your own
-flavor.
+>**Note:** TiDB uses [`Go Modules`](https://github.com/golang/go/wiki/Modules)
+to manage dependencies.
 
-```sh
-export GOPATH=$HOME/go
-export PATH=$PATH:$GOPATH/bin
-```
+Now you should be able to use the `make` command to build TiDB.
 
-Then you can use `make` command to build TiDB.
-
-#### TiKV
-
-See [Building and setting up a development
+> **Note:**
+>
+>For TiKV development environment setup, See [Building and setting up a development
 workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and-setting-up-a-development-workspace).
 
 ## Your First Contribution
 
-### Find a good first topic
+All set to contribute? You can start by finding an existing issue with the
+[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Astatus%2Fhelp-wanted) label in the tidb repository. These issues are well suited for new contributors.
 
-You can start by finding an existing issue with the
-[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Astatus%2Fhelp-wanted)
-label in the tidb repository. These issues are well suited for new contributors. BTW,
-there's always a need for more test coverage. You can also start with an area
-that has [low coverage](https://codecov.io/gh/pingcap/tidb).
-
-You can also join one of the [active working groups](../working-groups) to
-participate in a community activity. Start with attending working group meetings or
-joining the slack channel.
-
-### RFCs or Proposals
-
-* [TiDB Proposals](https://github.com/pingcap/tidb/tree/master/docs/design)
-* [TiKV RFCs](https://github.com/tikv/rfcs)
-
-## Your first PR
-
-### Coding Style
-
-See [PingCAP coding style guide](https://github.com/pingcap/style-guide) for details.
-
-### Code Comment Style
-
-See [Code Comment Style](./code-comment-style.md) for details.
-
-### Commit Message and Pull Request Style
-
-See [Commit Message and Pull Request Style](./commit-message-pr-style.md) for details.
-
-### Diagram Style
-
-See [Figma Quick Start Guide](./figma-quick-start-guide.md).
-
-To keep a consistent style for diagrams, we recommend using [Figma](https://www.figma.com/) to draw or design diagrams. If you need to draw a diagram, refer to the guide and use shapes or colors provided in the template.
-
-## Contributing
-
-### Communication
-
-See [Communication](../communicating.md) for details.
-
-### GitHub workflow
-
-See [Github Workflow](./workflow.md) for details.
-
-### Bot Commmands
-
-See [SRE-BOT Command Help](./command-help.md) for details.
-
-### Open a Pull Request
+## Before you open your PR
 
 Before you move on, please make sure what your issue and/or pull request is, a
 simple bug fix or an architecture change.
@@ -142,43 +67,75 @@ simple bug fix or an architecture change.
 In order to save reviewers' time, each issue should be filed with template and
 should be sanity-checkable in under 5 minutes.
 
-**1. Is this a simple bug fix?**
+- **Is this a simple bug fix?**
 
-Bug fixes usually come with tests. With the help of continuous integration
-test, patches can be easy to review. Please update the unit tests so that they
-catch the bug! Please check example
-[here](https://github.com/pingcap/tidb/pull/2808).
+    Bug fixes usually come with tests. With the help of continuous integration
+    test, patches can be easy to review. Please update the unit tests so that they
+    catch the bug! Please check example
+    [here](https://github.com/pingcap/tidb/pull/2808).
 
-**2. Is this an architecture improvement?**
+- **Is this an architecture improvement?**
 
-Some examples of "Architecture" improvements:
+    Some examples of "Architecture" improvements:
 
-- Converting structs to interfaces.
-- Improving test coverage.
-- Decoupling logic or creation of new utilities.
-- Making code more resilient (sleeps, backoffs, reducing flakiness, etc).
+    - Converting structs to interfaces.
+    - Improving test coverage.
+    - Decoupling logic or creation of new utilities.
+    - Making code more resilient (sleeps, backoffs, reducing flakiness, etc).
 
-If you are improving the quality of code, then justify/state exactly what you
-are 'cleaning up' in your Pull Request so as to save reviewers' time. An
-example will be this [pull request](https://github.com/pingcap/tidb/pull/3113).
+    If you are improving the quality of code, then justify/state exactly what you
+    are 'cleaning up' in your Pull Request so as to save reviewers' time. An
+    example will be this [pull request](https://github.com/pingcap/tidb/pull/3113).
 
-If you're making code more resilient, test it locally to demonstrate how
-exactly your patch changes things.
+    If you're making code more resilient, test it locally to demonstrate how
+    exactly your patch changes things.
 
-**Nit**: in order to improve the efficiency of other contributors and avoid
-duplicated working, it's better to leave a comment in the issue that you are
-working on.
+    > **Tip:**
+    >
+    >To improve the efficiency of other contributors and avoid
+    duplicated working, it's better to leave a comment in the issue that you are
+    working on.
 
-### Code Review
+## TiDB Contribution Workflow
 
-TBD
+To contribute to the TiDB code base, please follow the workflow as defined in this section.
 
-### Testing
+1. Create a topic branch from where you want to base your work. This is usually master.
+2. Make commits of logical units and add test case if the change fixes a bug or adds new functionality.
+3. Run tests and make sure all the tests are passed.
+4. Make sure your commit messages are in the proper format (see below).
+5. Push your changes to a topic branch in your fork of the repository.
+6. Submit a pull request.
 
-TBD
+This is a rough outline of what a contributor's workflow looks like. For more details, see [GitHub workflow](https://github.com/pingcap/community/blob/master/contributors/workflow.md).
 
-### Benchmark
+Thanks for your contributions!
 
+## Get a code review
+
+If your pull request (PR) is opened, it will be assigned to reviewers within the relevant Special Interest Group (SIG). Normally each PR requires at least 2 LGTMs (Looks Good To Me) from eligible reviewers. Those reviewers will do a thorough code review, looking at correctness, bugs, opportunities for improvement, documentation and comments,
+and style.
+
+To address review comments, you should commit the changes to the same branch of
+the PR on your fork.
+
+### Style reference
+
+Keeping a consistent style for code, code comments, commit messages, and pull requests is very important for a project like TiDB. We highly recommend you refer to and comply to the following style guides when you put together your pull requests:
+
+- **Coding Style**: See [PingCAP coding style guide](https://github.com/pingcap/style-guide) for details.
+
+- **Code Comment Style**: See [Code Comment Style](./code-comment-style.md) for details.
+
+- **Commit Message and Pull Request Style**: See [Commit Message and Pull Request Style](./commit-message-pr-style.md) for details.
+
+## Bot Commands
+
+The TiDB projects uses Continuous Integration(CI) Commands and Pull Requests commands to improve efficiency and code quality.
+
+See [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for details.
+
+## Benchmark
 
 If the change affects TIDB's performance, the benchmark data is normally required in the description. You can use the [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) tool to format benchmark data for change descriptions.
 
@@ -188,23 +145,10 @@ The following script runs benchmark multiple times (10)
 go test -run=^$ -bench=BenchmarkXXX -count=10
 ```
 
-**Tip**: To make the result more readable, you can copy and paste the output to both the old.txt and new.txt, and then run: 
+**Tip**: To make the result more readable, you can copy and paste the output to both the old.txt and new.txt, and then run:
 
 ```
 benchstat old.txt new.txt
 ```
 
-
 Paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
-
-### Security
-
-TBD
-
-### Documentation
-
-TBD
-
-### Issues Management or Triage
-
-TBD
