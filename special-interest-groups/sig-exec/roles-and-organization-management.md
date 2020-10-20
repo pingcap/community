@@ -32,7 +32,7 @@ Requirements:
 * Finished 2+ tasks of Medium difficulty or higher
 * Fixed 1+ tasks of Hard difficult
 * Reviewd 10+ PRs
-* Nominated by the Tech Leads of SIG-Exec and gained supermajority (2/3) votes from Maintainers
+* Nominated by one Tech Lead of SIG-Exec and approved by 2 or more Tech Leads and Committers
 
 ## Quit and Demotion
 
