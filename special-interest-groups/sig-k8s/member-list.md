@@ -33,11 +33,12 @@
 
 * [lichunzhu](https://github.com/lichunzhu)
 * [mikechengwei](https://github.com/mikechengwei)
+* [july2993](https://github.com/july2993)
+* [shonge](https://github.com/shonge)
 
 ## Active Contributors
 
 * [xiaojingchen](https://github.com/xiaojingchen)
-* [shonge](https://github.com/shonge)
 * [cwen0](https://github.com/cwen0)
 * [kolbe](https://github.com/kolbe)
 * [sokada1221](https://github.com/sokada1221)
