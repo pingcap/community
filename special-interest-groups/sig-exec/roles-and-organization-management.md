@@ -32,7 +32,7 @@ Requirements:
 * Finished 2+ tasks of Medium difficulty or higher
 * Fixed 1+ tasks of Hard difficult
 * Reviewd 10+ PRs
-* Nominated by one Tech Lead of SIG-Exec and approved by 2 or more Tech Leads and Committers
+* Nominated by one Tech Lead of SIG-Exec and approved by 2 or more Tech Leads or Committers
 
 ## Quit and Demotion
 
