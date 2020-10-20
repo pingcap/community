@@ -27,12 +27,12 @@
 - [imtbkcat](https://github.com/imtbkcat)
 - [cfzjywxk](https://github.com/cfzjywxk)
 - [hanfei1991](https://github.com/hanfei1991)
+- [mmyj](https://github.com/mmyj)
 
 
 ## Reviewers
 
 - [@tsthght](https://github.com/tsthght)
-- [@mmyj](https://github.com/mmyj)
 - [@b41sh](https://github.com/b41sh)
 - [@tangwz](https://github.com/tangwz)
 - [@shihongzhi](https://github.com/shihongzhi)
