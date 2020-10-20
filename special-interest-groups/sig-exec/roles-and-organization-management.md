@@ -28,10 +28,10 @@ Requirements:
 
 Requirements:
 
-* Merged 40+ PRs
+* Merged 20+ PRs
 * Finished 2+ tasks of Medium difficulty or higher
 * Fixed 1+ tasks of Hard difficult
-* Reviewd 20+ PRs
+* Reviewd 10+ PRs
 * Nominated by the Tech Leads of SIG-Exec and gained supermajority (2/3) votes from Maintainers
 
 ## Quit and Demotion
