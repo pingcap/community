@@ -283,6 +283,14 @@ TiDB Cloud always stays up to date with TiDB releases and has access to the late
 TiDB Cloud is managed and supported by the same team that has designed, tuned, and operated TiDB for about 1,000 companies across multiple mission-critical segments such as financial services, e-commerce platforms, SaaS solutions, and social network applications. Enterprise support is available 24/7 for TiDB Cloud users, so customers can rest assured that their data is safe and their services are always on. 
 For more information, please visit the [TiDB Cloud Website](https://en.pingcap.com/products/tidbcloud)
 
+***How the cash coupons will be distributed***
+
+1st place: cash coupons worth 6,000 USD
+2nd place: cash coupons worth 4,500 USD
+3rd place: cash coupons worth 2,250 USD
+4th place: cash coupons worth 1,500 USD
+5th place: cash coupons worth 750 USD
+
 ## Learning materials
 
 * **[Performance Tuning Package](performance-tuning-package.md)**
