@@ -28,10 +28,10 @@ Requirements:
 
 Requirements:
 
-* Have at least 40 PRs (at least 10 PRs in tidb repo and at least 8 PRs in parser repo) merged.
-* Have fixed at least 5 issues whose difficulty is medium or above.
+* Have at least 20 PRs (at least 10 PRs in tidb repo and at least 8 PRs in parser repo) merged.
+* Have fixed at least 2 issues whose difficulty is medium or above.
 * Have fixed at least 1 issues whose difficulty is hard.
-* Have reviewed at least 20 PRs.
+* Have reviewed at least 10 PRs.
 * Nominated by at least 2 Committers or Maintainers.
 
 ## Quit and Demotion
