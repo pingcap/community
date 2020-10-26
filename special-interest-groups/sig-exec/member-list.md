@@ -43,6 +43,7 @@
 - [@ichn-hu](https://github.com/ichn-hu)
 - [@Yisaer](https://github.com/Yisaer)
 - [@pingyu](http://github.com/pingyu)
+- [@breeswish](https://github.com/breeswish)
 
 ## Active Contributors
 
