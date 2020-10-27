@@ -35,6 +35,7 @@
 * [mikechengwei](https://github.com/mikechengwei)
 * [july2993](https://github.com/july2993)
 * [shonge](https://github.com/shonge)
+* [howardlau1999](https://github.com/howardlau1999)
 
 ## Active Contributors
 
