@@ -276,7 +276,7 @@ Make sure your Email address is valid as the server information will be sent by 
 
 **TiDB Cloud credit coupons**
 
-To thank the contribution of participating teams, the organizing committee has prepared TiDB Cloud credit coupons worth 70,000 USD!
+To thank the contribution of participating teams, the organizing committee has prepared 70,000 USD worth of TiDB Cloud credit coupons!
 
 TiDB Cloud always stays up to date with TiDB releases and has access to the latest features. The TiDB Cloud beta launch coincides with TiDB 4.0 GA, which marks a big advancement towards PingCAP's vision of a real-time Hybrid Transactional/Analytical Processing (HTAP), elastic, and cloud-native database. TiDB 4.0's new features such as Backup and Restore, Change Data Capture (CDC), visual monitoring, diagnostics tools, and security features including Transparent Data Encryption will be directly benefiting TiDB Cloud, providing customers with a one-stop distributed SQL experience in the cloud. 
 
@@ -285,11 +285,11 @@ For more information, please visit the [TiDB Cloud Website](https://en.pingcap.c
 
 ***How the credit coupons will be distributed***
 
-1st place: credit coupons worth 6,000 USD
-2nd place: credit coupons worth 4,500 USD
-3rd place: credit coupons worth 2,250 USD
-4th place: credit coupons worth 1,500 USD
-5th place: credit coupons worth 750 USD
+1st place: 6,000 USD worth of TiDB Cloud credits
+2nd place: 4,500 USD worth of TiDB Cloud credits
+3rd place: 2,250 USD worth of TiDB Cloud credits
+4th place: 1,500 USD worth of TiDB Cloud credits
+5th place: 750 USD worth of TiDB Cloud credits
 
 ## Learning materials
 
