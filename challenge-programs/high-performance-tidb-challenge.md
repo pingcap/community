@@ -6,8 +6,8 @@ High-Performance TiDB Challenge is a mentoring program which focuses on workload
 
 * Sept 17 - Nov 29     Team-up and sign-up
 * Sept 17 - Nov 29     Team bonding and coding
-* Nov 30 - Dec 4      Challenge results evaluation
-* Dec 5               Presentation and prize announcement
+* Nov 30 - Dec 4       Challenge results evaluation
+* Dec 5                Presentation and prize announcement
 
 ## Communication
 
