@@ -4,10 +4,10 @@ High-Performance TiDB Challenge is a mentoring program which focuses on workload
 
 ## Program Timeline
 
-* Sept.17- Nov.15     Team-up and sign-up
-* Sept.17- Nov.15     Team bonding and coding
-* Nov.15- Nov.20      Challenge results evaluation
-* Nov.21              Presentation and prize announcement
+* Sept.17 - Nov.29     Team-up and sign-up
+* Sept.17 - Nov.29     Team bonding and coding
+* Nov.30 - Dec.04      Challenge results evaluation
+* Dec.05               Presentation and prize announcement
 
 ## Communication
 
@@ -24,7 +24,7 @@ Glad you are interested! Before you start hacking, these are something you shoul
 ### About team-up
 
 * You need to team up before submitting the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). One team could only select one workload for optimization.
-* Up to five participants are allowed in a team; cross team-up is not allowed.
+* Up to six participants are allowed in a team (mentor included). Cross team-up is not allowed.
 * If you have trouble in team-up, give a shout in the Slack channel for help. Or you can sign up as a one-person team.
 
 ### About challenge points
@@ -37,11 +37,12 @@ Glad you are interested! Before you start hacking, these are something you shoul
 ### About mentors
 
 * Only one mentor is allowed in a team and one mentor could only provide instructions to one team.
+* Besides providing regular mentoring instructions, the mentor is allowed to claim the tasks to submit PRs. As such, in addition to the mentor prize, the mentor is eligible to share the team prize.
 * The team that needs mentoring could contact the organizing committee in the Slack channel.
 
 ### Evaluation criteria
 
-The results of the challenge will be evaluated in teams. The organizing committee will pull the latest working branches of each team at 18:00 on Nov.15 (China Standard Time) to evaluate workload optimization results and calculate the total PR points of each team. Besides, each team has 7 minutes to present their teamwork for the optimization on Nov.21.
+The results of the challenge will be evaluated in teams. The organizing committee will pull the latest working branches of each team at 18:00 on Dec.4th (China Standard Time) to evaluate workload optimization results and calculate the total PR points of each team. Besides, each team has 7 minutes to present their teamwork for the optimization on Dec.5th.
 
 **The final ranking is determined by:**
 
@@ -231,31 +232,64 @@ In this period, your team will be working together with the mentor to diagnose p
     * The target workload should be indicated in the PR description, such as `performance/tpcc`
     * The corresponding issue number should be indicated in the PR description, such as “Issue Number: #xxx”
 
-### Step 5: Submit code change
+### Step 4: Submit code change
 
-Submit your code change to the master branch before 18:00 Nov.15 (China Standard Time). PRs merged after Nov.15 will not be counted for the points.
+Submit your code change to the master branch before 18:00 Nov.29th (China Standard Time). PRs merged after Nov.29th will not be counted for the points.
 
-### Step 6: Points granted
+### Step 5: Points granted
 
 PRs merged into the master branch during the competition will be automatically granted the points as labeled on the corresponding issue. If a merged PR does not receive any points, please check whether the PR has been submitted according to the PR format requirements, or contact the organizing committee in the slack channel.
 
-### Step 7: Present your work
+### Step 6: Present your work
 
-Submit your presentation slides before 10:00, Nov.20 (China Standard Time). The presentation should be no longer than 7 minutes, with the following topics covered:
+Submit your presentation slides before 10:00, Dec.4th (China Standard Time). The presentation should be no longer than 7 minutes, with the following topics covered:
 
 * Introduction to the workload situation before and after your optimization
 * Work allocation among team
 * Performance improvement
 
-The online presentation will be held at 13:00-17:00, Nov.21 (China Standard Time). The challenge results will be announced after the presentation.
+The online presentation will be held at 13:00-17:00, Dec.5th (China Standard Time). The challenge results will be announced after the presentation.
 
 ## Awards
 
-* 1st prize: 7,000 US dollars for the team; 1,350 US dollars for the mentor
-* 2nd prize: 4,250 dollars for the team; 1,350 US dollars for the mentor
-* 3rd prize: 1,350 US dollars for the team
+* 1st prize: 7,000 USD for the team; 1,350 USD for the mentor
+* 2nd prize: 4,250 USD for the team; 1,350 USD for the mentor
+* 3rd prize: 1,350 USD for the team
 
 >**Note**: Teams that finish the final presentation will be evaluated by the judges, among which no more than five winning teams will be generated. The winning teams will be awarded as described above. Each member of the finisher team can get a special swag. If the winning team does not have a mentor, the mentor prize will be automatically added to the team.
+
+### Newly added resources
+
+Considering the difficulty of the tasks and the limited time of the participants, the organizing committee has decided to extend the competition to Nov.29. What's more, the committee has decided to offer more resources for the teams, including benchmark facilities on cloud platforms and TiDB Cloud cash coupons!
+
+**Benchmark facilities on the cloud platforms**
+
+All teams are eligible to apply for the benchmark facilities on the cloud platforms to better experiment and verify ideas. Benchmark facilities for each team include 1 cluster with 6 servers. The specific configuration of a single server is listed as below.
+
+4C8G + data disk 200G + public network bankwidth
+
+***How to apply***
+
+Send an email to zhangyurui@pingcap.com with the subject formatted below.
+Subject: Your team name + application of server resource
+Make sure your Email address is valid as the server information will be sent by email.
+
+**TiDB Cloud cash coupons**
+
+To thank the contribution of participating teams, the organizing committee has prepared TiDB Cloud cash coupons worth 70,000 USD!
+
+TiDB Cloud always stays up to date with TiDB releases and has access to the latest features. The TiDB Cloud beta launch coincides with TiDB 4.0 GA, which marks a big advancement towards PingCAP's vision of a real-time Hybrid Transactional/Analytical Processing (HTAP), elastic, and cloud-native database. TiDB 4.0's new features such as Backup and Restore, Change Data Capture (CDC), visual monitoring, diagnostics tools, and security features including Transparent Data Encryption will be directly benefiting TiDB Cloud, providing customers with a one-stop distributed SQL experience in the cloud. 
+
+TiDB Cloud is managed and supported by the same team that has designed, tuned, and operated TiDB for about 1,000 companies across multiple mission-critical segments such as financial services, e-commerce platforms, SaaS solutions, and social network applications. Enterprise support is available 24/7 for TiDB Cloud users, so customers can rest assured that their data is safe and their services are always on. 
+For more information, please visit the [TiDB Cloud Website](https://en.pingcap.com/products/tidbcloud)
+
+***How the cash coupons will be distributed***
+
+1st place: cash coupons worth 6,000 USD
+2nd place: cash coupons worth 4,500 USD
+3rd place: cash coupons worth 2,250 USD
+4th place: cash coupons worth 1,500 USD
+5th place: cash coupons worth 750 USD
 
 ## Learning materials
 
