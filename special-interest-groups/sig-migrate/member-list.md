@@ -3,7 +3,7 @@
 **NOTE**:
 
 * This member list is updated on a bi-weekly basis.
-* Last update time: 2020-09-04
+* Last update time: 2020-10-29
 
 ## Tech Lead
 
@@ -49,8 +49,8 @@
 
 <!-- 8 PRs+ && 1 PR+ within 1 year -->
 
-* [ericsyh](https://github.com/ericsyh)
 * [MyonKeminta](https://github.com/MyonKeminta)
+* [qinggniq](https://github.com/qinggniq)
 * [shafreeck](https://github.com/shafreeck)
 * [tangenta](https://github.com/tangenta)
 
@@ -62,6 +62,7 @@
 * [baurine](https://github.com/baurine)
 * [bobotu](https://github.com/bobotu)
 * [CaitinChen](https://github.com/CaitinChen)
+* [Colins110](https://github.com/Colins110)
 * [crazycs520](https://github.com/crazycs520)
 * [ddatsh](https://github.com/ddatsh)
 * [disksing](https://github.com/disksing)
@@ -69,7 +70,9 @@
 * [djshow832](https://github.com/djshow832)
 * [freemindLi](https://github.com/freemindLi)
 * [hicqu](https://github.com/hicqu)
+* [Howie59](https://github.com/Howie59)
 * [huachaohuang](https://github.com/huachaohuang)
+* [HunDunDM](https://github.com/HunDunDM)
 * [kolbe](https://github.com/kolbe)
 * [Kuri-su](https://github.com/Kuri-su)
 * [lewgun](https://github.com/lewgun)
@@ -80,13 +83,14 @@
 * [lzmhhh123](https://github.com/lzmhhh123)
 * [NingLin-P](https://github.com/NingLin-P)
 * [nolouch](https://github.com/nolouch)
-* [qinggniq](https://github.com/qinggniq)
 * [qixiaobin](https://github.com/qixiaobin)
 * [SE-Bin](https://github.com/SE-Bin)
 * [siddontang](https://github.com/siddontang)
 * [silentsai](https://github.com/silentsai)
 * [solotzg](https://github.com/solotzg)
 * [SunRunAway](https://github.com/SunRunAway)
+* [tirsen](https://github.com/tirsen)
+* [wjhuang2016](https://github.com/wjhuang2016)
 * [XuHuaiyu](https://github.com/XuHuaiyu)
 * [YangKeao](https://github.com/YangKeao)
 * [yanyanqing](https://github.com/yanyanqing)
