@@ -29,7 +29,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
 - SHOULD show sustained contributions to the SIG
 - SHOULD hold corresponding responsibilities in the SIG as documented in [TiDB Developer Group](/architecture/README.md#tidb-developer-group)
 - MAY participate in decision making of the SIG
-- Members are tracked in `member-list.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintainence convenience)
+- Members are tracked in `membership.md` in the specific SIG (Contributors are listed in the aggregated contributor list for maintainence convenience)
 
 ### Tech Lead
 
@@ -41,7 +41,7 @@ The SIG follows the role definitions in the [TiDB Developer Group](/architecture
   - **Election:**
       - Nominated by the Tech Leads or self-nominate
       - Gained supermajority votes of Maintainers
-      - Done through PR to update the `member-list.md` file in the SIG
+      - Done through PR to update the `membership.md` file in the SIG
 - **Responsibilities**
     - Creating new projects under the SIG
     - Triaging issues/tasks in the SIG
@@ -58,7 +58,7 @@ Members of the SIG can be promoted to a higher role based on the rules defined i
 
 There are two exit situations:
 
-- Members MAY decide to step down at anytime for personal reasons by opening the PR to modify the `member-list.md`in the Specific SIG. The PR can be merged once it gets two approvals from the higher role.
+- Members MAY decide to step down at anytime for personal reasons by opening the PR to modify the `membership.md`in the Specific SIG. The PR can be merged once it gets two approvals from the higher role.
 
 - Members of a role SHOULD be removed from the SIG if they have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. Tech Leads will assess the communication and contribution status monthly to update the membership list. Each change (removal), depending on the role, requires the following:
 

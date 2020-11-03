@@ -60,7 +60,7 @@ See [TiDB Contributors](./contributor-list.md)
 
 ### Active Contributor
 
-Active Contributors are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in SIGs through GitHub teams, and pre-submit tests are automatically run for their PRs. See `member-list.md` under the specific SIG for a list of Active Contributors.
+Active Contributors are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in SIGs through GitHub teams, and pre-submit tests are automatically run for their PRs. See `membership.md` under the specific SIG for a list of Active Contributors.
 
 #### How to become an Active Contributor
 
@@ -76,7 +76,7 @@ Active Contributors are continuously active contributors in the community. They 
 Reviewers are responsible for reviewing the code submitted by the community to ensure the quality and correctness; generated out of Active Contributors in a specific SIG.
 
 Reviewer status is scoped to the part of the codebase under the SIG.
-See `member-list.md` under the specific SIG for a list of Reviewers of the SIG.
+See `membership.md` under the specific SIG for a list of Reviewers of the SIG.
 
 #### How to become a Reviewer
 
@@ -98,7 +98,7 @@ See `member-list.md` under the specific SIG for a list of Reviewers of the SIG.
 
 Committers come from Reviewers, and are recognized by Maintainers and SIG Tech Leads for their outstanding contributions to the specific SIG.
 
-Committer is scoped to the specific SIG where the promotion applies. See `member-list.md` under the specific SIG for a list of Committers of the SIG.
+Committer is scoped to the specific SIG where the promotion applies. See `membership.md` under the specific SIG for a list of Committers of the SIG.
 
 #### How to become a Committer
 

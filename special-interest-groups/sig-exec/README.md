@@ -15,7 +15,7 @@ See [SIG Exec Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [SIG Exec Member List](./member-list.md)
+See [SIG Exec Member List](membership.md)
 
 ## Meetings
 

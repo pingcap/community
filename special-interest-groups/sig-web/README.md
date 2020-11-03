@@ -15,7 +15,7 @@ See [SIG Web Roles and Organization Management](./roles-and-organization-managem
 
 ## Members
 
-See [SIG Web Member List](./member-list.md)
+See [SIG Web Member List](membership.md)
 
 ## Meetings
 

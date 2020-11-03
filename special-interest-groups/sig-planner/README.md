@@ -14,7 +14,7 @@ See [Planner SIG Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-See [SIG Planner Member List](./member-list.md)
+See [SIG Planner Member List](membership.md)
 
 ## Meetings
 
