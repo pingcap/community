@@ -45,6 +45,7 @@
 - [@Yisaer](https://github.com/Yisaer)
 - [@pingyu](http://github.com/pingyu)
 - [@breeswish](https://github.com/breeswish)
+- [@bb7133](https://github.com/bb7133)
 
 ## Active Contributors
 
