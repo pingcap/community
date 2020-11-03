@@ -46,6 +46,7 @@
 - [@pingyu](http://github.com/pingyu)
 - [@breeswish](https://github.com/breeswish)
 - [@bb7133](https://github.com/bb7133)
+- [@bobotu](https://github.com/bobotu)
 
 ## Active Contributors
 
