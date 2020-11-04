@@ -16,6 +16,7 @@
 - [AilinKid](https://github.com/AilinKid)
 - [wjhuang2016](https://github.com/wjhuang2016)
 - [djshow832](https://github.com/djshow832)
+- [xhebox](https://github.com/xhebox)
 
 ## Reviewers
 
@@ -23,7 +24,6 @@
 - [XuHuaiyu](https://github.com/XuHuaiyu)
 - [spongedu](https://github.com/spongedu)
 - [Deardrops](https://github.com/Deardrops)
-- [xhebox](https://github.com/xhebox)
 - [xiongjiwei](https://github.com/xiongjiwei)
 
 ## Active Contributors

@@ -28,6 +28,7 @@
 - [cfzjywxk](https://github.com/cfzjywxk)
 - [hanfei1991](https://github.com/hanfei1991)
 - [mmyj](https://github.com/mmyj)
+- [b41sh](https://github.com/b41sh)
 
 
 ## Reviewers
@@ -44,6 +45,8 @@
 - [@Yisaer](https://github.com/Yisaer)
 - [@pingyu](http://github.com/pingyu)
 - [@breeswish](https://github.com/breeswish)
+- [@bb7133](https://github.com/bb7133)
+- [@bobotu](https://github.com/bobotu)
 
 ## Active Contributors
 
