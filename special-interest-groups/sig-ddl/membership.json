@@ -1,0 +1,76 @@
+{
+  "name": "ddl",
+  "techLeaders": [
+    {
+      "githubName": "zimulala"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "tangenta"
+    },
+    {
+      "githubName": "kennytm"
+    },
+    {
+      "githubName": "tiancaiamao"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "crazycs520"
+    },
+    {
+      "githubName": "lysu"
+    },
+    {
+      "githubName": "winkyao"
+    },
+    {
+      "githubName": "bb7133"
+    },
+    {
+      "githubName": "AilinKid"
+    },
+    {
+      "githubName": "wjhuang2016"
+    },
+    {
+      "githubName": "djshow832"
+    },
+    {
+      "githubName": "xhebox"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "ciscoxll"
+    },
+    {
+      "githubName": "XuHuaiyu"
+    },
+    {
+      "githubName": "spongedu"
+    },
+    {
+      "githubName": "Deardrops"
+    },
+    {
+      "githubName": "xiongjiwei"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "reafans"
+    },
+    {
+      "githubName": "Rustin-Liu"
+    },
+    {
+      "githubName": "wangggong"
+    },
+    {
+      "githubName": "zhaox1n"
+    }
+  ]
+}
