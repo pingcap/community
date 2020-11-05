@@ -23,7 +23,7 @@ See [SIG DDL Roles and Organization Management](./roles-and-organization-managem
 
 ## Members
 
-See [SIG DDL Member List](./member-list.md)
+See [SIG DDL Member List](membership.md)
 
 ## Meetings
 

@@ -57,5 +57,5 @@ Requirements:
 
 ### Voluntarily Quit or Demote
 
-Please create a PR to remove yourself from the `member-list.md` if you are
+Please create a PR to remove yourself from the `membership.md` if you are
 going to quit or demote voluntarily.

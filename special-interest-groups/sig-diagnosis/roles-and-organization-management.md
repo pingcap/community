@@ -83,4 +83,4 @@ You can quit the Diagnosis SIG voluntarily by simply leaving our discussion chan
 
 Please open a Pull Request to update the [member list] if you want to completely remove your name from it.
 
-[member list]: ./member-list.md
+[member list]: membership.md

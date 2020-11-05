@@ -3,7 +3,7 @@ The Special Interest Group Template is a template for starting new special inter
 
 * a `README.md` outlining the module that the SIG is responsible for, and the way this SIG is organized
 * a `roles-and-organization-management.md` outlining the responsibilities or institution specific to this SIG, as well as those that differ from [SIG Governance](sig-governance.md)
-* a `member-list.md` with members of this SIG listed
+* a `membership.md` with members of this SIG listed
 
 -->
 
@@ -21,9 +21,9 @@ See [Template SIG Roles and Organization Management](./roles-and-organization-ma
 
 ## Members
 
-<!--Link to the `member-list.md` file -->
+<!--Link to the `membership.md` file -->
 
-See [Template SIG Member List](./member-list.md)
+See [Template SIG Member List](membership.md)
 
 ## Meetings
 

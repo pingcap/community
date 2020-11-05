@@ -18,7 +18,7 @@ See [SIG-Migrate Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-See [SIG-Migrate Member List](./member-list.md)
+See [SIG-Migrate Member List](membership.md)
 
 ## Meetings
 
