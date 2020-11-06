@@ -21,7 +21,14 @@
       "githubName": "Deardrops"
     }
   ],
-  "reviewers": [],
+  "reviewers": [
+    {
+      "githubName": "Fullstop000"
+    },
+    {
+      "githubName": "Renkai"
+    }
+  ],
   "activeContributors": [
     {
       "githubName": "mapleFU"
