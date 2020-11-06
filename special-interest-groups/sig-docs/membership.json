@@ -12,6 +12,12 @@
   ],
   "committers": [
     {
+        "githubName": "amyangfei"
+    },
+    {
+        "githubName": "breeswish"
+    },
+    {
       "githubName": "CaitinChen"
     },
     {
@@ -77,9 +83,6 @@
       "githubName": "anotherrachel"
     },
     {
-      "githubName": "breeswish"
-    },
-    {
       "githubName": "GMHDBJD"
     },
     {
@@ -99,9 +102,6 @@
     },
     {
       "githubName": "3pointer"
-    },
-    {
-      "githubName": "amyangfei"
     },
     {
       "githubName": "lucklove"
@@ -126,6 +126,18 @@
     }
   ],
   "activeContributors": [
+    {
+        "githubName": "kennytm"
+    },
+    {
+        "githubName": "qw4990"
+    },
+    {
+        "githubName": "scsldb"
+    },
+    {
+        "githubName": "sticnarf"
+    },
     {
       "githubName": "zhouqiang-cl"
     },
