@@ -1,0 +1,36 @@
+{
+  "name": "diagnosis",
+  "techLeaders": [
+    {
+      "githubName": "breeswish"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "baurine"
+    },
+    {
+      "githubName": "HunDunDM"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "crazycs520"
+    },
+    {
+      "githubName": "Deardrops"
+    }
+  ],
+  "reviewers": [],
+  "activeContributors": [
+    {
+      "githubName": "mapleFU"
+    },
+    {
+      "githubName": "reafans"
+    },
+    {
+      "githubName": "rleungx"
+    }
+  ]
+}
