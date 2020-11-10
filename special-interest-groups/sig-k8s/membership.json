@@ -49,9 +49,6 @@
     },
     {
       "githubName": "gregwebs"
-    },
-    {
-      "githubName": "xiaojingchen"
     }
   ],
   "reviewers": [
@@ -74,6 +71,9 @@
   "activeContributors": [
     {
       "githubName": "cwen0"
+    },
+    {
+      "githubName": "xiaojingchen"
     },
     {
       "githubName": "cvvz"
