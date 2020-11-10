@@ -28,6 +28,7 @@
 * [qiffang](https://github.com/qiffang)
 * [sdojjy](https://github.com/sdojjy)
 * [lonng](https://github.com/lonng)
+* [xiaojingchen](https://github.com/xiaojingchen)
 
 ## Reviewers
 
@@ -39,9 +40,9 @@
 
 ## Active Contributors
 
-* [xiaojingchen](https://github.com/xiaojingchen)
 * [cwen0](https://github.com/cwen0)
 * [kolbe](https://github.com/kolbe)
+* [cvvz](https://github.com/cvvz)
 * [sokada1221](https://github.com/sokada1221)
 * [marsishandsome](https://github.com/marsishandsome)
 
@@ -60,23 +61,29 @@
 * [lilin90](https://github.com/lilin90)
 * [liufuyang](https://github.com/liufuyang)
 * [ran-huang](https://github.com/ran-huang)
+* [namco1992](https://github.com/namco1992)
 * [tirsen](https://github.com/tirsen)
 * [dcalvin](https://github.com/dcalvin)
 * [francis0407](https://github.com/francis0407)
+* [handlerww](https://github.com/handlerww)
 * [huanwei](https://github.com/huanwei)
 * [knightXun](https://github.com/knightXun)
 * [mantuliu](https://github.com/mantuliu)
 * [nolouch](https://github.com/nolouch)
+* [rleungx](https://github.com/rleungx)
 * [vincent178](https://github.com/vincent178)
 * [zhouqiang-cl](https://github.com/zhouqiang-cl)
 * [8398a7](https://github.com/8398a7)
 * [CaitinChen](https://github.com/CaitinChen)
+* [CheneyDing](https://github.com/CheneyDing)
 * [Hoverbear](https://github.com/Hoverbear)
 * [HunDunDM](https://github.com/HunDunDM)
+* [L3T](https://github.com/L3T)
 * [WPH95](https://github.com/WPH95)
 * [anywhy](https://github.com/anywhy)
 * [birdstorm](https://github.com/birdstorm)
 * [chux0519](https://github.com/chux0519)
+* [dragonly](https://github.com/dragonly)
 * [fengzixu](https://github.com/fengzixu)
 * [hsqlu](https://github.com/hsqlu)
 * [iamxy](https://github.com/iamxy)
@@ -93,6 +100,7 @@
 * [sivagao](https://github.com/sivagao)
 * [sstubbs](https://github.com/sstubbs)
 * [sunzhuohang](https://github.com/sunzhuohang)
+* [tangwz](https://github.com/tangwz)
 * [tfulcrand](https://github.com/tfulcrand)
 * [thecodeassassin](https://github.com/thecodeassassin)
 * [tkanng](https://github.com/tkanng)
