@@ -1,0 +1,88 @@
+{
+  "name": "k8s",
+  "techLeaders": [
+    {
+      "githubName": "DanielZhangQD"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "Yisaer"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "AstroProfundis"
+    },
+    {
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "sdojjy"
+    },
+    {
+      "githubName": "tennix"
+    },
+    {
+      "githubName": "aylei"
+    },
+    {
+      "githubName": "qiffang"
+    },
+    {
+      "githubName": "jlerche"
+    },
+    {
+      "githubName": "shuijing198799"
+    },
+    {
+      "githubName": "weekface"
+    },
+    {
+      "githubName": "onlymellb"
+    },
+    {
+      "githubName": "LinuxGit"
+    },
+    {
+      "githubName": "cofyc"
+    },
+    {
+      "githubName": "gregwebs"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "lichunzhu"
+    },
+    {
+      "githubName": "july2993"
+    },
+    {
+      "githubName": "shonge"
+    },
+    {
+      "githubName": "mikechengwei"
+    },
+    {
+      "githubName": "howardlau1999"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "cwen0"
+    },
+    {
+      "githubName": "xiaojingchen"
+    },
+    {
+      "githubName": "shinnosuke-okada"
+    },
+    {
+      "githubName": "kolbe"
+    },
+    {
+      "githubName": "sokada1221"
+    }
+  ]
+}
