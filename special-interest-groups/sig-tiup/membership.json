@@ -1,0 +1,38 @@
+{
+  "name": "tiup",
+  "techLeaders": [
+    {
+      "githubName": "lonng"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "lucklove"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "AstroProfundis"
+    },
+    {
+      "githubName": "nrc"
+    },
+    {
+      "githubName": "july2993"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "YangKeao"
+    },
+    {
+      "githubName": "c4pt0r"
+    },
+    {
+      "githubName": "qinzuoyan"
+    },
+    {
+      "githubName": "9547"
+    }
+  ]
+}
