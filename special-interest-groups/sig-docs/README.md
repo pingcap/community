@@ -23,7 +23,7 @@ See [Docs SIG Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [Docs SIG Member List](membership.md).
+See [Docs SIG Member List](https://pingcap.com/developer/sig/docs).
 
 ## Meetings
 
