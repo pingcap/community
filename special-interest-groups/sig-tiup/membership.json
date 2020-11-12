@@ -3,13 +3,12 @@
   "techLeaders": [
     {
       "githubName": "lonng"
-    }
-  ],
-  "coLeaders": [
+    },
     {
       "githubName": "lucklove"
     }
   ],
+  "coLeaders": [],
   "committers": [
     {
       "githubName": "AstroProfundis"
