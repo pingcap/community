@@ -23,7 +23,7 @@ See [SIG DDL Roles and Organization Management](./roles-and-organization-managem
 
 ## Members
 
-See [SIG DDL Member List](membership.md)
+See [SIG DDL Member List](https://pingcap.com/developer/sig/ddl)
 
 ## Meetings
 
