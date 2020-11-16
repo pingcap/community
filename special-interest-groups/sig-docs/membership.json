@@ -12,9 +12,6 @@
   ],
   "committers": [
     {
-        "githubName": "amyangfei"
-    },
-    {
         "githubName": "breeswish"
     },
     {
@@ -79,6 +76,9 @@
     }
   ],
   "reviewers": [
+    {
+        "githubName": "amyangfei"
+    },
     {
       "githubName": "anotherrachel"
     },
