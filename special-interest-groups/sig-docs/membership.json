@@ -77,9 +77,6 @@
   ],
   "reviewers": [
     {
-        "githubName": "amyangfei"
-    },
-    {
       "githubName": "anotherrachel"
     },
     {
@@ -102,6 +99,9 @@
     },
     {
       "githubName": "3pointer"
+    },
+    {
+      "githubName": "amyangfei"
     },
     {
       "githubName": "lucklove"
