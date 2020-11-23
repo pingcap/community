@@ -22,6 +22,9 @@
   ],
   "reviewers": [
     {
+      "githubName": "9547"
+    },
+    {
       "githubName": "breeswish"
     },
     {
@@ -37,9 +40,6 @@
     },
     {
       "githubName": "qinzuoyan"
-    },
-    {
-      "githubName": "9547"
     }
   ]
 }
