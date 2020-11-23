@@ -12,6 +12,9 @@
   ],
   "committers": [
     {
+        "githubName": "breeswish"
+    },
+    {
       "githubName": "CaitinChen"
     },
     {
@@ -77,9 +80,6 @@
       "githubName": "anotherrachel"
     },
     {
-      "githubName": "breeswish"
-    },
-    {
       "githubName": "GMHDBJD"
     },
     {
@@ -126,6 +126,18 @@
     }
   ],
   "activeContributors": [
+    {
+        "githubName": "kennytm"
+    },
+    {
+        "githubName": "qw4990"
+    },
+    {
+        "githubName": "scsldb"
+    },
+    {
+        "githubName": "sticnarf"
+    },
     {
       "githubName": "zhouqiang-cl"
     },
