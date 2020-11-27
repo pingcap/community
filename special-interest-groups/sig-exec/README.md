@@ -15,7 +15,7 @@ See [SIG Exec Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [SIG Exec Member List](membership.md)
+See [SIG Exec Member List](https://pingcap.com/developer/sig/execution)
 
 ## Meetings
 
