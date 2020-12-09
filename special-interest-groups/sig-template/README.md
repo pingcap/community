@@ -49,7 +49,7 @@ See [Template SIG Member List](membership.json)
 <!--if the whole repo belongs to this SIG, the informantion for projects and labels are optional -->
 - [repo-3](Github-link-of-repo)
 
-## Learning Meterials
+## Learning Materials
 
 <!-- Put the published documents of this Special Interest Group here -->
 
