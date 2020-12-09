@@ -49,6 +49,15 @@ See [Template SIG Member List](membership.md)
 <!--if the whole repo belongs to this SIG, the informantion for projects and labels are optional -->
 - [repo-3](Github-link-of-repo)
 
-## Published Documents
+## Learning Meterials
 
 <!-- Put the published documents of this Special Interest Group here -->
+
+## Pickable issues
+
+- [issues](issues-with-label-`sig-label`)
+
+### Issues for newbie
+
+- [issues](issues-with-labels-`good-first-issue`-and-`sig-label`)
+
