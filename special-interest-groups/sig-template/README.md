@@ -23,7 +23,7 @@ See [Template SIG Roles and Organization Management](./roles-and-organization-ma
 
 <!--Link to the `membership.md` file -->
 
-See [Template SIG Member List](membership.md)
+See [Template SIG Member List](membership.json)
 
 ## Meetings
 
