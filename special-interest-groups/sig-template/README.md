@@ -23,7 +23,7 @@ See [Template SIG Roles and Organization Management](./roles-and-organization-ma
 
 <!--Link to the `membership.md` file -->
 
-See [Template SIG Member List](membership.md)
+See [Template SIG Member List](membership.json)
 
 ## Meetings
 
@@ -49,6 +49,15 @@ See [Template SIG Member List](membership.md)
 <!--if the whole repo belongs to this SIG, the informantion for projects and labels are optional -->
 - [repo-3](Github-link-of-repo)
 
-## Published Documents
+## Learning Materials
 
 <!-- Put the published documents of this Special Interest Group here -->
+
+## Pickable issues
+
+- [issues](issues-with-label-`sig-label`)
+
+### Issues for newbie
+
+- [issues](issues-with-labels-`good-first-issue`-and-`sig-label`)
+

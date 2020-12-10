@@ -1,0 +1,43 @@
+{
+    "name": "sig-name",
+    "techLeaders": [
+      {
+        "githubName": "leader1"
+      }
+    ],
+    "coLeaders": [],
+    "committers": [
+      {
+        "githubName": "committer1"
+      },
+      {
+        "githubName": "committer2"
+      },
+      {
+        "githubName": "committer3"
+      }
+    ],
+    "reviewers": [
+      {
+        "githubName": "reviewer1"
+      },
+      {
+        "githubName": "reviewer2"
+      },
+      {
+        "githubName": "reviewer3"
+      }
+    ],
+    "activeContributors": [
+      {
+        "githubName": "XXX1"
+      },
+      {
+        "githubName": "XXX2"
+      },
+      {
+        "githubName": "XXX3"
+      }
+    ]
+  }
+  
