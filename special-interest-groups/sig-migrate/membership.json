@@ -1,0 +1,91 @@
+{
+  "name": "migrate",
+  "techLeaders": [
+    {
+      "githubName": "kennytm"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "amyangfei"
+    },
+    {
+      "githubName": "lance6716"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "5kbpers"
+    },
+    {
+      "githubName": "csuzhangxc"
+    },
+    {
+      "githubName": "glorv"
+    },
+    {
+      "githubName": "GMHDBJD"
+    },
+    {
+      "githubName": "IANTHEREAL"
+    },
+    {
+      "githubName": "leoppro"
+    },
+    {
+      "githubName": "lichunzhu"
+    },
+    {
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "WangXiangUSTC"
+    },
+    {
+      "githubName": "YuJuncen"
+    },
+    {
+      "githubName": "overvenus"
+    },
+    {
+      "githubName": "3pointer"
+    },
+    {
+      "githubName": "july2993"
+    },
+    {
+      "githubName": "suzaku"
+    },
+    {
+      "githubName": "holys"
+    },
+    {
+      "githubName": "liuzix"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "iamxy"
+    },
+    {
+      "githubName": "tiancaiamao"
+    },
+    {
+      "githubName": "liuzix"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "tangenta"
+    },
+    {
+      "githubName": "MyonKeminta"
+    },
+    {
+      "githubName": "shafreeck"
+    },
+    {
+      "githubName": "qinggniq"
+    }
+  ]
+}
