@@ -18,7 +18,7 @@ See [SIG-Migrate Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-See [SIG-Migrate Member List](membership.md)
+See [SIG-Migrate Member List](https://pingcap.com/developer/sig/migrate/)
 
 ## Meetings
 
