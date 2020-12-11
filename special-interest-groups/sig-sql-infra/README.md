@@ -59,8 +59,8 @@ See [SIG SQL-Infra Member List](https://pingcap.com/developer/sig/sql-infra)
 
 ## Pickable issues
 
-* [issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2FDDL)
+* [issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2Fsql-infra)
 
 ### Issues for newbie
 
-* [issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2FDDL+label%3Adifficulty%2Feasy)
+* [issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2Fsql-infra+label%3Adifficulty%2Feasy)
