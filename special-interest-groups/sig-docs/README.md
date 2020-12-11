@@ -51,7 +51,9 @@ There is no regular meeting currently.
 
 - Guides
   - [Documentation contributing guide](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md)
+  - [Google developer documentation style guide](https://developers.google.cn/style/)
   - [中文文档贡献指南](https://github.com/pingcap/docs-cn/blob/master/CONTRIBUTING.md)
+  - [PingCAP 中文技术文档风格指南](https://github.com/pingcap/docs-cn/blob/master/resources/pingcap-style-guide-zh.pdf)
 - Documentation
   - [Documentation](https://docs.pingcap.com/)
   - [中文文档](https://docs.pingcap.com/zh/)
