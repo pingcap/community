@@ -1,11 +1,11 @@
-# SIG DDL Roles and Organization Management
+# SIG SQL-Infra Roles and Organization Management
 
 ## Join and Promotion
 
 ### Join
 
-The minimal requirement for contributors to join the Parser SIG is to have
-the **Active Contributor** community role in the TiDB/parser repository.
+The minimal requirement for contributors to join the SQL-Infra SIG is to have
+the **Active Contributor** community role in the TiDB or the parser repository.
 
 ### Promotion
 
@@ -14,7 +14,7 @@ the **Active Contributor** community role in the TiDB/parser repository.
 Requirements:
 
 * Have at least 8 PRs merged within one year.
-* Nominated by at least 2 DDL SIG Reviewers or roles above.
+* Nominated by at least 2 SQL-Infra SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 

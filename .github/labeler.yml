@@ -1,5 +1,5 @@
-sig/ddl:
-  - "special-interest-groups/sig-ddl/*"
+sig/sql-infra:
+  - "special-interest-groups/sig-sql-infra/*"
 
 sig/diagnosis:
   - "special-interest-groups/sig-diagnosis/*"
