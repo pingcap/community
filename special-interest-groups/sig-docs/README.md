@@ -47,11 +47,28 @@ There is no regular meeting currently.
 - [docs-dm](https://github.com/pingcap/docs-dm): TiDB Data Migration (DM) documentation in both English and Chinese
 - [dbaas-docs](https://github.com/tidbcloud/dbaas-docs): TiDB Cloud documentation in English
 
-## Published Documents
+## Learning Materials
 
 - Guides
   - [Documentation contributing guide](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md)
   - [中文文档贡献指南](https://github.com/pingcap/docs-cn/blob/master/CONTRIBUTING.md)
+  - [PingCAP 中文技术文档风格指南](https://github.com/pingcap/docs-cn/blob/master/resources/pingcap-style-guide-zh.pdf)
 - Documentation
   - [Documentation](https://docs.pingcap.com/)
   - [中文文档](https://docs.pingcap.com/zh/)
+
+## Pickable issues
+
+- [Issues in docs](https://github.com/pingcap/docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-dm](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+
+### Issues for newbie
+
+- [Issues in docs](https://github.com/pingcap/docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-dm](https://github.com/pingcap/docs-dm/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
