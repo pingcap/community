@@ -59,7 +59,7 @@ Your proposal should include the following items:
 * Link to your Design Document which should be proposed via a PR (Pull Request)
   to [pingcap/community](https://github.com/pingcap/community/) repository
   (see [Design Template](https://github.com/pingcap/tidb/blob/master/docs/design/TEMPLATE.md))
-  preferred maturity level and evidence (see [Projects Approval Criteria](./projects-approval-criteria.md).
+  preferred maturity level and evidence (see [Projects Approval Criteria](./projects-approval-criteria.md)).
 
 #### Step 2: Find a Mentor (Optional)
 
@@ -67,6 +67,8 @@ Once your proposal is submitted, you can find 1-2 [Mentors](./mentor-charter.md)
 Mentors will express their intentions to support the program by replying to 
 the proposal and help guide the team through the process. The majority of 
 the mentorship, review, and advice will come from the Mentor(s).
+
+If the project doesn't have a mentor, TOC will give advice and monitor progress.
 
 #### Step 3: Get approval from TOC (Technology Oversight Committee)
 
@@ -117,6 +119,9 @@ quarterly meeting.
 
 TOC will arrange a promotion presentation for the project. Maturity Level
 Review follows [Projects Approval criteria](./projects-approval-criteria.md).
+
+If the project doesn't have a mentor, please feel free to create an issue for help,
+the TOC will follow up.
 
 ### Graduation
 
