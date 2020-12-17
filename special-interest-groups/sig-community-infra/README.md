@@ -19,7 +19,7 @@ TBD
 
 ## Contact
 
-* Slack: channel #sig-community-infra in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #sig-community-infra in the [tidbcommunity](https://slack.tidb.io/invite?team=tidb-community&channel=sig-community-infra) slack workspace.
 
 ## Code Locations
 
