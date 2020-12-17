@@ -24,3 +24,6 @@ sig/tiup:
 
 sig/web:
   - "special-interest-groups/sig-web/*"
+
+sig/community-infra:
+  - "special-interest-groups/sig-community-infra/*"

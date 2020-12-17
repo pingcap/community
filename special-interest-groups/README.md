@@ -25,6 +25,7 @@ And if you are new to tidb, and want to find a sig to start, this [contribution 
 - [Diagnosis](./sig-diagnosis)
 - [TiUP](./sig-tiup)
 - [web](./sig-web)
+- [Community-Infra](./sig-community-infra)
 
 ### TiKV
 
