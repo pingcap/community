@@ -6,11 +6,11 @@
     }
   ],
   "coLeaders": [],
-  "committers": [],
-  "reviewers": [
+  "committers": [
     {
       "githubName": "Mini256"
     }
   ],
+  "reviewers": [],
   "activeContributors": []
 }
