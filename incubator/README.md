@@ -23,7 +23,7 @@ and feel free to contact us in the **#incubator** channel if any question or sug
 * [Projects Incubation Process](#projects-incubation-process)
     * [Apply for Incubation](#apply-for-incubation)
         * [Step 1: Write a proposal](#step-1-write-a-proposal)
-        * [Step 2: Find a Mentor](#step-2-find-a-mentor)
+        * [Step 2: Find a Mentor (Optional)](#step-2-find-a-mentor-optional)
         * [Step 3: Get approval from TOC (Technology Oversight Committee)](#step-3-get-approval-from-toc-technology-oversight-committee)
         * [Step 4: Recruit team members](#step-4-recruit-team-members)
     * [Start Incubation](#start-incubation)
