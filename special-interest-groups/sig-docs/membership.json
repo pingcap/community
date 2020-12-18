@@ -12,7 +12,7 @@
   ],
   "committers": [
     {
-        "githubName": "breeswish"
+      "githubName": "breeswish"
     },
     {
       "githubName": "CaitinChen"
@@ -73,6 +73,9 @@
     },
     {
       "githubName": "nullnotnil"
+    },
+    {
+      "githubName": "CharLotteiu"
     }
   ],
   "reviewers": [
@@ -125,7 +128,7 @@
       "githubName": "glkappe"
     },
     {
-        "githubName": "CharLotteiu"
+      "githubName": "Joyinqin"
     }
   ],
   "activeContributors": [
@@ -217,9 +220,6 @@
       "githubName": "ireneontheway"
     },
     {
-      "githubName": "Joyinqin"
-    },
-    {
       "githubName": "xxj123go"
     },
     {
@@ -230,6 +230,12 @@
     },
     {
       "githubName": "wshwsh12"
+    },
+    {
+      "githubName": "marsishandsome"
+    },
+    {
+      "githubName": "kennytm"
     }
   ]
 }
