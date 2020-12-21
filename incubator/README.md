@@ -172,7 +172,6 @@ The TiDB community will provide marketing supports for successfully incubated pr
 - Marketing supports for graduated projects
   - Announce the graduation of a project to the community through newsletters, Slack, mailing lists, WeChat groups, etc.
   - Announce the graduation of the project through the TiDB Community's self-publishing channels.
-  - Get exposure for the graduated project in CSDN, OSChina, SegmentFault, Developer Headlines, Go Community, and other technical media and communities.
   - Provide a presentation opportunity for the graduated project at the next TiDB Developer Conference after graduation.
   - Provide more than 3 TiDB TechDay presentations for the graduating project within one year after graduation.
   - Display the core developers and Maintainer information of the graduated project on the community developer page.
