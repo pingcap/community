@@ -11,7 +11,7 @@ See [SIG TiUP Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [SIG TiUP Member List](./member-list.md)
+See [SIG TiUP Member List](https://pingcap.com/developer/sig/tiup)
 
 ## Meetings
 

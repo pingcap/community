@@ -1,6 +1,6 @@
 # Mentor Charter
 
-In the PingCAP Incubator Program, mentors are expected to assist through the incubation process. Refer to [Responsiblities and obligations](#resonsibilities-and-obligations) for more details.
+In the TiDB Incubator Program, mentors are expected to assist through the incubation process. Refer to [Responsiblities and obligations](#resonsibilities-and-obligations) for more details.
 
 **How to become a mentor**
 

@@ -1,0 +1,16 @@
+{
+  "name": "community-infra",
+  "techLeaders": [
+    {
+      "githubName": "hi-rustin"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "Mini256"
+    }
+  ],
+  "reviewers": [],
+  "activeContributors": []
+}

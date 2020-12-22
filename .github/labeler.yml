@@ -1,0 +1,29 @@
+sig/sql-infra:
+  - "special-interest-groups/sig-sql-infra/*"
+
+sig/diagnosis:
+  - "special-interest-groups/sig-diagnosis/*"
+
+sig/docs:
+  - "special-interest-groups/sig-docs/*"
+
+sig/execution:
+  - "special-interest-groups/sig-exec/*"
+
+sig/k8s:
+  - "special-interest-groups/sig-k8s/*"
+
+sig/migrate:
+  - "special-interest-groups/sig-migrate/*"
+
+sig/planner:
+  - "special-interest-groups/sig-planner/*"
+
+sig/tiup:
+  - "special-interest-groups/sig-tiup/*"
+
+sig/web:
+  - "special-interest-groups/sig-web/*"
+
+sig/community-infra:
+  - "special-interest-groups/sig-community-infra/*"

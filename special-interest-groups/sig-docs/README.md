@@ -3,18 +3,19 @@
 Docs SIG covers the documentation of all PingCAP products, tools, or projects, both [in English](https://pingcap.com/docs/stable/) and [in Chinese](https://pingcap.com/docs-cn/stable/). These projects include but are not limited to:
 
 - [TiDB](https://github.com/pingcap/tidb)
+- [PD](https://github.com/pingcap/pd)
+- [TiKV](https://github.com/tikv/tikv)
 - [Tools](https://pingcap.com/docs/dev/reference/tools/user-guide/)
   - [TiDB Data Migration (DM)](https://github.com/pingcap/dm)
   - [TiDB Binlog](https://github.com/pingcap/tidb-binlog)
   - [TiDB Lightning](https://github.com/pingcap/tidb-lightning)
   - [BR (Backup & Restore)](https://github.com/pingcap/br)
-  - [CDC](https://github.com/pingcap/ticdc)
+  - [TiCDC](https://github.com/pingcap/ticdc)
 - [TiDB Operator](https://github.com/pingcap/tidb-operator)
 - [TiSpark](https://github.com/pingcap/tispark)
 - [TiFlash](https://pingcap.com/blog/delivering-real-time-analytics-and-true-htap-by-combining-columnstore-and-rowstore/)
-- [PD](https://github.com/pingcap/pd)
-- [TiKV](https://github.com/tikv/tikv)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard)
+- [TiDB Cloud](https://pingcap.com/products/tidbcloud)
 
 ## Roles and Organization Management
 
@@ -22,7 +23,7 @@ See [Docs SIG Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [Docs SIG Member List](./member-list.md).
+See [Docs SIG Member List](https://pingcap.com/developer/sig/docs).
 
 ## Meetings
 
@@ -44,12 +45,30 @@ There is no regular meeting currently.
 - [docs-cn](https://github.com/pingcap/docs-cn): TiDB documentation in Chinese
 - [docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator): TiDB in Kubernetes documentation in both English and Chinese
 - [docs-dm](https://github.com/pingcap/docs-dm): TiDB Data Migration (DM) documentation in both English and Chinese
+- [dbaas-docs](https://github.com/tidbcloud/dbaas-docs): TiDB Cloud documentation in English
 
-## Published Documents
+## Learning Materials
 
 - Guides
   - [Documentation contributing guide](https://github.com/pingcap/docs/blob/master/CONTRIBUTING.md)
   - [中文文档贡献指南](https://github.com/pingcap/docs-cn/blob/master/CONTRIBUTING.md)
+  - [PingCAP 中文技术文档风格指南](https://github.com/pingcap/docs-cn/blob/master/resources/pingcap-style-guide-zh.pdf)
 - Documentation
-  - [Documentation](https://pingcap.com/docs/stable/)
-  - [中文文档](https://pingcap.com/docs-cn/stable/)
+  - [Documentation](https://docs.pingcap.com/)
+  - [中文文档](https://docs.pingcap.com/zh/)
+
+## Pickable issues
+
+- [Issues in docs](https://github.com/pingcap/docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in docs-dm](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
+
+### Issues for newbie
+
+- [Issues in docs](https://github.com/pingcap/docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in docs-dm](https://github.com/pingcap/docs-dm/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
+- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)

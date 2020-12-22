@@ -1,0 +1,100 @@
+{
+  "name": "k8s",
+  "techLeaders": [
+    {
+      "githubName": "DanielZhangQD"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "Yisaer"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "mikechengwei"
+    },
+    {
+      "githubName": "AstroProfundis"
+    },
+    {
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "sdojjy"
+    },
+    {
+      "githubName": "tennix"
+    },
+    {
+      "githubName": "aylei"
+    },
+    {
+      "githubName": "qiffang"
+    },
+    {
+      "githubName": "jlerche"
+    },
+    {
+      "githubName": "shuijing198799"
+    },
+    {
+      "githubName": "weekface"
+    },
+    {
+      "githubName": "onlymellb"
+    },
+    {
+      "githubName": "LinuxGit"
+    },
+    {
+      "githubName": "cofyc"
+    },
+    {
+      "githubName": "gregwebs"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "handlerww"
+    },
+    {
+      "githubName": "dragonly"
+    },
+    {
+      "githubName": "csuzhangxc"
+    },
+    {
+      "githubName": "lichunzhu"
+    },
+    {
+      "githubName": "july2993"
+    },
+    {
+      "githubName": "shonge"
+    },
+    {
+      "githubName": "howardlau1999"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "cwen0"
+    },
+    {
+      "githubName": "xiaojingchen"
+    },
+    {
+      "githubName": "cvvz"
+    },
+    {
+      "githubName": "marsishandsome"
+    },
+    {
+      "githubName": "kolbe"
+    },
+    {
+      "githubName": "sokada1221"
+    }
+  ]
+}
