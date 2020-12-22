@@ -16,7 +16,7 @@ And if you are new to tidb, and want to find a sig to start, this [contribution 
 
 - [Execution](./sig-exec)
 - [Planner](./sig-planner)
-- [DDL](./sig-ddl)
+- [SQL-Infra](./sig-sql-infra)
 
 ### TiDB Product
 
