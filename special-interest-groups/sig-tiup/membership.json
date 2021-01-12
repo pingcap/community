@@ -14,16 +14,16 @@
       "githubName": "AstroProfundis"
     },
     {
-      "githubName": "nrc"
-    },
-    {
       "githubName": "july2993"
-    }
-  ],
-  "reviewers": [
+    },
     {
       "githubName": "9547"
     },
+    {
+      "githubName": "nrc"
+    }
+  ],
+  "reviewers": [
     {
       "githubName": "breeswish"
     },
