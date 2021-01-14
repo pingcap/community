@@ -10,8 +10,7 @@ would offer resources when a project is confirmed.
 
 Once going through the incubation process, they can either be merged to
 tidb/tikv repo or being moved from [TiDB Incubator](https://github.com/tidb-incubator) to
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) or [TiKV](https://github.com/tikv)
-organization.
+[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated).
 
 Welcome to join [TiDB Community Slack Workspace](https://slack.tidb.io)
 and feel free to contact us in the **#incubator** channel if any question or suggestion.
