@@ -9,9 +9,8 @@ All programs should follow the incubating process to start a project. TiDB
 would offer resources when a project is confirmed.
 
 Once going through the incubation process, they can either be merged to
-tidb/tikv repo or being moved from [TiDB Incubator](https://github.com/tidb-incubator) to
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) or [TiKV](https://github.com/tikv)
-organization.
+tidb repo or being moved from [TiDB Incubator](https://github.com/tidb-incubator) to
+[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) organization.
 
 Welcome to join [TiDB Community Slack Workspace](https://slack.tidb.io)
 and feel free to contact us in the **#incubator** channel if any question or suggestion.
@@ -36,9 +35,9 @@ and feel free to contact us in the **#incubator** channel if any question or sug
 <!-- vim-markdown-toc -->
 
 If you want to incubate a new project on
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) or [TiKV](https://github.com/tikv)
+[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) 
 organization and designed to extend one or more
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated)/[TiKV](https://github.com/tikv)
+[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated)
 projects with functionality, please follow [Projects Incubation Process](#projects-incubation-process)
 
 ## Projects Incubation Process
