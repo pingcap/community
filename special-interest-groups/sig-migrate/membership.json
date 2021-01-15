@@ -58,6 +58,9 @@
     },
     {
       "githubName": "holys"
+    },
+    {
+      "githubName": "liuzix"
     }
   ],
   "reviewers": [
@@ -66,9 +69,6 @@
     },
     {
       "githubName": "tiancaiamao"
-    },
-    {
-      "githubName": "liuzix"
     }
   ],
   "activeContributors": [
