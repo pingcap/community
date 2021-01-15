@@ -98,9 +98,6 @@ Each approved project will get a new GitHub repo created in
 owners are expected to add the following files to the repo:
 
 * `README.md` for the project
-* `OWNERS.md` as defined in the accepted proposal
-* `CONTRIBUTING.md` file based on TiDB Community's [Contribution Guide](../contributors)
-* `CODE_OF_CONDUCT.md` based on TiDB Community's [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
 * `LICENSE` which must be Apache 2.0 for code projects and documentation repositories, without any custom content
 
 To help you get started with these files, you can find the corresponding
@@ -132,19 +129,6 @@ Incubating projects graduation process includes the following items:
 4. The related working group disbands
 
 Graduation criteria for projects: see [Projects Approval Criteria](./projects-approval-criteria.md)
-
-### Retirement
-
-An incubation project will be considered retired if it meets either of the
-following situations:
-
-* Fails to graduate within 12 months.
-* Fails to make a release for 3 months.
-
-A reminder email will be sent 3 weeks before retirement. A project can be
-re-incubated after retirement but must go through the incubation process from
-the beginning, the same as any new project. Retirement of the project indicates
-the retirement of the members and mentors in the project.
 
 ## Benefits
 
