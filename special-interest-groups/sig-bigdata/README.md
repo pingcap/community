@@ -1,8 +1,8 @@
-# Bigdata Special Interest Group(Bigdata SIG)
+# BigData Special Interest Group(BigData SIG)
 
-Bigdata SIG covers the areas where TiDB and big data are combined, including but not limited to TiDB + Flink, TiDB + Spark, TiDB + Presto.
+BigData SIG covers the areas where TiDB and big data are combined, including but not limited to TiDB + Flink, TiDB + Spark, TiDB + Presto.
 
-Anyone who focuses on bigdata and TiDB is welcomed to join the SIG.
+Anyone who focuses on big data and TiDB is welcomed to join the SIG.
 
 ## Roles and Organization Management
 See [SIG Roles and Organization Management](./roles-and-organization-management.md)
@@ -23,7 +23,7 @@ Meeting Zoom: https://pingcap.zoom.com.cn/j/8573700836
 
 * Slack: channel #sig-bigdata in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
-* Mailing list: subscribe to the [Bigdata SIG mailing list](https://lists.tidb.io/g/sig-bigdata) to know the latest news in Bigdata SIG.
+* Mailing list: subscribe to the [BigData SIG mailing list](https://lists.tidb.io/g/sig-bigdata) to know the latest news in BigData SIG.
 
 ## Repositories and Projects
 
