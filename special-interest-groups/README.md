@@ -26,6 +26,7 @@ And if you are new to tidb, and want to find a sig to start, this [contribution 
 - [TiUP](./sig-tiup)
 - [web](./sig-web)
 - [Community-Infra](./sig-community-infra)
+- [BigData](./sig-bigdata)
 
 ### TiKV
 
