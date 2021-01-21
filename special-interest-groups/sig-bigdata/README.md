@@ -21,7 +21,7 @@ Meeting Zoom: https://pingcap.zoom.com.cn/j/8573700836
 
 ## Contact
 
-* Slack: channel #sig-bigdata in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel [#sig-bigdata](https://slack.tidb.io/invite?team=tidb-community&channel=sig-bigdata&ref=pingcap-community) in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 * Mailing list: subscribe to the [BigData SIG mailing list](https://lists.tidb.io/g/sig-bigdata) to know the latest news in BigData SIG.
 
