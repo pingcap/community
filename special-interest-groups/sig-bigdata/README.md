@@ -13,6 +13,8 @@ See [SIG BigData Member List](./membership.json)
 
 ## Meetings
 
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTlxMXBxb2hjY2c0Yjhoc2Q5ZjFyNWcybWdfMjAyMTAxMjVUMDkwMDAwWiBndWxpYW5nbGlhbmdAcGluZ2NhcC5jb20&amp;tmsrc=guliangliang%40pingcap.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
 Regular Working Group Meeting: 17:00 PM, Monday at CST (China Standard Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
 
 Meeting Zoom: https://pingcap.zoom.com.cn/j/8573700836
