@@ -21,9 +21,9 @@ The TiDB User Groups (TUGs) are groups for facilitating communication and
 discovery of information related to topics that have long term relevance to
 large groups of TiDB users.
 
-See [pingcap/docs](https://pingcap.com/docs/) or
-[pingcap/docs-cn](https://pingcap.com/docs-cn/) for user documents. Also you can get
-help in [AskTUG.com(Chinese)](https://asktug.com/) if you met any problem.
+See [pingcap/docs](https://docs.pingcap.com/tidb/stable) or
+[pingcap/docs-cn](https://docs.pingcap.com/zh/tidb/stable) for user documents. Also you can get
+help in [AskTUG.com (Chinese)](https://asktug.com/) if you met any problem.
 
 ## TiDB Developer Group
 
@@ -61,8 +61,8 @@ See [`contributors`](./contributors/README.md) for details.
 ## Learning Resources
 
 Learning resources are collected in the [`learning-resources`](./learning-resources/README.md). Here you can find all the
-resources which helps you learn and contribute TiDB. For example, you can learn
-TiDB architecture though the following blogs:
+resources which help you learn and contribute to TiDB. For example, you can learn
+the TiDB architecture through the following blog posts:
 
 * How we build TiDB: [English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
 * TiDB Internal (I) - Data Storage: [English](https://pingcap.com/blog/2017-07-11-tidbinternal1/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/)
@@ -75,7 +75,7 @@ See [`rfc`](./rfc/README.md).
 
 ## TiDB Roadmap
 
-See [TiDB Roadmap](https://pingcap.com/docs/v2.1/roadmap/#tidb-roadmap).
+See [TiDB Roadmap](https://docs.pingcap.com/tidb/dev/roadmap).
 
 ## Community Activities
 
