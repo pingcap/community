@@ -59,7 +59,7 @@ See [`contributors`](./contributors/README.md) for details.
 ## Learning Resources
 
 Learning resources are collected in the [`learning-resources`](./learning-resources/README.md). Here you can find all the
-resources which help you learn and contribute to TiDB. For example, you can learn
+resources which can help you learn and contribute to TiDB. For example, you can learn
 the TiDB architecture through the following blog posts:
 
 * How we build TiDB: [English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
