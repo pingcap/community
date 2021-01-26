@@ -21,9 +21,7 @@ The TiDB User Groups (TUGs) are groups for facilitating communication and
 discovery of information related to topics that have long term relevance to
 large groups of TiDB users.
 
-See [pingcap/docs](https://docs.pingcap.com/tidb/stable) or
-[pingcap/docs-cn](https://docs.pingcap.com/zh/tidb/stable) for user documents. Also you can get
-help in [AskTUG.com (Chinese)](https://asktug.com/) if you met any problem.
+See TiDB documentation in [English](https://docs.pingcap.com/tidb/stable) or [Chinese](https://docs.pingcap.com/zh/tidb/stable). You can also get help in [AskTUG.com (Chinese)](https://asktug.com/) if you encounter any problem.
 
 ## TiDB Developer Group
 
