@@ -13,7 +13,7 @@ SQL-Infra SIG is generally an interest group that focuses on:
 
 ## Roles and Organization Management
 
-See [SIG SQL-Infra Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG SQL-Infra Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-sql-infra/roles-and-organization-management.md)
 
 ## Members
 
