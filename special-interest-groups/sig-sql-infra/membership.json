@@ -49,6 +49,9 @@
     },
     {
       "githubName": "xiongjiwei"
+    },
+    {
+      "githubName": "morgo"
     }
   ],
   "reviewers": [
@@ -80,9 +83,6 @@
     },
     {
       "githubName": "blacktear23"
-    },
-    {
-      "githubName": "morgo"
     }
   ]
 }
