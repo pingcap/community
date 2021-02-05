@@ -18,6 +18,10 @@ See [Working Group Template](./wg-template.md) for details.
 
 # Active Working Groups
 
+* [wg-tracing](./wg-tracing.md)
+
+# Archived Working Groups
+
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
 * [wg-key-visualizer](./wg-key-visualizer.md)
@@ -37,4 +41,3 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-dumpling](./wg-dumpling.md)
 * [wg-online-restore](./wg-online-restore.md)
 * [wg-talent-plan-courses](./wg-talent-plan-courses.md)
-* [wg-tracing](./wg-tracing.md)
