@@ -14,7 +14,7 @@ e.g. sig-community-infra
 ### Requirements
 - [ ] I have reviewed the SIG membership guidelines
 - [ ] I am actively contributing to this SIG
-- [ ] I have two sponsors that meet the roles-and-organization-management.md requirements
+- [ ] I have two sponsors that meet the SIG roles-and-organization-management requirements
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
 ### Sponsors
