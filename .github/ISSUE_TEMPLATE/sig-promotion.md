@@ -12,7 +12,7 @@ e.g. (at)example_user
 e.g. sig-community-infra
 
 ### Requirements
-- [ ] I have reviewed the SIG membership guidelines
+- [ ] I have reviewed the SIG promotion process guidelines(https://docs.google.com/document/d/1OvlpU00W_LpTL09zB3gvDyQzHULz27kmNKH2O0seWCI/edit?usp=sharing)
 - [ ] I am actively contributing to this SIG
 - [ ] I have two sponsors that meet the SIG roles-and-organization-management requirements
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
