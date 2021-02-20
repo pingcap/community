@@ -9,7 +9,8 @@ assignees: 'hi-rustin'
 e.g. (at)example_user
 
 ### SIG you are requesting membership in
-e.g. sig-community-infra
+- sig-name: e.g. sig-raft
+- role: e.g. committer
 
 ### Requirements
 - [ ] I have reviewed the SIG promotion process guidelines(https://docs.google.com/document/d/1OvlpU00W_LpTL09zB3gvDyQzHULz27kmNKH2O0seWCI/edit?usp=sharing)
