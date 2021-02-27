@@ -18,6 +18,10 @@ See [Working Group Template](./wg-template.md) for details.
 
 # Active Working Groups
 
+* [wg-tracing](./wg-tracing.md)
+
+# Archived Working Groups
+
 * [wg-vec-expr](./wg-vec-expr.md)
 * [wg-sql-diagnostics](./wg-sql-diagnostics.md)
 * [wg-key-visualizer](./wg-key-visualizer.md)
@@ -26,7 +30,6 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-tidb-sequence](./wg-tidb-sequence.md)
 * [wg-tidb-distributions](./wg-tidb-distributions.md)
 * [wg-multi-dc-enhancement (TiKV)](https://github.com/tikv/community/tree/master/wg/multiple-dc-enhancemant)
-* [wg-run-discourse-on-tidb](./wg-run-discourse-on-tidb.md)
 * [wg-stmt-summary](./wg-stmt-summary.md)
 * [wg-test-infra](./wg-test-infra.md)
 * [wg-drainer-relay-log](./wg-drainer-relay-log.md)
@@ -37,4 +40,3 @@ See [Working Group Template](./wg-template.md) for details.
 * [wg-dumpling](./wg-dumpling.md)
 * [wg-online-restore](./wg-online-restore.md)
 * [wg-talent-plan-courses](./wg-talent-plan-courses.md)
-* [wg-tracing](./wg-tracing.md)
