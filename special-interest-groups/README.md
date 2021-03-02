@@ -7,8 +7,8 @@ specific topic, such as Parser/Expression/Planner. Our goal is to enable a
 distributed decision structure and code ownership, as well as providing focused
 forums for getting work done, making decisions, and onboarding new
 contributors. Every identifiable subpart of the project (e.g., github org,
-repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG. For more details about sig governance, you can read this doc [sig governance](../governance/sig-governance.md).
-And if you are new to tidb, and want to find a sig to start, this [contribution map for SIG](https://github.com/pingcap/tidb-map/blob/master/maps/contribution-map.md#sig---special-interest-group) may be helpful.
+repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG. For more details about sig governance, you can read this doc [SIG governance](../governance/sig-governance.md).
+And if you are new to tidb, and want to find a SIG to start, this [contribution map for SIG](https://github.com/pingcap/tidb-map/blob/master/maps/contribution-map.md#sig---special-interest-group) may be helpful.
 
 ## Active Special Interest Groups
 
