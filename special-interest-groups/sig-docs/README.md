@@ -1,6 +1,6 @@
 # Docs Special Interest Group (Docs SIG)
 
-Docs SIG covers the documentation of all PingCAP products, tools, or projects, both [in English](https://pingcap.com/docs/stable/) and [in Chinese](https://pingcap.com/docs-cn/stable/). These projects include but are not limited to:
+Docs SIG covers the documentation of all PingCAP products, tools, or projects, both [in English](https://docs.pingcap.com/tidb/stable) and [in Chinese](https://docs.pingcap.com/zh/tidb/stable). These projects include but are not limited to:
 
 - [TiDB](https://github.com/pingcap/tidb)
 - [PD](https://github.com/pingcap/pd)
