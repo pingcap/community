@@ -12,6 +12,9 @@
   ],
   "committers": [
     {
+      "githubName": "dragonly"
+    },
+    {
       "githubName": "handlerww"
     },
     {
@@ -58,9 +61,6 @@
     }
   ],
   "reviewers": [
-    {
-      "githubName": "dragonly"
-    },
     {
       "githubName": "csuzhangxc"
     },
