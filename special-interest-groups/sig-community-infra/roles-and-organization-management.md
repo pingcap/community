@@ -17,26 +17,26 @@ However, you will be only listed in our [member list] if you have **Active Contr
 
 Requirements:
 
-* Have at least 8 PRs merged within one year.
+* Have at least 5 PRs merged within one year.
 * Nominated by at least 1 Community-Infra SIG Reviewers or roles above.
 
 #### From `Active Contributor` to `Reviewer`
 
 Requirements:
 
-* Have at least 20 PRs merged within one year.
+* Have at least 15 PRs merged within one year.
 * Have fixed at least 2 issues whose difficulty is medium or above within one year.
-* Nominated by at least 2 Committers or 2 Maintainers.
+* Nominated by at least 1 Committers or roles above.
 
 #### From `Reviewer` to `Committer`
 
 Requirements:
 
-* Have at least 30 PRs merged within one year.
+* Have at least 25 PRs merged within one year.
 * Have fixed at least 5 issues whose difficulty is medium or above within one year.
 * Have fixed at least 1 issues whose difficulty is hard within one year.
 * Have reviewed at least 20 PRs within one year.
-* Nominated by at least 2 Committers or Maintainers.
+* Nominated by at least 2 Committers or roles above.
 
 ## Quit and Demotion
 
@@ -44,7 +44,7 @@ Requirements:
 
 **Automatically retired**:
 
-* No contribution to the parser repository within one year.
+* No contribution to the ti-community-infra repository within one year.
 
 **How to rejoin**:
 
@@ -57,9 +57,9 @@ Requirements:
 For a Reviewer to be demoted to an Active Contributor,  he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the parser repository within 3 months.
+* Haven't reviewed or merged any PR in the ti-community-infra repository within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
-* At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
+* At least 2 Committers or roles above agree that the Reviewer is not qualified.
 
 **How to retain**:
 
