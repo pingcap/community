@@ -15,7 +15,6 @@ Docs SIG covers the documentation of all PingCAP products, tools, or projects, b
 - [TiSpark](https://github.com/pingcap/tispark)
 - [TiFlash](https://pingcap.com/blog/delivering-real-time-analytics-and-true-htap-by-combining-columnstore-and-rowstore/)
 - [TiDB Dashboard](https://github.com/pingcap-incubator/tidb-dashboard)
-- [TiDB Cloud](https://pingcap.com/products/tidbcloud)
 
 ## Roles and Organization Management
 
