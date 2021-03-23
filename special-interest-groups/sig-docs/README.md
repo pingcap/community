@@ -45,7 +45,6 @@ There is no regular meeting currently.
 - [docs-cn](https://github.com/pingcap/docs-cn): TiDB documentation in Chinese
 - [docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator): TiDB in Kubernetes documentation in both English and Chinese
 - [docs-dm](https://github.com/pingcap/docs-dm): TiDB Data Migration (DM) documentation in both English and Chinese
-- [dbaas-docs](https://github.com/tidbcloud/dbaas-docs): TiDB Cloud documentation in English
 
 ## Learning Materials
 
@@ -63,7 +62,6 @@ There is no regular meeting currently.
 - [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
 - [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
 - [Issues in docs-dm](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
-- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc)
 
 ### Issues for newbie
 
@@ -71,4 +69,3 @@ There is no regular meeting currently.
 - [Issues in docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
 - [Issues in docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
 - [Issues in docs-dm](https://github.com/pingcap/docs-dm/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
-- [Issues in dbaas-docs](https://github.com/tidbcloud/dbaas-docs/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+sort%3Aupdated-desc+label%3Agood-first-issue)
