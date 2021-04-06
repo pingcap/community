@@ -1,6 +1,7 @@
-# TiDB Community
-
 ![TiDB Community Logo](./media/community-logo.svg)
+
+- [**Slack Channel**](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
+- **Mailing list**: [lists.tidb.io](https://lists.tidb.io/g/main/subgroups)
 
 Welcome to the TiDB Community! The main objective is to help members of the
 TiDB community who share similar interests to learn from and collaborate with
