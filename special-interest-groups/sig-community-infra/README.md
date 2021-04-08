@@ -11,7 +11,7 @@ See [SIG Community-Infra Roles and Organization Management](./roles-and-organiza
 
 ## Members
 
-See [SIG Community-Infra Member List](https://pingcap.com/developer/sig/community-infra)
+See [SIG Community-Infra Member List](https://contributor.tidb.io/sig/community-infra)
 
 ## Meetings
 
