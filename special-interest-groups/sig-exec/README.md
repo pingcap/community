@@ -15,7 +15,7 @@ See [SIG Exec Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [SIG Exec Member List](https://contributor.tidb.io/sig/execution)
+See [SIG Exec Member List](https://contributor.tidb.io/SIG/execution)
 
 ## Meetings
 

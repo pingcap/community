@@ -11,7 +11,7 @@ See [SIG TiUP Roles and Organization Management](./roles-and-organization-manage
 
 ## Members
 
-See [SIG TiUP Member List](https://contributor.tidb.io/sig/tiup)
+See [SIG TiUP Member List](https://contributor.tidb.io/SIG/tiup)
 
 ## Meetings
 
