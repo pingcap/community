@@ -58,12 +58,12 @@
     },
     {
       "githubName": "gregwebs"
+    },
+    {
+      "githubName": "csuzhangxc"
     }
   ],
   "reviewers": [
-    {
-      "githubName": "csuzhangxc"
-    },
     {
       "githubName": "lichunzhu"
     },
