@@ -17,7 +17,7 @@ See [SIG SQL-Infra Roles and Organization Management](https://github.com/pingcap
 
 ## Members
 
-See [SIG SQL-Infra Member List](https://pingcap.com/developer/sig/sql-infra)
+See [SIG SQL-Infra Member List](https://contributor.tidb.io/SIG/sql-infra)
 
 ## Meetings
 

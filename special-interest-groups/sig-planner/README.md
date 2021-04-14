@@ -14,7 +14,7 @@ See [Planner SIG Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-See [SIG Planner Member List](https://pingcap.com/developer/sig/planner/)
+See [SIG Planner Member List](https://contributor.tidb.io/SIG/planner/)
 
 ## Meetings
 
