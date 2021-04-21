@@ -15,7 +15,7 @@ See [SIG Web Roles and Organization Management](./roles-and-organization-managem
 
 ## Members
 
-See [SIG Web Member List](https://pingcap.com/developer/sig/web/)
+See [SIG Web Member List](https://contributor.tidb.io/SIG/web/)
 
 ## Meetings
 

@@ -5,9 +5,6 @@
       "githubName": "qw4990"
     },
     {
-      "githubName": "SunRunAway"
-    },
-    {
       "githubName": "XuHuaiyu"
     }
   ],
@@ -15,6 +12,9 @@
   "committers": [
     {
       "githubName": "zz-jason"
+    },
+    {
+      "githubName": "SunRunAway"
     },
     {
       "githubName": "cfzjywxk"
@@ -66,6 +66,9 @@
     },
     {
       "githubName": "wjhuang2016"
+    },
+    {
+      "githubName": "zimulala"
     }
   ],
   "reviewers": [
@@ -101,6 +104,9 @@
     },
     {
       "githubName": "shihongzhi"
+    },
+    {
+      "githubName": "Tjianke"
     }
   ],
   "activeContributors": [

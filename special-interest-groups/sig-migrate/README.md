@@ -18,7 +18,7 @@ See [SIG-Migrate Roles and Organization Management](./roles-and-organization-man
 
 ## Members
 
-See [SIG-Migrate Member List](https://pingcap.com/developer/sig/migrate/)
+See [SIG-Migrate Member List](https://contributor.tidb.io/SIG/migrate/)
 
 ## Meetings
 
@@ -40,3 +40,17 @@ See [SIG-Migrate Member List](https://pingcap.com/developer/sig/migrate/)
 * [TiDB-Tools](https://github.com/pingcap/tidb-tools) (miscellaneous tools and libraries)
 
 [#sig-migrate]: https://slack.tidb.io/invite?team=tidb-community&channel=sig-migrate&ref=github_sig
+
+## Learning Materials
+
+* Chinese
+    * [DM 源码阅读系列](https://pingcap.com/blog-cn/#DM-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB)
+    * [TiDB Binlog 源码阅读](https://pingcap.com/blog-cn/#TiDB-Binlog-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB)
+
+## Pickable issues
+
+* [issues](https://github.com/search?o=desc&q=is%3Aissue+repo%3Apingcap%2Fbr+repo%3Apingcap%2Fticdc+repo%3Apingcap%2Fdm+repo%3Apingcap%2Ftidb-lightning+repo%3Apingcap%2Fdumpling+repo%3Apingcap%2Ftidb-binlog+repo%3Apingcap%2Ftidb-tools&s=created&state=open&type=Issues)
+
+### Issues for newbie
+
+- [issues](https://github.com/search?q=is%3Aissue+label%3A%22good+first+issue%22+repo%3Apingcap%2Fbr+repo%3Apingcap%2Fticdc+repo%3Apingcap%2Fdm+repo%3Apingcap%2Ftidb-lightning+repo%3Apingcap%2Fdumpling+repo%3Apingcap%2Ftidb-binlog+repo%3Apingcap%2Ftidb-tools&state=open&type=Issues)

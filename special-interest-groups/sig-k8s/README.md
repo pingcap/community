@@ -11,7 +11,7 @@ See [SIG K8s Roles and Organization Management](./roles-and-organization-managem
 
 ## Members
 
-See [SIG K8s Member List](https://pingcap.com/developer/sig/k8s)
+See [SIG K8s Member List](https://contributor.tidb.io/SIG/k8s)
 
 ## Meetings
 

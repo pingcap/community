@@ -1,0 +1,36 @@
+{
+  "name": "bigdata",
+  "techLeaders": [
+    {
+      "githubName": "marsishandsome"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "Coderlxl"
+    },
+    {
+      "githubName": "humengyu2012"
+    },
+    {
+      "githubName": "sunxiaoguang"
+    },
+    {
+      "githubName": "birdstorm"
+    },
+    {
+      "githubName": "ilovesoup"
+    },
+    {
+      "githubName": "windtalker"
+    },
+    {
+      "githubName": "LittleFall"
+    }
+  ],
+  "reviewers": [
+  ],
+  "activeContributors": [
+  ]
+}

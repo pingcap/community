@@ -84,7 +84,7 @@ Once the change is approved, the corresponding profile will be moved to the emer
 	2. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-${name}`
 	3. Create a public [Zoom](https://zoom.com/) url for regular meetings, as well as other online discussions.
 	4. Create a public Google Doc to summarize the regular SIG work report and record the regular meeting notes.
-	5. Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community), titled `SIG-Creation-Request: SIG-XXX`, with all the items and related documents (RFCs, PRs) attached. The PR will be reviewed by the PMC. 2 approvals are required for the PR to pass.
+	5. Submit a Pull Request on [pingcap/community](https://github.com/pingcap/community), titled `SIG-Creation-Request: SIG-XXX`, with all the items and related documents (RFCs, PRs) attached. The PR will be reviewed by the TOC. 2 approvals are required for the PR to pass.
 	6. Create a public Slack Channel in [tidbcommunity](https://pingcap.com/tidbslack/) to discuss the SIG operation related matters. Channel name is recommended to be prefixed with `sig-${name}`
 	7. Announce the establishment of a new SIG in the TiDB community.
 

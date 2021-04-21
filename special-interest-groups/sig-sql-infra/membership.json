@@ -49,6 +49,9 @@
     },
     {
       "githubName": "xiongjiwei"
+    },
+    {
+      "githubName": "morgo"
     }
   ],
   "reviewers": [
@@ -63,6 +66,9 @@
     },
     {
       "githubName": "Deardrops"
+    },
+    {
+      "githubName": "Yisaer"
     }
   ],
   "activeContributors": [
@@ -80,9 +86,6 @@
     },
     {
       "githubName": "blacktear23"
-    },
-    {
-      "githubName": "morgo"
     }
   ]
 }

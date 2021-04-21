@@ -1,6 +1,6 @@
 # Community-Infra Special Interest Group(Community-Infra SIG)
 
-Community-Infra SIG covers the development of [tidb-community-bots](https://github.com/tidb-community-bots). Our work includes
+Community-Infra SIG covers the development of [ti-community-infra](https://github.com/ti-community-infra). Our work includes
 * Support new features or improve community collaboration tools.
 * Fixing all kinds of bugs of community collaboration tools.
 * Improve the usability of community collaboration tools.
@@ -11,7 +11,7 @@ See [SIG Community-Infra Roles and Organization Management](./roles-and-organiza
 
 ## Members
 
-See [SIG Community-Infra Member List](https://pingcap.com/developer/sig/community-infra)
+See [SIG Community-Infra Member List](https://contributor.tidb.io/SIG/community-infra)
 
 ## Meetings
 
@@ -23,4 +23,4 @@ TBD
 
 ## Code Locations
 
-* The [tidb-community-bots](https://github.com/tidb-community-bots).
+* The [ti-community-infra](https://github.com/ti-community-infra).

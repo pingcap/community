@@ -12,6 +12,12 @@
   ],
   "committers": [
     {
+      "githubName": "dragonly"
+    },
+    {
+      "githubName": "handlerww"
+    },
+    {
       "githubName": "mikechengwei"
     },
     {
@@ -52,18 +58,12 @@
     },
     {
       "githubName": "gregwebs"
-    }
-  ],
-  "reviewers": [
-    {
-      "githubName": "handlerww"
-    },
-    {
-      "githubName": "dragonly"
     },
     {
       "githubName": "csuzhangxc"
-    },
+    }
+  ],
+  "reviewers": [
     {
       "githubName": "lichunzhu"
     },
@@ -72,6 +72,9 @@
     },
     {
       "githubName": "shonge"
+    },
+    {
+      "githubName": "cvvz"
     },
     {
       "githubName": "howardlau1999"
@@ -83,9 +86,6 @@
     },
     {
       "githubName": "xiaojingchen"
-    },
-    {
-      "githubName": "cvvz"
     },
     {
       "githubName": "marsishandsome"

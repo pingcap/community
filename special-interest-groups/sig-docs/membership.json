@@ -12,7 +12,7 @@
   ],
   "committers": [
     {
-        "githubName": "breeswish"
+      "githubName": "breeswish"
     },
     {
       "githubName": "CaitinChen"
@@ -73,6 +73,12 @@
     },
     {
       "githubName": "nullnotnil"
+    },
+    {
+      "githubName": "CharLotteiu"
+    },
+    {
+      "githubName": "dragonly"
     }
   ],
   "reviewers": [
@@ -125,18 +131,18 @@
       "githubName": "glkappe"
     },
     {
-        "githubName": "CharLotteiu"
+      "githubName": "Joyinqin"
     }
   ],
   "activeContributors": [
     {
-        "githubName": "qw4990"
+      "githubName": "qw4990"
     },
     {
-        "githubName": "scsldb"
+      "githubName": "scsldb"
     },
     {
-        "githubName": "sticnarf"
+      "githubName": "sticnarf"
     },
     {
       "githubName": "zhouqiang-cl"
@@ -217,19 +223,40 @@
       "githubName": "ireneontheway"
     },
     {
-      "githubName": "Joyinqin"
-    },
-    {
       "githubName": "xxj123go"
-    },
-    {
-      "githubName": "dragonly"
     },
     {
       "githubName": "leiysky"
     },
     {
       "githubName": "wshwsh12"
+    },
+    {
+      "githubName": "marsishandsome"
+    },
+    {
+      "githubName": "kennytm"
+    },
+    {
+      "githubName": "LittleFall"
+    },
+    {
+      "githubName": "JaySon-Huang"
+    },
+    {
+      "githubName": "yiwu-arbug"
+    },
+    {
+      "githubName": "pepezzzz"
+    },
+    {
+      "githubName": "King-Dylan"
+    },
+    {
+      "githubName": "BinChenn"
+    },
+    {
+      "githubName": "qiancai"
     }
   ]
 }

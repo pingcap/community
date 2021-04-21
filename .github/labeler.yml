@@ -1,29 +1,29 @@
 sig/sql-infra:
-  - "special-interest-groups/sig-sql-infra/*"
+  - any: [ "special-interest-groups/sig-sql-infra/*","!special-interest-groups/sig-sql-infra/membership.json" ]
 
 sig/diagnosis:
-  - "special-interest-groups/sig-diagnosis/*"
+  - any: [ "special-interest-groups/sig-diagnosis/*","!special-interest-groups/sig-diagnosis/membership.json" ]
 
 sig/docs:
-  - "special-interest-groups/sig-docs/*"
+  - any: [ "special-interest-groups/sig-docs/*","!special-interest-groups/sig-docs/membership.json" ]
 
 sig/execution:
-  - "special-interest-groups/sig-exec/*"
+  - any: [ "special-interest-groups/sig-exec/*","!special-interest-groups/sig-exec/membership.json" ]
 
 sig/k8s:
-  - "special-interest-groups/sig-k8s/*"
+  - any: [ "special-interest-groups/sig-k8s/*","!special-interest-groups/sig-k8s/membership.json" ]
 
 sig/migrate:
-  - "special-interest-groups/sig-migrate/*"
+  - any: [ "special-interest-groups/sig-migrate/*","!special-interest-groups/sig-migrate/membership.json" ]
 
 sig/planner:
-  - "special-interest-groups/sig-planner/*"
+  - any: [ "special-interest-groups/sig-planner/*","!special-interest-groups/sig-planner/membership.json" ]
 
 sig/tiup:
-  - "special-interest-groups/sig-tiup/*"
+  - any: [ "special-interest-groups/sig-tiup/*","!special-interest-groups/sig-tiup/membership.json" ]
 
 sig/web:
-  - "special-interest-groups/sig-web/*"
+  - any: [ "special-interest-groups/sig-web/*","!special-interest-groups/sig-web/membership.json" ]
 
 sig/community-infra:
-  - "special-interest-groups/sig-community-infra/*"
+  - any: [ "special-interest-groups/sig-community-infra/*","!special-interest-groups/sig-community-infra/membership.json" ]

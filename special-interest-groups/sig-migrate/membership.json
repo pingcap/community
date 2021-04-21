@@ -57,7 +57,13 @@
       "githubName": "suzaku"
     },
     {
+      "githubName": "Little-Wallace"
+    },
+    {
       "githubName": "holys"
+    },
+    {
+      "githubName": "liuzix"
     }
   ],
   "reviewers": [
@@ -66,9 +72,6 @@
     },
     {
       "githubName": "tiancaiamao"
-    },
-    {
-      "githubName": "liuzix"
     }
   ],
   "activeContributors": [
