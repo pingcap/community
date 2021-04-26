@@ -10,7 +10,7 @@ See [Roles and Organization Management](./roles-and-organization-management.md)
 
 ## Members
 
-See [Member List](https://contributor.tidb.io/SIG/diagnosis)
+See [Member List](https://contributor.tidb.io/sig/diagnosis)
 
 ## Meetings
 
