@@ -7,7 +7,7 @@ K8s SIG covers the TiDB Products on Kubernetes and Docker. Our work includes
 
 ## Roles and Organization Management
 
-See [SIG K8s Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG K8s Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-k8s/README.md)
 
 ## Members
 
