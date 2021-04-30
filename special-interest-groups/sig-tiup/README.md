@@ -7,7 +7,7 @@ TiUP SIG covers the development of [TiUP](https://github.com/pingcap-incubator/t
 
 ## Roles and Organization Management
 
-See [SIG TiUP Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-tiup/README.md)
+See [SIG TiUP Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-tiup/roles-and-organization-management.md)
 
 ## Members
 

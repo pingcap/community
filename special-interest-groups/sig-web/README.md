@@ -11,7 +11,7 @@ Web SIG focus on website development around tidb, includding:
 
 ## Roles and Organization Management
 
-See [SIG Web Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-web/README.md)
+See [SIG Web Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-web/roles-and-organization-management.md)
 
 ## Members
 
