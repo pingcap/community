@@ -14,7 +14,7 @@ Our work includes
 
 ## Roles and Organization Management
 
-See [SIG-Migrate Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG-Migrate Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-migrate/roles-and-organization-management.md)
 
 ## Members
 

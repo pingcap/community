@@ -7,7 +7,7 @@ Community-Infra SIG covers the development of [ti-community-infra](https://githu
 
 ## Roles and Organization Management
 
-See [SIG Community-Infra Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG Community-Infra Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-community-infra/roles-and-organization-management.md)
 
 ## Members
 
