@@ -10,7 +10,7 @@ and [statistics](https://pingcap.com/docs/stable/reference/performance/statistic
 
 ## Roles and Organization Management
 
-See [Planner SIG Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-planner/README.md)
+See [Planner SIG Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-planner/roles-and-organization-management.md)
 
 ## Members
 
