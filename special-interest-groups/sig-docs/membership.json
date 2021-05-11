@@ -79,6 +79,9 @@
     },
     {
       "githubName": "dragonly"
+    },
+    {
+      "githubName": "qiancai"
     }
   ],
   "reviewers": [
@@ -132,9 +135,6 @@
     },
     {
       "githubName": "Joyinqin"
-    },
-    {
-      "githubName": "qiancai"
     }
   ],
   "activeContributors": [
