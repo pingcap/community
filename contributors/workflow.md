@@ -1,4 +1,4 @@
-# Github Workflow
+# GitHub Workflow
 
 ## Step 1: Fork in the cloud
 
