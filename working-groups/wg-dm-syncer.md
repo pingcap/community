@@ -23,4 +23,4 @@ But some users are still using old version of `Syncer`. For smoothly upgrading, 
 
 ### RFC/Proposal
 
-- Github Issue [#issue](https://github.com/pingcap/dm/issues/409)
+- GitHub Issue [#issue](https://github.com/pingcap/dm/issues/409)

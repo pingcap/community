@@ -39,15 +39,15 @@ See [Template SIG Member List](membership.json)
 
 ## Repositories, Projects and labels
 
-- [repo-1](Github-link-of-repo)
-  - [project-1](Github-link-of-project-1)
+- [repo-1](GitHub-link-of-repo)
+  - [project-1](GitHub-link-of-project-1)
     - [label1](xx)
-  - [project-1](Github-link-of-project-2)
+  - [project-1](GitHub-link-of-project-2)
     - [label2](xx)
     - [label3](xxx)
-- [repo-2](Github-link-of-repo)
+- [repo-2](GitHub-link-of-repo)
 <!--if the whole repo belongs to this SIG, the informantion for projects and labels are optional -->
-- [repo-3](Github-link-of-repo)
+- [repo-3](GitHub-link-of-repo)
 
 ## Learning Materials
 
