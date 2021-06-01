@@ -36,7 +36,7 @@ What is [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)?
 TiDB is written in GO. Before you start contributing code to TiDB, you need to
 set up your GO development environment.
 
-1. Install `Go` version **1.13** or above. Refer to [How to Write Go Code](http://golang.org/doc/code.html) for more information.
+1. Install `Go` version **1.16** or above. Refer to [How to Write Go Code](http://golang.org/doc/code.html) for more information.
 2. Define `GOPATH` environment variable and modify `PATH` to access your Go binaries. A common setup is as follows. You could always specify it based on your own flavor.
 
     ```sh
