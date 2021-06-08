@@ -10,17 +10,17 @@ and [statistics](https://pingcap.com/docs/stable/reference/performance/statistic
 
 ## Roles and Organization Management
 
-See [Planner SIG Roles and Organization Management](./roles-and-organization-management.md)
+See [Planner SIG Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-planner/roles-and-organization-management.md)
 
 ## Members
 
-See [SIG Planner Member List](https://contributor.tidb.io/SIG/planner/)
+See [SIG Planner Member List](https://contributor.tidb.io/sig/planner/)
 
 ## Meetings
 
 * Regular Working Group Meeting: 5:00 AM, Thursday at PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=5:00&tz=PT%20%28Pacific%20Time%29).
-* Meeting Zoom: [https://pingcap.zoom.com.cn/j/492702291](ttps://pingcap.zoom.com.cn/j/492702291)
-* Meeting Notes: https://docs.google.com/document/d/1sKGu5me20uj-eMAT4gQivDsrqNw1w84hNzH4Y5EGnFo/edit?usp=sharing
+* Meeting Zoom: [https://zoom.us/j/65583831749](https://zoom.us/j/65583831749)
+* Meeting Notes: [SIG Planner Weekly Report - 2021](https://docs.google.com/document/d/1dgq1MZQigTcZeck0iRLSCAu_ly3iGDr19Et6IHfQhCs/edit?usp=sharing)
 
 ## Contact
 

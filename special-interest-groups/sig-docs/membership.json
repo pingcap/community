@@ -79,6 +79,9 @@
     },
     {
       "githubName": "dragonly"
+    },
+    {
+      "githubName": "qiancai"
     }
   ],
   "reviewers": [
@@ -254,9 +257,6 @@
     },
     {
       "githubName": "BinChenn"
-    },
-    {
-      "githubName": "qiancai"
     }
   ]
 }

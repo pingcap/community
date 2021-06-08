@@ -19,7 +19,7 @@ Part of the following maturity criteria are inspired by [CII Best Practices](htt
   - README.md
   - LICENSE (Apache 2)
 - Adopt the [TiDB Community Code of conduct](../CODE_OF_CONDUCT.md).
-- The source code is stored on Github.
+- The source code is stored on GitHub.
 - Has at least 2 committers.
 - Approved by TOC.
 

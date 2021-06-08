@@ -25,13 +25,13 @@ The picture above shows the framework of Talent Plan Courses. In addition to TiD
 
     A fundamental course about open source and its history.
 
-  - How to use Git & Github
+  - How to use Git & GitHub
 
-    Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Github is a popular website based on Git where people around the world collaborate in open source projects. After taking this course, participants should know the usages of Git and Github.
+    Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. GitHub is a popular website based on Git where people around the world collaborate in open source projects. After taking this course, participants should know the usages of Git and GitHub.
 
   - Open Source Practice in TiDB
 
-    TiDB ecosystem is made up of multiple open-source projects on Github. For people who want to contribute to TiDB, this course would be helpful for them.
+    TiDB ecosystem is made up of multiple open-source projects on GitHub. For people who want to contribute to TiDB, this course would be helpful for them.
 
 - Programming Language
 

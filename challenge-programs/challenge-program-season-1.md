@@ -12,7 +12,7 @@ We can’t wait to see innovative ideas sparkled! Participants are welcomed to j
 
 - See [Join GitHub](https://github.com/join) to create a GitHub account
 - [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in your local environment
-- Check [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) to configure your Git to access Github
+- Check [Set up Git](https://help.github.com/en/github/getting-started-with-github/set-up-git) to configure your Git to access GitHub
 
 ## Sign up
 

@@ -11,11 +11,11 @@ Operator](https://pingcap.com/docs/dev/reference/sql/functions-and-operators/ref
 
 ## Roles and Organization Management
 
-See [SIG Exec Roles and Organization Management](./roles-and-organization-management.md)
+See [SIG Exec Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-exec/roles-and-organization-management.md)
 
 ## Members
 
-See [SIG Exec Member List](https://contributor.tidb.io/SIG/execution)
+See [SIG Exec Member List](https://contributor.tidb.io/sig/execution)
 
 ## Meetings
 

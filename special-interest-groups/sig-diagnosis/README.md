@@ -6,11 +6,11 @@ Common approaches may be introducing new UI pages in [TiDB Dashboard](https://gi
 
 ## Roles and Organization Management
 
-See [Roles and Organization Management](./roles-and-organization-management.md)
+See [Roles and Organization Management](https://github.com/pingcap/community/blob/master/special-interest-groups/sig-diagnosis/roles-and-organization-management.md)
 
 ## Members
 
-See [Member List](https://contributor.tidb.io/SIG/diagnosis)
+See [Member List](https://contributor.tidb.io/sig/diagnosis)
 
 ## Meetings
 
