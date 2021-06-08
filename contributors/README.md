@@ -156,4 +156,4 @@ Paste the result into your pull request description. Here is a good [example](ht
 
 ## Get your Reward
 
-Once Your PR has been merged, you become a TiDB Contributor. Thank you for your contribution! Please fill the [form](All the contributors are welcomed to claim your reward by filing this [form](https://forms.pingcap.com/f/tidb-contribution-swag).) to get your reward.
+Once Your PR has been merged, you become a TiDB Contributor. Thank you for your contribution! Please fill the [form](https://forms.pingcap.com/f/tidb-contribution-swag) to get your reward.
