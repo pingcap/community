@@ -57,6 +57,8 @@ Contributions are welcomed and greatly appreciated.
 
 See [`contributors`](./contributors/README.md) for details.
 
+All the contributors are welcomed to claim your reward by filing this [form](https://forms.pingcap.com/f/tidb-contribution-swag).
+
 ## Learning Resources
 
 Learning resources are collected in the [`learning-resources`](./learning-resources/README.md). Here you can find all the

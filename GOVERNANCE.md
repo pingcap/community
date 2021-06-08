@@ -101,6 +101,8 @@ TBD
 
 Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. The various ways of contributing are described in more detail in a separate document. For details, see [How to contribute](/contributors/README.md).
 
+All the contributors are welcomed to claim your reward by filing this [form](https://forms.pingcap.com/f/tidb-contribution-swag).
+
 ## Decision making and voting
 
 Proposals and ideas can be submitted for agreement via a github issue or PR. Depending on the nature, decisions about the future of the project are made by the PMC or by Maintainers. As the technical authority, Maintainers set technical direction and priorities for the SIG projects, while the PMC makes other high-level decisions like establishment and operation policies of sub-projects, sub-structures, promoting new Maintainers, security processes, etc.
