@@ -1,2 +1,3 @@
 sigInfoFileName: membership
 maintainerTeamSlug: tidb-maintainer
+afterComment: 'Hope you will notice these changes regarding SIG membership information. cc: @luzizhuo @gingerkidney'
