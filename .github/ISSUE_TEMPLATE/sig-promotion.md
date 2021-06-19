@@ -1,8 +1,8 @@
 ---
 name: SIG Membership Request
 about: Request membership in a TiDB SIG
-title: REQUEST: New membership for <your-GH-handle>
-assignees: Mini256, luzizhuo, gingerkidney
+title: 'REQUEST: New membership for <your-GH-handle>'
+assignees: 'Mini256'
 ---
 
 ### GitHub Username
