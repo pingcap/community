@@ -56,7 +56,7 @@ You are also encouraged to participate in the projects in the following ways:
 
 #### Contributor List
 
-See [TiDB Contributors](./contributor-list.md)
+See [TiDB Contributors](https://contributor.tidb.io/people/contributor)
 
 ### Active Contributor
 
