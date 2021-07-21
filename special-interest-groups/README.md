@@ -28,15 +28,6 @@ And if you are new to tidb, and want to find a SIG to start, this [contribution 
 - [Community-Infra](./sig-community-infra)
 - [BigData](./sig-bigdata)
 
-### TiKV
-
-- [Coprocessor](https://github.com/tikv/community/tree/master/sig/coprocessor)
-- [Engine](https://github.com/tikv/community/tree/master/sig/engine)
-- [Raft](https://github.com/tikv/community/tree/master/sig/raft)
-- [Performance](https://github.com/tikv/community/tree/master/sig/performance)
-- [Transaction](https://github.com/tikv/community/tree/master/sig/transaction)
-- [Scheduling](https://github.com/tikv/community/tree/master/sig/scheduling)
-
 ### Documentation
 
 - [Docs](./sig-docs)
