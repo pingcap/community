@@ -65,7 +65,7 @@ least 1 of the following conditions:
 
 **How to retain**:
 
-* Have reviewed or merged  **${a certain number}** PRs within 1 month.
+* Have reviewed or merged 5 PRs within 1 month.
 
 ### Voluntarily Quit or Demote
 
