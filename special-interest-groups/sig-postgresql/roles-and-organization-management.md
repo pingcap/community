@@ -10,8 +10,8 @@ Here we mainly follow the instructions in [TiDB Developer Group](../../architect
 
 ### Join
 
-You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about `${module name}` is merged.
-To have a discussion with us, just join our slack channel **#sig-${name}** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about `postgresql` is merged.
+To have a discussion with us, just join our slack channel **#sig-postgresql** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ### Promotion
 
@@ -19,25 +19,26 @@ To have a discussion with us, just join our slack channel **#sig-${name}** in [t
 
 SIG Specific Requirements:
 
-* Joined the sig-${name} slack channel.
+* Joined the sig-postgresql slack channel.
 
 #### Be promoted to [`Reviewer`](../../architecture/README.md#reviewer)
 
 SIG Specific Requirements:
 
-* Have at least **${a certain number}** PRs merged in the `${module name}` package within one year.
-* Fix at least **${a certain number}** issues whose difficulty is medium or above.
-* Present design ideas and adopt them in more than **${a certain number}** executable task.
+* Have at least 15 PRs merged within one year.
+* Have fixed at least 2 issues whose difficulty is medium or above within one year.
+* Nominated by at least 1 Committers or roles above.
 
 
 #### Be promoted to [`Committer`](../../architecture/README.md#committer)
 
 SIG Specific Requirements:
 
-* Exhibited good technical judgment.
-* Fix at least **${a certain number}** issues whose difficulty is high.
-* Have reviewed at least **${a certain number}** PRs in the `${module name}` package within one year.
-* Play an important role in a big feature.
+* Have at least 25 PRs merged within one year.
+* Have fixed at least 5 issues whose difficulty is medium or above within one year.
+* Have fixed at least 1 issues whose difficulty is hard within one year.
+* Have reviewed at least 20 PRs within one year.
+* Nominated by at least 2 Committers or roles above.
 
 ## Quit and Demotion
 
@@ -45,7 +46,7 @@ SIG Specific Requirements:
 
 **Automatically retired**:
 
-* No contribution to the `${module name}` package within one year.
+* No contribution to the package within one year.
 
 **How to rejoin**:
 
@@ -58,7 +59,7 @@ SIG Specific Requirements:
 For a Reviewer to be demoted to an Active Contributor, he/she must satisfy at
 least 1 of the following conditions:
 
-* Haven't reviewed or merged any PR in the `${module name}` package within 3 months.
+* Haven't reviewed or merged any PR in the package within 3 months.
 * Haven't appeared in the SIG meeting without any reason for 3 times continuously.
 * At least 2 Committers or Maintainers agree that the Reviewer is not qualified.
 
