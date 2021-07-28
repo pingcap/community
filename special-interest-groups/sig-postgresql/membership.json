@@ -1,0 +1,37 @@
+{
+    "name": "sig-name",
+    "techLeaders": [
+      {
+        "githubName": "pupillord"
+      },
+      {
+        "githubName": "RogueJin"
+      }
+    ],
+    "coLeaders": [],
+    "committers": [
+      {
+        "githubName": "Orion7r"
+      },
+      {
+        "githubName": "hey-hoho"
+      },
+      {
+        "githubName": "MichaelYuAlreadyExists"
+      },
+      {
+        "githubName": "guoshengcc"
+      },
+      {
+        "githubName": "studiolee"
+      },
+      {
+        "githubName": "AmoebaProtozoa"
+      }
+    ],
+    "reviewers": [
+    ],
+    "activeContributors": [
+    ]
+  }
+  
