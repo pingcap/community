@@ -26,7 +26,7 @@ There is no regular meeting currently.
 ## Learning Materials
 
 <!-- Put the published documents of this Special Interest Group here -->
--[TiDB for PostgreSQL—牛刀小试(Chinese)](https://zhuanlan.zhihu.com/p/379181280)
+-[TiDB for PostgreSQL—Quick Start(Chinese)](https://zhuanlan.zhihu.com/p/379181280)
 -[TiDB for PostgreSQL Guideline(Chinese)](https://zhuanlan.zhihu.com/p/383500491)
 
 ## Pickable issues
