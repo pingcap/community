@@ -10,7 +10,7 @@ Here we mainly follow the instructions in [TiDB Developer Group](../../architect
 
 ### Join
 
-You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about `postgresql` is merged.
+You are welcomed to be a [contributor](../../architecture/README.md#contributor) once one of your PR about TiDB for PG is merged.
 To have a discussion with us, just join our slack channel **#sig-postgresql** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
 
 ### Promotion
