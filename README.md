@@ -1,14 +1,11 @@
 ![TiDB Community Logo](./media/community-logo.svg)
 
 - [**Slack Channel**](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
-- **Mailing list**: [lists.tidb.io](https://lists.tidb.io/g/main/subgroups)
+- [**Developer Discussion Forum**](https://internals.tidb.io)
 
-Welcome to the TiDB Community! The main objective is to help members of the
-TiDB community who share similar interests to learn from and collaborate with
-each other.
+Welcome to the TiDB Community! The main objective is to help members of the TiDB community who share similar interests to learn from and collaborate with each other.
 
-Your journey of becoming a contributor and committer starts from here:
-improving docs, improving code, giving talks, organizing meetups, etc.
+Your journey of becoming a contributor and committer starts from here: improving docs, improving code, giving talks, organizing meetups, etc.
 
 ## Architecture
 
@@ -18,9 +15,7 @@ See [`architecture`](./architecture/README.md) for details.
 
 ## TiDB User Group
 
-The TiDB User Groups (TUGs) are groups for facilitating communication and
-discovery of information related to topics that have long term relevance to
-large groups of TiDB users.
+The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of information related to topics that have long term relevance to large groups of TiDB users.
 
 See TiDB documentation in [English](https://docs.pingcap.com/tidb/stable) or [Chinese](https://docs.pingcap.com/zh/tidb/stable). You can also get help in [AskTUG.com (Chinese)](https://asktug.com/) if you encounter any problem.
 
@@ -28,26 +23,19 @@ See TiDB documentation in [English](https://docs.pingcap.com/tidb/stable) or [Ch
 
 ### Communication
 
-The [communicating.md](./communicating.md) file lists communication channels like
-chat, social medias, etc.
+The [communicating.md](./communicating.md) file lists communication channels like chat, social medias, etc.
 
-For more specific topics, join
-[TiDB Community slack workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
+For more specific topics, join [TiDB Internals developer discussion forum](https://internals.tidb.io) and post topics, or [TiDB Community slack workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
 
 ### Governance
 
 TiDB has the following types of groups that are officially supported:
 
-* **Special Interest Groups (SIGs)** are persistent open groups that focus on a
-  module of TiDB. SIGs must have open and transparent proceedings. The purpose
-  of a SIG is to own and develop a module of TiDB.
+* **Special Interest Groups (SIGs)** are persistent open groups that focus on a module of TiDB. SIGs must have open and transparent proceedings. The purpose of a SIG is to own and develop a module of TiDB.
 
   See [`special-interest-groups`](./special-interest-groups/README.md) for details and active SIGs.
 
-* **Working Groups (WGs)** are temporary groups that are formed to address
-  issues that cross SIG boundaries. Working groups do not own any code or other
-  long term artifacts. Working groups can report back and act through involved
-  SIGs.
+* **Working Groups (WGs)** are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs.
 
   See [`working-groups`](./working-groups/README.md) for details and active WGs.
 
@@ -92,12 +80,8 @@ See [TiDB Roadmap](https://docs.pingcap.com/tidb/dev/roadmap).
 
 ## License
 
-TiDB Community is under the Apache 2.0 license. See the
-[LICENSE](./LICENSE.md) file for details.
+TiDB Community is under the Apache 2.0 license. See the [LICENSE](./LICENSE.md) file for details.
 
 ## Acknowledgements
 
-Thank you to the [Kubernetes](https://github.com/kubernetes/community),
-[Apache](http://activemq.apache.org/becoming-a-committer.html) and
-[Docker](https://github.com/docker/community) community pages for providing us
-with inspirations.
+Thank you to the [Kubernetes](https://github.com/kubernetes/community), [Apache](http://activemq.apache.org/becoming-a-committer.html) and [Docker](https://github.com/docker/community) community pages for providing us with inspirations.
