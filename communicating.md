@@ -8,17 +8,15 @@ members via any one of the following ways:
 
 [https://pingcap.com/tidbslack](https://pingcap.com/tidbslack)
 
+## Forum
+
+[https://internals.tidb.io](https://internals.tidb.io)
+
 ## Blog
 
 The TiDB Blog is a great resource pool to find content! We post the latest TiDB
 news including new releases and technical articles there. Check out this page:
 [pingcap/blog](https://pingcap.com/blog) or [pingcap/blog-cn](https://pingcap.com/blog-cn)(in Chinese).
-
-## TiDB Weekly
-
-[TiDB Weekly](https://pingcap.com/weekly) highlights content from the community
-along with the latest TiDB weekly update & news. You can read the TiDB Weekly
-archives to catch up on all of the latest TiDB updates and hacks.
 
 ## Others
 
@@ -26,4 +24,4 @@ archives to catch up on all of the latest TiDB updates and hacks.
 * Twitter: [https://twitter.com/PingCAP](https://twitter.com/PingCAP)
 * Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
 * Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
-* Google Groups: [https://groups.google.com/forum/#!forum/tidb-user](https://groups.google.com/forum/#!forum/tidb-user)
+* Mailing List: [https://lists.tidb.io](https://lists.tidb.io)
