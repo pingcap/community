@@ -78,7 +78,7 @@ English version of meeting minutes
 
 
 ## Decision Making
-Matters that require TOC members to make decisions can be proposed at the TOC meeting or submit pr under the Proposal folder.
+Matters that require TOC members to make decisions can be proposed at the TOC meeting or submit pr under the [Proposal folder](./Proposal).
 All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
 
 
