@@ -58,11 +58,11 @@ The current list of TOC members is as below.
 TOC members has no concept of tenure, but will retire under the following circumstances:
 - Actively choose to retire due to personal reasons.
 - When he/she can no longer participate in TOC affairs on behalf of this organization due to leaving or withdrawing from the organization they represent.
-- The represented organization no longer exists;
+- The organization he/she represents no longer exists.
 
 Retirees will become emeritus members of TOC.
 
-Emeritus Members:
+The list of TOC Emeritus Members is as below.
 
 - Xianlin Chen，Head of Technology Hub at PalFish
 - Qiang Zhou，Chaos Mesh® Maintainer
