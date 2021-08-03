@@ -25,7 +25,7 @@ TOC members come from community partners who have signed a cooperation agreement
 
 All official members of TOC have the right to nominate. Nominees are required to meet the following standards:
 
-- He/she must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision-making](#Decision Making), and participating in TOC monthly meetings.
+- He/she must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision-making](##Decision Making), and participating in TOC monthly meetings.
 - He/she must have a deep understanding of TiDB or related ecological technologies. He/she is at least the Committer of TiDB/TiKV/Chaos Mesh or TiDB ecological project.
 - He/she must belong to a certain organization of TOC membership and be able to participate in TOC on behalf of his/her organization.
 - He/she must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
