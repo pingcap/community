@@ -33,7 +33,7 @@ All official members of TOC have the right to nominate. Nominees are required to
 
 ## Vote for election
 
-After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./Proposal/Readme.md#lazy consensus).
+After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./Proposal/voting-rules.md).
 
 ## Members
 
