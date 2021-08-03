@@ -1,4 +1,4 @@
-# TiDB Community Technical Oversight Committee
+# TiDB Community Technical Oversight Committee (TOC)
 
 The TiDB Community TOC serves as the main bridge and channel for coordinating and information sharing across companies and organizations. It is the coordination center for solving problems in terms of resource mobilization, technical research and development direction in the current community and cooperative projects.
 
