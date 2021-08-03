@@ -25,7 +25,7 @@ TOC members come from community partners who have signed a cooperation agreement
 
 All official members of TOC have the right to nominate. Nominees are required to meet the following standards:
 
-- He/she must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision-making](./Proposal), and participating in TOC monthly meetings.
+- He/she must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./Proposal), and participating in TOC monthly meetings.
 - He/she must have a deep understanding of TiDB or related ecological technologies. He/she is at least the Committer of TiDB/TiKV/Chaos Mesh or TiDB ecological project.
 - He/she must belong to a certain organization of TOC membership and be able to participate in TOC on behalf of his/her organization.
 - He/she must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
@@ -56,6 +56,7 @@ The current list of TOC members is as below.
 ### Emeritus Members
 
 TOC members has no concept of tenure, but will retire under the following circumstances:
+
 - Actively choose to retire due to personal reasons.
 - When he/she can no longer participate in TOC affairs on behalf of this organization due to leaving or withdrawing from the organization they represent.
 - The organization he/she represents no longer exists.
@@ -71,12 +72,13 @@ The TOC monthly online meeting is held at 8 pm on the last Friday of each month.
 
 ### Meeting Minutes
 
-Chinese version of meeting minutes
-English version of meeting minutes
+[English version](https://docs.google.com/document/d/1m9Uk-JkqO_KaSZaLjL47hW1L_2Bp-yW1StCuGQzOFTk/edit)
 
+[Chinese version](https://docs.google.com/document/d/1KvavvwWpABbTEJO3IMLBykGMOUMq4soL2ityDryDqgw/edit)
 
 ## Decision Making
-Matters that require TOC members to make decisions can be proposed at the TOC meeting or submit pr under the [Proposal folder](./Proposal).
+Matters that require TOC members to make decisions can be proposed at the TOC meeting or indicated by a pull request adding an entry under the [Proposal folder](./Proposal).
+
 All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
 
 
