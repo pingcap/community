@@ -2,7 +2,7 @@
 
 The TiDB Community TOC serves as the main bridge and channel for coordinating and information sharing across companies and organizations. It is the coordination center for solving problems in terms of resource mobilization, technical research and development direction in the current community and cooperative projects.
 
-# Responsibilities:
+## Responsibilities:
 
 - Partner cooperation project progress monitoring and guidance
 - Supervision and guidance on the progress of the TiDB ecological project
@@ -12,7 +12,7 @@ The TiDB Community TOC serves as the main bridge and channel for coordinating an
 - Discussion and decision-making of community-related activities
 
 
-# Membership
+## Membership
 
 TOC members include official members and non-voting members:
 
@@ -21,7 +21,7 @@ TOC members include official members and non-voting members:
 
 TOC members come from community partners who have signed a cooperation agreement with PingCAP and representatives of important community projects. Each community partner has 1 official member seat. TiDB, TiKV and Chaos Mesh each have 1 official member seat. The seats of non-voting members are not limited.
 
-# Nomination
+## Nomination
 
 All official members of TOC have the right to nominate. Nominees are required to meet the following standards:
 
@@ -31,11 +31,11 @@ All official members of TOC have the right to nominate. Nominees are required to
 - He/she must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
 
 
-# Vote for election
+## Vote for election
 
 After nomination, the existing TOC members will vote for election and decide by lazy consensus.
 
-# Members
+## Members
 
 The current list of TOC members is as below.
 
@@ -53,7 +53,7 @@ The current list of TOC members is as below.
 | Cong Wang wangcong@pingcap.com | [bb7133](https://github.com/bb7133) | TiDB | TOC Non-voting Member |
 
 
-## Emeritus Members
+### Emeritus Members
 
 TOC members has no concept of tenure, but will retire under the following circumstances:
 - Actively choose to retire due to personal reasons.
@@ -68,16 +68,16 @@ Emeritus Members:
 - Qiang Zhou，Chaos Mesh® Maintainer
 
 
-# TOC Meeting
+## TOC Meeting
 The TOC monthly online meeting is held at 8 pm on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. If official members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
 
-## Meeting Minutes
+### Meeting Minutes
 
 Chinese version of meeting minutes
 English version of meeting minutes
 
 
-# Decision Making
+## Decision Making
 Matters that require TOC members to make decisions can be proposed at the TOC meeting or submit pr under the Proposal folder.
 All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
 
