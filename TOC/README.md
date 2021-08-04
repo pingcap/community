@@ -42,7 +42,7 @@ The current list of TOC members is as below.
 | Xiaoguang Sun sunxiaoguang@pingcap.com  | [sunxiaoguang](https://github.com/sunxiaoguang) | PingCAP | TOC Chairman |
 | Siddon Tang tl@pingcap.com | [siddontang](https://github.com/siddontang) | PingCAP | TOC Official Member |
 | Chengxuan Xu bigpyer@gmail.com | [niubell](https://github.com/niubell) | PalFish | TOC Official Member |
-| Yuqing Bai baiyuqing@zhihu.com | [](https://github.com/) | Zhihu | TOC Official Member |
+| Yuqing Bai baiyuqing@zhihu.com | [baiyuqing](https://github.com/baiyuqing) | Zhihu | TOC Official Member |
 | Jian Zhang zhangjian@pingcap.com | [zz-jason](https://github.com/zz-jason) | TiDB | TOC Official Member |
 | Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV | TOC Official Member |
 | Chengwen Yin cwen@pingcap.com | [cwen0](https://github.com/cwen0) | Chaos Mesh®  | TOC Official Member |
