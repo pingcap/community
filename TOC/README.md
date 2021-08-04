@@ -6,11 +6,9 @@ The TiDB Community TOC serves as the main bridge and channel for coordinating an
 
 - Partner cooperation project progress monitoring and guidance
 - Supervision and guidance on the progress of the TiDB ecological project
-- TUG demand feedback and resolution
 - Participate in technical route discussion and decision-making, such as version release and roadmap formulation, etc.
 - Open source collaboration process discussion and decision
 - Discussion and decision-making of community-related activities
-
 
 ## Membership
 
@@ -85,3 +83,4 @@ All TOC members have the right to make proposals. Only official members have the
 | Actions | Description | Approval | Binding Voters |  Minimum Length (days) |
 |:----|:----|:----|:----|:----|
 | New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./Proposal/voting-rules.md#lazy-consensus)  |  TOC Official Members  |  6  |
+| New Incubator Project |  When a project applys for incubation.  |  [Lazy Consensus](./Proposal/voting-rules.md#lazy-consensus)  |  TOC Official Members  |  6  |
