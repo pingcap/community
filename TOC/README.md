@@ -33,7 +33,7 @@ All official members of TOC have the right to nominate. Nominees are required to
 
 ## Vote for election
 
-After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./Proposal/voting-rules.md).
+After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./Proposal/voting-rules.md#lazy-consensus).
 
 ## Members
 
@@ -82,6 +82,6 @@ Matters that require TOC members to make decisions can be proposed at the TOC me
 All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
 
 
-|  Actions  | Description | Approval | Binding Voters |  Minimum Length (days) |
-|  ----  | ----  |  ----  | ----  | ----  |
-| New TOC Member |  When a new TOC member is nominated.  |  Lazy Consensus  |  TOC Official Members  |  6  |
+| Actions | Description | Approval | Binding Voters |  Minimum Length (days) |
+|:-----------|:----------------------------|:-----------------|:---------|:----|
+| New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./Proposal/voting-rules.md#lazy-consensus)  |  TOC Official Members  |  6  |
