@@ -83,5 +83,5 @@ All TOC members have the right to make proposals. Only official members have the
 
 
 | Actions | Description | Approval | Binding Voters |  Minimum Length (days) |
-|:----------------|:---------------------------------------|:-----------------|:---------|:---|
+|:----|:----|:----|:----|:----|
 | New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./Proposal/voting-rules.md#lazy-consensus)  |  TOC Official Members  |  6  |
