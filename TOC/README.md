@@ -17,14 +17,14 @@ TOC members include official members and non-voting members:
 - Official members have the right to participate in TOC meetings, propose proposals, and vote.
 - Non-voting members have the right to participate in TOC meetings, propose proposals, but do not have the right to vote.
 
-TOC members come from community partners who have signed a cooperation agreement with PingCAP and representatives of important community projects. Each community partner has 1 official member seat. TiDB, TiKV and Chaos Mesh each have 1 official member seat. The seats of non-voting members are not limited.
+TOC members come from community partners who have signed a cooperation agreement with PingCAP and representatives of important community projects. Each community partner has 1 official member seat. TiDB, TiKV and Chaos Mesh®  each have 1 official member seat. The seats of non-voting members are not limited.
 
 ## Nomination
 
 All official members of TOC have the right to nominate. Nominees are required to meet the following standards:
 
 - He/she must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./Proposal), and participating in TOC monthly meetings.
-- He/she must have a deep understanding of TiDB or related ecological technologies. He/she is at least the Committer of TiDB/TiKV/Chaos Mesh or TiDB ecological project.
+- He/she must have a deep understanding of TiDB or related ecological technologies. He/she is at least the Committer of TiDB/TiKV/Chaos Mesh®  or TiDB ecological project.
 - He/she must belong to a certain organization of TOC membership and be able to participate in TOC on behalf of his/her organization.
 - He/she must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
 
@@ -66,7 +66,9 @@ Retirees will become emeritus members of TOC. The list of emeritus members is as
 
 
 ## TOC Meeting
-The TOC monthly online meeting is held at 8 pm on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. If official members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
+The TOC monthly online meeting is held at 8 pm on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. 
+
+If official members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
 
 ### Meeting Minutes
 
