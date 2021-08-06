@@ -66,7 +66,7 @@ Retirees will become emeritus members of TOC. The list of emeritus members is as
 
 
 ## TOC Meeting
-The TOC monthly online meeting is held at 8 pm on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. 
+The TOC monthly online meeting is held at 8 pm (UTC+08:00) on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. 
 
 If official members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
 
