@@ -1,6 +1,6 @@
 # Voting Rules for TOC Members
 
-This guideline is used for the decision-making process of TOC members in the TiDB community. Refer to Apache's voting rules, decisions are usually made by [lazy consensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). If no consensus can be reached, the matter may be resolved by a majority vote. And potentially highly-controversial matters are recommended to be resolved by a majority vote, too.
+This guideline is used for the decision-making process of TOC members in the TiDB community. Refer to Apache's voting rules, decisions are usually made by [lazy consensus](#lazy-consensus). If no consensus can be reached, the matter may be resolved by a majority vote. And potentially highly-controversial matters are recommended to be resolved by a majority vote, too.
 
 ## Voting
 
@@ -10,7 +10,7 @@ All TOC members have the right to make proposals. Only official members have the
 
 ### Lazy Consensus
 
-The default decision-making mechanism in TiDB Community is [lazy consensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). This means that any proposal is considered supported by the community as long as nobody objects.
+The default decision-making mechanism in TiDB Community is lazy consensus, inspired by [Apache LazyConsensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). This means that any proposal is considered supported by the community as long as nobody objects.
 
 If any eligible voter raises objections, members eligible to vote will work together towards a solution that all involved can accept. This solution is again subject to lazy consensus.
 
