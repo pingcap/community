@@ -5,7 +5,7 @@ The TiDB Community TOC serves as the main bridge and channel for coordinating an
 ## Responsibilities:
 
 - Partner cooperation project progress monitoring and guidance
-- Supervision and guidance on the progress of the TiDB ecological project
+- Supervision and guidance on the progress of the projects in TiDB ecosystem.
 - Participate in technical route discussion and decision-making, such as version release and roadmap formulation, etc.
 - Open source collaboration process discussion and decision
 - Discussion and decision-making of community-related activities
@@ -24,7 +24,7 @@ TOC members come from community partners who have signed a cooperation agreement
 All official members of TOC have the right to nominate representative as new TOC member. The nominee is required to meet the following standards:
 
 - The nominee must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./Proposal), and participating in TOC monthly meetings.
-- The nominee must have a deep understanding of TiDB or related ecological technologies. The nominee is at least the Committer of TiDB/TiKV/Chaos Mesh®  or TiDB ecological project.
+- The nominee must have a deep understanding of TiDB or other projects in TiDB ecosystem.
 - The nominee must belong to a certain organization of TOC membership and be able to participate in TOC on behalf of his/her organization.
 - The nominee must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
 
