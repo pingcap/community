@@ -18,6 +18,6 @@ In case no consensus can be found, there will be a majority vote.
 
 ### Majority Vote
 
-The majority votes must be called explicitly in a separate pull request. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on and the scope of the vote. The proposal that received the most votes in favor will be the result.
+The majority votes must be called explicitly in a separate pull request. The title of the pr must be prefixed with VOTE. In the body, the call to vote must state the proposal being voted on and the scope of the vote. The proposal that received the most votes in favor will be the result.
 
 The voting result is valid unless at least  2/3 of those eligible to vote participate in the vote. If not until the voting deadline, there will be a meeting to discuss the topic, and another majority vote will be called.
