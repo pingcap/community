@@ -17,7 +17,13 @@ TOC members include official members and non-voting members:
 - Official members have the right to participate in TOC meetings, propose proposals, and vote.
 - Non-voting members have the right to participate in TOC meetings, propose proposals, but do not have the right to vote.
 
-TOC members come from community partners who have signed a cooperation agreement with PingCAP and representatives of important community projects.
+TOC members consist of representatives from:
+
+- PingCAP, who is the founder of TiDB.
+- Community partners who have signed a cooperation agreement with PingCAP.
+- Community projects.
+
+Now the community projects include [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv) and [Chaos Mesh®](https://github.com/chaos-mesh/chaos-mesh).
 
 ## Nomination
 
