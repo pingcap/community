@@ -23,7 +23,7 @@ TOC members come from community partners who have signed a cooperation agreement
 
 All official members of TOC have the right to nominate representative as new TOC member. The nominee is required to meet the following standards:
 
-- The nominee must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./Proposal), and participating in TOC monthly meetings.
+- The nominee must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./proposal), and participating in TOC monthly meetings.
 - The nominee must have a deep understanding of TiDB or other projects in TiDB ecosystem.
 - The nominee must belong to a certain organization or project of TOC membership and be able to participate in TOC on behalf of his/her organization.
 - The nominee must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
@@ -31,7 +31,7 @@ All official members of TOC have the right to nominate representative as new TOC
 
 ## Vote for election
 
-After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./Proposal/README.md#lazy-consensus).
+After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./proposal/README.md#lazy-consensus).
 
 ## Members
 
@@ -74,12 +74,12 @@ If official members cannot attend the monthly meeting for special reasons, they 
 
 
 ## Decision Making
-Matters that require TOC members to make decisions can be proposed at the TOC meeting or indicated by a pull request adding an entry under the [Proposal folder](./Proposal).
+Matters that require TOC members to make decisions can be proposed at the TOC meeting or indicated by a pull request adding an entry under the [proposal folder](./proposal).
 
 All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
 
 
 | Actions | Description | Approval | Binding Voters |  Minimum Length (days) |
 |:----|:----|:----|:----|:----|
-| New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./Proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
-| New Incubator Project |  When a project applys for incubation.  |  [Lazy Consensus](./Proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
+| New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
+| New Incubator Project |  When a project applys for incubation.  |  [Lazy Consensus](./proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
