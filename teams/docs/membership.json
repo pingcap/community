@@ -1,0 +1,59 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "lilin90",
+        "yikeke"
+    ],
+
+    "committers": [
+        "CaitinChen",
+        "CharLotteiu",
+        "DanielZhangQD",
+        "Liuxiaozhen12",
+        "SunRunAway",
+        "TomShawn",
+        "WangXiangUSTC",
+        "YiniXu9506",
+        "breeswish",
+        "cofyc",
+        "csuzhangxc",
+        "dcalvin",
+        "dragonly",
+        "jackysp",
+        "kissmydb",
+        "lance6716",
+        "lichunzhu",
+        "morgo",
+        "nullnotnil",
+        "overvenus",
+        "qiancai",
+        "queenypingcap",
+        "ran-huang",
+        "tangenta",
+        "toutdesuite"
+    ],
+
+    "reviewers": [
+        "3pointer",
+        "GMHDBJD",
+        "Joyinqin",
+        "Yisaer",
+        "amyangfei",
+        "anotherrachel",
+        "aylei",
+        "crazycs520",
+        "dveeden",
+        "ericsyh",
+        "glkappe",
+        "junlan-zhang",
+        "lucklove",
+        "lysu",
+        "superlzs0476",
+        "tiancaiamao",
+        "weekface",
+        "zimulala"
+    ]
+}

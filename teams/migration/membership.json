@@ -1,0 +1,41 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "amyangfei",
+        "kennytm",
+        "lance6716"
+    ],
+
+    "committers": [
+        "3pointer",
+        "5kbpers",
+        "Ehco1996",
+        "GMHDBJD",
+        "IANTHEREAL",
+        "Leavrth",
+        "Little-Wallace",
+        "WangXiangUSTC",
+        "YuJuncen",
+        "csuzhangxc",
+        "glorv",
+        "holys",
+        "july2993",
+        "leoppro",
+        "lichunzhu",
+        "liuzix",
+        "lonng",
+        "overvenus",
+        "suzaku",
+        "zwj-coder"
+    ],
+
+    "reviewers": [
+        "gozssky",
+        "hi-rustin",
+        "iamxy",
+        "tiancaiamao"
+    ]
+}
