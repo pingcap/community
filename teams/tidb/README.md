@@ -10,7 +10,7 @@ See [membership.json](membership.json)
 
 * [tidb](https://github.com/pingcap/tidb)
 * [parser](https://github.com/pingcap/parser)
-* [tidb-dashboard](https://github.com/pingcap/tidb-dashboard)
+* [br](https://github.com/pingcap/br)
 * [kvproto](https://github.com/pingcap/kvproto)
 * [tipb](https://github.com/pingcap/tipb)
 * [errcode](https://github.com/pingcap/errcode)
