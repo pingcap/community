@@ -2,7 +2,7 @@
   "name": "tiup",
   "techLeaders": [
     {
-      "githubName": "lonng"
+      "githubName": "AstroProfundis"
     },
     {
       "githubName": "lucklove"
@@ -11,7 +11,10 @@
   "coLeaders": [],
   "committers": [
     {
-      "githubName": "AstroProfundis"
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "nexustar"
     },
     {
       "githubName": "july2993"
