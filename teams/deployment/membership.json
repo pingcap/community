@@ -4,13 +4,10 @@
     ],
     
     "maintainers": [
-        "DanielZhangQD",
-        "lonng",
-        "lucklove"
+        "DanielZhangQD"
     ],
 
     "committers": [
-        "9547",
         "AstroProfundis",
         "LinuxGit",
         "Yisaer",
@@ -23,7 +20,6 @@
         "jlerche",
         "july2993",
         "mikechengwei",
-        "nrc",
         "onlymellb",
         "qiffang",
         "sdojjy",
@@ -34,8 +30,6 @@
 
     "reviewers": [
         "KanShiori",
-        "birdstorm",
-        "breeswish",
         "cvvz",
         "howardlau1999",
         "lichunzhu",
