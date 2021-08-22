@@ -5,6 +5,7 @@
     
     "maintainers": [
         "XuHuaiyu",
+        "amyangfei",
         "bb7133",
         "breeswish",
         "c4pt0r",
@@ -13,6 +14,7 @@
         "disksing",
         "jackysp",
         "kennytm",
+        "lance6716",
         "lonng",
         "ngaut",
         "qiuyesuifeng",
@@ -28,12 +30,18 @@
     ],
 
     "committers": [
+        "3pointer",
         "AilinKid",
         "Deardrops",
+        "Ehco1996",
+        "GMHDBJD",
+        "Leavrth",
+        "Little-Wallace",
         "MyonKeminta",
         "Reminiscent",
         "SunRunAway",
         "Yisaer",
+        "YuJuncen",
         "andylokandy",
         "b41sh",
         "crazycs520",
@@ -41,14 +49,18 @@
         "eurekaka",
         "francis0407",
         "fzhedu",
+        "glorv",
         "hanfei1991",
         "ichn-hu",
         "imtbkcat",
+        "lichunzhu",
+        "liuzix",
         "lysu",
         "lzmhhh123",
         "mmyj",
         "morgo",
         "nrc",
+        "overvenus",
         "rebelice",
         "sticnarf",
         "wjhuang2016",
@@ -56,7 +68,8 @@
         "xhebox",
         "xiongjiwei",
         "youjiali1995",
-        "zhouqiang-cl"
+        "zhouqiang-cl",
+        "zwj-coder"
     ],
 
     "reviewers": [
@@ -64,7 +77,9 @@
         "Tjianke",
         "TszKitLo40",
         "bobotu",
+        "gozssky",
         "guo-shaoge",
+        "hi-rustin",
         "js00070",
         "lamxTyler",
         "lcwangchao",
