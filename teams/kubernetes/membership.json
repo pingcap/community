@@ -4,7 +4,8 @@
     ],
     
     "maintainers": [
-        "DanielZhangQD"
+        "DanielZhangQD",
+        "csuzhangxc"
     ],
 
     "committers": [
@@ -13,7 +14,6 @@
         "Yisaer",
         "aylei",
         "cofyc",
-        "csuzhangxc",
         "dragonly",
         "gregwebs",
         "handlerww",
