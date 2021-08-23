@@ -2,7 +2,7 @@
 
 This folder holds all teams in the TiDB projects. This document defines governance policies of the teams.
 
-Teams are persistent open groups that focus on a part of the TiDB projects. A team has its reviewer, committer and maintainer, and owns one or more repositories.Team level decision making comes from its maintainers.
+Teams are persistent open groups that focus on a part of the TiDB projects. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.
 
 The [Technical Oversight Committee (TOC)](/toc/README.md) is in charge of team creation and retirement, and arbitrates divergence between team. But TOC members don't participant team level decision making directly.
 
@@ -14,7 +14,7 @@ Reviewers are individuals who actively make contribution and are willing to part
 
 Review access is by invitation only and must be approved by consensus of the maintainers. A reviewer is considered emeritus by their own declaration. An emeritus reviewer may request reinstatement of review access from the maintainers, which will be sufficient to restore him or her to active reviewer status.
 
-Review access can be revoked by consensus by the maintainers (except the reviewer in question if they are also a maintainer).
+Review access can be revoked by consensus by the maintainers.
 
 ### Committers
 
@@ -22,7 +22,7 @@ Committers are individuals who are granted the write access to the repositories 
 
 Commit access is by invitation only and must be approved by consensus of the maintainers. A committer is considered emeritus by their own declaration. An emeritus committer may request reinstatement of commit access from the maintainers, which will be sufficient to restore him or her to active committer status.
 
-Commit access can be revoked by consensus by the maintainers (except the committer in question if they are also a maintainer).
+Commit access can be revoked by consensus by the maintainers.
 
 ### Maintainers
 
