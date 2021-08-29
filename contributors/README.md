@@ -58,7 +58,7 @@ workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and
 ## Your First Contribution
 
 All set to contribute? You can start by finding an existing issue with the
-[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label in the tidb repository. These issues are well suited for new contributors.
+[help wanted](https://github.com/pingcap/tidb/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label in the tidb repository. These issues are well suited for new contributors.
 
 ## Before you open your PR
 
