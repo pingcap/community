@@ -1,0 +1,24 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "HunDunDM",
+        "baurine",
+        "breeswish"
+    ],
+
+    "committers": [
+        "Deardrops",
+        "zhongzc",
+        "crazycs520",
+        "iosmanthus",
+        "shhdgit"
+    ],
+
+    "reviewers": [
+        "Fullstop000",
+        "Renkai"
+    ]
+}

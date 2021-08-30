@@ -1,0 +1,38 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+    
+    "maintainers": [
+        "DanielZhangQD",
+        "csuzhangxc"
+    ],
+
+    "committers": [
+        "AstroProfundis",
+        "LinuxGit",
+        "Yisaer",
+        "aylei",
+        "cofyc",
+        "dragonly",
+        "gregwebs",
+        "handlerww",
+        "jlerche",
+        "july2993",
+        "mikechengwei",
+        "onlymellb",
+        "qiffang",
+        "sdojjy",
+        "shuijing198799",
+        "tennix",
+        "weekface"
+    ],
+
+    "reviewers": [
+        "KanShiori",
+        "cvvz",
+        "howardlau1999",
+        "lichunzhu",
+        "shonge"
+    ]
+}
