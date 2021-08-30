@@ -1,4 +1,4 @@
-# Deployment Team
+# Kubernetes Team
 
 This team works for Kubernetes and Docker integration.
 
