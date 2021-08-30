@@ -11,8 +11,6 @@ Your journey of becoming a contributor and committer starts from here: improving
 
 ![TiDB Community Architecture](./media/architecture.svg)
 
-See [`architecture`](./architecture/README.md) for details.
-
 ## TiDB User Group
 
 The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of information related to topics that have long term relevance to large groups of TiDB users.
