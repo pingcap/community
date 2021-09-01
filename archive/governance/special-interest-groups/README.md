@@ -18,7 +18,6 @@ And if you are new to tidb, and want to find a SIG to start, this [contribution 
 - [Migrate](sig-migrate)
 - [Diagnosis](sig-diagnosis)
 - [TiUP](sig-tiup)
-- [Web](sig-web)
 - [Community Infra](sig-community-infra)
 - [BigData](sig-bigdata)
 - [PostgreSQL](sig-postgresql)
