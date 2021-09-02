@@ -20,6 +20,12 @@ Thanks to all members in the special interest groups for developing the TiDB pro
 
 List of all members can be found at [special interest groups](special-interest-groups) archived directory.
 
+## Working Groups
+
+Thanks to all members in the working groups for developing the TiDB project from 2020 to 2021.
+
+List of all groups can be found at [working groups](working-groups) archived directory.
+
 ## Mechanism existed but never performed
 
 * Project Management Committee
