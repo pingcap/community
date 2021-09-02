@@ -1,4 +1,4 @@
-Summer of Code
+Google Summer of Code
 =====================
 
 Project Ideas
