@@ -2,8 +2,7 @@
 
 ## Goals
 
-Improve the efficiency of the cluster-based information query, state acquisition, log retrieval, one-click inspection, and fault diagnosis[tidb
-issue/13567](https://github.com/pingcap/tidb/issues/13567).
+Improve the efficiency of the cluster-based information query, state acquisition, log retrieval, one-click inspection, and fault diagnosis[tidb issue/13567](https://github.com/pingcap/tidb/issues/13567).
 
 ## Meetings
 
@@ -28,5 +27,4 @@ issue/13567](https://github.com/pingcap/tidb/issues/13567).
 
 ## Contact
 
-* Slack: channel **#wg-sql-diagnostics** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-sql-diagnostics** in the tidbcommunity slack workspace.

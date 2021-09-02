@@ -20,7 +20,7 @@ Now the backup & restore function in TiKV only supports backup of transactional 
 ## Contact
 
 * Slack: channel **#wg-raw-kv-backup-restore** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+  tidbcommunity slack workspace.
 
 ## Published Documents
 

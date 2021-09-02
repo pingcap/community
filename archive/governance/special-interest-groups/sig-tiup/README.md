@@ -21,7 +21,7 @@ See [SIG TiUP Member List](membership.json)
 
 ## Contact
 
-* Slack: channel #sig-tiup in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #sig-tiup in the tidbcommunity slack workspace.
 
 ## Code Locations
 

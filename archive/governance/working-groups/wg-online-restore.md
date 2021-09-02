@@ -6,6 +6,7 @@ Currently, Backup and Restore function in TiKV only supports offline restore, bu
 The goal of this working group is to support online restore, during which the online queries should not be impacted.
 
 Issues:
+
 - [BR supports online restore](https://github.com/pingcap/br/issues/87)
 
 
@@ -29,5 +30,4 @@ Issues:
 
 ## Contact
 
-* Slack: channel **#wg-online-restore** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-online-restore** in the tidbcommunity slack workspace.

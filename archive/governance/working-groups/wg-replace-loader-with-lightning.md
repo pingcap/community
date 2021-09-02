@@ -21,5 +21,4 @@ Issues:
 
 ## Contact
 
-* Slack: channel **#wg-lightning-as-loader** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-lightning-as-loader** in the tidbcommunity slack workspace.

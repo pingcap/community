@@ -27,4 +27,4 @@ See <https://github.com/pingcap/community/pull/123> for details.
 
 ## Contact
 
-* Slack: channel **#wg-dumpling** in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-dumpling** in the tidbcommunity slack workspace.

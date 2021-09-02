@@ -8,7 +8,7 @@ Here we mainly follow the instructions in TiDB Developer Group, including common
 
 You are welcomed to be a contributor once one of your PR about `${module name}` is merged.
 
-To have a discussion with us, just join our slack channel **#sig-k8s** in [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+To have a discussion with us, just join our slack channel **#sig-k8s** in tidbcommunity slack workspace.
 
 ### Promotion
 

@@ -30,5 +30,4 @@ Issues:
 
 ## Contact
 
-* Slack: channel **#wasm** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wasm** in the tidbcommunity slack workspace.
