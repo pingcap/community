@@ -62,144 +62,24 @@ The results of the challenge will be evaluated in teams. The organizing committe
 
 Make sure you read [Participation Notes](#participation-notes) before you apply for the program. To apply, select a target workload for optimization, and fill in the [application form](https://forms.pingcap.com/f/high-performance-challenge-en). Note that once the form is submitted, it cannot be modified.
 
-<table>
-  <tr>
-   <td>Workload
-   </td>
-   <td>Sub-workload 
-   </td>
-   <td>mentor
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbenchOltpInsert
-   </td>
-   <td>youjiali1995
-   </td>
-  </tr>
-  <tr>
-   <td>tpcc
-   </td>
-   <td>tpccHighConflicts
-   </td>
-   <td>Little-Wallace
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbenchOltpUpdateNonIndex
-   </td>
-   <td>sticnarf
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbenchOltpUpdateIndex
-   </td>
-   <td>tiancaiamao
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsbWorkloade
-   </td>
-   <td>xhebox
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbenchOltpPointSelect
-   </td>
-   <td> jackysp
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbenchOltpReadOnly
-   </td>
-   <td>bobotu
-   </td>
-  </tr>
-  <tr>
-   <td>tpcc
-   </td>
-   <td>tpcc-Low-Conflicts
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsb-Workloada
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsb-Workloadb
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsb-Workloadc
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsb-Workloadd
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>ycsb
-   </td>
-   <td>ycsb-Workloadf
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbench-Oltp_Write_Only
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbench-Oltp_Delete
-   </td>
-   <td>pending
-   </td>
-  </tr>
-  <tr>
-   <td>sysbench
-   </td>
-   <td>sysbench-Oltp_Read_Write
-   </td>
-   <td>pending
-   </td>
-  </tr>
-</table>
+| Workload | Sub-workload                   | mentor         |
+| -------- | ------------------------------ | :------------- |
+| sysbench | sysbench-Oltp_Insert           | youjiali1995   |
+| tpcc     | tpcc-High-Conflicts            | Little-Wallace |
+| sysbench | sysbench-Oltp_Update_Non_Index | sticnarf       |
+| sysbench | sysbench-Oltp_Update_Index     | tiancaiamao    |
+| ycsb     | ycsb-Workloade                 | xhebox         |
+| sysbench | sysbench-Oltp_Point_Select     | jackysp        |
+| sysbench | sysbench-Oltp_Read_Only        | bobotu         |
+| tpcc     | tpcc-Low-Conflicts             | pending        |
+| ycsb     | ycsb-Workloada                 | pending        |
+| ycsb     | ycsb-Workloadb                 | pending        |
+| ycsb     | ycsb-Workloadc                 | pending        |
+| ycsb     | ycsb-Workloadd                 | pending        |
+| ycsb     | ycsb-Workloadf                 | pending        |
+| sysbench | sysbench-Oltp_Write_Only       | pending        |
+| sysbench | sysbench-Oltp_Delete           | pending        |
+| sysbench | sysbench-Oltp_Read_Write       | pending        |
 
 ### Step 2: Submit your working branch
 

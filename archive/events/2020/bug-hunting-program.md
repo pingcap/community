@@ -78,88 +78,12 @@ where:
 *   Pn indicates the bug level. It is recommended you include an estimated bug level in the title according to the level table below. This makes the review process easier and more efficient.
 *   The issue title and content should be written in English.
 
-<table>
-  <tr>
-   <td>
-Bug level
-<p>
-(in descending order)
-   </td>
-   <td>Description
-   </td>
-   <td>Examples
-   </td>
-  </tr>
-  <tr>
-   <td>P0
-   </td>
-   <td>Data accuracy or service usability is affected.
-   </td>
-   <td>
-<ol>
-
-<li>Serious issues such as data loss and errors, wrong results returned by the query, and inconsistent results returned by the SQL output, etc.
-
-<li>Usability issues, such as service inaccessible for more than 30 seconds
-
-<li>Process crash, etc.
-<br /> Note: rare corner cases might be downgraded as deemed appropriately.
-
-
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>P1
-   </td>
-   <td>The function and performance do not meet expectations.
-   </td>
-   <td>
-<ol>
-
-<li>Abnormal execution plans
-
-<li>Monitoring does not meet expectations.
-
-<li>Performance degradation   compared to TiDB 3.0 (either for on-premise or public cloud deployment).
-
-<li>Abnormal output during function tests
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>P2
-   </td>
-   <td>Incompatible with MySQL (except officially stated as not compatible)
-   </td>
-   <td>
-<ol>
-
-<li>Incompatible behaviors, such as permissions, SQL errors, etc.
-
-<li>Incompatible error code
-</li>
-</ol>
-   </td>
-  </tr>
-  <tr>
-   <td>P3
-   </td>
-   <td>Documentation bugs
-   </td>
-   <td>
-<ol>
-
-<li>Wrong description of documentations in <a href="https://pingcap.com/docs/dev/">dev </a>version.
-
-<li>The error occurs in function usage documentation, or the expected result cannot be obtained.
-</li>
-</ol>
-   </td>
-  </tr>
-</table>
+| Bug Level (Descending) | Description                                                          | Examples                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------- | :------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| P0                     | Data accuracy or service usability is affected.                      | 1. Serious issues such as data loss and errors, wrong results returned by the query, and inconsistent results returned by the SQL output, etc.<br />2. Usability issues, such as service inaccessible for more than 30 seconds<br />3. Process crash, etc.<br />**Note: rare corner cases might be downgraded as deemed appropriately.** |
+| P1                     | The function and performance do not meet expectations.               | 1. Abnormal execution plans<br />2. Abnormal execution plans<br />3. Performance degradation compared to TiDB 3.0 (either for on-premise or public cloud deployment).<br />4. Performance degradation compared to TiDB 3.0 (either for on-premise or public cloud deployment).                                                           |
+| P2                     | Incompatible with MySQL (except officially stated as not compatible) | 1. Incompatible behaviors, such as permissions, SQL errors, etc.<br />2. Incompatible error code                                                                                                                                                                                                                                         |
+| P3                     | Documentation bugs                                                   | 1. Wrong description of documentations in [dev](https://pingcap.com/docs-cn/dev/) version.<br />2. The error occurs in function usage documentation, or the expected result cannot be obtained.                                                                                                                                          |
 
 > **Note:** The QA team from PingCAP reserves the right of interpretations with regard to the rating results.
 
@@ -169,12 +93,12 @@ Bug level
 
    The points will be granted based on the following table:
 
-   | Bug Level (Descending)| Points |
-   | ---------------- | ---- |
-   | P0               | 1000 |
-   | P1               | 500  |
-   | P2               | 100  |
-   | P3               | 50   |
+   | Bug Level (Descending) | Points |
+   | ---------------------- | :----- |
+   | P0                     | 1000   |
+   | P1                     | 500    |
+   | P2                     | 100    |
+   | P3                     | 50     |
 
 2. If the reported issue is verified not to be a bug, the QA team will label it as “non-bug” and close the issue. In this case, don't be frustrated and keep on hunting.
 
