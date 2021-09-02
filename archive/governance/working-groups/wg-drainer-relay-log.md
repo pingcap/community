@@ -22,5 +22,4 @@ The Drainer Relay Log Working Group aims to implement relay log in Drainer. Drai
 
 ## Contact
 
-* Slack: channel **#wg-drainer-relay-log** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-drainer-relay-log** in the tidbcommunity slack workspace.

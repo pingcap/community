@@ -8,7 +8,7 @@ Here we mainly follow the instructions in TiDB Developer Group, including common
 
 You are welcomed to be a contributor once one of your PR about data migration is merged.
 
-To have a discussion with us, just join our slack channel **[#sig-migrate](https://slack.tidb.io/invite?team=tidb-community&channel=sig-migrate&ref=github_sig)** in [tidbcommunity](https://pingcap.com/tidbslack) Slack workspace.
+To have a discussion with us, just join our slack channel **[#sig-migrate](https://slack.tidb.io/invite?team=tidb-community&channel=sig-migrate&ref=github_sig)** in tidbcommunity Slack workspace.
 
 ### Promotion
 

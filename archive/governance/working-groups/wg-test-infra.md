@@ -28,5 +28,4 @@ Works with this infra for some tests.
 
 ## Contact
 
-* Slack: channel **#wg-test-infra** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-test-infra** in the tidbcommunity slack workspace.

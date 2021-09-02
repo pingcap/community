@@ -26,7 +26,7 @@ See [SIG SQL-Infra Member List](membership.json)
 
 ## Contact
 
-* Slack: channel #sig-sql-infra in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace, you can join this channel through [this invitation link](https://slack.tidb.io/invite?team=tidb-community&channel=sig-sql-infra&ref=pingcap-community).
+* Slack: channel #sig-sql-infra in the tidbcommunity slack workspace, you can join this channel through [this invitation link](https://slack.tidb.io/invite?team=tidb-community&channel=sig-sql-infra&ref=pingcap-community).
 
 ## Repositories and Projects
 

@@ -27,5 +27,4 @@ Use a unified way to manage the configuration options of each component and supp
 
 ## Contact
 
-* Slack: channel **#wg-dynamic-configuration-change** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-dynamic-configuration-change** in the tidbcommunity slack workspace.

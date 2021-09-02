@@ -32,5 +32,4 @@ RFC: [Key Visualizer: The visualized hotspot profiler](https://github.com/tikv/r
 
 ## Contact
 
-* Slack: channel **#wg-key-visualizer** in the
-  [tikv-wg](tikv-wg.slack.com) slack workspace.
+* Slack: channel **#wg-key-visualizer** in the [tikv-wg](tikv-wg.slack.com) slack workspace.

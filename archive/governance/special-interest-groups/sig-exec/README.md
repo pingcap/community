@@ -22,7 +22,7 @@ See [SIG Exec Member List](https://contributor.tidb.io/sig/execution)
 
 ## Contact
 
-* Slack: channel #sig-exec in the [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel #sig-exec in the tidbcommunity slack workspace.
 
 ## Code Locations
 

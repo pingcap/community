@@ -30,5 +30,4 @@ Related design and docs:
 
 ## Contact
 
-* Slack: channel **#wg-dm-portal** in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#wg-dm-portal** in the tidbcommunity slack workspace.

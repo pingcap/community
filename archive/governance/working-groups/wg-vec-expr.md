@@ -2,8 +2,7 @@
 
 ## Goals
 
-Vectorizing all the builtin functions. You can find the function list in [tidb
-issue/12058](https://github.com/pingcap/tidb/issues/12058).
+Vectorizing all the builtin functions. You can find the function list in [tidb issue/12058](https://github.com/pingcap/tidb/issues/12058).
 
 ## Meetings
 
@@ -17,5 +16,4 @@ issue/12058](https://github.com/pingcap/tidb/issues/12058).
 
 ## Contact
 
-* Slack: channel **#sig-expr**(formerly #wg-vec-expr, it was renamed to #sig-expr after the expression special interest group founded) in the
-  [tidbcommunity](https://pingcap.com/tidbslack) slack workspace.
+* Slack: channel **#sig-expr**(formerly #wg-vec-expr, it was renamed to #sig-expr after the expression special interest group founded) in the tidbcommunity slack workspace.
