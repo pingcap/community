@@ -6,7 +6,7 @@ This package provides workload-related background knowledge and commonly used tu
 
 Workload-related background knowledge includes
 
-*   [tpcc ](http://www.tpc.org/tpcc/)
+*   [tpcc](http://www.tpc.org/tpcc/)
 *   [ycsb](https://github.com/brianfrankcooper/YCSB)
 *   [sysbench](https://github.com/akopytov/sysbench)
 
