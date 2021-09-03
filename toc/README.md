@@ -90,7 +90,7 @@ Only active (i.e. non-emeritus) TOC members have binding votes.
 
 ### Approvals
 
-* **Lazy Consensus**: A proposal is considered supported by the community as long as nobody objects. This is the default decision-making mechanism in TiDB Community, inspired by [Apache LazyConsensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). In case there is objection, and no consensus can be found, there will be a majority vote.
+* **Lazy Consensus**: A proposal is considered supported by the community as long as nobody objects. This is the default decision-making mechanism in TiDB Community, inspired by [Apache Lazy Consensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). In case there is objection, and no consensus can be found, there will be a majority vote.
 * **Majority Vote**: A majority vote must be called when there is no lazy consensus, in a separate pull request. It requires a 2/3 majority to pass. If not until the voting deadline, there will be a meeting to discuss the topic, and another majority vote will be called.
 
 ### Actions
