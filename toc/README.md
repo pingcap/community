@@ -4,18 +4,13 @@ The TiDB Community TOC serves as the main bridge and channel for coordinating an
 
 ## Responsibilities:
 
-- Partner cooperation project progress monitoring and guidance
+- Partner cooperation project progress monitoring and guidance.
 - Supervision and guidance on the progress of the projects in TiDB ecosystem.
 - Participate in technical route discussion and decision-making, such as roadmap formulation, etc.
-- Open source collaboration process discussion and decision
-- Discussion and decision-making of community-related activities
+- Open source collaboration process discussion and decision.
+- Discussion and decision-making of community-related activities.
 
 ## Membership
-
-TOC members include official members and non-voting members:
-
-- Official members have the right to participate in TOC meetings, propose proposals, and vote.
-- Non-voting members have the right to participate in TOC meetings, propose proposals, but do not have the right to vote.
 
 TOC members consist of representatives from:
 
@@ -25,37 +20,27 @@ TOC members consist of representatives from:
 
 Now the community projects include [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv) and [Chaos Mesh®](https://github.com/chaos-mesh/chaos-mesh).
 
-## Nomination
+## TOC Meeting
 
-All official members of TOC have the right to nominate representative as new TOC member. The nominee is required to meet the following standards:
+The TOC monthly online meeting is held at 8 pm (UTC+08:00) on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. 
 
-- The nominee must have enough energy to invest in TOC affairs, such as participating in TOC discussions and [decision making](./proposal), and participating in TOC monthly meetings.
-- The nominee must have a deep understanding of TiDB or other projects in TiDB ecosystem.
-- The nominee must belong to a certain organization or project of TOC membership and be able to participate in TOC on behalf of his/her organization.
-- The nominee must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
+If TOC members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
 
-
-## Vote for election
-
-After nomination, the existing TOC members will vote for election and decide by [lazy consensus](./proposal/README.md#lazy-consensus).
+[TOC Meeting minutes](https://docs.google.com/document/d/1m9Uk-JkqO_KaSZaLjL47hW1L_2Bp-yW1StCuGQzOFTk/edit)
 
 ## Members
 
 The current list of TOC members is as below.
 
-|  Name   | GitHub  | Affiliation | Membership |
-|  ----  | ----  |  ----  | ----  |
-| Xiaoguang Sun sunxiaoguang@pingcap.com  | [sunxiaoguang](https://github.com/sunxiaoguang) | PingCAP | TOC Chairman |
-| Siddon Tang tl@pingcap.com | [siddontang](https://github.com/siddontang) | PingCAP | TOC Official Member |
-| Chengxuan Xu bigpyer@gmail.com | [niubell](https://github.com/niubell) | PalFish | TOC Official Member |
-| Yuqing Bai baiyuqing@zhihu.com | [baiyuqing](https://github.com/baiyuqing) | Zhihu | TOC Official Member |
-| Jian Zhang zhangjian@pingcap.com | [zz-jason](https://github.com/zz-jason) | TiDB | TOC Official Member |
-| Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV | TOC Official Member |
-| Chengwen Yin cwen@pingcap.com | [cwen0](https://github.com/cwen0) | Chaos Mesh®  | TOC Official Member |
-| Dian Luo luodian@pingcap.com | [andylokandy](https://github.com/andylokandy) | TiKV | TOC Non-voting Member |
-| Jay Li jay@pingcap.com | [BusyJay](https://github.com/BusyJay) | TiKV | TOC Non-voting Member |
-| Cong Wang wangcong@pingcap.com | [bb7133](https://github.com/bb7133) | TiDB | TOC Non-voting Member |
-
+| Name                                   | GitHub                                                  | Affiliation | Membership   |
+| :------------------------------------- | ------------------------------------------------------- | ----------- | :----------- |
+| Xiaoguang Sun sunxiaoguang@pingcap.com | [sunxiaoguang](https://github.com/sunxiaoguang)         | PingCAP     | TOC Chairman |
+| Siddon Tang tl@pingcap.com             | [siddontang](https://github.com/siddontang)             | PingCAP     | TOC Member   |
+| Chengxuan Xu bigpyer@gmail.com         | [niubell](https://github.com/niubell)                   | PalFish     | TOC Member   |
+| Yuqing Bai baiyuqing@zhihu.com         | [baiyuqing](https://github.com/baiyuqing)               | Zhihu       | TOC Member   |
+| Jian Zhang zhangjian@pingcap.com       | [zz-jason](https://github.com/zz-jason)                 | TiDB        | TOC Member   |
+| Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV        | TOC Member   |
+| Chengwen Yin cwen@pingcap.com          | [cwen0](https://github.com/cwen0)                       | Chaos Mesh® | TOC Member   |
 
 ### Emeritus Members
 
@@ -70,22 +55,47 @@ Retirees will become emeritus members of TOC. The list of emeritus members is as
 - Xianlin Chen，Head of Technology Hub at PalFish
 - Qiang Zhou，Chaos Mesh® Maintainer
 
+### Nomination
 
-## TOC Meeting
-The TOC monthly online meeting is held at 8 pm (UTC+08:00) on the last Friday of each month. Meeting invitations will be sent through the TOC mail group: https://lists.tidb.io/g/toc. 
+All members of TOC have the right to nominate representative as new TOC member. The nominee is required to meet the following standards:
 
-If official members cannot attend the monthly meeting for special reasons, they must ask for leave in advance.
+- The nominee must have enough energy to invest in TOC affairs, such as participating in TOC discussions and decision making, and participating in TOC monthly meetings.
+- The nominee must have a deep understanding of TiDB or other projects in TiDB ecosystem.
+- The nominee must belong to a certain organization or project of TOC membership and be able to participate in TOC on behalf of his/her organization.
+- The nominee must put the community first and be able to balance the relationship between the interests of the organization and the interests of the community.
 
-[TOC Meeting minutes.](https://docs.google.com/document/d/1m9Uk-JkqO_KaSZaLjL47hW1L_2Bp-yW1StCuGQzOFTk/edit)
+### Vote for election
 
+After nomination, the existing TOC members will vote for election and decide by lazy consensus.
 
 ## Decision Making
-Matters that require TOC members to make decisions can be proposed at the TOC meeting or indicated by a pull request adding an entry under the [proposal folder](./proposal).
 
-All TOC members have the right to make proposals. Only official members have the right to vote, and each has 1 vote. Decisions are made by lazy consensus. If anyone votes against it, discussion is needed. If no agreement can be reached, Majority Vote will be used.
+Within the community, different types of decisions require different forms of approval. For example, the previous section describes several decisions which require 'lazy consensus' approval. This section defines how voting is performed, the types of approvals, and which types of decision require which type of approval.
 
+### Voting
 
-| Actions | Description | Approval | Binding Voters |  Minimum Length (days) |
-|:----|:----|:----|:----|:----|
-| New TOC Member |  When a new TOC member is nominated.  |  [Lazy Consensus](./proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
-| New Incubator Project |  When a project applys for incubation.  |  [Lazy Consensus](./proposal/README.md#lazy-consensus)  |  TOC Official Members  |  6  |
+Decisions regarding the community are made by votes on [the community repository](https://github.com/pingcap/community). Votes are clearly indicated by a pull request adding an entry under [votes](/votes/README.md) folder. Votes may contain multiple items for approval and these should be clearly separated. Voting is carried out by replying to the vote pull request.
+
+Voting must be open for at least 2 days. The deadline should be clearly stated in the call to vote.
+
+Voting may take three flavors:
+
+* **+1**: 'Yes,' 'Agree,' or 'the action should be performed.'
+* **0**: Neutral about the proposed action (or mildly negative but not enough so to want to block it).
+* **-1**: This is a negative vote. On issues where consensus is required, this vote counts as a veto. All vetoes must contain an explanation of why the veto is appropriate. Vetoes with no explanation are void. It may also be appropriate for a -1 vote to include an alternative course of action.
+
+All participants in the TiDB community are encouraged to show their agreement with or against a particular action by voting. But only the votes of TOC member are binding. Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider community.
+
+Only active (i.e. non-emeritus) TOC members have binding votes.
+
+### Approvals
+
+* **Lazy Consensus**: A proposal is considered supported by the community as long as nobody objects. This is the default decision-making mechanism in TiDB Community, inspired by [Apache LazyConsensus](https://www.apache.org/foundation/glossary.html#LazyConsensus). In case there is objection, and no consensus can be found, there will be a majority vote.
+* **Majority Vote**: A majority vote must be called when there is no lazy consensus, in a separate pull request. It requires a 2/3 majority to pass. If not until the voting deadline, there will be a meeting to discuss the topic, and another majority vote will be called.
+
+### Actions
+
+| Actions               | Description                            | Approval       | Binding Voters | Minimum Length (days) |
+| :-------------------- | :------------------------------------- | :------------- | :------------- | :-------------------- |
+| New TOC Member        | When a new TOC member is nominated.    | Lazy Consensus | TOC Members    | 6                     |
+| New Incubator Project | When a project applies for incubation. | Lazy Consensus | TOC Members    | 6                     |
