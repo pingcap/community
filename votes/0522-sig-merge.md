@@ -8,6 +8,10 @@ It is too complicated to inline here. See also [the original issue](https://gith
 
 The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
+## Scope
+
+* TOC
+
 ## Result
 
 Approved by 2 binding votes. See also [the decision making process](https://github.com/pingcap/community/pull/522).
