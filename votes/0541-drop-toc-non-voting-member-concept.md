@@ -1,4 +1,4 @@
-# A Vote for My Proposal
+# A Vote for Dropping TOC Non-voting Members
 
 ## Proposal
 
