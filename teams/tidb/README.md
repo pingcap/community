@@ -6,33 +6,33 @@ This team works for the sql engine of TiDB, and multiple utilities.
 
 See [membership.json](membership.json)
 
-The current list of maintainers is as below.
+The current list of TiDB maintainers is as below.
 
-| Name           | GitHub ID    | Membership |
-|:---------------|--------------|:-----------|
-| Huaiyu Xu      | XuHuaiyu     | Maintainer |
-| Fei Yang       | amyangfei    | Maintainer |
-| Cong Wang      | bb7133       | Maintainer |
-| Wenxuan Shi    | breeswish    | Maintainer |
-| Edward Huang   | c4pt0r       | Maintainer |
-| Rui Xu         | cfzjywxk     | Maintainer |
-| Yuxing Zhou    | coocood      | Maintainer |
-| Menglong Huang | disksing     | Maintainer |
-| Shuaipeng Yu   | jackysp      | Maintainer |
-| Kenny Chan     | kennytm      | Maintainer |
-| Yuan Tian      | lance6716    | Maintainer |
-| Heng Long      | lonng        | Maintainer |
-| Max Liu        | ngaut        | Maintainer |
-| Dylan Qiu      | qiuyesuifeng | Maintainer |
-| Yuan Jia       | qw4990       | Maintainer |
-| Li Shen        | shenli       | Maintainer |
-| Liu Tang       | siddontang   | Maintainer |
-| Jin Teng       | tangenta     | Maintainer |
-| Kangli Mao     | tiancaiamao  | Maintainer |
-| Wink Yao       | winkyao      | Maintainer |
-| Yiding Cui     | winoros      | Maintainer |
-| Xia Li         | zimulala     | Maintainer |
-| Jian Zhang     | zz-jason     | Maintainer |
+| Name           | GitHub ID    | Membership      |
+|:---------------|--------------|:----------------|
+| Huaiyu Xu      | XuHuaiyu     | TiDB Maintainer |
+| Fei Yang       | amyangfei    | TiDB Maintainer |
+| Cong Wang      | bb7133       | TiDB Maintainer |
+| Wenxuan Shi    | breeswish    | TiDB Maintainer |
+| Edward Huang   | c4pt0r       | TiDB Maintainer |
+| Rui Xu         | cfzjywxk     | TiDB Maintainer |
+| Yuxing Zhou    | coocood      | TiDB Maintainer |
+| Menglong Huang | disksing     | TiDB Maintainer |
+| Shuaipeng Yu   | jackysp      | TiDB Maintainer |
+| Kenny Chan     | kennytm      | TiDB Maintainer |
+| Yuan Tian      | lance6716    | TiDB Maintainer |
+| Heng Long      | lonng        | TiDB Maintainer |
+| Max Liu        | ngaut        | TiDB Maintainer |
+| Dylan Qiu      | qiuyesuifeng | TiDB Maintainer |
+| Yuan Jia       | qw4990       | TiDB Maintainer |
+| Li Shen        | shenli       | TiDB Maintainer |
+| Liu Tang       | siddontang   | TiDB Maintainer |
+| Jin Teng       | tangenta     | TiDB Maintainer |
+| Kangli Mao     | tiancaiamao  | TiDB Maintainer |
+| Wink Yao       | winkyao      | TiDB Maintainer |
+| Yiding Cui     | winoros      | TiDB Maintainer |
+| Xia Li         | zimulala     | TiDB Maintainer |
+| Jian Zhang     | zz-jason     | TiDB Maintainer |
 
 ## Repositories
 
