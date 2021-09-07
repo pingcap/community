@@ -25,7 +25,7 @@ The current list of TiDB maintainers is as below.
 | Yuanjia Zhang  | qw4990       | TiDB Maintainer |
 | Li Shen        | shenli       | TiDB Maintainer |
 | Liu Tang       | siddontang   | TiDB Maintainer |
-| Jinteng Xie    | tangenta     | TiDB Maintainer |
+| Tengjin Xie    | tangenta     | TiDB Maintainer |
 | Kangli Mao     | tiancaiamao  | TiDB Maintainer |
 | Wei Yao        | winkyao      | TiDB Maintainer |
 | Yiding Cui     | winoros      | TiDB Maintainer |
