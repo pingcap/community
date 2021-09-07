@@ -15,7 +15,7 @@ The vote will be open for at least 2 days unless there is an objection or not en
 
 ## Scope
 
-* TOC
+* Team TiDB
 
 ## Result
 
