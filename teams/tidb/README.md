@@ -1,7 +1,5 @@
 # TiDB Team
 
-This team works for the sql engine of TiDB, and multiple utilities.
-
 ## Members
 
 See [membership.json](membership.json)
@@ -14,7 +12,7 @@ The current list of TiDB maintainers is as below.
 | Fei Yang       | amyangfei    | TiDB Maintainer |
 | Cong Wang      | bb7133       | TiDB Maintainer |
 | Wenxuan Shi    | breeswish    | TiDB Maintainer |
-| Edward Huang   | c4pt0r       | TiDB Maintainer |
+| Dongxu Huang   | c4pt0r       | TiDB Maintainer |
 | Rui Xu         | cfzjywxk     | TiDB Maintainer |
 | Yuxing Zhou    | coocood      | TiDB Maintainer |
 | Menglong Huang | disksing     | TiDB Maintainer |
@@ -22,14 +20,14 @@ The current list of TiDB maintainers is as below.
 | Kenny Chan     | kennytm      | TiDB Maintainer |
 | Yuan Tian      | lance6716    | TiDB Maintainer |
 | Heng Long      | lonng        | TiDB Maintainer |
-| Max Liu        | ngaut        | TiDB Maintainer |
-| Dylan Qiu      | qiuyesuifeng | TiDB Maintainer |
-| Yuan Jia       | qw4990       | TiDB Maintainer |
+| Qi Liu         | ngaut        | TiDB Maintainer |
+| Qiu Cui        | qiuyesuifeng | TiDB Maintainer |
+| Yuanjia Zhang  | qw4990       | TiDB Maintainer |
 | Li Shen        | shenli       | TiDB Maintainer |
 | Liu Tang       | siddontang   | TiDB Maintainer |
-| Jinteng Xie    | tangenta     | TiDB Maintainer |
+| Tengjin Xie    | tangenta     | TiDB Maintainer |
 | Kangli Mao     | tiancaiamao  | TiDB Maintainer |
-| Wink Yao       | winkyao      | TiDB Maintainer |
+| Wei Yao        | winkyao      | TiDB Maintainer |
 | Yiding Cui     | winoros      | TiDB Maintainer |
 | Xia Li         | zimulala     | TiDB Maintainer |
 | Jian Zhang     | zz-jason     | TiDB Maintainer |
