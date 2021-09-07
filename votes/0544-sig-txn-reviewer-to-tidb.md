@@ -16,7 +16,7 @@ Add @ekexium, @longfangsong and @you06 as TiDB reviewers, all of whom are review
 
 ## Deadline
 
-The vote will be open for at least 2 days unless there is an objection or not enough votes.
+The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Scope
 
