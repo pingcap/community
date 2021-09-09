@@ -19,4 +19,10 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by binding votes, 1 non-binding votes:
+
+* bb7133 (binding)
+* wjhuang2016 (non-binding)
+* disksing (binding)
+* cfzjywxk (binding)
+* kennytm (binding)
