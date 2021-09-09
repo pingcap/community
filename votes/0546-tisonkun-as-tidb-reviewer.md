@@ -11,7 +11,7 @@ I (@bb7133) hereby nominate @tisonkun as TiDB Reviewer and call for a vote.
 
 ## Deadline
 
-The vote will be open for at least 2 days unless there is an objection or not enough votes.
+The vote will be open for at least 3 days unless there is an objection or not enough votes.
 
 ## Scope
 
