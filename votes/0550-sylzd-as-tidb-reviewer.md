@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@sylzd](https://github.com/sylzd) has been working on `pingcap/tidb` for several months, he has made contributions to varity of the components of TiDB(privileges, planner, statistics, executor, DDL...). IMO he shows good technical inspection from the discussions in the PRs. Also, @sylzd paticipated in the developments of 'temporary table' and and finished a series of TODOs(#27323, #26775, #27363..). The details of his contributions are listed as follow:
+[@sylzd](https://github.com/sylzd) has been working on `pingcap/tidb` for several months, he has made contributions to variety of the components of TiDB(privileges, planner, statistics, executor, DDL...). IMO he shows good technical inspection from the discussions in the PRs. Also, @sylzd participated in the developments of 'temporary table' and finished a series of TODOs(#27323, #26775, #27363..). The details of his contributions are listed as follow:
 
 * [Authored pull requests](https://github.com/pingcap/tidb/commits?author=sylzd).
 
