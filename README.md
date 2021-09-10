@@ -60,10 +60,6 @@ the TiDB architecture through the following blog posts:
 
 See [`rfc`](./rfc/README.md).
 
-## TiDB Roadmap
-
-See [TiDB Roadmap](https://docs.pingcap.com/tidb/dev/roadmap).
-
 ## Community Activities
 
 * [Hacktoberfest](./Hacktoberfest/README.md)
