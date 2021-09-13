@@ -24,4 +24,8 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by 3 binding votes:
+
+* bb7133 (binding)
+* disksing (binding)
+* winkyao (binding)
