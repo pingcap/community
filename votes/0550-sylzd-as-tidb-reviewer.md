@@ -20,4 +20,4 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+
