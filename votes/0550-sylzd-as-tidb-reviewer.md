@@ -20,7 +20,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 3 binding votes:
+Approved by 4 binding votes:
 
 * bb7133 (binding)
 * winkyao (binding)
