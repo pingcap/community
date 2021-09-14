@@ -7,17 +7,17 @@ Welcome to the TiDB Community! The main objective is to help members of the TiDB
 
 Your journey of becoming a contributor and committer starts from here: improving docs, improving code, giving talks, organizing meetups, etc.
 
-## Architecture
-
-![TiDB Community Architecture](./media/architecture.svg)
-
 ## TiDB User Group
+
+![User Group](media/user-group.jpeg)
 
 The TiDB User Groups (TUGs) are groups for facilitating communication and discovery of information related to topics that have long term relevance to large groups of TiDB users.
 
 See TiDB documentation in [English](https://docs.pingcap.com/tidb/stable) or [Chinese](https://docs.pingcap.com/zh/tidb/stable). You can also get help in [AskTUG.com (Chinese)](https://asktug.com/) if you encounter any problem.
 
 ## TiDB Developer Group
+
+![Developer Group](media/developer-group.jpeg)
 
 ### Communication
 
@@ -29,13 +29,9 @@ For more specific topics, join [TiDB Internals developer discussion forum](https
 
 TiDB has the following types of groups that are officially supported:
 
-* **Special Interest Groups (SIGs)** are persistent open groups that focus on a module of TiDB. SIGs must have open and transparent proceedings. The purpose of a SIG is to own and develop a module of TiDB.
+* **[Technical Oversight Committee (TOC)](toc/README.md)** serves as the main bridge and channel for coordinating and information sharing across companies and organizations. It is the coordination center for solving problems in terms of resource mobilization, technical research and development direction in the current community and cooperative projects.
 
-  See [`special-interest-groups`](./special-interest-groups/README.md) for details and active SIGs.
-
-* **Working Groups (WGs)** are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs.
-
-  See [`working-groups`](./working-groups/README.md) for details and active WGs.
+* **[Teams](teams/README.md)** are persistent open groups that focus on a part of the TiDB projects. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.
 
 ### How to contribute
 
