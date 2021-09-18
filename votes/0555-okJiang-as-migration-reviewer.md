@@ -15,4 +15,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 * Team Migration
 
 ## Result
-
+Approved by 2 binding votes, 1 non-binding vote:
+- lance6716 (binding)
+- lichunzhu (non-binding)
+- kennytm (binding)
