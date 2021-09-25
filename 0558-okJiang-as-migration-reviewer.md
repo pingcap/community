@@ -17,5 +17,6 @@ The vote will be open for at least 3 days unless there is an objection or not en
 ## Result
 
 Approved by 1 binding votes, 1 non-binding vote:
+
 - glorv (non-binding)
 - kennytm (binding)
