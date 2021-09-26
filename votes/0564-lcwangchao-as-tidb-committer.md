@@ -9,7 +9,7 @@ Here lists some details of his contributions:
 * [Authored pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3Alcwangchao+is%3Aclosed+).
 * [Reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Alcwangchao+)
 
-It is suggested to nominate @AndrewDi as TiDB committer and call for a vote for the following reasons:
+It is suggested to nominate @lcwangchao as TiDB committer and call for a vote for the following reasons:
 
 * His contributions covered a varity of modules of TiDB-Server(parser, executor, planner, DDL...)
 * He is the one who introduce the 'Local Temporary Table' support to TiDB, which is valuable for TiDB as a database.
