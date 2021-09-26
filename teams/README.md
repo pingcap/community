@@ -70,11 +70,11 @@ If you disagree with a valid veto, you must lobby the person casting the veto to
 
 ### Actions
 
-| Actions            | Description                                     | Approval      | Binding Voters     | Minimum Length (days) |
-| :----------------- | :---------------------------------------------- | :------------ | :----------------- | :-------------------- |
-| New Reviewer       | When a new reviewer is proposed for the team.   | Lazy Majority | Active maintainers | 3                     |
-| New Committer      | When a new committer is proposed for the team.  | Consensus     | Active maintainers | 6                     |
-| New Maintainer     | When a new maintainer is proposed for the team. | Consensus     | Active maintainers | 6                     |
-| Reviewer Removal   | When removal of review privileges is sought.    | Consensus     | Active maintainers | 6                     |
-| Committer Removal  | When removal of commit privileges is sought.    | Consensus     | Active maintainers | 6                     |
-| Maintainer Removal | When removal of maintain privileges is sought.  | Consensus     | Active maintainers | 6                     |
+| Actions            | Description                                                                               | Approval      | Binding Voters     | Minimum Length (days) |
+| :----------------- | :---------------------------------------------------------------------------------------- | :------------ | :----------------- | :-------------------- |
+| New Reviewer       | When a new reviewer is proposed for the team, should be only nominated by a maintainer.   | Lazy Majority | Active maintainers | 3                     |
+| New Committer      | When a new committer is proposed for the team, should be only nominated by a maintainer.  | Consensus     | Active maintainers | 6                     |
+| New Maintainer     | When a new maintainer is proposed for the team, should be only nominated by a maintainer. | Consensus     | Active maintainers | 6                     |
+| Reviewer Removal   | When removal of review privileges is sought.                                              | Consensus     | Active maintainers | 6                     |
+| Committer Removal  | When removal of commit privileges is sought.                                              | Consensus     | Active maintainers | 6                     |
+| Maintainer Removal | When removal of maintain privileges is sought.                                            | Consensus     | Active maintainers | 6                     |
