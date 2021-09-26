@@ -2,7 +2,7 @@
 
 ## Proposal
 
-I [@lcwangchao](https://github.com/lcwangchao) have been working on `pingcap/tidb` for several months. I have contributed a lot of bugfixes/enhancements for TiDB, among which the most noticable one is that I'm the author of 'Local Temporary Table' in TiDB.
+I ([@lcwangchao](https://github.com/lcwangchao)) have been working on `pingcap/tidb` for several months. I have contributed a lot of bugfixes/enhancements for TiDB, among which the most noticable one is that I'm the author of 'Local Temporary Table' in TiDB.
 
 Here lists some details of my contributions:
 
