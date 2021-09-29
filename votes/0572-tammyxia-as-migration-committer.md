@@ -6,12 +6,11 @@
 
 * [Authored bug issues](https://github.com/pingcap/ticdc/issues?q=is%3Aissue+author%3ATammyxia+label%3Atype%2Fbug+).
 
-
 I (@amyangfei) hereby nominate @Tammyxia as Migration Committer and call for a vote.
 
 ## Deadline
 
-The vote will be open for at least 3 days unless there is an objection or not enough votes.
+The vote will be open for at least 6 days unless there is an objection or not enough votes.
 
 ## Scope
 
