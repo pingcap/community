@@ -1,4 +1,4 @@
-![TiDB Community Logo](./media/community-logo.svg)
+![TiDB Community Logo](media/community-logo.svg)
 
 - [**Slack Channel**](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
 - [**Developer Discussion Forum**](https://internals.tidb.io)
@@ -21,7 +21,7 @@ See TiDB documentation in [English](https://docs.pingcap.com/tidb/stable) or [Ch
 
 ### Communication
 
-The [communicating.md](./communicating.md) file lists communication channels like chat, social medias, etc.
+The [communicating.md](communicating.md) file lists communication channels like chat, social medias, etc.
 
 For more specific topics, join [TiDB Internals developer discussion forum](https://internals.tidb.io) and post topics, or [TiDB Community slack workspace](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE) and discuss with others.
 
@@ -37,7 +37,7 @@ TiDB has the following types of groups that are officially supported:
 
 Contributions are welcomed and greatly appreciated.
 
-See [`contributors`](./contributors/README.md) for details.
+See [`contributors`](contributors/README.md) for details.
 
 All the contributors are welcomed to claim your reward by filing this [form](https://forms.pingcap.com/f/tidb-contribution-swag).
 
@@ -52,25 +52,17 @@ the TiDB architecture through the following blog posts:
 * TiDB Internal (II) - Computing: [English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/)
 * TiDB Internal (III) - Scheduling: [English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/)
 
-## RFC
-
-See [`rfc`](./rfc/README.md).
-
 ## Community Activities
 
-* [Hacktoberfest](./Hacktoberfest/README.md)
-* [Challenge Program](./challenge-programs/README.md)
+* [Archived Events](archive/events)
 * [Infra Meetup](https://github.com/pingcap/presentations/tree/master/Infra-Meetup)
-* [Hackathon 2019](https://github.com/pingcap/presentations/tree/master/hackathon-2019)
 * [Techday 2019](https://github.com/pingcap/presentations/tree/master/techday2019)
 * [Paper Reading](https://github.com/pingcap/presentations/blob/master/paper-reading.md)
-* [Summer of code](./soc/README.md)
 * [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
-* [PingCAP Incubator Program](./incubator/README.md)
 
 ## License
 
-TiDB Community is under the Apache 2.0 license. See the [LICENSE](./LICENSE.md) file for details.
+TiDB Community is under the Apache 2.0 license. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgements
 
