@@ -18,4 +18,7 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-(To be updated)Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by 1 binding votes, 1 non-binding vote:
+
+- lance6716 (binding)
+- overvenus (non-binding)
