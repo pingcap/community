@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@mjonss](https://github.com/mjonss) has been working on `pingcap/tidb` for the past half year. His work covers several TiDB components(planner, executor, privileges and security, usability...). Also, he gave a lot of good suggestions in the review comments. I think @mjonss shows his qualification as a review of `pingcap/tidb` repository. The details of his contributions are listed as follow:
+[@mjonss](https://github.com/mjonss) has been working on `pingcap/tidb` for the past half year. His work covers several TiDB components(planner, executor, privileges and security, usability...). Also, he gave a lot of good suggestions in the review comments. I think @mjonss shows his qualification as a reviewer of `pingcap/tidb` repository. The details of his contributions are listed as follow:
 
 * [Authored pull requests](https://github.com/pingcap/tidb/commits?author=mjonss).
 * [Reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Amjonss)
