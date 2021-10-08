@@ -20,8 +20,9 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 2 binding votes and 1 non-binding vote:
+Approved by 2 binding votes and 2 non-binding vote:
 
 * bb7133 (binding)
 * zimulala (binding)
+* xhebox (non-binding)
 * tisonkun (non-binding)
