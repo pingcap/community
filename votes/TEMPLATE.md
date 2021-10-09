@@ -21,4 +21,4 @@ or
 
 ## Result
 
-Conclude the voting result, including approvals and vetoes, binding and non-binding.
+See also https://github.com/pingcap/community/pull/{pull_request_id} .
