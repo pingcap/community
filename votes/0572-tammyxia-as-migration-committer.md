@@ -18,7 +18,8 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-Approved by 1 binding votes, 1 non-binding vote:
+Approved by 2 binding votes, 1 non-binding vote:
 
 - lance6716 (binding)
+- amyangfei (binding)
 - overvenus (non-binding)
