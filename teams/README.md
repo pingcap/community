@@ -44,7 +44,7 @@ Decisions regarding the project are made by votes on [the community repository](
 * **0**: Neutral about the proposed action (or mildly negative but not enough so to want to block it).
 * **-1**: This is a negative vote. On issues where consensus is required, this vote counts as a veto. All vetoes must contain an explanation of why the veto is appropriate. Vetoes with no explanation are void. It may also be appropriate for a -1 vote to include an alternative course of action.
 
-All participants in the TiDB community are encouraged to show their agreement with or against a particular action by voting. For team decisions, only the votes of active team maintainers are binding. Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider community.
+All participants in the TiDB community are encouraged to show their agreement with or against a particular action by voting. For team decisions, only the votes of active team maintainers are binding (no matter whether he/she is also the vote proposer or not). Non-binding votes are still useful for those with binding votes to understand the perception of an action in the wider community.
 
 Only active (i.e. non-emeritus) maintainers have binding votes.
 
