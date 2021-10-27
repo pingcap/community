@@ -1,7 +1,7 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "",
 
     "maintainers": [
         "XuHuaiyu",
@@ -105,5 +105,26 @@
         "you06",
         "zhangjinpeng1987",
         "zhuo-zhi"
+    ],
+
+    "repositories": [
+        "activerecord-tidb-adapter",
+        "badger",
+        "br",
+        "check",
+        "django-tidb",
+        "errcode",
+        "errors",
+        "failpoint",
+        "fn",
+        "kvproto",
+        "log",
+        "parser",
+        "sqlalchemy-tidb",
+        "sysutil",
+        "tidb",
+        "tidb-dev-guide",
+        "tidb-tools",
+        "tipb"
     ]
 }

@@ -1,8 +1,8 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "BigData team covers the areas where TiDB and big data are combined, including but not limited to TiDB + Flink, TiDB + Spark, TiDB + Presto.",
+
     "maintainers": [
         "birdstorm",
         "humengyu2012",
@@ -17,5 +17,12 @@
         "windtalker"
     ],
 
-    "reviewers": []
+    "reviewers": [],
+
+    "repositories": [
+        "tidb-incubator/TiBigData",
+        "tispark",
+        "tispark-test",
+        "tispark-test-data"
+    ]
 }

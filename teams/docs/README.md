@@ -1,6 +1,6 @@
 # Docs Team
 
-This team works for documentation of TiDB projects.
+Docs team covers the documentation of all PingCAP products, tools, or projects, both in English and in Chinese.
 
 ## Members
 
