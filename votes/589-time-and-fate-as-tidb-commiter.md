@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@time-and-fate](https://github.com/time-and-fate) has been working on `pingcap/tidb` for several days. He has contributed a lot of bugfixes/enhancements for TiDB, among which the most noticable one is that he is the one that re-implement the statistics part of the TiDB, help TiDB improve the accuracy of the statistics.
+[@time-and-fate](https://github.com/time-and-fate) has been working on `pingcap/tidb` for more than one year. He has contributed a lot of bugfixes/enhancements for TiDB, among which the most noticeable one is that he is the one that re-implement the statistics part of the TiDB, helping TiDB improve the accuracy of the statistics.
 
 Here lists some details of his contributions:
 
