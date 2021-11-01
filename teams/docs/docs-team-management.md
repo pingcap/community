@@ -4,7 +4,7 @@ We mainly follow the instructions in [TiDB Developer Group](https://github.com/p
 
 ## Join
 
-You are welcomed to be a contributor once one of your Pull Request (PR) about documentation is merged.
+You are welcome to be a contributor once one of your Pull Request (PR) about documentation is merged.
 
 To have a discussion with us, just join our Slack channel [#sig-docs](https://slack.tidb.io/invite?team=tidb-community&channel=sig-docs&ref=pingcap-community) in the TiDB Community Slack workspace.
 
