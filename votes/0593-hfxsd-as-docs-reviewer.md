@@ -16,7 +16,6 @@
     - docs: [#5457](https://github.com/pingcap/docs/issues/5457), [#6541](https://github.com/pingcap/docs/issues/6541)
     - docs-cn: [#7337](https://github.com/pingcap/docs-cn/issues/7337)
 
-
 I (@lilin90) hereby nominate @hfxsd as Docs Reviewer and call for a vote.
 
 ## Deadline
