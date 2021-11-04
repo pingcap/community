@@ -15,7 +15,7 @@ I (@bb7133) hereby nominate @tisonkun as TiDB committer and call for a vote.
 
 ## Deadline
 
-The vote will be open for at least 7 days unless there is an objection or not enough votes.
+The vote will be open for at least 6 days unless there is an objection or not enough votes.
 
 ## Scope
 
