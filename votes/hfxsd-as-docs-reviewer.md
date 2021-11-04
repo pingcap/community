@@ -12,6 +12,10 @@
     - [docs](https://github.com/pingcap/docs/pulls?q=is:pr+reviewed-by:hfxsd+is:merged+-author:ti-chi-bot): 9
     - [docs-cn](https://github.com/pingcap/docs-cn/pulls?q=is:pr+reviewed-by:hfxsd+is:merged+-author:ti-chi-bot): 9
     - [docs-dm](https://github.com/pingcap/docs-dm/pulls?q=is:pr+reviewed-by:hfxsd+is:merged+-author:ti-chi-bot): 8
+- Resolved issues
+    - docs: [#5457](https://github.com/pingcap/docs/issues/5457), [#6541](https://github.com/pingcap/docs/issues/6541)
+    - docs-cn: [#7337](https://github.com/pingcap/docs-cn/issues/7337)
+
 
 I (@lilin90) hereby nominate @hfxsd as Docs Reviewer and call for a vote.
 
