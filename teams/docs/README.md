@@ -12,6 +12,7 @@ See [membership.json](membership.json).
 * [docs-cn](https://github.com/pingcap/docs-cn)
 * [docs-dm](https://github.com/pingcap/docs-dm)
 * [docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator)
+* [docs-appdev](https://github.com/pingcap/docs-appdev)
 
 ## Team management
 

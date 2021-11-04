@@ -14,19 +14,20 @@ The membership of each role (Reviewer, Committer, Maintainer) is by invitation o
 
 ### Be promoted to Reviewer
 
-- For technical reviewers, you must meet all the following requirements:
+- For technical reviewers, you are expected to meet all the following requirements:
   - Have at least 10 PRs merged in documentation repositories within one year
   - Have reviewed at least 10 PRs in documentation repositories within one year
   - Have a good command of database knowledge
 
-- For editorial reviewers, you must meet all the following requirements:
+- For editorial reviewers, you are expected to meet all the following requirements:
   - Have at least 20 PRs merged in documentation repositories within one year
+  - Have reviewed at least 20 PRs in documentation repositories within one year
   - Have a general command of technical writing and documentation rules
   - Fix at least 2 or more issues of medium or low difficulty
 
 ### Be promoted to Committer
 
-Before you are promoted to a Committer, you must meet all the following requirements:
+Before you are promoted to a Committer, you are expected to meet all the following requirements:
 
 - Have a good command of technical writing and documentation rules
 - Resolve or complete at least 1 or more issues or tasks of high difficulty
