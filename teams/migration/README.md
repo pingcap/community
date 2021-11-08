@@ -1,6 +1,6 @@
 # Migration Team
 
-This team works for migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.
+Migrate covers migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.
 
 ## Members
 

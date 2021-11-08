@@ -1,8 +1,8 @@
 # PostgreSQL Team
 
-This team works for integration between TiDB and PostgreSQL protocol.
+PostgreSQL team works for integration between TiDB and PostgreSQL protocol.
 
-More details can be found in the [Design Document](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL/blob/main/DESIGN_DOCUMENT.md)
+More details can be found in the [Design Document](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL/blob/main/DESIGN_DOCUMENT.md).
 
 ## Members
 

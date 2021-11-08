@@ -1,6 +1,6 @@
 # Kubernetes Team
 
-This team works for Kubernetes and Docker integration.
+K8s team covers the TiDB Products on Kubernetes and Docker.
 
 * Supporting new features or improving performance for TiDB Products on Kubernetes and Docker.
 * Supporting TiDB ecosystem tools integrated natively with TiDB on Kubernetes.

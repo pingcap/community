@@ -1,8 +1,8 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "PostgreSQL team works for integration between TiDB and PostgreSQL protocol.",
+
     "maintainers": [
         "RogueJin",
         "pupillord"
@@ -17,5 +17,11 @@
         "studiolee"
     ],
 
-    "reviewers": []
+    "reviewers": [],
+
+    "repositories": [
+        "DigitalChinaOpenSource/DCParser",
+        "DigitalChinaOpenSource/TiDB-for-PostgreSQL",
+        "DigitalChinaOpenSource/dcbr"
+    ]
 }
