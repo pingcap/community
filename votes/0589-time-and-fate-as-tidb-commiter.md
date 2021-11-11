@@ -28,3 +28,5 @@ The vote will be open for at least 6 days unless there is an objection or not en
 Approved by 1 binding votes:
 
 * winoros (binding)
+* qw4990
+* bb7133
