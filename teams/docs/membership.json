@@ -1,8 +1,8 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "Docs team covers the documentation of all PingCAP products, tools, or projects, both in English and in Chinese.",
+
     "maintainers": [
         "TomShawn",
         "lilin90",
@@ -38,6 +38,7 @@
     "reviewers": [
         "3pointer",
         "GMHDBJD",
+        "hfxsd",
         "Joyinqin",
         "Yisaer",
         "amyangfei",
@@ -54,5 +55,13 @@
         "tiancaiamao",
         "weekface",
         "zimulala"
+    ],
+
+    "repositories": [
+        "docs",
+        "docs-appdev",
+        "docs-cn",
+        "docs-dm",
+        "docs-tidb-operator"
     ]
 }

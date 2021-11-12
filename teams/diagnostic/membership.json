@@ -1,8 +1,8 @@
 {
-    "_comment": [
-        "Items of lists in this file are in alphabetical order. Please keep it on modification."
-    ],
-    
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "Diagnostic team focuses on improving the diagnosability and observability of TiDB core components (TiDB, TiKV and PD).",
+
     "maintainers": [
         "HunDunDM",
         "baurine",
@@ -20,5 +20,9 @@
     "reviewers": [
         "Fullstop000",
         "Renkai"
+    ],
+
+    "repositories": [
+        "tidb-dashboard"
     ]
 }
