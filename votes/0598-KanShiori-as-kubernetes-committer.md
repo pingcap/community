@@ -11,7 +11,7 @@ IMO the work shows the contribution of @KanShiori, as well as his sense of respo
 * [60+ authored pull requests](https://github.com/pingcap/tidb-operator/pulls?q=is%3Apr+author%3AKanShiori+).
 * [30+ reviewed pull requests](https://github.com/pingcap/tidb-operator/pulls?q=is%3Apr+reviewed-by%3AKanshiori)
 
-I [@csuzhangxc](https://github.com/csuzhangxc) hereby nominate [@KanShiori](https://github.com/KanShiori) as Kubernetes committer and call for a vote.
+I ([@csuzhangxc](https://github.com/csuzhangxc)) hereby nominate [@KanShiori](https://github.com/KanShiori) as Kubernetes committer and call for a vote.
 
 ## Deadline
 
