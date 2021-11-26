@@ -10,7 +10,7 @@
 - Reviewed pull requests
     - [docs](https://github.com/pingcap/docs/pulls?q=is:pr+reviewed-by:en-jin19+is:merged+-author:ti-chi-bot): 26
     - [docs-cn](https://github.com/pingcap/docs-cn/pulls?q=is:pr+reviewed-by:en-jin19+is:merged+-author:ti-chi-bot): 17
-    - [docs-dm](https://github.com/pingcap/docs-dm/pulls?q=is:pr+reviewed-by:en-jin19+is:merged+-author:ti-chi-bot): 1
+    - [docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/pulls?q=is:pr+reviewed-by:en-jin19+is:merged+-author:ti-chi-bot): 1
 - Resolved issues
     - [docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+assignee%3Aen-jin19+is%3Aclosed): 3
 
