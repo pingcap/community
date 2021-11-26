@@ -11,7 +11,7 @@
     - [docs](https://github.com/pingcap/docs/pulls?q=is%3Apr+reviewed-by%3Ashichun-0415+is%3Amerged+-author%3Ati-chi-bot): 8
     - [docs-cn](https://github.com/pingcap/docs-cn/pulls?q=is%3Apr+reviewed-by%3Ashichun-0415+is%3Amerged+-author%3Ati-chi-bot): 13
 - Resolved issues
-    - [docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aclosed+assignee%3Ashichun-0415): 1
+    - [docs-cn](https://github.com/pingcap/docs-cn/issues?q=is%3Aissue+is%3Aclosed+assignee%3Ashichun-0415): 2
 
 I (@TomShawn) hereby nominate @shichun-0415 as Docs Reviewer and call for a vote.
 
