@@ -25,4 +25,9 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-(To be updated) Conclude the voting result, including approvals and vetoes, binding and non-binding.
+Approved by 3 binding votes:
+
+* lilin90 (binding)
+* qiancai (binding)
+* TomShawn (binding)
+* hfxsd (non-binding)
