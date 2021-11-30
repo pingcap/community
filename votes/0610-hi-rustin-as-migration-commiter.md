@@ -1,4 +1,4 @@
-# A Vote for hi-rustin as TiDB commiter
+# A Vote for hi-rustin as Migration commiter
 
 ## Proposal
 
