@@ -1,4 +1,4 @@
-# A Vote for sylzd as TiDB Reviewer
+# A Vote for hi-rustin as TiDB commiter
 
 ## Proposal
 
