@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@ngaut](https://github.com/ngaut) has contributed to TiDB documentation since the early stage of the TiDB project. He has given a lot of good suggestions to TiDB documentation in both Chinese and English, including improving the usability or friendliness, and guaranteeing the technical correctness. And he has a good command of database expertise. I think @ngaut shows his qualification as a reviewer of the Docs Team. The details of his contributions are listed as follows:
+[@ngaut](https://github.com/ngaut) has contributed to TiDB documentation since the early stage of the TiDB project. He has given a lot of good suggestions to TiDB documentation in both Chinese and English, including improving the usability or readability, and guaranteeing the technical correctness. And he has a great command of database expertise. I think @ngaut shows his qualification as a reviewer of the Docs Team. The details of his contributions are listed as follows:
 
 - Reviewed pull requests
     - [docs](https://github.com/pingcap/docs/pulls?q=is:pr+reviewed-by:ngaut+is:merged+-author:ti-chi-bot): 20
