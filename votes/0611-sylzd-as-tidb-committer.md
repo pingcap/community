@@ -11,7 +11,7 @@ IMO the work shows the contribution of @sylzd, as well as his sense of responsib
 * [40+ authored pull requests](https://github.com/pingcap/tidb/commits?author=sylzd).
 * [10+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%sylzd)
 
-I (@bb7133) hereby nominate @tisonkun as TiDB committer and call for a vote.
+I (@bb7133) hereby nominate @sylzd as TiDB committer and call for a vote.
 
 ## Deadline
 
