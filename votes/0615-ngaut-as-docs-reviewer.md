@@ -22,7 +22,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 3 binding votes and 2 non-binding votes:
+Approved by 3 binding votes and 1 non-binding votes:
 
 * lilin90 (binding)
 * qiancai (binding)
