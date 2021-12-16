@@ -4,9 +4,9 @@
 
 [@sdojjy](https://github.com/sdojjy) has been working on `pingcap/ticdc` for several months, he has made contributions to TiCDC sink components:
 
-* [Authored pull requests](https://github.com/pingcap/ticdc/commits?author=sdojjy).
+* [Authored pull requests](https://github.com/pingcap/ticdc/pulls?q=is%3Apr+author%3Asdojjy+is%3Aclosed).
 
-I (@overvenus) hereby nominate @sdojjy as Migration Committer and call for a vote.
+I (@overvenus) hereby nominate @sdojjy as Migration Reviewer and call for a vote.
 
 ## Deadline
 
@@ -18,6 +18,6 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by x binding votes:
+(To be updated) Conclude the voting result, including approvals and vetoes, binding and non-binding.
 
 See also https://github.com/pingcap/community/pull/615.
