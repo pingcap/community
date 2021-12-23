@@ -1,6 +1,6 @@
 {
     "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
-    
+
     "description": "Migrate covers migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.",
 
     "maintainers": [
@@ -40,8 +40,9 @@
         "ben1009",
         "gozssky",
         "iamxy",
-        "okJiang",
         "joccau",
+        "okJiang",
+        "sdojjy",
         "tiancaiamao"
     ],
 
