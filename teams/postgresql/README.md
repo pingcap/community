@@ -8,7 +8,7 @@ More details can be found in the [Design Document](https://github.com/DigitalChi
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL)
 * [DigitalChinaOpenSource/DCParser](https://github.com/DigitalChinaOpenSource/DCParser)

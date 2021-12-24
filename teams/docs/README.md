@@ -6,7 +6,7 @@ Docs team covers the documentation of all PingCAP products, tools, or projects, 
 
 See [membership.json](membership.json).
 
-## Repositories
+## Code Locations
 
 * [docs](https://github.com/pingcap/docs)
 * [docs-cn](https://github.com/pingcap/docs-cn)

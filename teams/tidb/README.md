@@ -32,11 +32,9 @@ The current list of TiDB maintainers is as below.
 | Xia Li         | zimulala     | TiDB Maintainer |
 | Jian Zhang     | zz-jason     | TiDB Maintainer |
 
-## Repositories
+## Code Locations
 
 * [tidb](https://github.com/pingcap/tidb)
-* [parser](https://github.com/pingcap/parser)
-* [br](https://github.com/pingcap/br)
 * [kvproto](https://github.com/pingcap/kvproto)
 * [tipb](https://github.com/pingcap/tipb)
 * [errcode](https://github.com/pingcap/errcode)
