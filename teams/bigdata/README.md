@@ -6,7 +6,7 @@ BigData team covers the areas where TiDB and big data are combined, including bu
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [tispark](https://github.com/pingcap/tispark)
 * [tispark-test](https://github.com/pingcap/tispark-test)

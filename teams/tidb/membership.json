@@ -80,7 +80,9 @@
 
     "reviewers": [
         "ChenPeng2013",
+        "Defined2014",
         "JmPotato",
+        "LittleFall",
         "Tjianke",
         "TszKitLo40",
         "aytrack",
@@ -93,7 +95,6 @@
         "hi-rustin",
         "js00070",
         "lamxTyler",
-        "LittleFall",
         "lcwangchao",
         "longfangsong",
         "mjonss",
@@ -107,15 +108,12 @@
         "xuyifangreeneyes",
         "you06",
         "zhangjinpeng1987",
-        "zhuo-zhi",
-        "Defined2014",
-        "joccau"
+        "zhuo-zhi"
     ],
 
     "repositories": [
         "activerecord-tidb-adapter",
         "badger",
-        "br",
         "check",
         "django-tidb",
         "errcode",
@@ -124,7 +122,6 @@
         "fn",
         "kvproto",
         "log",
-        "parser",
         "sqlalchemy-tidb",
         "sysutil",
         "tidb",

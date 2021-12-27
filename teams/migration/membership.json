@@ -15,7 +15,6 @@
         "asddongmen",
         "Ehco1996",
         "GMHDBJD",
-        "hi-rustin",
         "IANTHEREAL",
         "Leavrth",
         "Little-Wallace",
@@ -24,6 +23,7 @@
         "YuJuncen",
         "csuzhangxc",
         "glorv",
+        "hi-rustin",
         "holys",
         "july2993",
         "leoppro",
@@ -48,8 +48,8 @@
 
    "repositories": [
         "dm",
-        "dumpling",
-        "ticdc",
-        "tidb-binlog"
+        "tidb",
+        "tidb-binlog",
+        "tiflow"
     ]
 }
