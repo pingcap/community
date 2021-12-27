@@ -8,7 +8,7 @@ See [membership.json](membership.json)
 
 ## Repositories
 
-* [ticdc](https://github.com/pingcap/ticdc)
+* [tiflow](https://github.com/pingcap/tiflow)
 * [dm](https://github.com/pingcap/dm)
 * [dumpling](https://github.com/pingcap/dumpling)
 * [tidb-binlog](https://github.com/pingcap/tidb-binlog)
