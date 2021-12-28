@@ -7,7 +7,7 @@
 * [Authored pull requests(tiflow)](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+author%3AD3Hunter+is%3Aclosed).
 * [Authored pull requests(dm)](https://github.com/pingcap/dm/pulls?q=is%3Apr+author%3AD3Hunter+is%3Aclosed).
 
-[@WizardXiao](https://github.com/WizardXiao) has been working on `pingcap/tiflow` for several months, he has made  contributions in DM's sync module.
+[@WizardXiao](https://github.com/WizardXiao) has been working on `pingcap/tiflow` for several months, he has made contributions in DM's sync module.
 
 * [Authored pull requests](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+author%3AWizardXiao+is%3Aclosed).
 
@@ -24,6 +24,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 ## Result
 
 * lance6716 (binding)
+* amyangfei (binding)
 * lichunzhu (non-binding)
 * GMHDBJD (non-binding)
 * Ehco1996 (non-binding)
