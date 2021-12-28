@@ -12,6 +12,7 @@
     "committers": [
         "3pointer",
         "5kbpers",
+        "asddongmen",
         "Ehco1996",
         "GMHDBJD",
         "IANTHEREAL",
@@ -42,6 +43,7 @@
         "ben1009",
         "gozssky",
         "iamxy",
+        "joccau",
         "okJiang",
         "sdojjy",
         "tiancaiamao"
@@ -49,8 +51,8 @@
 
    "repositories": [
         "dm",
-        "dumpling",
-        "ticdc",
-        "tidb-binlog"
+        "tidb",
+        "tidb-binlog",
+        "tiflow"
     ]
 }

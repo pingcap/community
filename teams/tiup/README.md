@@ -6,6 +6,6 @@ This team works for TiUP, a tool to download and install TiDB components.
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [tiup](https://github.com/pingcap/tiup)

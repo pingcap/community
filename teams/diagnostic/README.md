@@ -6,6 +6,6 @@ Diagnostic team focuses on improving the diagnosability and observability of TiD
 
 See [membership.json](membership.json)
 
-## Repositories
+## Code Locations
 
 * [tidb-dashboard](https://github.com/pingcap/tidb-dashboard)
