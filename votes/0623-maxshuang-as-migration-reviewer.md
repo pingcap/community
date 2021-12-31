@@ -18,6 +18,11 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 0 binding votes:
+Approved by 2 binding votes and 2 non-binding votes:
+
+* amyangfei (binding)
+* hi-rustin (non-binding)
+* lance6716 (binding)
+* overvenus (non-binding)
 
 See also https://github.com/pingcap/community/pull/623.
