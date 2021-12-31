@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@maxshuang](https://github.com/maxshuang) has been working on `pingcap/tiflow` for several months, he has made contributions in ticdc kv-client and mounter module and fix many bugs.
+[@maxshuang](https://github.com/maxshuang) has been working on `pingcap/tiflow` for several months, he has made contributions in ticdc kv-client module, mounter module and refactor of unit test framework.
 
 * [Authored pull requests(tiflow)](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+is%3Aclosed+author%3Amaxshuang).
 
