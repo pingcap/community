@@ -25,28 +25,9 @@ The ti-srebot still creates cherry-pick pull requests according to the `affects-
 
 The final workflow is:
 
-```mermaid
-graph TD
-    A[new bug issue] --> B(auto add type/bug label)
-    B --> C(triager add severity/xx label)
-    C --> D{if it's severity/critical or severity/major}
-    D --> |Yes| E(bot adds may-affect-x.x labels)
-    D --> |No| H
-    E --> F(triagers diagnose each version and change may-affect-x.x label to affects-x.x label)
-    F --> G(bot creates cherry-pick pull requests according to affects-x.x labels)
-    G --> H[end]
-```
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW25ldyBidWcgaXNzdWVdIC0tPiBCKGF1dG8gYWRkIHR5cGUvYnVnIGxhYmVsKVxuICAgIEIgLS0-IEModHJpYWdlciBhZGQgc2V2ZXJpdHkveHggbGFiZWwpXG4gICAgQyAtLT4gRHtpZiBpdCdzIHNldmVyaXR5L2NyaXRpY2FsIG9yIHNldmVyaXR5L21ham9yfVxuICAgIEQgLS0-IHxZZXN8IEUoYm90IGFkZHMgbWF5LWFmZmVjdC14LnggbGFiZWxzKVxuICAgIEQgLS0-IHxOb3wgSFxuICAgIEUgLS0-IEYodHJpYWdlcnMgZGlhZ25vc2UgZWFjaCB2ZXJzaW9uIGFuZCBjaGFuZ2UgbWF5LWFmZmVjdC14LnggbGFiZWwgdG8gYWZmZWN0cy14LnggbGFiZWwpXG4gICAgRiAtLT4gRyhib3QgY3JlYXRlcyBjaGVycnktcGljayBwdWxsIHJlcXVlc3RzIGFjY29yZGluZyB0byBhZmZlY3RzLXgueCBsYWJlbHMpXG4gICAgRyAtLT4gSFtlbmRdIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOmZhbHNlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW25ldyBidWcgaXNzdWVdIC0tPiBCKGF1dG8gYWRkIHR5cGUvYnVnIGxhYmVsKVxuICAgIEIgLS0-IEModHJpYWdlciBhZGQgc2V2ZXJpdHkveHggbGFiZWwpXG4gICAgQyAtLT4gRHtpZiBpdCdzIHNldmVyaXR5L2NyaXRpY2FsIG9yIHNldmVyaXR5L21ham9yfVxuICAgIEQgLS0-IHxZZXN8IEUoYm90IGFkZHMgbWF5LWFmZmVjdC14LnggbGFiZWxzKVxuICAgIEQgLS0-IHxOb3wgSFxuICAgIEUgLS0-IEYodHJpYWdlcnMgZGlhZ25vc2UgZWFjaCB2ZXJzaW9uIGFuZCBjaGFuZ2UgbWF5LWFmZmVjdC14LnggbGFiZWwgdG8gYWZmZWN0cy14LnggbGFiZWwpXG4gICAgRiAtLT4gRyhib3QgY3JlYXRlcyBjaGVycnktcGljayBwdWxsIHJlcXVlc3RzIGFjY29yZGluZyB0byBhZmZlY3RzLXgueCBsYWJlbHMpXG4gICAgRyAtLT4gSFtlbmRdIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjpmYWxzZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
 
-```mermaid
-graph TD
-    A[merge pull request] --> B{has corresponding issue}
-    B --> |Yes| C{issue is of type/bug and severity/critical or severity/major}
-    B --> |No| D[forbid to merge]
-    C --> |Yes| E{has any may-affect-x.x label}
-    C --> |No| F
-    E --> |Yes| D
-    E --> |No| F[merge]
-```
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW21lcmdlIHB1bGwgcmVxdWVzdF0gLS0-IEJ7aGFzIGNvcnJlc3BvbmRpbmcgaXNzdWV9XG4gICAgQiAtLT4gfFllc3wgQ3tpc3N1ZSBpcyBvZiB0eXBlL2J1ZyBhbmQgc2V2ZXJpdHkvY3JpdGljYWwgb3Igc2V2ZXJpdHkvbWFqb3J9XG4gICAgQiAtLT4gfE5vfCBEW2ZvcmJpZCB0byBtZXJnZV1cbiAgICBDIC0tPiB8WWVzfCBFe2hhcyBhbnkgbWF5LWFmZmVjdC14LnggbGFiZWx9XG4gICAgQyAtLT4gfE5vfCBGXG4gICAgRSAtLT4gfFllc3wgRFxuICAgIEUgLS0-IHxOb3wgRlttZXJnZV0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6ZmFsc2UsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW21lcmdlIHB1bGwgcmVxdWVzdF0gLS0-IEJ7aGFzIGNvcnJlc3BvbmRpbmcgaXNzdWV9XG4gICAgQiAtLT4gfFllc3wgQ3tpc3N1ZSBpcyBvZiB0eXBlL2J1ZyBhbmQgc2V2ZXJpdHkvY3JpdGljYWwgb3Igc2V2ZXJpdHkvbWFqb3J9XG4gICAgQiAtLT4gfE5vfCBEW2ZvcmJpZCB0byBtZXJnZV1cbiAgICBDIC0tPiB8WWVzfCBFe2hhcyBhbnkgbWF5LWFmZmVjdC14LnggbGFiZWx9XG4gICAgQyAtLT4gfE5vfCBGXG4gICAgRSAtLT4gfFllc3wgRFxuICAgIEUgLS0-IHxOb3wgRlttZXJnZV0iLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOmZhbHNlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
 
 ## Affected Repositories
 
