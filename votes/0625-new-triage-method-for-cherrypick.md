@@ -42,7 +42,7 @@ By the way, there is also a `needs-more-info` label. Every time an issue is clos
 ## Affected Repositories
 
 * tidb
-* ticdc
+* tiflow
 * tidb-tools
 * tidb-binlog
 * ng-monitoring
