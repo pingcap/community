@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@xuanyu66](https://github.com/xuanyu66) has been working on `pingcap/tidb` for several months, he has developed the Pub/Sub mode and provided several high-quality reviews for the feature TopSQL. The details of his contributions are listed as follow:
+[@xuanyu66](https://github.com/xuanyu66) has been working on `pingcap/tispark` for several months, he has developed the authentication and authorization feature and fixed the compatibility with Scala-2.11. The details of his contributions are listed as follow:
 
 * [Authored pull requests](https://github.com/pingcap/tispark/commits?author=xuanyu66)
 * [Reviewed pull requests](https://github.com/pingcap/tispark/pulls?q=is%3Apr+reviewed-by%3Axuanyu66)
