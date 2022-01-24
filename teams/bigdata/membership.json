@@ -17,7 +17,9 @@
         "windtalker"
     ],
 
-    "reviewers": [],
+    "reviewers": [
+        "xuanyu66"
+    ],
 
     "repositories": [
         "tidb-incubator/TiBigData",
