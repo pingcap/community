@@ -1,4 +1,4 @@
-# A Vote for xuanyu66 as TiDB reviewer
+# A Vote for xuanyu66 as BigData reviewer
 
 ## Proposal
 
@@ -7,7 +7,7 @@
 * [Authored pull requests](https://github.com/pingcap/tispark/commits?author=xuanyu66)
 * [Reviewed pull requests](https://github.com/pingcap/tispark/pulls?q=is%3Apr+reviewed-by%3Axuanyu66)
 
-I (@sunxiaoguang) hereby nominate @xuanyu66 as TiDB reviewer and call for a vote.
+I (@sunxiaoguang) hereby nominate @xuanyu66 as BigData reviewer and call for a vote.
 
 ## Deadline
 
@@ -15,7 +15,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Scope
 
-* Team TiDB
+* Team BigData
 
 ## Result
 
