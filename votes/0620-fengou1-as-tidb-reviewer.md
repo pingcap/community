@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@fengou1](https://github.com/fengou1) has been has been working on `pingcap/tidb` for several months, he has made contributions in BR module and fix many bugs.
+[@fengou1](https://github.com/fengou1) has been working on `pingcap/tidb` for several months, he has made contributions in BR module and fix many bugs.
 
 * [Authored pull requests(br)](https://github.com/pingcap/br/pulls?q=is%3Apr+author%3Afengou1+is%3Aclosed).
 * [Authored pull requests(tidb)](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3Afengou1+is%3Aclosed).
