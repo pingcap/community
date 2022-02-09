@@ -24,7 +24,7 @@ I (@qiancai) hereby nominate @en-jin19 as Docs Committer and call for a vote.
 
 ## Deadline
 
-The vote will be open for at least 3 days unless there is an objection or not enough votes.
+The vote will be open for at least 6 days unless there is an objection or not enough votes.
 
 ## Scope
 
