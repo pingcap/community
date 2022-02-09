@@ -12,6 +12,7 @@ I think @shichun-0415 shows her qualification as a committer of the Docs Team. T
     - [docs-cn](https://github.com/pingcap/docs-cn/pulls?q=is%3Apr+is%3Amerged+author%3Ashichun-0415): 41
 
 - Reviewed pull requests
+
     - [docs](https://github.com/pingcap/docs/pulls?q=is%3Apr+reviewed-by%3Ashichun-0415+is%3Amerged+-author%3Ati-chi-bot): 63
     - [docs-cn](https://github.com/pingcap/docs-cn/pulls?q=is%3Apr+reviewed-by%3Ashichun-0415+is%3Amerged+-author%3Ati-chi-bot): 65
     - [docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator/pulls?q=is%3Apr+reviewed-by%3Ashichun-0415+is%3Amerged+-author%3Ati-chi-bot): 7
