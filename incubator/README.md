@@ -3,9 +3,9 @@
 TiDB Incubator Program is inspired by the CNCF incubating process. The process is designed to ensure that new projects have correct licensing, up-to-date boilerplate documents, a healthy community process.
 
 All programs should follow the incubating process to start a project. Once going through the incubation process, they can be moved from [TiDB Incubator](https://github.com/tidb-incubator) to
-- [TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) organization.
-- their own organization.
-- PingCAP organization. But this need to be approved by the ToC.
+* [TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) organization.
+* their own organization.
+* PingCAP organization. But this need to be approved by the ToC.
 
 ## Content
 
@@ -38,9 +38,9 @@ You can write a proposal via GitHub Issue(see [example](https://github.com/pingc
 
 * Problems to be solved.
 * Project goal and roadmap.
-* Usage samples and architecure design.
+* Usage samples and architecture design.
 * Initial team maintainers and their contact details.
-* Estimated gradution time. Generally, Projects are expected to graduate **within 12 months**.
+* Estimated graduation time. Generally, Projects are expected to graduate **within 12 months**.
 
 If you have more information to present, welcome to include them.
 
@@ -65,7 +65,7 @@ For every incubating project, it's required their maintainers being responsive f
 
 ### Graduation
 
-Incubating projects graduation process includes the following items:
+Incubating projects graduation process includes the following steps:
 
 1. Create an issue for graduation in [community](https://github.com/pingcap/community/) repository. The issue should clearly describe the project status of [Projects Approval criteria](#projects-approval-criteria.md).
 2. TOC members arrange a graduation presentation (if necessary)
@@ -75,28 +75,28 @@ Incubating projects graduation process includes the following items:
 ## Benefits
 
 Projects attend TiDB incubator will totally operate as an open source project. So the maintainers benefit from:
-- First-hand practical experience
-- The participant fully as an organizer or community member
-- The project will be maintained continuously after it is finished
+* First-hand practical experience
+* The participant fully as an organizer or community member
+* The project will be maintained continuously after it is finished
 
 The TiDB community will provide marketing supports for successfully incubating and graduated projects to help them quickly gain the attention of the community and the public. Marketing supports mainly include but not limited to: emails, blogs, online media, online and offline events:
-- Announce the incubating and graduation of the project through the TiDB Community's self-publishing channels.
-- Provide a presentation opportunity for the incubating or graduated project at the next TiDB Developer Conference after graduation.
-- Provide community and media exposure for subsequent major releases of the project.
+* Announce the incubating and graduation of the project through the TiDB Community's self-publishing channels.
+* Provide a presentation opportunity for the incubating or graduated project at the next TiDB Developer Conference after graduation.
+* Provide community and media exposure for subsequent major releases of the project.
 
 ## Projects Approval Criteria
 
-To graduate from incubating status, a project must meet two main criterias:
+To graduate from incubating status, a project must meet two main criteria:
 
 * Accomplished all the design goal and roadmap for the project.
 * Build an open source community around the project.
   * Has detailed user documentation and basic reference manuals.
   * Has an automated continuous integration test infrastructure (CI).
-  * Has a clear open source contribution worflow(can follow the workflow of TiDB).
+  * Has a clear open source contribution workflow(can follow the workflow of TiDB).
   * Has a clear member promotion path, with basic community governance documentation(can follow the governance of TiDB Community).
   * Has a clear release method and release cycle, with release notes provided for every release.
-  * Has at least two more contributors besides the inital maintainers. Contributions include but not limited to code, documentation, review.
+  * Has at least two more contributors besides the initial maintainers. Contributions include but not limited to code, documentation, review.
 
-The ToC will decide based on the criterias whether the project has met gruduation maturity level.
+The ToC will decide based on the criteria whether the project has met graduation maturity level.
 
 Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within 12 months. If the project fails to graduate within 12 months, TOC has the right to decide whether to stop incubating the project.
