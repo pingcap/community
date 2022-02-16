@@ -18,9 +18,9 @@ A release note with a distinguishable type can help users quickly identify the n
 
 Depending on what your PR changes, you can refer to one of the following release note types:
 
-- Compatibility change（兼容性更改）
-- Improvement（提升改进）or Feature enhancement（功能增强）
-- Bug fix（Bug 修复）
+- Compatibility change
+- Improvement or Feature enhancement
+- Bug fix
 
 ## Compatibility change
 
