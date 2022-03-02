@@ -70,7 +70,7 @@ This type of release note consists of two parts: what you have changed + the ben
 
 | **Not recommended**                                          | **Clear in type** | **Adequate and clear in meaning** | **User perspective** | Recommended                                                  |
 | ------------------------------------------------------------ | ----------------- | --------------------------------- | -------------------- | ------------------------------------------------------------ |
-| Not use the stale read request's `start_ts` to update `max_ts` to avoid commit request keep retrying | ✅                 | ✅                                 | ✅                    | Avoid excessive commit request retrying by not using the Stale Read request's start_ts to update `max_ts` |
+| Not use the stale read request's `start_ts` to update `max_ts` to avoid commit request keep retrying | ✅                 | ✅                                 | ❌                    | Improve commit performance in some edge cases |
 | Restore many small tables would be faster.                   | ✅                 | ❌                                 | ❌                    | Split and scatter Regions concurrently to improve restore speed |
 | server: stop status server early when gracefully shutdown    | ✅                 | ❌                                 | ❌                    | Shut down the status server first to make sure that the client can correctly check the shutdown status |
 | Better err msg when PD endpoint missing certificate          | ✅                 | ❌                                 | ✅                    | Improve the error message when connecting to a TLS protected PD endpoint without a certificate |
