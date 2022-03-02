@@ -51,6 +51,8 @@ A bug fix note means that your PR fixes an existing bug or issue. This type of n
 
 Write your note clearly and adequately so that your target readers can get the main point of your bug fix. The bug or issue must be directly perceivable to the users, and you can refer to the associated GitHub issues.
 
+In addition, it is recommended to highlight the bug trigger condition or the workaround if there is any.
+
 **Examples:**
 
 | **Not recommended**                                          | **Clear in type** | **Adequate and clear in meaning** | **User perspective** | Recommended                                                  |
