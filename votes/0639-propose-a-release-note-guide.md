@@ -58,7 +58,7 @@ Write your note clearly and adequately so that your target readers can get the m
 | lock_resolver: avoid pessimistic transactions using resolveLocksForWrite | ❌                 | ✅                                 | ❌                    | Fix the issue that committing pessimistic transactions might cause write conflict |
 | retry when meeting stablish conn fails                       | ❌                 | ❌                                 | ❌                    | Fix the issue of unexpected results when TiFlash fails to establish MPP connections |
 | Fix the issue that greatest(datetime) union null returns empty string | ✅                 | ❌                                 | ✅                    | Fix the issue that the query result might be wrong when NULL is in the UNION subquery |
-| copr: make CM Sketch built with the same encoding as what TiDB assumes | ❌                 | ❌                                 | ❌                    | Fix the wrong statistics caused by the format inconsistency of CM Sketch between TiKV and TiDB |
+| copr: make CM Sketch built with the same encoding as what TiDB assumes | ❌                 | ❌                                 | ❌                    | Fix the issue of potential wrong analyzed statistics when `tidb_analyze_version` is set to `1` |
 
 ## Improvement
 
