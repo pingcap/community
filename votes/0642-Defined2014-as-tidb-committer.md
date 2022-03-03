@@ -1,4 +1,4 @@
-# A Vote for Defined2014 as TiDB commiter
+# A Vote for Defined2014 as TiDB committer
 
 ## Proposal
 
@@ -27,4 +27,4 @@ TOC or team(s) who has binding vote.
 
 ## Result
 
-See also https://github.com/pingcap/community/pull/640 .
+See also https://github.com/pingcap/community/pull/642 .
