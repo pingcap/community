@@ -28,3 +28,7 @@ TOC or team(s) who has binding vote.
 
 ## Result
 
+Approved by 2 binding votes:
+
+* kennytm (binding)
+* lonng (binding)
