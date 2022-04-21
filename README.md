@@ -6,7 +6,7 @@
 Welcome to the TiDB Community! The main objective is to help members of the TiDB community who share similar interests to learn from and collaborate with each other.
 
 Your journey of becoming a contributor and committer starts from here: improving docs, improving code, giving talks, organizing meetups, etc.
-
+sdfs
 ## TiDB User Group
 
 ![User Group](media/user-group.jpeg)
