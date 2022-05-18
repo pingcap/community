@@ -8,8 +8,8 @@ Among all his contributions, the most noticable one is the 'Restructure TiDB Tes
 
 IMO the work shows the contribution of @tisonkun, as well as his sense of responsibility to `pingcap/tidb` project, as well as the TiDB community. The details of all his PRs and reviews are:
 
-* [100+ authored pull requests](https://github.com/pingcap/tidb/commits?author=tisonkun).
-* [210+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Atisonkun)
+- [100+ authored pull requests](https://github.com/pingcap/tidb/commits?author=tisonkun).
+- [210+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Atisonkun)
 
 I (@bb7133) hereby nominate @tisonkun as TiDB committer and call for a vote.
 
@@ -19,14 +19,14 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Scope
 
-* Team TiDB
+- Team TiDB
 
 ## Result
 
 Approved by 5 binding votes:
 
-* bb7133
-* kennytm
-* disksing
-* lonng
-* breeswish
+- bb7133
+- kennytm
+- disksing
+- lonng
+- breezewish

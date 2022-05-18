@@ -16,7 +16,7 @@ You can track work items and see more details in the [Timeline Tracing project](
 
 - [zhongzc](https://github.com/zhongzc), [PingCAP](https://github.com/pingcap)
 - [qw4990](https://github.com/qw4990), [PingCAP](https://github.com/pingcap)
-- [breeswish](https://github.com/breeswish), [PingCAP](https://github.com/pingcap)
+- [breezewish](https://github.com/breezewish), [PingCAP](https://github.com/pingcap)
 
 ## Members
 

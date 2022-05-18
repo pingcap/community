@@ -11,7 +11,7 @@ The current list of TiDB maintainers is as below.
 | Huaiyu Xu      | XuHuaiyu     | TiDB Maintainer |
 | Fei Yang       | amyangfei    | TiDB Maintainer |
 | Cong Wang      | bb7133       | TiDB Maintainer |
-| Wenxuan Shi    | breeswish    | TiDB Maintainer |
+| Wenxuan Shi    | breezewish   | TiDB Maintainer |
 | Dongxu Huang   | c4pt0r       | TiDB Maintainer |
 | Rui Xu         | cfzjywxk     | TiDB Maintainer |
 | Yuxing Zhou    | coocood      | TiDB Maintainer |
