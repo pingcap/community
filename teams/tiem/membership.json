@@ -1,0 +1,31 @@
+{
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "This team works for TiDB Enterprise Manager (TiEM) is a database management platform built for operating and managing TiDB, a distributed database.",
+
+    "maintainers": [
+        "haiboumich",
+        "istudies",
+        "rivenwang",
+        "Yuiham",
+        "Yujie-Xie",
+        "zhangpeijin-milo",
+        "zywzoe"
+    ],
+
+    "committers": [
+        "cchenkey",
+        "hnes",
+        "jiayang-zheng"
+    ],
+
+    "reviewers": [
+        "scsldb",
+        "zhoubasten"
+    ],
+
+    "repositories": [
+        "tiem",
+        "tiem-ui"
+    ]
+}
