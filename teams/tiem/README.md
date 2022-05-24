@@ -1,6 +1,6 @@
 # TiDB Enterprise Manager Team
 
-This team works for TiDB Enterprise Manager (TiEM) is a database management platform built for operating and managing TiDB, a distributed database.
+This team works for TiDB Enterprise Manager (TiEM), a database management platform built for operating and managing TiDB, a distributed database.
 
 ## Members
 
