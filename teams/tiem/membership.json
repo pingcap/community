@@ -5,18 +5,18 @@
 
     "maintainers": [
         "haiboumich",
-        "istudies",
-        "rivenwang",
-        "Yuiham",
-        "Yujie-Xie",
-        "zhangpeijin-milo",
-        "zywzoe"
+        "Yuiham"
     ],
 
     "committers": [
         "cchenkey",
         "hnes",
-        "jiayang-zheng"
+        "istudies",
+        "jiayang-zheng",
+        "rivenwang",
+        "Yujie-Xie",
+        "zhangpeijin-milo",
+        "zywzoe"
     ],
 
     "reviewers": [
