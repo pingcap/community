@@ -1,4 +1,4 @@
-# A Vote for gozzsky as Migration Commiter
+# A Vote for gozzsky as Migration Committer
 
 ## Proposal
 
