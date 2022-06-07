@@ -28,4 +28,7 @@ TOC or team(s) who has binding vote.
 
 ## Result
 
-TBD
+Approved by 2 binding votes:
+
+* amyangfei (binding)
+* lance6716 (binding)
