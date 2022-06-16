@@ -25,7 +25,7 @@
     ],
 
     "repositories": [
-        "tiem",
-        "tiem-ui"
+        "tiunimanager",
+        "tiunimanager-ui"
     ]
 }
