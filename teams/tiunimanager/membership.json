@@ -1,7 +1,7 @@
 {
     "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
 
-    "description": "This team works for TiDB Enterprise Manager (TiEM), a database management platform built for operating and managing TiDB, a distributed database.",
+    "description": "This team works for TiUniManager, a database management platform built for operating and managing TiDB, a distributed database.",
 
     "maintainers": [
         "haiboumich",
