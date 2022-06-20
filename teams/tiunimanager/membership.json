@@ -9,13 +9,19 @@
     ],
 
     "committers": [
+        "cchenkey",
+        "hnes",
         "istudies",
+        "jiayang-zheng",
         "rivenwang",
+        "Yujie-Xie",
         "zhangpeijin-milo",
         "zywzoe"
     ],
 
-    "reviewers": [],
+    "reviewers": [
+        "scsldb"
+    ],
 
     "repositories": [
         "tiunimanager",
