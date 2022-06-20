@@ -20,7 +20,8 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by 1 binding vote and 1 non-binding vote:
+Approved by 2 binding vote and 1 non-binding vote:
 
+* amyangfei (binding)
 * lance6716 (binding)
 * hi-rustin (non-binding)
