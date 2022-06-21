@@ -33,3 +33,10 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
+Approved by 3 binding votes and 2 non-binding votes:
+
+* lilin90 (binding)
+* qiancai (binding)
+* TomShawn (binding)
+* ran-huang (non-binding)
+* hfxsd (non-binding)
