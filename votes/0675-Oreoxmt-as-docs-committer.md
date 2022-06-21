@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@Oreoxmt](https://github.com/Oreoxmt) has been working on TiDB documentation for the past three months. Her work focused on translating TiDB documents from Chinese to English or from English to Chinese, managing documentation projects, trouleshooting docs CI, and conducting docs usability tests. She has delivered documentation for [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview) and [PingCAP Clinics](https://docs.pingcap.com/tidb/dev/quick-start-with-clinic), and helped identifying slow or failed CI tests and managed to improve them.
+[@Oreoxmt](https://github.com/Oreoxmt) has been working on TiDB documentation for the past three months. Her work focused on translating TiDB documents from Chinese to English or from English to Chinese, managing documentation projects, troubleshooting docs CI, and conducting docs usability tests. She has delivered documentation for [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview) and [PingCAP Clinic](https://docs.pingcap.com/tidb/dev/quick-start-with-clinic), and helped identifying slow or failed CI tests and managed to improve them.
 
 I think @Oreoxmt shows her capability and commitment as a committer of the Docs Team. The details of her contributions are listed as follows:
 
