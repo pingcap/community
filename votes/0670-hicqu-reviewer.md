@@ -10,7 +10,7 @@ The details of his contributions are listed as follows:
 * [Authored pull requests](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+author%3Ahicqu+is%3Aclosed).
 * [Reviewed pull requests](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+reviewed-by%3Ahicqu).
 
-I (@overvenus) hereby nominate @hicqu as Tiflow Reviewer and call for a vote.
+I (@overvenus) hereby nominate @hicqu as TiCDC Reviewer and call for a vote.
 
 ## Deadline
 
