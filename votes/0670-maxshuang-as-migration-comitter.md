@@ -6,7 +6,7 @@
 
 In the last six months, @maxshuang is leading the projects of `dataflow engine metastore` and `dataflow engine multi-tenant integration with TiDB cloud`, both of these two projects are the core parts of dataflow engine. He also takes part in the DDL related work in TiCDC, finds several DDL related bugs and fixes them.
 
-The Works show the contribution of @maxshuang as well as his ability and responsibility to `pingcap/tiflow` project. The details of all his PRs and reviews are:
+The works show the contribution of @maxshuang as well as his ability and responsibility to `pingcap/tiflow` project. The details of all his PRs and reviews are:
 
 * [Authored pull requests](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+is%3Aclosed+author%3Amaxshuang).
 * [Reviewed pull requests](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+reviewed-by%3Amaxshuang).
