@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@zhangyangyu](https://github.com/zhangyangyu) has been reviewing PRs on `pingcap/tispark` and `tidb-incubator/TiBigData` for several months and contributed many valuable insights to other contributors, he has implemented telemetry feature and TLS feature. The details of his contributions are listed as follow:
+[@zhangyangyu](https://github.com/zhangyangyu) has been reviewing PRs on `pingcap/tispark` and `tidb-incubator/TiBigData` for several months and contributed many valuable insights to other contributors. The details of his contributions are listed as follow:
 
 * Reviewed pull requests
   * [TiSpark] (https://github.com/pingcap/tispark/pulls?q=is%3Apr+reviewed-by%3Azhangyangyu)
