@@ -4,7 +4,7 @@
 
 [@zyguan](https://github.com/zyguan) has contributed a lot to TiDB's Jepsen.
 
-- He improved Jepsen to support more nemesis and debug simplicity. Many correctness issues of TiDB are found by Jepsen.
+- He improved Jepsen to support more nemesis and debug simplicity. Many correctness issues of TiDB have been founded by Jepsen.
 - He implemented some expressions of TiDB.
 - He solved many issues in TiDB. [His commits](https://github.com/pingcap/tidb/commits?author=zyguan).
 
