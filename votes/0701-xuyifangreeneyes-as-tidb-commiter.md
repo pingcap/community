@@ -3,8 +3,8 @@
 ## Proposal
 
 [@xuyifangreeneyes](https://github.com/xuyifangreeneyes) has contributed a lot to TiDB's planner.
-- He implemented the global kill for TiDB so that we can kill the process across the TiDB node, instead of just being able to kill the process of the corresponding TiDB node. 
 - He implemented the ANALYZE TABLE COLUMN and ANALYZE TABLE PREDICATE COLUMN so that we can analyze the wide table efficiently. 
+- He contributed a lot to improve the usability of the TiDB's statistics, such as implmenting the global kill for ANALYZE so that we can kill the ANALYZE command on any TiDB node of the cluster and introducing the cluster level analyze history.
 - He contributed to the index selection system of the TiDB, helping TiDB choose the correct index more robust.
 - Besides, he also solved a lot issues of the TiDB. [His commits](https://github.com/pingcap/tidb/commits?author=xuyifangreeneyes).
 
