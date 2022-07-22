@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@fixdb](https://github.com/fixdb) has actively contributed to TiDB's planner and have a deep knowledge of the optimizer module of the morden datebase system.
+[@fixdb](https://github.com/fixdb) has actively contributed to TiDB's planner and has a deep knowledge of the optimizer module of the modern datebase system.
 
 * [the authored pull requests](https://github.com/pingcap/tidb/commits?author=fixdb).
 
