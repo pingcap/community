@@ -28,7 +28,7 @@ This document outlines some conventions about development workflow, commit messa
 
 ### Sign the CLA
 
-Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla-assistant.io/pingcap/tidb).
+Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla.pingcap.net/pingcap/tidb).
 
 What is [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)?
 
