@@ -16,4 +16,8 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-TBD
+Approved by 2 binding votes and 1 non-binding vote:
+
+* ilovesoup(binding)
+* zanmanto1984(binding)
+* JaySon-Huang(non-binding)
