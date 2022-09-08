@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@qidi1](https://github.com/tomato) has been working on `pingcap/tispark` for several months, he has implemented two features, fixed some bugs and released three versions of TiSpark. The details of his contributions are listed as follow:
+[@qidi1](https://github.com/qidi1) has been working on `pingcap/tispark` for several months, he has implemented two features, fixed some bugs and released three versions of TiSpark. The details of his contributions are listed as follow:
 
 * Authored pull requests
     * [TiSpark] (https://github.com/pingcap/tispark/commits?author=qidi1)
@@ -10,7 +10,7 @@
 * Reviewed pull requests
     * [TiSpark] (https://github.com/pingcap/tispark/pulls?q=is%3Apr+reviewed-by%3Aqidi1)
 
-I (@shiyuhang0) hereby nominate @qidi1 as BigData reviewer and call for a vote.
+I (@sunxiaoguang) hereby nominate @qidi1 as BigData reviewer and call for a vote.
 
 ## Deadline
 
