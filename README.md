@@ -62,7 +62,7 @@ the TiDB architecture through the following blog posts:
 
 ## License
 
-TiDB Community is under the Apache 2.0 license. See the [LICENSE](LICENSE.md) file for details.
+TiDB Community is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
 
