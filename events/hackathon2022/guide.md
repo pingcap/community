@@ -55,7 +55,7 @@ The videos below are temporarily free, all from [PingCAP Training & Certificatio
 
 ## RFC template and submission
 
-- RFC template: Click [here](/rfc-template) to check the RFC template.
+- RFC template: Click [here](rfc-template) to check the RFC template.
 - RFC submission deadline: October 17 at 21:00. 
 - How to submit: Submit your project to your team leader's [GitHub gist](https://gist.github.com/). The leader needs to copy the gist link and click this link to submit your RFC.
 
