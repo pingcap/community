@@ -25,7 +25,7 @@ Register [here](https://forms.pingcap.com/f/hackathon-2022).
    - If you're selected, prepare for the on-site final.
 
 1. **Oct 22 - 23, 2022**     **Code on site** 
-   - Code on site to complete your project. **Your project's source code must be open source and comply with the** **[Apache 2.0 License](https://github.com/pingcap/community/blob/master/LICENSE)****.**
+   - Code on site to complete your project. **Your project's source code must be open source and comply with the** [Apache 2.0 License](https://github.com/pingcap/community/blob/master/LICENSE)**.**
    - Make presentation slides for your final defense.
 
 1. **Oct 23, 2022**     **Present and defend your project on site** 
