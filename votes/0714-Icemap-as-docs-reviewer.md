@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@Icemap](https://github.com/Icemap) has actively contributed to TiDB documentation for several months. His contribution covers the documentation of [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview) in both Chinese and English. He has provided a lot of good suggestions in his review comments. I think @Icemap shows his qualification as a reviewer of the Docs Team. The details of his contributions are listed as follows:
+[@Icemap](https://github.com/Icemap) has actively contributed to TiDB documentation for several months. His contribution covers the documentation of [TiDB Developer Guide](https://docs.pingcap.com/tidb/stable/dev-guide-overview) in both Chinese and English. He has provided a lot of good suggestions in his review comments. I think @Icemap shows his qualification as a reviewer of the TiDB Docs. The details of his contributions are listed as follows:
 
 - Authored pull requests
     - [docs](https://github.com/pingcap/docs/pulls?q=is%3Apr+is%3Amerged+author%3AIcemap): 56
