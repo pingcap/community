@@ -25,3 +25,8 @@ The vote will be open for at least 3 days unless there is an objection or not en
 * Team: Docs
 
 ## Result
+
+Approved by 2 binding votes:
+
+* qiancai (binding)
+* TomShawn (binding)
