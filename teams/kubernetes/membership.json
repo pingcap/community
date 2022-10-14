@@ -1,13 +1,13 @@
 {
     "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
-    
     "description": "K8s team covers the TiDB Products on Kubernetes and Docker.",
-
     "maintainers": [
         "DanielZhangQD",
-        "csuzhangxc"
+        "csuzhangxc",
+        "KanShiori",
+        "azurezyq",
+        "grovecai"
     ],
-
     "committers": [
         "AstroProfundis",
         "LinuxGit",
@@ -26,16 +26,20 @@
         "shuijing198799",
         "tennix",
         "weekface",
-        "KanShiori"
+        "liubog2008",
+        "hanlins",
+        "charleszheng44",
+        "WangLe1321",
+        "WizardXiao",
+        "gozssky",
+        "fengou1"
     ],
-
     "reviewers": [
         "cvvz",
         "howardlau1999",
         "lichunzhu",
         "shonge"
     ],
-
     "repositories": [
         "advanced-statefulset",
         "tidb-operator"
