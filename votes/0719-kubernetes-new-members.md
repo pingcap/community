@@ -6,9 +6,6 @@ As more and more new contributors contribute to the Kubernetes Team, I ([@csuzha
 
 ### New Committers
 
-- [liubog2008](https://github.com/liubog2008)
-- [hanlins](https://github.com/hanlins)
-- [charleszheng44](https://github.com/charleszheng44)
 - [WangLe1321](https://github.com/WangLe1321)
 - [WizardXiao](https://github.com/WizardXiao)
 - [gozssky](https://github.com/gozssky)
@@ -17,6 +14,9 @@ As more and more new contributors contribute to the Kubernetes Team, I ([@csuzha
 ### New Maintainers
 
 - [KanShiori](https://github.com/KanShiori) promoted from a committer
+- [liubog2008](https://github.com/liubog2008)
+- [hanlins](https://github.com/hanlins)
+- [charleszheng44](https://github.com/charleszheng44)
 - [azurezyq](https://github.com/azurezyq)
 - [grovecai](https://github.com/grovecai)
 
