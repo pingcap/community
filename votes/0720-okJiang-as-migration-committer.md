@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[okJiang](https://github.com/okJiang) has joined TiDB Data Migration team for more than 1 year. During this period, he contributed mainly to DM/Lightning/Dumpling, fixed bugs, and added sereral new features for them.
+[okJiang](https://github.com/okJiang) has joined TiDB Data Migration team for more than 1 year. During this period, he contributed mainly to DM/Lightning/Dumpling, fixed bugs, and added several new features for them.
 
 Here lists the details of his contribution:
 
