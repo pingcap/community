@@ -6,7 +6,7 @@ members via any one of the following ways:
 
 ## Slack
 
-[https://pingcap.com/tidbslack](https://pingcap.com/tidbslack)
+[Join us](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
 
 ## Forum
 
