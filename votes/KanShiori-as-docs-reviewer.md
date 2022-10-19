@@ -22,3 +22,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 * Team: Docs
 
 ## Result
+
+Approved by 1 binding vote:
+
+* TomShawn (binding)
