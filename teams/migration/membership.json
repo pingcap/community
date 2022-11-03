@@ -1,0 +1,66 @@
+{
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "Migrate covers migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.",
+
+    "maintainers": [
+        "amyangfei",
+        "kennytm",
+        "lance6716"
+    ],
+
+    "committers": [
+        "3AceShowHand",
+        "3pointer",
+        "5kbpers",
+        "D3Hunter",
+        "Ehco1996",
+        "GMHDBJD",
+        "IANTHEREAL",
+        "Leavrth",
+        "Little-Wallace",
+        "Tammyxia",
+        "WangXiangUSTC",
+        "WizardXiao",
+        "YuJuncen",
+        "asddongmen",
+        "csuzhangxc",
+        "dsdashun",
+        "glorv",
+        "gozssky",
+        "hi-rustin",
+        "hicqu",
+        "holys",
+        "july2993",
+        "leoppro",
+        "lichunzhu",
+        "liuzix",
+        "lonng",
+        "maxshuang",
+        "niubell",
+        "okJiang",
+        "overvenus",
+        "suzaku",
+        "zwj-coder",
+        "sdojjy"
+    ],
+
+    "reviewers": [
+        "CharlesCheung96",
+        "ben1009",
+        "buchuitoudegou",
+        "fengou1",
+        "iamxy",
+        "joccau",
+        "nongfushanquan",
+        "tiancaiamao",
+        "zhaoxinyu"
+    ],
+
+   "repositories": [
+        "dm",
+        "tidb",
+        "tidb-binlog",
+        "tiflow"
+    ]
+}

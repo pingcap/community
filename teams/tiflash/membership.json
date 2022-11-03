@@ -1,0 +1,49 @@
+{
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "TiFlash team is responsible for Analytical Processing (AP) part in the Hybrid Transactional/Analytical Processing (HTAP) architecture of TiDB.",
+
+    "maintainers": [
+        "flowbehappy",
+        "ilovesoup",
+        "zanmato1984"
+    ],
+
+    "committers": [
+        "CalvinNeo",
+        "JaySon-Huang",
+        "JinheLin",
+        "Lloyd-Pottiger",
+        "SchrodingerZhu",
+        "SeaRise",
+        "XuHuaiyu",
+        "bestwoody",
+        "birdstorm",
+        "breezewish",
+        "fuzhe1989",
+        "fzhedu",
+        "gengliqi",
+        "guo-shaoge",
+        "hehechen",
+        "ichn-hu",
+        "jiaqizho",
+        "lidezhu",
+        "littlefall",
+        "mengxin9014",
+        "solotzg",
+        "windtalker",
+        "wshwsh12",
+        "yibin87",
+        "ywqzzy",
+        "hongyunyan"
+    ],
+
+    "reviewers": [
+        "LiSong0214",
+        "ywqzzy"
+    ],
+
+    "repositories": [
+        "tiflash"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "diagnosis",
+  "techLeaders": [
+    {
+      "githubName": "breezewish"
+    }
+  ],
+  "coLeaders": [
+    {
+      "githubName": "baurine"
+    },
+    {
+      "githubName": "HunDunDM"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "crazycs520"
+    },
+    {
+      "githubName": "Deardrops"
+    },
+    {
+      "githubName": "zhongzc"
+    },
+    {
+      "githubName": "iosmanthus"
+    },
+    {
+      "githubName": "shhdgit"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "Fullstop000"
+    },
+    {
+      "githubName": "Renkai"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "mapleFU"
+    },
+    {
+      "githubName": "reafans"
+    },
+    {
+      "githubName": "rleungx"
+    }
+  ]
+}

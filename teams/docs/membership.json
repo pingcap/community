@@ -1,0 +1,73 @@
+{
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+
+    "description": "Docs team covers the documentation of all PingCAP products, tools, or projects, both in English and in Chinese.",
+
+    "maintainers": [
+        "TomShawn",
+        "lilin90",
+        "qiancai",
+        "yikeke"
+    ],
+
+    "committers": [
+        "CaitinChen",
+        "CharLotteiu",
+        "DanielZhangQD",
+        "en-jin19",
+        "Liuxiaozhen12",
+        "SunRunAway",
+        "WangXiangUSTC",
+        "YiniXu9506",
+        "breezewish",
+        "cofyc",
+        "csuzhangxc",
+        "dcalvin",
+        "dragonly",
+        "hfxsd",
+        "jackysp",
+        "kissmydb",
+        "lance6716",
+        "lichunzhu",
+        "morgo",
+        "Oreoxmt",
+        "overvenus",
+        "queenypingcap",
+        "ran-huang",
+        "shichun-0415",
+        "tangenta",
+        "toutdesuite"
+    ],
+
+    "reviewers": [
+        "3pointer",
+        "GMHDBJD",
+        "Icemap",
+        "Joyinqin",
+        "Yisaer",
+        "amyangfei",
+        "anotherrachel",
+        "aylei",
+        "crazycs520",
+        "dveeden",
+        "ericsyh",
+        "glkappe",
+        "junlan-zhang",
+        "KanShiori",
+        "lucklove",
+        "lysu",
+        "ngaut",
+        "superlzs0476",
+        "tiancaiamao",
+        "weekface",
+        "zimulala"
+    ],
+
+    "repositories": [
+        "docs",
+        "docs-appdev",
+        "docs-cn",
+        "docs-dm",
+        "docs-tidb-operator"
+    ]
+}

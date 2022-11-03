@@ -1,169 +1,102 @@
 # TiDB Incubator Program
 
-TiDB Incubator Program is inspired by the CNCF incubating process. The
-process is designed to ensure that new projects have correct
-licensing, up-to-date boilerplate documents, a healthy community process, and
-are developed using accepted TiDB Community practices.
+TiDB Incubator Program is inspired by the CNCF incubating process. The process is designed to ensure that new projects have correct licensing, up-to-date boilerplate documents, a healthy community process.
 
-All programs should follow the incubating process to start a project. TiDB
-would offer resources when a project is confirmed.
-
-Once going through the incubation process, they can either be merged to
-tidb repo or being moved from [TiDB Incubator](https://github.com/tidb-incubator) to
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) organization.
-
-Welcome to join [TiDB Community Slack Workspace](https://slack.tidb.io)
-and feel free to contact us in the **#incubator** channel if any question or suggestion.
+All programs should follow the incubating process to start a project. Once going through the incubation process, they can be moved from [TiDB Incubator](https://github.com/tidb-incubator) to
+* [TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) organization.
+* their own organization.
+* PingCAP organization. But this need to be approved by the ToC.
 
 ## Content
 
 <!-- vim-markdown-toc GFM -->
 
+* [Scope](#scope)
 * [Projects Incubation Process](#projects-incubation-process)
     * [Apply for Incubation](#apply-for-incubation)
         * [Step 1: Write a proposal](#step-1-write-a-proposal)
-        * [Step 2: Find a Mentor (Optional)](#step-2-find-a-mentor-optional)
-        * [Step 3: Get approval from TOC (Technology Oversight Committee)](#step-3-get-approval-from-toc-technology-oversight-committee)
-        * [Step 4: Recruit team members](#step-4-recruit-team-members)
+        * [Step 2: Get approval from TOC (Technology Oversight Committee)](#step-2-get-approval-from-toc-technology-oversight-committee)
     * [Start Incubation](#start-incubation)
-    * [Maturity Level Promotion](#maturity-level-promotion)
     * [Graduation](#graduation)
-    * [Retirement](#retirement)
 * [Benefits](#benefits)
 * [Projects](#projects)
+* [Projects Approval Criteria](#projects-approval-criteria)
 
 <!-- vim-markdown-toc -->
 
-If you want to incubate a new project on
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated) 
-organization and designed to extend one or more
-[TiDB Incubator Graduated](https://github.com/tidb-incubator-graduated)
-projects with functionality, please follow [Projects Incubation Process](#projects-incubation-process)
+## Scope
+
+TiDB Incubator Program welcomes all projects fit into TiDB ecosystem(including TiDB, TiKV, ChaosMesh) and give a general solution to users. Projects not related to TiDB or only focus on limited target user groups are not going to be accepted.
 
 ## Projects Incubation Process
 
 ### Apply for Incubation
 
-To create a new incubating project,  follow these steps:
-
 #### Step 1: Write a proposal
 
-You can write a proposal via GitHub Issue (see [example](https://github.com/pingcap/community/issues/81))
-and submit it to [community](https://github.com/pingcap/community/) repository.
-Your proposal should include the following items:
+You can write a proposal via GitHub Issue(see [example](https://github.com/pingcap/community/issues/81)) and submit it to [community](https://github.com/pingcap/community/) repository. Your proposal should include the following items:
 
 * Problems to be solved.
-* Initial team members and the expected number of team members at least.
-* Estimated completion time. Generally, Projects are expected to complete **within 12 months**.
-* Link to your Design Document which should be proposed via a PR (Pull Request)
-  to [pingcap/community](https://github.com/pingcap/community/) repository
-  (see [Design Template](https://github.com/pingcap/tidb/blob/master/docs/design/TEMPLATE.md))
-  preferred maturity level and evidence (see [Projects Approval Criteria](./projects-approval-criteria.md)).
+* Project goal and roadmap.
+* Usage samples and architecture design.
+* Initial team maintainers and their contact details.
+* Estimated graduation time. Generally, Projects are expected to graduate **within 12 months**.
 
-#### Step 2: Find a Mentor (Optional)
+If you have more information to present, welcome to include them.
 
-Once your proposal is submitted, you can find 1-2 [Mentors](./mentor-charter.md) from the community.
-Mentors will express their intentions to support the program by replying to 
-the proposal and help guide the team through the process. The majority of 
-the mentorship, review, and advice will come from the Mentor(s).
+#### Step 2: Get approval from [TOC (Technology Oversight Committee)](https://github.com/pingcap/community/tree/master/toc)
 
-If the project doesn't have a mentor, TOC will give advice and monitor progress.
-
-#### Step 3: Get approval from TOC (Technology Oversight Committee)
-
-[Projects approval criteria](./projects-approval-criteria.md) depends on the
-preferred maturity level and evidence provided.
-
-TOC members will arrange an approval presentation. Based on the presentation, 
-TOC will vote on whether to accept the proposal. If the vote reaches a simple 
-majority, the proposal can enter the incubation procedure.
-
-#### Step 4: Recruit team members
-
-The recruitment of team members is expected to be completed within **1 week** 
-after TOC's approval. If the recruitment of members is not completed within 
-the specified time, TOC will assist the team formation or delay the project 
-approval.
+TOC members will vote on whether to accept the proposal. Some projects might need to give a presentation on a ToC meeting if needed. If the vote reaches a [lazy consensus](https://github.com/pingcap/community/tree/master/toc#approvals), the proposal can enter the incubation procedure.
 
 ### Start Incubation
 
-The incubation process will be traced via a working group (see [Woking Group
-Governance](../governance/wg-governance.md). Once your proposal is
-approved, The first order of business is to create a related working
-group (see the [Creation](../governance/wg-governance.md#creation) section of
-the Woking Group Governance).
+Each approved project will get a new GitHub repo created in [tidb-incubator](https://github.com/tidb-incubator) organization. Project owners are expected to add the following files to the repo:
 
-Each approved project will get a new GitHub repo created in
-[tidb-incubator](https://github.com/tidb-incubator) organization. Project
-owners are expected to add the following files to the repo:
+* `README.md` for the project.
+* `LICENSE` which must be Apache 2.0 for code projects and documentation repositories, without any custom content.
+* `code-of-conduct.md` describes CoC of the community.
 
-* `README.md` for the project
-* `LICENSE` which must be Apache 2.0 for code projects and documentation repositories, without any custom content
+To help you get started with these files, you can find the corresponding templates at [TiDB Template Project](https://github.com/tidb-incubator/tidb-template-project).
 
-To help you get started with these files, you can find the corresponding
-templates at [TiDB Template Project](https://github.com/tidb-incubator/tidb-template-project).
-
-For each incubating project, a monthly report is required before the 10th of every month. And the monthly report should be an open file on the internet. Google Docs is recommended. If the project has a mentor, the monthly report is reported to the mentor. If not, the progress of the project will be one of the topics of the monthly TOC meeting.
-
-### Maturity Level Promotion
-
-When the majority of the project members determine they have met the criteria
-to be promoted to a higher maturity stage, they should contact their Mentors to
-discuss. If the Mentors agree that [the maturity criteria](./projects-approval-criteria.md)
-have been met, the project organizer can create a pull request at their
-quarterly meeting.
-
-TOC will arrange a promotion presentation for the project. Maturity Level
-Review follows [Projects Approval criteria](./projects-approval-criteria.md).
-
-If the project doesn't have a mentor, please feel free to create an issue for help,
-the TOC will follow up.
+For every incubating project, it's required their maintainers being responsive for project status update. Incubator staffs will regularly contact them to get the latest information of the project. The information include but not limited to:
+* Project progress: features implemented and issues resolved, roadmap accomplished.
+* Community progress: new contributors or contributions from community members.
+* Release progress: any released releases or planned releases.
 
 ### Graduation
 
-Incubating projects graduation process includes the following items:
+Incubating projects graduation process includes the following steps:
 
-1. Create a pull request for graduation
+1. Create an issue for graduation in [community](https://github.com/pingcap/community/) repository. The issue should clearly describe the project status of [Projects Approval criteria](#projects-approval-criteria.md).
 2. TOC members arrange a graduation presentation (if necessary)
 3. TOC members express their agreement by replying “LGTM (look good to me)” to the pull request
-4. The related working group disbands
-
-Graduation criteria for projects: see [Projects Approval Criteria](./projects-approval-criteria.md)
+4. Migrate your repository.
 
 ## Benefits
 
-TiDB wants to build a healthy community ecosystem. All community programs
-are welcomed to join the TiDB Incubator Program. The incubator program will
-get full support by PingCAP and the community.
+Projects attend TiDB incubator will totally operate as an open source project. So the maintainers benefit from:
+* First-hand practical experience
+* The participant fully as an organizer or community member
+* The project will be maintained continuously after it is finished
 
-- Rich resources support:
-  - Great Mentors:
-    - At least 2 mentors with the ability to provide technical and practical guide to the project
-    - Mentors with high community roles (Developer community Committer or TiDB UserGroup Ambassador)
-  - PingCAP
-    - Official learning resources
-    - Necessary tutoring lessons
-    - Marketing campaign and promotion for the project
+The TiDB community will provide marketing supports for successfully incubating and graduated projects to help them quickly gain the attention of the community and the public. Marketing supports mainly include but not limited to: emails, blogs, online media, online and offline events:
+* Announce the incubating and graduation of the project through the TiDB Community's self-publishing channels.
+* Provide a presentation opportunity for the incubating or graduated project at the next TiDB Developer Conference after graduation.
+* Provide community and media exposure for subsequent major releases of the project.
 
-- Open Source experience:
-  - First-hand practical experience
-  - The participant fully as an organizer or community member
-  - The project will be maintained continuously after it is finished
+## Projects Approval Criteria
 
-The TiDB community will provide marketing supports for successfully incubated projects to help them quickly gain the attention of the community and the public. Marketing supports mainly include but not limited to: emails, blogs, online media, online and offline events.
+To graduate from incubating status, a project must meet two main criteria:
 
-- Marketing supports for graduated projects
-  - Announce the graduation of a project to the community through newsletters, Slack, mailing lists, WeChat groups, etc.
-  - Announce the graduation of the project through the TiDB Community's self-publishing channels.
-  - Provide a presentation opportunity for the graduated project at the next TiDB Developer Conference after graduation.
-  - Provide more than 3 TiDB TechDay presentations for the graduating project within one year after graduation.
-  - Display the core developers and Maintainer information of the graduated project on the community developer page.
-  - Provide community and media exposure for subsequent major releases of the project.
+* Accomplished all the design goal and roadmap for the project.
+* Build an open source community around the project.
+  * Has detailed user documentation and basic reference manuals.
+  * Has an automated continuous integration test infrastructure (CI).
+  * Has a clear open source contribution workflow(can follow the workflow of TiDB).
+  * Has a clear member promotion path, with basic community governance documentation(can follow the governance of TiDB Community).
+  * Has a clear release method and release cycle, with release notes provided for every release.
+  * Has at least two more contributors besides the initial maintainers. Contributions include but not limited to code, documentation, review.
 
-## Projects
+The ToC will decide based on the criteria whether the project has met graduation maturity level.
 
-Check the proposal of ongoing [projects](https://github.com/pingcap/community/labels/IncubatingProgram%2FProject) here.
-
-If you would like to join an existing incubator program, please find the
-corresponding slack channel and working group in the [active working
-groups](../working-groups/README.md).
+Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within 12 months. If the project fails to graduate within 12 months, TOC has the right to decide whether to stop incubating the project.

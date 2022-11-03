@@ -1,1 +1,12 @@
-* @pingcap/co-community
+/teams/ @zhangyangyu
+/toc/ @zhangyangyu
+/votes/ @zhangyangyu
+/teams/bigdata/ @pingcap/bigdata-maintainers
+/teams/diagnostic/ @pingcap/diagnostic-maintainers
+/teams/docs/ @pingcap/docs-maintainers
+/teams/kubernetes/ @pingcap/kubernetes-maintainers
+/teams/migration/ @pingcap/migration-maintainers
+/teams/tidb/ @pingcap/tidb-maintainers
+/teams/tiflash/ @pingcap/tiflash-maintainers
+/teams/tiup/ @pingcap/tiup-maintainers
+/teams/tiunimanager/ @pingcap/tiunimanager-maintainers

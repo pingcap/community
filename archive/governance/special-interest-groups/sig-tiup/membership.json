@@ -1,0 +1,48 @@
+{
+  "name": "tiup",
+  "techLeaders": [
+    {
+      "githubName": "AstroProfundis"
+    },
+    {
+      "githubName": "lucklove"
+    }
+  ],
+  "coLeaders": [],
+  "committers": [
+    {
+      "githubName": "lonng"
+    },
+    {
+      "githubName": "nexustar"
+    },
+    {
+      "githubName": "july2993"
+    },
+    {
+      "githubName": "9547"
+    },
+    {
+      "githubName": "nrc"
+    }
+  ],
+  "reviewers": [
+    {
+      "githubName": "breezewish"
+    },
+    {
+      "githubName": "birdstorm"
+    }
+  ],
+  "activeContributors": [
+    {
+      "githubName": "YangKeao"
+    },
+    {
+      "githubName": "c4pt0r"
+    },
+    {
+      "githubName": "qinzuoyan"
+    }
+  ]
+}

@@ -20,6 +20,7 @@ This document outlines some conventions about development workflow, commit messa
         - [Style reference](#style-reference)
     - [Bot Commands](#bot-commands)
     - [Benchmark](#benchmark)
+- [Get your reward](#get-your-reward)
 
 <!-- /TOC -->
 
@@ -27,7 +28,7 @@ This document outlines some conventions about development workflow, commit messa
 
 ### Sign the CLA
 
-Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla-assistant.io/pingcap/tidb).
+Click the **Sign in with GitHub to agree** button to sign the CLA. See an example [here](https://cla.pingcap.net/pingcap/tidb).
 
 What is [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)?
 
@@ -57,7 +58,7 @@ workspace](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md#building-and
 ## Your First Contribution
 
 All set to contribute? You can start by finding an existing issue with the
-[help-wanted](https://github.com/pingcap/tidb/issues?q=is%3Aissue+is%3Aopen+label%3Astatus%2Fhelp-wanted) label in the tidb repository. These issues are well suited for new contributors.
+[help wanted](https://github.com/pingcap/tidb/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label in the tidb repository. These issues are well suited for new contributors.
 
 ## Before you open your PR
 
@@ -152,3 +153,7 @@ benchstat old.txt new.txt
 ```
 
 Paste the result into your pull request description. Here is a good [example](https://github.com/pingcap/tidb/pull/12903#issue-331440170).
+
+## Get your Reward
+
+Once Your PR has been merged, you become a TiDB Contributor. Thank you for your contribution! Please fill the [form](https://forms.pingcap.com/f/tidb-contribution-swag) to get your reward.
