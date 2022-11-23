@@ -1,8 +1,6 @@
 {
     "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
-
     "description": "",
-
     "maintainers": [
         "XuHuaiyu",
         "amyangfei",
@@ -28,7 +26,6 @@
         "zimulala",
         "zz-jason"
     ],
-
     "committers": [
         "3pointer",
         "AilinKid",
@@ -51,6 +48,7 @@
         "chrysan",
         "djshow832",
         "dveeden",
+        "ekexium",
         "eurekaka",
         "francis0407",
         "fzhedu",
@@ -83,13 +81,13 @@
         "xhebox",
         "xiongjiwei",
         "xuyifangreeneyes",
+        "you06",
         "youjiali1995",
         "zhouqiang-cl",
         "zwj-coder",
         "zanmato1984",
         "zyguan"
     ],
-
     "reviewers": [
         "Benjamin2037",
         "ChenPeng2013",
@@ -102,14 +100,13 @@
         "TszKitLo40",
         "aytrack",
         "bobotu",
-        "ekexium",
         "guo-shaoge",
         "hi-rustin",
         "js00070",
         "lamxTyler",
         "lcwangchao",
         "longfangsong",
-	"mengxin9014",
+        "mengxin9014",
         "mornyx",
         "nolouch",
         "pingyu",
@@ -118,7 +115,6 @@
         "spongedu",
         "tangwz",
         "tsthght",
-        "you06",
         "zhangjinpeng1987",
         "zhongzc",
         "zhuo-zhi",
@@ -126,7 +122,6 @@
         "fzzf678",
         "SeaRise"
     ],
-
     "repositories": [
         "activerecord-tidb-adapter",
         "badger",
