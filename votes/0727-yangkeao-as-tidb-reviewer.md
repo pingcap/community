@@ -23,4 +23,10 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-To be updated.
+Approved by 2 binding votes and 2 unbinding votes:
+
+* bb7133(binding)
+* wjhuang2016(binding)
+* lcwangchao(unbinding)
+* hwakingrei(unbinding)
+
