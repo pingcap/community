@@ -21,4 +21,10 @@ The vote will be open for at least 6 days unless there is an objection or not en
 
 ## Result
 
-TBD.
+Approved by 2 binding votes:
+
+* jackysp (binding)
+* cfzjywxk (binding)
+
+See also https://github.com/pingcap/community/pull/730.
+
