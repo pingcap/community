@@ -23,3 +23,8 @@ The vote will be open for at least 6 days unless there is an objection or not en
 * Team Migration
 
 ## Result
+
+Approved by 2 binding votes:
+
+* amyangfei(binding)
+* lance6716(binding)
