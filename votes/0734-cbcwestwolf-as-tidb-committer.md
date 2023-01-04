@@ -26,4 +26,9 @@ The vote will be open for at least 7 days unless there is an objection or not en
 
 ## Result
 
-* To be updated.
+Approved by 3 binding votes and 1 non-binding votes:
+
+jackysp(binding)
+tiancaiamao(binding)
+zz-jason(binding)
+mjonss(non-binding)
