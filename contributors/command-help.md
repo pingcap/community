@@ -8,8 +8,8 @@
 | [pingcap/tiflash](https://github.com/pingcap/tiflash)     | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftiflash)       |
 | [pingcap/tiflow](https://github.com/pingcap/tiflow)       | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftiflow)        |
 | [pingcap/tispark](https://github.com/pingcap/tispark)     | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftispark)       |
-| [tidb-binlog](https://github.com/pingcap/tidb-binlog)     | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftidb-binlog)   |
-| [tidb-operator](https://github.com/pingcap/tidb-operator) | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftidb-operator) |
+| [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog)     | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftidb-binlog)   |
+| [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) | [Command Help](https://prow.tidb.net/command-help?repo=pingcap%2Ftidb-operator) |
 | [tikv/tikv](https://github.com/tikv/tikv)                 | [Command Help](https://prow.tidb.net/command-help?repo=tikv%2Ftikv)             |
 | [tikv/pd](https://github.com/tikv/pd)                     | [Command Help](https://prow.tidb.net/command-help?repo=tikv%2Fpd)               |
 
