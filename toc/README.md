@@ -42,6 +42,7 @@ The current list of TOC members is as below.
 | Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV        | TOC Member   |
 | Chengwen Yin cwen@pingcap.com          | [cwen0](https://github.com/cwen0)                       | Chaos Mesh® | TOC Member   |
 | Yuxing Zhou z@pingcap.com              | [coocood](https://github.com/coocood)                   | PingCAP     | TOC Member   |
+| Kangli Mao mkl@pingcap.com             | [tiancaiamao](https://github.com/tiancaiamao)           | PingCAP     | TOC Member   |
 | Wei Yao wink@pingcap.com               | [winkyao](https://github.com/winkyao)                   | PingCAP     | TOC Member   |
 
 ### Emeritus Members
