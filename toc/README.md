@@ -36,11 +36,14 @@ The current list of TOC members is as below.
 | :------------------------------------- | ------------------------------------------------------- | ----------- | :----------- |
 | Xiaoguang Sun sunxiaoguang@pingcap.com | [sunxiaoguang](https://github.com/sunxiaoguang)         | PingCAP     | TOC Chairman |
 | Siddon Tang tl@pingcap.com             | [siddontang](https://github.com/siddontang)             | PingCAP     | TOC Member   |
-| Chengxuan Xu bigpyer@gmail.com         | [niubell](https://github.com/niubell)                   | PalFish     | TOC Member   |
-| Yuqing Bai baiyuqing@zhihu.com         | [baiyuqing](https://github.com/baiyuqing)               | Zhihu       | TOC Member   |
+| Chengxuan Xu bigpyer@gmail.com         | [niubell](https://github.com/niubell)                   | PingCAP     | TOC Member   |
+| Yuqing Bai baiyuqing@zhihu.com         | [baiyuqing](https://github.com/baiyuqing)               | PingCAP     | TOC Member   |
 | Jian Zhang zhangjian@pingcap.com       | [zz-jason](https://github.com/zz-jason)                 | TiDB        | TOC Member   |
 | Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV        | TOC Member   |
 | Chengwen Yin cwen@pingcap.com          | [cwen0](https://github.com/cwen0)                       | Chaos Mesh® | TOC Member   |
+| Yuxing Zhou z@pingcap.com              | [coocood](https://github.com/coocood)                   | PingCAP     | TOC Member   |
+| Kangli Mao mkl@pingcap.com             | [tiancaiamao](https://github.com/tiancaiamao)           | PingCAP     | TOC Member   |
+| Wei Yao wink@pingcap.com               | [winkyao](https://github.com/winkyao)                   | PingCAP     | TOC Member   |
 
 ### Emeritus Members
 
