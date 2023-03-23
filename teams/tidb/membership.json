@@ -2,6 +2,7 @@
     "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
     "description": "",
     "maintainers": [
+        "3pointer",
         "XuHuaiyu",
         "amyangfei",
         "bb7133",
@@ -29,7 +30,6 @@
         "zz-jason"
     ],
     "committers": [
-        "3pointer",
         "AilinKid",
         "AndreMouche",
         "AndrewDi",
