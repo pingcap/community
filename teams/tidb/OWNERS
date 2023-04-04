@@ -1,0 +1,49 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+options:
+  no_parent_owners: true
+reviewers:
+  - kennytm
+  - c4pt0r
+  - ngaut
+  - coocood
+  - siddontang
+  - bb7133
+  - shenli
+  - tiancaiamao
+  - amyangfei
+  - lance6716
+  - breezewish
+  - qiuyesuifeng
+  - cfzjywxk
+  - zimulala
+  - jackysp
+  - zz-jason
+  - winkyao
+  - qw4990
+  - winoros
+  - XuHuaiyu
+  - disksing
+  - tangenta
+approvers:
+  - kennytm
+  - c4pt0r
+  - ngaut
+  - coocood
+  - siddontang
+  - bb7133
+  - shenli
+  - tiancaiamao
+  - amyangfei
+  - lance6716
+  - breezewish
+  - qiuyesuifeng
+  - cfzjywxk
+  - zimulala
+  - jackysp
+  - zz-jason
+  - winkyao
+  - qw4990
+  - winoros
+  - XuHuaiyu
+  - disksing
+  - tangenta
