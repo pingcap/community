@@ -26,5 +26,6 @@ Approved by 2 binding votes:
 
 * sdojjy
 * amyangfei
+* lance6716
 
 See also <https://github.com/pingcap/community/pull/754>.
