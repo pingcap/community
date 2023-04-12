@@ -14,7 +14,6 @@
         "3pointer",
         "5kbpers",
         "CharlesCheung96",
-        "charleszheng44",
         "D3Hunter",
         "Ehco1996",
         "GMHDBJD",
@@ -50,8 +49,9 @@
     ],
 
     "reviewers": [
-	"MoCuishle28",
+	    "MoCuishle28",
         "ben1009",
+        "charleszheng44",
         "fengou1",
         "iamxy",
         "joccau",

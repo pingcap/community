@@ -22,6 +22,9 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 ## Result
 
-Approved by x binding votes
+Approved by 2 binding votes:
+
+* sdojjy
+* amyangfei
 
 See also <https://github.com/pingcap/community/pull/754>.
