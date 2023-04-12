@@ -24,4 +24,4 @@ The vote will be open for at least 3 days unless there is an objection or not en
 
 Approved by x binding votes
 
-See also <https://github.com/pingcap/community/pull/XXX>.
+See also <https://github.com/pingcap/community/pull/754>.
