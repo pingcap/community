@@ -1,0 +1,19 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+options:
+  no_parent_owners: true
+reviewers:
+  - azurezyq
+  - grovecai
+  - csuzhangxc
+  - charleszheng44
+  - liubog2008
+  - hanlins
+  - KanShiori
+approvers:
+  - azurezyq
+  - grovecai
+  - csuzhangxc
+  - charleszheng44
+  - liubog2008
+  - hanlins
+  - KanShiori
