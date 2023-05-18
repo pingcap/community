@@ -8,8 +8,8 @@ He contributed mainly to TiCDC, fixed bugs, and added several core features in T
 
 Here are the details of his contributions:
 
-* [Authored pull requests in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Aclosed+author%3Ahi-rustin)
-* [Reviewed pull requests in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+reviewed-by%3Ahi-rustin)
+* [Authored pull requests in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Ahi-rustin)
+* [Reviewed pull requests in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+sort%3Aupdated-desc+reviewed-by%3Ahi-rustin)
 
 I (@lance6716) hereby nominate @hi-rustin as TiFlow maintainer and call for a vote.
 
