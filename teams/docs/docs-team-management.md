@@ -34,9 +34,3 @@ Before you are promoted to a Committer, you are expected to meet all the followi
 - Have reviewed at least 20 PRs in documentation repositories within one year
 - Play an important role in a big feature
 - Be able to guarantee the quality of the merged PRs
-
-## Quit and demotion
-
-The membership of each role can be revoked by a consensus of the maintainers.
-
-If you are going to quit or demote voluntarily, please send an email to [Yanqing](mailto:zhangyanqing@pingcap.com).
