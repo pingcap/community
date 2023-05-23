@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@dhysum](https://github.com/dhysum) has been working on `pingcap/tidb` and the related repositories like 'tikv/tikv' for more than 6 months, although there aren't many pull requests by him, he shows experience and deep insight of the database system when doing the refactor of `FieldType` of TiDB:
+[@dhysum](https://github.com/dhysum) has been working on `pingcap/tidb` and design and implement DDL job pause and resume.
 
 * [#40041](https://github.com/pingcap/tidb/issues/40041) and related issue [#39751](https://github.com/pingcap/tidb/pull/39751)
 
