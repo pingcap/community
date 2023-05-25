@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@dhysum](https://github.com/dhysum) has been working on `pingcap/tidb` and design and implement DDL job pause and resume.
+[@dhysum](https://github.com/dhysum) designed and implemented the [DDL Job Pause and Resume](https://github.com/pingcap/tidb/issues/40041) feature for TiDB. He also participated in the design and development of the [Pause DDL for TiDB Upgrade](https://github.com/pingcap/tidb/issues/39751) feature.
 
 * [#40041](https://github.com/pingcap/tidb/issues/40041) and related issue [#39751](https://github.com/pingcap/tidb/pull/39751)
 
