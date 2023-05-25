@@ -1,4 +1,4 @@
-# A Vote for BornChanger as TiDB Reviewer
+# A Vote for dhysum as TiDB Reviewer
 
 ## Proposal
 
