@@ -6,7 +6,7 @@
 
 * [#40041](https://github.com/pingcap/tidb/issues/40041) and related issue [#39751](https://github.com/pingcap/tidb/pull/39751)
 
-The work has been done with great effort and it obviously improved the maintainability of the TiDB repository, all his contributions are listed here:
+The work has been done in a scalable way, his vast engineering experience is impressive. All his contributions are listed here:
 
 * [Authored commits](https://github.com/pingcap/tidb/commits?author=dhysum).
 * [Authored reviews](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Adhysum)
