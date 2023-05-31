@@ -19,5 +19,10 @@ The vote will be open for at least 3 days unless there is an objection or not en
 * Team TiDB
 
 ## Result
+Approved by 2 binding votes:
+* wjhuang2016
+* disksing
+* jackysp
+* AndreMouche
 
-To be updated.
+see also: https://github.com/pingcap/community/pull/759
