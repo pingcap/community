@@ -23,6 +23,5 @@ Approved by 2 binding votes:
 * wjhuang2016
 * disksing
 * jackysp
-* AndreMouche
 
 see also: https://github.com/pingcap/community/pull/759
