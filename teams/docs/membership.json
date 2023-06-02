@@ -65,7 +65,9 @@
 
     "repositories": [
         "docs",
+        "docs-appdev",
         "docs-cn",
+        "docs-dm",
         "docs-tidb-operator"
     ]
 }
