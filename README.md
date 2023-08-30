@@ -1,5 +1,6 @@
 ![TiDB Community Logo](media/community-logo.svg)
 
+- [**Discord Channel**](https://discord.gg/KVRZBR2DrG?utm_source=github)
 - [**Slack Channel**](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
 - [**Developer Discussion Forum**](https://internals.tidb.io)
 
