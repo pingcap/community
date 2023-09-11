@@ -134,7 +134,7 @@ Keeping a consistent style for code, code comments, commit messages, and pull re
 
 The TiDB projects uses Continuous Integration(CI) Commands and Pull Requests commands to improve efficiency and code quality.
 
-See [SRE-BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for details.
+See [BOT Command Help](https://github.com/pingcap/community/blob/master/contributors/command-help.md) for details.
 
 ## Benchmark
 
