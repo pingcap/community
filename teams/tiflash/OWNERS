@@ -1,0 +1,11 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+options:
+  no_parent_owners: true
+reviewers:
+  - zanmato1984
+  - flowbehappy
+  - ilovesoup
+approvers:
+  - zanmato1984
+  - flowbehappy
+  - ilovesoup

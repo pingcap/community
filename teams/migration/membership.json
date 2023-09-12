@@ -5,6 +5,7 @@
 
     "maintainers": [
         "amyangfei",
+	"hi-rustin",
         "kennytm",
         "lance6716"
     ],
@@ -13,6 +14,7 @@
         "3AceShowHand",
         "3pointer",
         "5kbpers",
+        "CharlesCheung96",
         "D3Hunter",
         "Ehco1996",
         "GMHDBJD",
@@ -24,11 +26,11 @@
         "WizardXiao",
         "YuJuncen",
         "asddongmen",
+        "buchuitoudegou",
         "csuzhangxc",
         "dsdashun",
         "glorv",
         "gozssky",
-        "hi-rustin",
         "hicqu",
         "holys",
         "july2993",
@@ -40,21 +42,21 @@
         "niubell",
         "okJiang",
         "overvenus",
+        "sdojjy",
         "suzaku",
-        "zwj-coder",
-        "sdojjy"
+        "zhaoxinyu",
+        "zwj-coder"
     ],
 
     "reviewers": [
-        "CharlesCheung96",
+	"MoCuishle28",
         "ben1009",
-        "buchuitoudegou",
+        "charleszheng44",
         "fengou1",
         "iamxy",
         "joccau",
         "nongfushanquan",
-        "tiancaiamao",
-        "zhaoxinyu"
+        "tiancaiamao"
     ],
 
    "repositories": [

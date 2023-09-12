@@ -1,5 +1,6 @@
 ![TiDB Community Logo](media/community-logo.svg)
 
+- [**Discord Channel**](https://discord.gg/KVRZBR2DrG?utm_source=github)
 - [**Slack Channel**](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
 - [**Developer Discussion Forum**](https://internals.tidb.io)
 
@@ -47,10 +48,10 @@ Learning resources are collected in the [`learning-resources`](./learning-resour
 resources which can help you learn and contribute to TiDB. For example, you can learn
 the TiDB architecture through the following blog posts:
 
-* How we build TiDB: [English](https://www.pingcap.com/blog/2016-10-17-how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
-* TiDB Internal (I) - Data Storage: [English](https://pingcap.com/blog/2017-07-11-tidbinternal1/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/)
-* TiDB Internal (II) - Computing: [English](https://pingcap.com/blog/2017-07-11-tidbinternal2/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/)
-* TiDB Internal (III) - Scheduling: [English](https://pingcap.com/blog/2017-07-20-tidbinternal3/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/)
+* How we build TiDB: [English](https://www.pingcap.com/blog/how-we-build-tidb/), [Chinese](https://pingcap.com/blog-cn/how-do-we-build-tidb/)
+* TiDB Internal (I) - Data Storage: [English](https://www.pingcap.com/blog/tidb-internal-data-storage/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-1/)
+* TiDB Internal (II) - Computing: [English](https://www.pingcap.com/blog/tidb-internal-computing/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-2/)
+* TiDB Internal (III) - Scheduling: [English](https://www.pingcap.com/blog/tidb-internal-scheduling/), [Chinese](https://pingcap.com/blog-cn/tidb-internal-3/)
 
 ## Community Activities
 
