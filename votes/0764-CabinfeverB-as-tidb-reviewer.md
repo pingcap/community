@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@CabinfeverB](https://github.com/CabinfeverB) has been working on the related repositories like 'tikv/pd' for more than one year. ​He fixed some bugs related to TSO in the pd client to optimize recovery time. In recent months, he has been working on the feature `Resource Control` in TiDB. He was involved in resource group bug fixes, dynamic calibrate resource, runaway query management, etc.
+[@CabinfeverB](https://github.com/CabinfeverB) has been working on the related repositories like 'pingcap/tidb' for more than one year. ​He fixed some bugs related to TSO in the pd client to optimize recovery time. In recent months, he has been working on the feature `Resource Control` in TiDB. He was involved in resource group bug fixes, dynamic calibrate resource, runaway query management, etc.
 
 * [Authored commits](https://github.com/pingcap/tidb/commits?author=CabinfeverB)
 
