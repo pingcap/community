@@ -4,7 +4,7 @@
 
 [fixdb](https://github.com/fixdb) and [elsa0520](https://github.com/elsa0520) have contributed a lot to TiDB's optimizer module, to improve TiDB's OLAP performance.
 
-I (@winoros) hereby nominate @ekexium and @you06 as TiDB committer and call for a vote.
+I (@winoros) hereby nominate @fixdb and @elsa0520 as TiDB committer and call for a vote.
 
 ## Deadline
 
