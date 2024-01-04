@@ -1,4 +1,4 @@
-# SRE-BOT Command Help
+# BOT Command Help
 
 ## Continuous Integration(CI) Commands
 
