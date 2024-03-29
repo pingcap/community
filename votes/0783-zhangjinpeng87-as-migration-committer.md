@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@zhangjinpeng87](https://github.com/zhangjinpeng87) is the head of TiDB Data Platform team. He has focused on the system architecture and further iteration of data migration, and contributed greatly to the stability and observability of TiCDC.
+[@zhangjinpeng87](https://github.com/zhangjinpeng87) is the head of TiDB Data Platform team. He has focused on the system architecture and further iteration of data migration, and contributed greatly to improving the stability and observability of TiCDC.
 
 Here lists the details of his contribution:
 
