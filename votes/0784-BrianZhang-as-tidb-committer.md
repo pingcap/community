@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[BornChanger](https://github.com/BornChanger) have contributed a lot to TiDB repo, he has fixed several issues and has been doing some enhancement work in TiCDC.
+[BornChanger](https://github.com/BornChanger) have contributed a lot to TiDB repo, he has fixed several issues and has been doing some enhancement work in resource control and BR.
 
 I (@Benjamin2037) hereby nominate @BornChanger as TiDB committer and call for a vote.
 
