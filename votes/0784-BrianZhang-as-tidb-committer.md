@@ -6,8 +6,6 @@
 
 I (@Benjamin2037) hereby nominate @BornChanger as TiDB committer and call for a vote.
 
-
-
 * [60+ authored pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3ABornChanger).
 * [250+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3ABornChanger)
 ## Deadline
