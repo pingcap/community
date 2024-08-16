@@ -1,12 +1,12 @@
-# A Vote for hi-rustin as Migration commiter
+# A Vote for Rustin170506 as Migration commiter
 
 ## Proposal
 
-[@hi-rustin](https://github.com/hi-rustin) has been working on `pingcap/ticdc` for several months, he has made contributions to TiCDC sink, client and test components:
+[@Rustin170506](https://github.com/Rustin170506) has been working on `pingcap/ticdc` for several months, he has made contributions to TiCDC sink, client and test components:
 
-* [Authored pull requests](https://github.com/pingcap/ticdc/commits?author=hi-rustin).
+* [Authored pull requests](https://github.com/pingcap/ticdc/commits?author=Rustin170506).
 
-I (@lichunzhu) hereby nominate @hi-rustin as Migration Committer and call for a vote.
+I (@lichunzhu) hereby nominate @Rustin170506 as Migration Committer and call for a vote.
 
 ## Deadline
 
