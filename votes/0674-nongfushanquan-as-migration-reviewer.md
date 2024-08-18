@@ -4,7 +4,7 @@
 
 [@nongfushanquan](https://github.com/nongfushanquan) has been working on `pingcap/tiflow`
 for several months, he contributed a lot to PR reviews, release matters.
-In addition, he was responsible for many architectural design discussions. 
+In addition, he was responsible for many architectural design discussions.
 He has contributed a lot to the refactoring of TiCDC modules and the building of the data flow engine.
 
 * [Authored pull requests](https://github.com/pingcap/tiflow/commits?author=nongfushanquan).
@@ -24,4 +24,4 @@ Approved by 2 binding vote and 1 non-binding vote:
 
 * amyangfei (binding)
 * lance6716 (binding)
-* hi-rustin (non-binding)
+* Rustin170506 (non-binding)

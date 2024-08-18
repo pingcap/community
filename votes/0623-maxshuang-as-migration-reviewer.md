@@ -21,7 +21,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 Approved by 2 binding votes and 2 non-binding votes:
 
 * amyangfei (binding)
-* hi-rustin (non-binding)
+* Rustin170506 (non-binding)
 * lance6716 (binding)
 * overvenus (non-binding)
 
