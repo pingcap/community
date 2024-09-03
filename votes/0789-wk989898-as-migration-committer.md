@@ -2,7 +2,7 @@
 
 ## Proposal
 
-[@wk989898](https://github.com/wk989898)  have contributed a lot to TiFlow repo, he has fixed several issues and added several core features in TiCDC, including Kafka consumer enhancement and vector type support, etc.
+[@wk989898](https://github.com/wk989898) have contributed a lot to TiFlow repo, he has fixed several issues and added several core features in TiCDC, including Kafka consumer enhancement and vector type support, etc.
 
 Here lists the details of his contribution:
 
