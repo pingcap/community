@@ -1,7 +1,7 @@
 
 ![](media/community-logo-new.png)
 
-**Welcome to the** **TiDB** **Community!** We're thrilled to have you here :-) This is a place where users, developers, and the TiDB team connect, share ideas, ask questions, and grow together. Whether you're here to learn, collaborate, or contribute, there's a space for you.
+**Welcome to the TiDB Community!** We're thrilled to have you here :-) This is a place where users, developers, and the TiDB team connect, share ideas, ask questions, and grow together. Whether you're here to learn, collaborate, or contribute, there's a space for you.
 
 ## Get Involved
 
@@ -11,7 +11,7 @@ Join real-time conversations on **[Discord](https://discord.com/invite/KVRZBR2Dr
 
 ### Join Community Events
 
-Stay in the loop! To learn about upcoming events and activities, check out our Discord [#event channel](https://discord.com/invite/KVRZBR2DrG). You can also visit our[events page](https://www.pingcap.com/event/?utm_source=github&utm_medium=community)for the latest details on meetups, webinars, and more.
+Stay in the loop! To learn about upcoming events and activities, check out our Discord [#event channel](https://discord.com/invite/KVRZBR2DrG). You can also visit our [events page](https://www.pingcap.com/event/?utm_source=github&utm_medium=community) for the latest details on meetups, webinars, and more.
 
 ### Stay updated
 
