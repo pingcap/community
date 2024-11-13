@@ -1,5 +1,5 @@
 
-![](https://pingcap.feishu.cn/space/api/box/stream/download/asynccode/?code=MDM4OTlhYzkyM2ZmYWZiNTkxNGY5M2Y5YjBlNWNlODVfQUZCMUpoUDZoZUFUMGljZWpQWkFtbDUzYkJzeWVnS3FfVG9rZW46TVhIbmJMYTlSb1cyTkh4anlwNWNjcEI4bnZmXzE3MzE0MDEyNTQ6MTczMTQwNDg1NF9WNA)
+![](media/community-logo-new.png)
 
 **Welcome to the** **TiDB** **Community!** We're thrilled to have you here :-) This is a place where users, developers, and the TiDB team connect, share ideas, ask questions, and grow together. Whether you're here to learn, collaborate, or contribute, there's a space for you.
 
