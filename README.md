@@ -55,13 +55,23 @@ As will all great open source projects, contributions to TiDB can come in many f
 
 * If you need any help while **contributing to our repository**, feel free to join our [discussions](https://github.com/orgs/pingcap/discussions) to ask questions, share ideas, and connect with other contributors.
 
+> * *About Governance:*
+>   * *[Technical Oversight Committee (TOC)](https://github.com/pingcap/community/blob/master/toc/README.md) serves as the main bridge and channel for coordinating and information sharing across companies and organizations. It is the coordination center for solving problems in terms of resource mobilization, technical research and development direction in the current community and cooperative projects.*
+>   * *[Teams](https://github.com/pingcap/community/blob/master/teams/README.md) are persistent open groups that focus on a part of the TiDB projects. A team has its reviewer, committer and maintainer, and owns one or more repositories. Team level decision making comes from its maintainers.*
+  
 ## Learning Resources
 
-All learning resources are available in the [`learning-resources`](https://github.com/pingcap/community/blob/master/learning-resources/README.md) section. Here, you can find everything you need to learn about TiDB. We recommend starting your journey with the following:
+Here you'll find everything you need to learn about TiDB. We recommend starting your journey with the following:
 
 * **[TiDB Documentation](https://docs.pingcap.com/?utm_source=github&utm_medium=community)**
 
-* Free E-learning course: **[Introduction to TiDB](https://www.pingcap.com/education/course-introduction-to-tidb/)**
+* **Online courses:**
+
+  * [English version](https://www.pingcap.com/education/)
+
+  * [Japanese version](http://pingcap.co.jp/education/)
+
+  * [Chinese version](https://cn.pingcap.com/education/)
 
 ## Acknowledgements
 
