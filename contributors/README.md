@@ -4,7 +4,7 @@
 
 TiDB is a community-driven open source project and we welcome any contributor.  Contributions to the TiDB project are expected to adhere to our [Code of Conduct](https://github.com/pingcap/community/blob/master/CODE_OF_CONDUCT.md).
 
-This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. You can also join us in our [Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap) for help with any issues.
+This document outlines some conventions about development workflow, commit message formatting, contact points and other resources to make it easier to get your contribution accepted. You can also join us in [Discord](https://discord.gg/KVRZBR2DrG?utm_source=github) or [Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap) if you need help with any issues.
 
 <!-- TOC -->
 
