@@ -4,40 +4,45 @@
     "description": "Docs team covers the documentation of all PingCAP products, tools, or projects, both in English and in Chinese.",
 
     "maintainers": [
-        "TomShawn",
         "lilin90",
         "qiancai",
-        "yikeke"
     ],
 
     "committers": [
-        "CaitinChen",
-        "CharLotteiu",
-        "DanielZhangQD",
-        "en-jin19",
-        "Icemap",
-        "Liuxiaozhen12",
-        "SunRunAway",
-        "WangXiangUSTC",
-        "YiniXu9506",
         "breezewish",
-        "cofyc",
         "csuzhangxc",
-        "dcalvin",
-        "dragonly",
         "hfxsd",
+        "Icemap",
         "jackysp",
         "kissmydb",
         "lance6716",
-        "lichunzhu",
-        "morgo",
+        "lilin90",
         "Oreoxmt",
         "overvenus",
+        "qiancai",
+        "tangenta"
+    ],
+
+    "emeritus_approvers": [
+        "CaitinChen",
+        "CharLotteiu",
+        "cofyc",
+        "DanielZhangQD",
+        "dcalvin",
+        "dragonly",
+        "en-jin19",
+        "lichunzhu",
+        "Liuxiaozhen12",
+        "morgo",
         "queenypingcap",
         "ran-huang",
         "shichun-0415",
-        "tangenta",
-        "toutdesuite"
+        "SunRunAway",
+        "TomShawn",
+        "toutdesuite",
+        "WangXiangUSTC",
+        "yikeke",
+        "YiniXu9506"
     ],
 
     "reviewers": [

@@ -34,3 +34,9 @@ Before you are promoted to a Committer, you are expected to meet all the followi
 - Have reviewed at least 20 PRs in documentation repositories within one year
 - Play an important role in a big feature
 - Be able to guarantee the quality of the merged PRs
+
+## Emeritus approvers
+
+[Emeritus approvers](/teams/docs/membership.json#L26) are contributors who were previously active as approvers (in the [`committers`](/teams/docs/membership.json#L11) section) but have stepped back due to shifting priorities, job changes, or other reasons. [`emeritus_approvers`](/teams/docs/membership.json#L26) lists the GitHub ID of emeritus approvers.
+
+Emeritus approvers no longer have the authority to approve changes. If they become active contributors again, they can be reinstated as regular approvers with the consent of the current approvers.
