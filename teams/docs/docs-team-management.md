@@ -37,6 +37,6 @@ Before you are promoted to a Committer, you are expected to meet all the followi
 
 ## Emeritus approvers
 
-[Emeritus approvers](/teams/docs/membership.json#L26) are contributors who were previously active as approvers (in the [`committers`](/teams/docs/membership.json#L11) section) but have stepped back due to shifting priorities, job changes, or other reasons. [`emeritus_approvers`](/teams/docs/membership.json#L26) lists the GitHub ID of emeritus approvers.
+[Emeritus approvers](/teams/docs/membership.json#L26) are contributors who were previously active as approvers (in the [`committers`](/teams/docs/membership.json#L11) section) but have stepped back due to shifting priorities, job changes, or other reasons. The [`emeritus_approvers`](/teams/docs/membership.json#L26) section lists the GitHub IDs of emeritus approvers.
 
 Emeritus approvers no longer have the authority to approve changes. If they become active contributors again, they can be reinstated as regular approvers with the consent of the current approvers.
