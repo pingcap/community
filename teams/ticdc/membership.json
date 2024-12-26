@@ -1,0 +1,25 @@
+{
+    "_comment": "Items of lists in this file are in alphabetical order. Please keep it on modification.",
+    "description": "The TiCDC team is responsible for the Change Data Capture (CDC) functionality in the TiDB ecosystem, enabling real-time replication to downstream systems such as MySQL, TiDB, Kafka, and object storage. The team drives the development and maintenance of TiCDC, focusing on high performance, scalability, and reliability.",
+    "maintainers": [
+        "flowbehappy",
+        "kennytm"
+    ],
+    "committers": [
+        "3AceShowHand",
+        "CharlesCheung96",
+        "asddongmen",
+        "hicqu",
+        "hongyunyan",
+        "lidezhu",
+        "sdojjy",
+        "wk989898",
+        "wlwilliamx"
+    ],
+    "reviewers": [
+        
+    ],
+    "repositories": [
+        "ticdc"
+    ]
+}
