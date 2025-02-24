@@ -2,7 +2,7 @@
 
 ## Proposal
 
-Some PD team members have been contributed to 'pingcap/tidb' for serval years.
+Some PD team members have been contributed to 'pingcap/tidb' for several years.
 
 The following lists the details of [@Jmpotato](https://github.com/Jmpotato)'s contributions:
 
