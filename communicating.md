@@ -6,11 +6,11 @@ members via any one of the following ways:
 
 ## Slack
 
-[Join us](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
+[Join our conversation on Slack](https://slack.tidb.io/invite?team=tidb-community&channel=everyone&ref=pingcap-tidb)
 
-## Forum
+## Discord
 
-[https://internals.tidb.io](https://internals.tidb.io)
+[Join our conversation on Discord](https://discord.gg/vTSAK8usZF)
 
 ## Blog
 
@@ -24,4 +24,3 @@ news including new releases and technical articles there. Check out this page:
 * Twitter: [https://twitter.com/PingCAP](https://twitter.com/PingCAP)
 * Facebook: [https://www.facebook.com/pingcap2015](https://www.facebook.com/pingcap2015)
 * Reddit: [https://www.reddit.com/r/TiDB](https://www.reddit.com/r/TiDB)
-* Mailing List: [https://lists.tidb.io](https://lists.tidb.io)
