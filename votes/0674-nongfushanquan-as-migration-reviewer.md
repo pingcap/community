@@ -24,4 +24,4 @@ Approved by 2 binding vote and 1 non-binding vote:
 
 * amyangfei (binding)
 * lance6716 (binding)
-* Rustin170506 (non-binding)
+* 0xPoe (non-binding)

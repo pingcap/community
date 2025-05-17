@@ -21,7 +21,7 @@ The vote will be open for at least 3 days unless there is an objection or not en
 Approved by 2 binding votes and 1 non-binding vote:
 
 * amyangfei (binding)
-* Rustin170506 (non-binding)
+* 0xPoe (non-binding)
 * lance6716 (binding)
 
 See also https://github.com/pingcap/community/pull/650.

@@ -3,7 +3,7 @@
     "description": "Migrate covers migration, replication, synchronization and transmission of data into and out of the TiDB ecosystem.",
     "maintainers": [
         "amyangfei",
-        "Rustin170506",
+        "0xPoe",
         "kennytm",
         "lance6716"
     ],
