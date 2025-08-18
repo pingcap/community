@@ -27,4 +27,4 @@ team TiDB
 
 ## Result
 
-See also https://github.com/pingcap/community/pull/811.
+See also https://github.com/pingcap/community/pull/810.
