@@ -15,7 +15,7 @@ Key areas of contribution include:
 - Query Optimization Enhancements
 - Operator Migration and Well-Package Epic
 
-I ([@AilinKid](https://github.com/AilinKid)) hereby nominate [@King-Dylan](https://github.com/King-Dylan) as TiDB committer and call for a vote.
+I ([@AilinKid](https://github.com/AilinKid)) hereby nominate [@King-Dylan](https://github.com/King-Dylan) as TiDB reviewer and call for a vote.
 
 ## Deadline
 
