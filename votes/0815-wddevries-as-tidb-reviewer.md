@@ -7,8 +7,8 @@
 The following lists the details of [@wddevries](https://github.com/wddevries)'s contributions:
 
 - [21+ authored pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3Awddevries+is%3Aclosed)
-- [n+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Awddevries)
-- [m+ authored issues](https://github.com/pingcap/tidb/issues?q=author%3Awddevries)
+- [15+ reviewed pull requests](https://github.com/pingcap/tidb/pulls?q=is%3Apr+reviewed-by%3Awddevries)
+- [6+ authored issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue%20state%3Aclosed%20author%3Awddevries)
 
 Key areas of contribution include:
 - TBA
