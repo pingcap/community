@@ -2,7 +2,7 @@
 
 ## Proposal
 
-@wddevries has contributed extensively to TiDB's planner component, focusing on plan building, operator migration, and query optimization improvements.
+@wddevries has been working on `pingcap/tidb` for more than a year, and contributed extensively to TiDB's planner component, focusing on plan cache, hints, system and user variables, and other query optimization improvements.
 
 The following lists the details of [@wddevries](https://github.com/wddevries)'s contributions:
 
@@ -11,7 +11,9 @@ The following lists the details of [@wddevries](https://github.com/wddevries)'s 
 - [6+ authored issues](https://github.com/pingcap/tidb/issues?q=is%3Aissue%20state%3Aclosed%20author%3Awddevries)
 
 Key areas of contribution include:
-- TBA
+- Merged the Workload Repository from the serverless project.
+- Enabled non-prepared plan cache for queries with hints.
+- Enhanced SET_VAR as well as user variable handling.
 
 I ([@mjonss](https://github.com/mjonss)) hereby nominate [@wddevries](https://github.com/wddevries) as TiDB reviewer and call for a vote.
 
