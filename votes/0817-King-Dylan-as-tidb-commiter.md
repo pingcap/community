@@ -1,4 +1,4 @@
-# A Vote for My Proposal
+# A Vote for nomination of King-Dylan as the TiDB committer
 
 ## Proposal
 
