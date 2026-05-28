@@ -16,4 +16,4 @@ The vote will be open for at least 2 days unless there is an objection or not en
 
 ## Result
 
-See also https://github.com/pingcap/community/pull/{pull_request_id}.
+See also https://github.com/pingcap/community/pull/820
