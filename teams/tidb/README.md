@@ -31,6 +31,8 @@ The current list of TiDB maintainers is as below.
 | Yiding Cui     | winoros      | TiDB Maintainer |
 | Xia Li         | zimulala     | TiDB Maintainer |
 | Jian Zhang     | zz-jason     | TiDB Maintainer |
+| Terry Purcell  | terry1purcell| TiDB Maintainer |
+| Mattias Jonsson| mjonss       | TiDB Maintainer |
 
 ## Code Locations
 
