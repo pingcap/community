@@ -32,18 +32,20 @@ If TOC members cannot attend the monthly meeting for special reasons, they must 
 
 The current list of TOC members is as below.
 
-| Name                                   | GitHub                                                  | Affiliation | Membership   |
-| :------------------------------------- | ------------------------------------------------------- | ----------- | :----------- |
-| Xiaoguang Sun sunxiaoguang@pingcap.com | [sunxiaoguang](https://github.com/sunxiaoguang)         | TiDB        | TOC Chairman |
-| Siddon Tang tl@pingcap.com             | [siddontang](https://github.com/siddontang)             | TiDB        | TOC Member   |
-| Chengxuan Xu bigpyer@gmail.com         | [niubell](https://github.com/niubell)                   | TiDB        | TOC Member   |
-| Yuqing Bai baiyuqing@zhihu.com         | [baiyuqing](https://github.com/baiyuqing)               | TiDB        | TOC Member   |
-| Jian Zhang zhangjian@pingcap.com       | [zz-jason](https://github.com/zz-jason)                 | TiDB        | TOC Member   |
-| Jinpeng Zhang zhangjinpeng@pingcap.com | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV        | TOC Member   |
-| Chengwen Yin cwen@pingcap.com          | [cwen0](https://github.com/cwen0)                       | Chaos Mesh® | TOC Member   |
-| Yuxing Zhou z@pingcap.com              | [coocood](https://github.com/coocood)                   | TiDB        | TOC Member   |
-| Kangli Mao mkl@pingcap.com             | [tiancaiamao](https://github.com/tiancaiamao)           | TiDB        | TOC Member   |
-| Wei Yao wink@pingcap.com               | [winkyao](https://github.com/winkyao)                   | TiDB        | TOC Member   |
+| Name                                        | GitHub                                                  | Affiliation | Membership   |
+| :------------------------------------------ | ------------------------------------------------------- | ----------- | :----------- |
+| Xiaoguang Sun sunxiaoguang@pingcap.com      | [sunxiaoguang](https://github.com/sunxiaoguang)         | TiDB        | TOC Chairman |
+| Siddon Tang tl@pingcap.com                  | [siddontang](https://github.com/siddontang)             | TiDB        | TOC Member   |
+| Chengxuan Xu bigpyer@gmail.com              | [niubell](https://github.com/niubell)                   | TiDB        | TOC Member   |
+| Yuqing Bai baiyuqing@zhihu.com              | [baiyuqing](https://github.com/baiyuqing)               | TiDB        | TOC Member   |
+| Jian Zhang zjsariel@gmail.com               | [zz-jason](https://github.com/zz-jason)                 | TiDB        | TOC Member   |
+| Jinpeng Zhang zhangjinpeng@pingcap.com      | [zhangjinpeng1987](https://github.com/zhangjinpeng1987) | TiKV        | TOC Member   |
+| Chengwen Yin cwen@pingcap.com               | [cwen0](https://github.com/cwen0)                       | Chaos Mesh® | TOC Member   |
+| Yuxing Zhou z@pingcap.com                   | [coocood](https://github.com/coocood)                   | TiDB        | TOC Member   |
+| Kangli Mao mkl@pingcap.com                  | [tiancaiamao](https://github.com/tiancaiamao)           | TiDB        | TOC Member   |
+| Wei Yao wink@pingcap.com                    | [winkyao](https://github.com/winkyao)                   | TiDB        | TOC Member   |
+| Terry Purcell terry.purcell@pingcap.com     | [terry1purcell](https://github.com/terry1purcell)       | TiDB        | TOC Member   |
+| Mattias Jonsson mattias.jonsson@pingcap.com | [mjonss](https://github.com/mjonss)                     | TiDB        | TOC Member   |
 
 ### Emeritus Members
 
