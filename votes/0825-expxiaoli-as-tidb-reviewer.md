@@ -31,4 +31,9 @@ team TiDB
 
 ## Result
 
-See also https://github.com/pingcap/community/pull/825.
+Approved by 4 binding votes:
+
+* disksing(binding)
+* D3Hunter(binding)
+* Yangkeao(binding)
+* AilinKid(binding)
