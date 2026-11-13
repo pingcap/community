@@ -11,15 +11,25 @@
 
     "committers": [
         "Deardrops",
-        "zhongzc",
+        "StinsonZhao",
+        "XuHuaiyu",
+        "bosn",
         "crazycs520",
         "iosmanthus",
-        "shhdgit"
+        "nolouch",
+        "shhdgit",
+        "yibin87",
+        "zhongzc",
+        "zimulala"
     ],
 
     "reviewers": [
         "Fullstop000",
-        "Renkai"
+        "Renkai",
+        "XuHuaiyu",
+        "nolouch",
+        "yibin87",
+        "zimulala"
     ],
 
     "repositories": [
